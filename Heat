@@ -1,0 +1,2457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>HEAT | Complete NDA & SSC Physics Notes</title>
+
+<style>
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+:root{
+    --bg:#f1f5f9;
+    --card:#ffffff;
+    --text:#172033;
+    --muted:#64748b;
+    --primary:#ea580c;
+    --primary2:#dc2626;
+    --yellow:#f59e0b;
+    --green:#059669;
+    --blue:#2563eb;
+    --purple:#7c3aed;
+    --cyan:#0891b2;
+    --border:#e2e8f0;
+    --shadow:0 8px 25px rgba(15,23,42,.08);
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.65;
+}
+
+.header{
+    background:linear-gradient(135deg,#dc2626,#ea580c,#f59e0b);
+    color:white;
+    padding:45px 20px;
+}
+
+.header-inner{
+    max-width:1150px;
+    margin:auto;
+}
+
+.badge{
+    display:inline-block;
+    background:rgba(255,255,255,.16);
+    border:1px solid rgba(255,255,255,.3);
+    padding:6px 13px;
+    border-radius:30px;
+    font-size:12px;
+    margin-bottom:14px;
+}
+
+.header h1{
+    font-size:48px;
+    margin-bottom:8px;
+}
+
+.header p{
+    opacity:.94;
+    font-size:16px;
+}
+
+.container{
+    width:min(1150px,94%);
+    margin:auto;
+}
+
+.tabs-wrapper{
+    position:sticky;
+    top:0;
+    z-index:100;
+    background:rgba(255,255,255,.96);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+    box-shadow:0 3px 12px rgba(0,0,0,.05);
+}
+
+.tabs{
+    max-width:1150px;
+    margin:auto;
+    display:flex;
+    overflow-x:auto;
+    scrollbar-width:none;
+}
+
+.tabs::-webkit-scrollbar{
+    display:none;
+}
+
+.tab-btn{
+    border:0;
+    background:none;
+    padding:17px 18px;
+    cursor:pointer;
+    font-size:14px;
+    font-weight:700;
+    color:var(--muted);
+    white-space:nowrap;
+    border-bottom:3px solid transparent;
+    transition:.25s;
+}
+
+.tab-btn:hover{
+    color:var(--primary);
+    background:#fff7ed;
+}
+
+.tab-btn.active{
+    color:var(--primary);
+    border-bottom-color:var(--primary);
+    background:#fff7ed;
+}
+
+.tab-content{
+    display:none;
+    padding:35px 0 60px;
+    animation:fade .25s ease;
+}
+
+.tab-content.active{
+    display:block;
+}
+
+@keyframes fade{
+    from{
+        opacity:0;
+        transform:translateY(6px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+.section-title{
+    font-size:28px;
+    margin-bottom:20px;
+}
+
+.card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:16px;
+    padding:22px;
+    margin-bottom:18px;
+    box-shadow:var(--shadow);
+}
+
+.card h2{
+    font-size:22px;
+    margin-bottom:12px;
+}
+
+.card h3{
+    font-size:18px;
+    margin:18px 0 8px;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+    gap:16px;
+}
+
+.mini{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+}
+
+.mini h3{
+    margin:0 0 8px;
+}
+
+.definition{
+    border-left:5px solid var(--primary);
+    background:#fff7ed;
+}
+
+.formula{
+    background:#fff7ed;
+    border:1px solid #fed7aa;
+    border-left:5px solid var(--primary);
+    border-radius:10px;
+    padding:14px 16px;
+    margin:12px 0;
+    font-family:Cambria,serif;
+    font-size:19px;
+}
+
+.formula-title{
+    display:block;
+    font-family:Arial,sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    color:var(--primary2);
+    margin-bottom:4px;
+}
+
+.success{
+    background:#ecfdf5;
+    border-left:5px solid var(--green);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.warning{
+    background:#fff7ed;
+    border-left:5px solid var(--yellow);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.danger{
+    background:#fef2f2;
+    border-left:5px solid #dc2626;
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.info{
+    background:#eff6ff;
+    border-left:5px solid var(--blue);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.purple{
+    background:#faf5ff;
+    border-left:5px solid var(--purple);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+ul,ol{
+    padding-left:22px;
+}
+
+li{
+    margin:7px 0;
+}
+
+.table-wrap{
+    overflow-x:auto;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:12px;
+    background:white;
+}
+
+th{
+    background:#1e293b;
+    color:white;
+    padding:12px;
+    text-align:left;
+}
+
+td{
+    padding:11px 12px;
+    border-bottom:1px solid var(--border);
+}
+
+tr:nth-child(even){
+    background:#f8fafc;
+}
+
+.example{
+    background:#faf5ff;
+    border:1px solid #ddd6fe;
+    border-radius:14px;
+    padding:19px;
+    margin:15px 0;
+}
+
+.example-title{
+    color:var(--purple);
+    font-weight:800;
+    margin-bottom:8px;
+}
+
+.answer{
+    background:#ecfdf5;
+    color:#065f46;
+    padding:11px 14px;
+    border-radius:8px;
+    margin-top:10px;
+}
+
+.accordion{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:12px;
+    margin:10px 0;
+    overflow:hidden;
+}
+
+.accordion button{
+    width:100%;
+    border:0;
+    background:white;
+    padding:16px;
+    text-align:left;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:15px;
+}
+
+.accordion button:hover{
+    background:#fff7ed;
+}
+
+.accordion-content{
+    display:none;
+    padding:0 16px 16px;
+    border-top:1px solid var(--border);
+}
+
+.accordion.open .accordion-content{
+    display:block;
+}
+
+.question{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+    margin:13px 0;
+}
+
+.options{
+    margin-top:10px;
+}
+
+.options label{
+    display:block;
+    padding:8px 10px;
+    border-radius:7px;
+    cursor:pointer;
+}
+
+.options label:hover{
+    background:#fff7ed;
+}
+
+.check-answer{
+    margin-top:12px;
+    padding:9px 15px;
+    border:0;
+    background:var(--primary);
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.result{
+    display:none;
+    margin-top:10px;
+    padding:10px;
+    border-radius:8px;
+}
+
+.correct{
+    background:#dcfce7;
+    color:#166534;
+}
+
+.wrong{
+    background:#fee2e2;
+    color:#991b1b;
+}
+
+.score-box{
+    background:#1e293b;
+    color:white;
+    border-radius:16px;
+    padding:22px;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.score-box button{
+    margin-top:12px;
+    padding:10px 18px;
+    border:0;
+    border-radius:8px;
+    background:#f59e0b;
+    color:#172033;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+footer{
+    background:#0f172a;
+    color:#cbd5e1;
+    text-align:center;
+    padding:30px 15px;
+}
+
+@media(max-width:600px){
+
+    .header{
+        padding:35px 18px;
+    }
+
+    .header h1{
+        font-size:38px;
+    }
+
+    .tab-btn{
+        padding:14px 14px;
+        font-size:13px;
+    }
+
+    .tab-content{
+        padding-top:25px;
+    }
+
+    .card{
+        padding:17px;
+    }
+
+    .formula{
+        font-size:17px;
+        overflow-x:auto;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header class="header">
+
+<div class="header-inner">
+
+<span class="badge">
+NDA • SSC • PHYSICS
+</span>
+
+<h1>HEAT</h1>
+
+<p>
+Complete chapter notes — Theory, Temperature, Heat Transfer,
+Calorimetry, Change of State, Formulas, Examples, Tricks & MCQs
+</p>
+
+</div>
+
+</header>
+
+
+<!-- ================= TABS ================= -->
+
+<div class="tabs-wrapper">
+
+<div class="tabs">
+
+<button class="tab-btn active" data-tab="theory">
+Theory
+</button>
+
+<button class="tab-btn" data-tab="temperature">
+Temperature
+</button>
+
+<button class="tab-btn" data-tab="transfer">
+Heat Transfer
+</button>
+
+<button class="tab-btn" data-tab="formulas">
+Formulas
+</button>
+
+<button class="tab-btn" data-tab="examples">
+Examples
+</button>
+
+<button class="tab-btn" data-tab="tricks">
+Short Tricks
+</button>
+
+<button class="tab-btn" data-tab="practice">
+Practice
+</button>
+
+</div>
+
+</div>
+
+
+<main class="container">
+
+
+<!-- ================================================= -->
+<!-- ===================== THEORY ===================== -->
+<!-- ================================================= -->
+
+<section id="theory" class="tab-content active">
+
+<h2 class="section-title">
+Complete Theory
+</h2>
+
+
+<div class="card definition">
+
+<h2>1. What is Heat?</h2>
+
+<p>
+Heat is a form of energy transferred from one body to another
+because of a difference in temperature.
+</p>
+
+<div class="formula">
+<span class="formula-title">SI Unit of Heat</span>
+Joule (J)
+</div>
+
+<div class="info">
+Heat always flows spontaneously from a body at higher
+temperature to a body at lower temperature.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>2. Heat vs Temperature</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Heat</th>
+<th>Temperature</th>
+</tr>
+
+<tr>
+<td>Energy transferred because of temperature difference.</td>
+<td>Measure of the thermal state of a body.</td>
+</tr>
+
+<tr>
+<td>SI unit: Joule</td>
+<td>SI unit: Kelvin</td>
+</tr>
+
+<tr>
+<td>Depends on amount of substance.</td>
+<td>Does not directly depend on amount of substance.</td>
+</tr>
+
+<tr>
+<td>Measured using calorimetric methods.</td>
+<td>Measured using a thermometer.</td>
+</tr>
+
+</table>
+
+</div>
+
+<div class="warning">
+<strong>Exam Trap:</strong> Heat and temperature are not the same thing.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>3. Thermal Energy</h2>
+
+<p>
+The internal energy associated with the microscopic motion
+and interactions of particles in a substance is related to
+its thermal energy.
+</p>
+
+<p>
+When a substance is heated, its internal energy may increase,
+its temperature may rise, or it may undergo a change of state.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>4. Units of Heat</h2>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Joule</h3>
+
+<p>
+The SI unit of heat and energy.
+</p>
+
+<div class="formula">
+1 J
+</div>
+
+</div>
+
+<div class="mini">
+
+<h3>Calorie</h3>
+
+<p>
+A traditional unit of heat.
+</p>
+
+<div class="formula">
+1 cal ≈ 4.186 J
+</div>
+
+</div>
+
+<div class="mini">
+
+<h3>Kilocalorie</h3>
+
+<p>
+Commonly used as a larger unit of heat.
+</p>
+
+<div class="formula">
+1 kcal = 1000 cal
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>5. Specific Heat Capacity</h2>
+
+<p>
+Specific heat capacity is the amount of heat required to raise
+the temperature of unit mass of a substance by one degree Celsius
+(or one kelvin).
+</p>
+
+<div class="formula">
+<span class="formula-title">Formula</span>
+Q = mcΔT
+</div>
+
+<div class="formula">
+<span class="formula-title">Specific Heat</span>
+c = Q / (mΔT)
+</div>
+
+<div class="success">
+A substance with high specific heat capacity requires more
+heat to produce the same temperature rise in a given mass.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>6. Heat Capacity</h2>
+
+<p>
+Heat capacity is the amount of heat required to raise the
+temperature of an entire body by one degree Celsius or one kelvin.
+</p>
+
+<div class="formula">
+C = Q/ΔT
+</div>
+
+<div class="formula">
+C = mc
+</div>
+
+<div class="info">
+Specific heat capacity is a property per unit mass,
+while heat capacity refers to the whole body.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>7. Thermal Expansion</h2>
+
+<p>
+Most substances expand when heated and contract when cooled.
+The expansion may occur in length, area, or volume.
+</p>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Linear Expansion</h3>
+
+<div class="formula">
+ΔL = αL₀ΔT
+</div>
+
+</div>
+
+<div class="mini">
+
+<h3>Area Expansion</h3>
+
+<div class="formula">
+ΔA = βA₀ΔT
+</div>
+
+</div>
+
+<div class="mini">
+
+<h3>Volume Expansion</h3>
+
+<div class="formula">
+ΔV = γV₀ΔT
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>8. Change of State</h2>
+
+<p>
+A substance can change from one state to another when heat
+is supplied or removed.
+</p>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Melting</h3>
+<p>
+Solid → Liquid
+</p>
+</div>
+
+<div class="mini">
+<h3>Freezing</h3>
+<p>
+Liquid → Solid
+</p>
+</div>
+
+<div class="mini">
+<h3>Vaporisation</h3>
+<p>
+Liquid → Gas
+</p>
+</div>
+
+<div class="mini">
+<h3>Condensation</h3>
+<p>
+Gas → Liquid
+</p>
+</div>
+
+<div class="mini">
+<h3>Sublimation</h3>
+<p>
+Solid → Gas directly
+</p>
+</div>
+
+<div class="mini">
+<h3>Deposition</h3>
+<p>
+Gas → Solid directly
+</p>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>9. Latent Heat</h2>
+
+<p>
+Latent heat is the heat absorbed or released during a change
+of state without a change in temperature.
+</p>
+
+<div class="formula">
+Q = mL
+</div>
+
+<p>
+where L is the specific latent heat.
+</p>
+
+<div class="warning">
+During a pure phase change at constant pressure, the supplied
+heat goes into changing the state rather than raising temperature.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>10. Melting Point</h2>
+
+<p>
+The melting point is the temperature at which a substance
+changes from solid to liquid under a specified pressure.
+</p>
+
+<div class="info">
+At the melting point, solid and liquid phases can coexist
+in equilibrium.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>11. Boiling Point</h2>
+
+<p>
+The boiling point is the temperature at which the vapour
+pressure of a liquid equals the surrounding pressure.
+</p>
+
+<div class="formula">
+At boiling point:
+Vapour pressure = External pressure
+</div>
+
+<div class="success">
+Boiling point generally decreases when external pressure decreases.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>12. Evaporation</h2>
+
+<p>
+Evaporation is the slow conversion of liquid into vapour
+from the surface of the liquid.
+</p>
+
+<h3>Factors Affecting Evaporation</h3>
+
+<ul>
+<li>Higher temperature → faster evaporation.</li>
+<li>Larger surface area → faster evaporation.</li>
+<li>Higher wind speed → faster evaporation.</li>
+<li>Lower humidity → faster evaporation.</li>
+</ul>
+
+<div class="success">
+Evaporation produces cooling because higher-energy molecules
+preferentially escape from the liquid surface.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>13. Why Does Sweating Cool the Body?</h2>
+
+<p>
+Sweat evaporates from the surface of the skin. Evaporation
+requires energy, which is taken from the body, causing cooling.
+</p>
+
+<div class="formula">
+Evaporation → Heat absorbed → Cooling
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>14. Anomalous Expansion of Water</h2>
+
+<p>
+Water behaves differently from many other substances between
+0°C and 4°C.
+</p>
+
+<div class="formula">
+Water has maximum density at 4°C
+</div>
+
+<p>
+When water is cooled from 4°C to 0°C, it expands instead of
+contracting.
+</p>
+
+<div class="success">
+This unusual property helps aquatic life survive in cold regions
+because ice floats and the water below can remain liquid.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>15. Thermal Equilibrium</h2>
+
+<p>
+When two bodies in thermal contact reach the same temperature,
+they are said to be in thermal equilibrium.
+</p>
+
+<div class="formula">
+T₁ = T₂
+</div>
+
+<div class="info">
+At thermal equilibrium, there is no net heat flow between
+the bodies.
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ================= TEMPERATURE ==================== -->
+<!-- ================================================= -->
+
+<section id="temperature" class="tab-content">
+
+<h2 class="section-title">
+Temperature & Temperature Scales
+</h2>
+
+
+<div class="card">
+
+<h2>1. Celsius Scale</h2>
+
+<p>
+The Celsius scale uses 0°C as the freezing point of water
+and 100°C as the boiling point of water at standard atmospheric
+pressure.
+</p>
+
+<div class="formula">
+Freezing point = 0°C
+</div>
+
+<div class="formula">
+Boiling point = 100°C
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>2. Kelvin Scale</h2>
+
+<p>
+Kelvin is the SI base unit of thermodynamic temperature.
+</p>
+
+<div class="formula">
+K = °C + 273.15
+</div>
+
+<div class="formula">
+°C = K − 273.15
+</div>
+
+<div class="warning">
+Kelvin temperatures are written without the degree symbol:
+<strong>300 K</strong>, not 300°K.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>3. Fahrenheit Scale</h2>
+
+<div class="formula">
+Freezing point of water = 32°F
+</div>
+
+<div class="formula">
+Boiling point of water = 212°F
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>4. Temperature Conversion</h2>
+
+<div class="formula">
+°C/5 = (°F−32)/9
+</div>
+
+<div class="formula">
+°C = 5(°F−32)/9
+</div>
+
+<div class="formula">
+°F = 9°C/5 + 32
+</div>
+
+<div class="formula">
+K = °C + 273.15
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>5. Important Temperature Values</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Condition</th>
+<th>Celsius</th>
+<th>Kelvin</th>
+<th>Fahrenheit</th>
+</tr>
+
+<tr>
+<td>Freezing point of water</td>
+<td>0°C</td>
+<td>273.15 K</td>
+<td>32°F</td>
+</tr>
+
+<tr>
+<td>Boiling point of water</td>
+<td>100°C</td>
+<td>373.15 K</td>
+<td>212°F</td>
+</tr>
+
+<tr>
+<td>Absolute zero</td>
+<td>−273.15°C</td>
+<td>0 K</td>
+<td>−459.67°F</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>6. Absolute Zero</h2>
+
+<p>
+Absolute zero is the theoretical lowest possible temperature.
+It corresponds to 0 K.
+</p>
+
+<div class="formula">
+0 K = −273.15°C
+</div>
+
+<div class="info">
+At temperatures approaching absolute zero, thermal motion is
+reduced to extremely low levels.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>7. Thermometers</h2>
+
+<p>
+A thermometer measures temperature by using a physical property
+that changes predictably with temperature.
+</p>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Clinical Thermometer</h3>
+<p>
+Used for measuring human body temperature.
+</p>
+</div>
+
+<div class="mini">
+<h3>Laboratory Thermometer</h3>
+<p>
+Used to measure temperatures in laboratory experiments.
+</p>
+</div>
+
+<div class="mini">
+<h3>Digital Thermometer</h3>
+<p>
+Uses electronic sensors and displays the temperature digitally.
+</p>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>8. Thermal Expansion in Daily Life</h2>
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why are gaps left between railway tracks?
+</button>
+
+<div class="accordion-content">
+
+<p>
+Metal expands when heated. Gaps provide room for thermal
+expansion and help reduce the risk of buckling.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why are electric wires not stretched tightly?
+</button>
+
+<div class="accordion-content">
+
+<p>
+Wires contract in cold weather and expand in hot weather.
+Some slack allows for these changes in length.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why does a metal lid loosen when heated?
+</button>
+
+<div class="accordion-content">
+
+<p>
+Heating causes the metal lid to expand, making it easier
+to open.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why are expansion joints used in bridges?
+</button>
+
+<div class="accordion-content">
+
+<p>
+They allow bridge materials to expand and contract due to
+temperature changes without producing excessive stress.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ================= HEAT TRANSFER =================== -->
+<!-- ================================================= -->
+
+<section id="transfer" class="tab-content">
+
+<h2 class="section-title">
+Modes of Heat Transfer
+</h2>
+
+
+<div class="card">
+
+<h2>1. Conduction</h2>
+
+<p>
+Conduction is the transfer of heat through a substance without
+bulk movement of the substance as a whole.
+</p>
+
+<div class="formula">
+Heat transfer through solid → Conduction
+</div>
+
+<div class="success">
+Metals are generally good conductors of heat.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>2. Convection</h2>
+
+<p>
+Convection is heat transfer through the bulk movement of
+a fluid such as a liquid or gas.
+</p>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Natural Convection</h3>
+
+<p>
+Occurs because density differences create fluid motion.
+</p>
+
+</div>
+
+<div class="mini">
+
+<h3>Forced Convection</h3>
+
+<p>
+Fluid motion is produced using fans, pumps or other devices.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>3. Radiation</h2>
+
+<p>
+Radiation is heat transfer by electromagnetic waves and does
+not require a material medium.
+</p>
+
+<div class="formula">
+Radiation → No medium required
+</div>
+
+<div class="success">
+Heat from the Sun reaches Earth mainly by radiation.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>4. Conduction vs Convection vs Radiation</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Mode</th>
+<th>Medium</th>
+<th>Main Mechanism</th>
+<th>Example</th>
+</tr>
+
+<tr>
+<td>Conduction</td>
+<td>Usually solids</td>
+<td>Particle-to-particle energy transfer</td>
+<td>Heating a metal rod</td>
+</tr>
+
+<tr>
+<td>Convection</td>
+<td>Liquids & gases</td>
+<td>Bulk movement of fluid</td>
+<td>Boiling water</td>
+</tr>
+
+<tr>
+<td>Radiation</td>
+<td>No medium required</td>
+<td>Electromagnetic waves</td>
+<td>Sunlight heating Earth</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>5. Good Conductors and Insulators</h2>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Good Conductors</h3>
+
+<ul>
+<li>Copper</li>
+<li>Aluminium</li>
+<li>Silver</li>
+<li>Iron</li>
+</ul>
+
+</div>
+
+<div class="mini">
+
+<h3>Thermal Insulators</h3>
+
+<ul>
+<li>Wood</li>
+<li>Plastic</li>
+<li>Rubber</li>
+<li>Air</li>
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>6. Sea Breeze</h2>
+
+<p>
+During the day, land heats faster than water. Warm air over
+the land rises, and cooler air from the sea moves toward the land.
+</p>
+
+<div class="formula">
+Day → Sea → Land
+</div>
+
+<div class="success">
+Sea breeze occurs mainly during the day.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>7. Land Breeze</h2>
+
+<p>
+At night, land cools faster than water. Air over the sea is
+relatively warmer and rises, while cooler air moves from land
+toward the sea.
+</p>
+
+<div class="formula">
+Night → Land → Sea
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>8. Black and Shiny Surfaces</h2>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Black / Dull Surface</h3>
+
+<p>
+Good absorber and good emitter of thermal radiation.
+</p>
+
+</div>
+
+<div class="mini">
+
+<h3>Shiny / Polished Surface</h3>
+
+<p>
+Poor absorber and poor emitter of thermal radiation;
+good reflector.
+</p>
+
+</div>
+
+</div>
+
+<div class="warning">
+This is why thermos flasks use reflective surfaces to reduce
+radiative heat transfer.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>9. Greenhouse Effect — Basic Idea</h2>
+
+<p>
+Certain gases in Earth's atmosphere absorb and re-emit infrared
+radiation, contributing to warming of the lower atmosphere and
+surface.
+</p>
+
+<div class="info">
+The greenhouse effect is a natural atmospheric phenomenon,
+though increased concentrations of greenhouse gases can enhance it.
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ==================== FORMULAS ==================== -->
+<!-- ================================================= -->
+
+<section id="formulas" class="tab-content">
+
+<h2 class="section-title">
+Complete Formula Sheet
+</h2>
+
+
+<div class="card">
+
+<h2>Heat & Specific Heat</h2>
+
+<div class="formula">
+Q = mcΔT
+</div>
+
+<div class="formula">
+c = Q/(mΔT)
+</div>
+
+<div class="formula">
+C = Q/ΔT
+</div>
+
+<div class="formula">
+C = mc
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Latent Heat</h2>
+
+<div class="formula">
+Q = mL
+</div>
+
+<div class="formula">
+L = Q/m
+</div>
+
+<div class="info">
+Q = heat supplied or removed<br>
+m = mass<br>
+L = specific latent heat
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Temperature Conversion</h2>
+
+<div class="formula">
+°C/5 = (°F−32)/9
+</div>
+
+<div class="formula">
+°F = 9°C/5 + 32
+</div>
+
+<div class="formula">
+K = °C + 273.15
+</div>
+
+<div class="formula">
+°C = K − 273.15
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Linear Expansion</h2>
+
+<div class="formula">
+ΔL = αL₀ΔT
+</div>
+
+<div class="formula">
+L = L₀(1 + αΔT)
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Area Expansion</h2>
+
+<div class="formula">
+ΔA = βA₀ΔT
+</div>
+
+<div class="formula">
+A = A₀(1 + βΔT)
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Volume Expansion</h2>
+
+<div class="formula">
+ΔV = γV₀ΔT
+</div>
+
+<div class="formula">
+V = V₀(1 + γΔT)
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Calorimetry</h2>
+
+<p>
+In an ideal isolated system, heat lost by hot bodies equals
+heat gained by cold bodies.
+</p>
+
+<div class="formula">
+Heat Lost = Heat Gained
+</div>
+
+<div class="formula">
+m₁c₁(T₁−T) = m₂c₂(T−T₂)
+</div>
+
+<div class="success">
+This principle is commonly used in calorimetry problems.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Important Units</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Quantity</th>
+<th>SI Unit</th>
+<th>Symbol</th>
+</tr>
+
+<tr>
+<td>Heat</td>
+<td>Joule</td>
+<td>J</td>
+</tr>
+
+<tr>
+<td>Temperature</td>
+<td>Kelvin</td>
+<td>K</td>
+</tr>
+
+<tr>
+<td>Specific heat capacity</td>
+<td>J/(kg·K)</td>
+<td>c</td>
+</tr>
+
+<tr>
+<td>Heat capacity</td>
+<td>J/K</td>
+<td>C</td>
+</tr>
+
+<tr>
+<td>Specific latent heat</td>
+<td>J/kg</td>
+<td>L</td>
+</tr>
+
+<tr>
+<td>Coefficient of linear expansion</td>
+<td>K⁻¹</td>
+<td>α</td>
+</tr>
+
+<tr>
+<td>Coefficient of area expansion</td>
+<td>K⁻¹</td>
+<td>β</td>
+</tr>
+
+<tr>
+<td>Coefficient of volume expansion</td>
+<td>K⁻¹</td>
+<td>γ</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ==================== EXAMPLES ==================== -->
+<!-- ================================================= -->
+
+<section id="examples" class="tab-content">
+
+<h2 class="section-title">
+Solved Examples
+</h2>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 1 — Heat Required
+</div>
+
+<p>
+Find the heat required to raise the temperature of 2 kg
+of a substance having specific heat capacity 500 J/kg·K
+by 10 K.
+</p>
+
+<div class="formula">
+Q = mcΔT
+</div>
+
+<div class="formula">
+Q = 2 × 500 × 10
+</div>
+
+<div class="formula">
+Q = 10,000 J
+</div>
+
+<div class="answer">
+Answer: <strong>10,000 J</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 2 — Find Specific Heat
+</div>
+
+<p>
+5000 J of heat raises the temperature of 2 kg of a material
+by 5 K. Find its specific heat capacity.
+</p>
+
+<div class="formula">
+c = Q/(mΔT)
+</div>
+
+<div class="formula">
+c = 5000/(2×5)
+</div>
+
+<div class="formula">
+c = 500 J/kg·K
+</div>
+
+<div class="answer">
+Answer: <strong>500 J/kg·K</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 3 — Latent Heat
+</div>
+
+<p>
+How much heat is required to melt 2 kg of a substance if
+its specific latent heat of fusion is 200,000 J/kg?
+</p>
+
+<div class="formula">
+Q = mL
+</div>
+
+<div class="formula">
+Q = 2 × 200000
+</div>
+
+<div class="formula">
+Q = 400000 J
+</div>
+
+<div class="answer">
+Answer: <strong>4 × 10⁵ J</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 4 — Celsius to Fahrenheit
+</div>
+
+<p>
+Convert 40°C into Fahrenheit.
+</p>
+
+<div class="formula">
+°F = 9°C/5 + 32
+</div>
+
+<div class="formula">
+°F = (9×40)/5 + 32
+</div>
+
+<div class="formula">
+°F = 72 + 32 = 104°F
+</div>
+
+<div class="answer">
+Answer: <strong>104°F</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 5 — Celsius to Kelvin
+</div>
+
+<p>
+Convert 27°C into Kelvin.
+</p>
+
+<div class="formula">
+K = °C + 273.15
+</div>
+
+<div class="formula">
+K = 27 + 273.15
+</div>
+
+<div class="answer">
+Answer: <strong>300.15 K</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 6 — Heat Capacity
+</div>
+
+<p>
+A body requires 3000 J of heat for a temperature rise of
+15 K. Find its heat capacity.
+</p>
+
+<div class="formula">
+C = Q/ΔT
+</div>
+
+<div class="formula">
+C = 3000/15 = 200 J/K
+</div>
+
+<div class="answer">
+Answer: <strong>200 J/K</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 7 — Linear Expansion
+</div>
+
+<p>
+A metal rod has initial length 2 m. Its coefficient of linear
+expansion is 1×10⁻⁵ K⁻¹ and its temperature increases by 100 K.
+Find the increase in length.
+</p>
+
+<div class="formula">
+ΔL = αL₀ΔT
+</div>
+
+<div class="formula">
+ΔL = 1×10⁻⁵ × 2 × 100
+</div>
+
+<div class="formula">
+ΔL = 0.002 m
+</div>
+
+<div class="answer">
+Answer: <strong>0.002 m = 2 mm</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 8 — Calorimetry
+</div>
+
+<p>
+A hot object loses 5000 J of heat in an insulated container.
+How much heat is gained by the surroundings in the ideal
+calorimetry model?
+</p>
+
+<div class="formula">
+Heat Lost = Heat Gained
+</div>
+
+<div class="formula">
+Q<sub>gained</sub> = 5000 J
+</div>
+
+<div class="answer">
+Answer: <strong>5000 J</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 9 — Temperature Difference
+</div>
+
+<p>
+The temperature of an object rises from 20°C to 70°C.
+Find the temperature change.
+</p>
+
+<div class="formula">
+ΔT = 70 − 20
+</div>
+
+<div class="answer">
+Answer: <strong>50°C = 50 K temperature difference</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 10 — Evaporation
+</div>
+
+<p>
+Why does water evaporate faster when spread over a larger
+surface area?
+</p>
+
+<div class="formula">
+Larger Surface Area → More Molecules at Surface
+→ Faster Evaporation
+</div>
+
+<div class="answer">
+Answer: <strong>Evaporation increases with surface area.</strong>
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ===================== TRICKS ===================== -->
+<!-- ================================================= -->
+
+<section id="tricks" class="tab-content">
+
+<h2 class="section-title">
+Short Tricks & Exam Tips
+</h2>
+
+
+<div class="card">
+
+<h2>🔥 Trick 1 — Heat Formula</h2>
+
+<div class="formula">
+Q = mcΔT
+</div>
+
+<p>
+When mass, specific heat and temperature change are given,
+think immediately of <strong>Q = mcΔT</strong>.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 2 — Latent Heat</h2>
+
+<div class="formula">
+Phase Change → Q = mL
+</div>
+
+<p>
+If the question involves melting, freezing, boiling or
+condensation, check whether latent heat is required.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 3 — Temperature Conversion</h2>
+
+<div class="formula">
+°C → K : Add 273.15
+</div>
+
+<div class="formula">
+K → °C : Subtract 273.15
+</div>
+
+<div class="formula">
+°C → °F : ×9/5 + 32
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 4 — Heat Transfer</h2>
+
+<div class="formula">
+Solid → Conduction
+</div>
+
+<div class="formula">
+Fluid → Convection
+</div>
+
+<div class="formula">
+No Medium → Radiation
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 5 — Black and Shiny</h2>
+
+<div class="formula">
+Black/Dull → Good Absorber + Good Emitter
+</div>
+
+<div class="formula">
+Shiny/Polished → Poor Absorber + Poor Emitter
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 6 — Sea & Land Breeze</h2>
+
+<div class="formula">
+Day → Sea to Land
+</div>
+
+<div class="formula">
+Night → Land to Sea
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 7 — Water</h2>
+
+<div class="formula">
+Maximum Density of Water → 4°C
+</div>
+
+<p>
+Remember: water expands when cooled from 4°C toward 0°C.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 8 — Evaporation</h2>
+
+<div class="formula">
+Temperature ↑ → Evaporation ↑
+</div>
+
+<div class="formula">
+Surface Area ↑ → Evaporation ↑
+</div>
+
+<div class="formula">
+Wind Speed ↑ → Evaporation ↑
+</div>
+
+<div class="formula">
+Humidity ↓ → Evaporation ↑
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>⚠️ Common Exam Traps</h2>
+
+<ul>
+
+<li>
+Heat is energy transferred due to a temperature difference.
+</li>
+
+<li>
+Temperature is not the same as heat.
+</li>
+
+<li>
+SI unit of heat is joule.
+</li>
+
+<li>
+SI unit of temperature is kelvin.
+</li>
+
+<li>
+Kelvin is written without the degree symbol.
+</li>
+
+<li>
+During a phase change, temperature can remain constant while heat is transferred.
+</li>
+
+<li>
+Radiation does not require a material medium.
+</li>
+
+<li>
+Convection occurs through bulk movement of fluids.
+</li>
+
+<li>
+Water has maximum density at 4°C.
+</li>
+
+<li>
+Evaporation occurs at the surface and can occur below the boiling point.
+</li>
+
+<li>
+Boiling occurs throughout the liquid when the boiling condition is reached.
+</li>
+
+</ul>
+
+</div>
+
+
+<div class="card">
+
+<h2>⭐ One-Minute Revision</h2>
+
+<div class="formula">
+Q = mcΔT
+</div>
+
+<div class="formula">
+Q = mL
+</div>
+
+<div class="formula">
+C = mc
+</div>
+
+<div class="formula">
+K = °C + 273.15
+</div>
+
+<div class="formula">
+°C/5 = (°F−32)/9
+</div>
+
+<div class="success">
+<strong>Conduction:</strong> Particle-to-particle transfer<br>
+<strong>Convection:</strong> Bulk movement of fluid<br>
+<strong>Radiation:</strong> Electromagnetic waves<br>
+<strong>Water:</strong> Maximum density at 4°C
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ==================== PRACTICE ==================== -->
+<!-- ================================================= -->
+
+<section id="practice" class="tab-content">
+
+<h2 class="section-title">
+Practice Test
+</h2>
+
+
+<div class="score-box">
+
+<h2>🔥 Heat Chapter Test</h2>
+
+<p>
+Attempt all 20 questions and check your answers instantly.
+</p>
+
+<button onclick="calculateScore()">
+Calculate Final Score
+</button>
+
+<div id="finalScore"></div>
+
+</div>
+
+
+<!-- Q1 -->
+
+<div class="question">
+
+<p>
+<strong>Q1.</strong>
+The SI unit of heat is:
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q1" value="a"> A) Calorie</label>
+<label><input type="radio" name="q1" value="b"> B) Joule</label>
+<label><input type="radio" name="q1" value="c"> C) Watt</label>
+<label><input type="radio" name="q1" value="d"> D) Kelvin</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q1','b','r1')">
+Check Answer
+</button>
+
+<div id="r1" class="result"></div>
+
+</div>
+
+
+<!-- Q2 -->
+
+<div class="question">
+
+<p>
+<strong>Q2.</strong>
+Heat naturally flows from:
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q2" value="a"> A) Cold to hot</label>
+<label><input type="radio" name="q2" value="b"> B) Hot to cold</label>
+<label><input type="radio" name="q2" value="c"> C) Low pressure to high pressure</label>
+<label><input type="radio" name="q2" value="d"> D) Vacuum to matter</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q2','b','r2')">
+Check Answer
+</button>
+
+<div id="r2" class="result"></div>
+
+</div>
+
+
+<!-- Q3 -->
+
+<div class="question">
+
+<p>
+<strong>Q3.</strong>
+The SI unit of thermodynamic temperature is:
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q3" value="a"> A) Celsius</label>
+<label><input type="radio" name="q3" value="b"> B) Fahrenheit</label>
+<label><input type="radio" name="q3" value="c"> C) Kelvin</label>
+<label><input type="radio" name="q3" value="d"> D) Joule</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q3','c','r3')">
+Check Answer
+</button>
+
+<div id="r3" class="result"></div>
+
+</div>
+
+
+<!-- Q4 -->
+
+<div class="question">
+
+<p>
+<strong>Q4.</strong>
+Which formula gives the heat required to change the temperature
+of a substance without a phase change?
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q4" value="a"> A) Q = mL</label>
+<label><input type="radio" name="q4" value="b"> B) Q = mcΔT</label>
+<label><input type="radio" name="q4" value="c"> C) Q = Fd</label>
+<label><input type="radio" name="q4" value="d"> D) Q = Pt</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q4','b','r4')">
+Check Answer
+</button>
+
+<div id="r4" class="result"></div>
+
+</div>
+
+
+<!-- Q5 -->
+
+<div class="question">
+
+<p>
+<strong>Q5.</strong>
+During a phase change of a pure substance at constant pressure,
+the temperature generally:
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q5" value="a"> A) Increases continuously</label>
+<label><input type="radio" name="q5" value="b"> B) Decreases continuously</label>
+<label><input type="radio" name="q5" value="c"> C) Remains constant</label>
+<label><input type="radio" name="q5" value="d"> D) Becomes zero</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q5','c','r5')">
+Check Answer
+</button>
+
+<div id="r5" class="result"></div>
+
+</div>
+
+
+<!-- Q6 -->
+
+<div class="question">
+
+<p>
+<strong>Q6.</strong>
+Heat transfer through vacuum takes place by:
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q6" value="a"> A) Conduction</label>
+<label><input type="radio" name="q6" value="b"> B) Convection</label>
+<label><input type="radio" name="q6" value="c"> C) Radiation</label>
+<label><input type="radio" name="q6" value="d"> D) Diffusion</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q6','c','r6')">
+Check Answer
+</button>
+
+<div id="r6" class="result"></div>
+
+</div>
+
+
+<!-- Q7 -->
+
+<div class="question">
+
+<p>
+<strong>Q7.</strong>
+Water has maximum density at:
+</p>
+
+<div class="options">
+
+<label><input type="radio" name="q7" value="a"> A) 0°C</label>
+<label><input type
