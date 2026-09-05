@@ -1,0 +1,2592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>FORCE | Complete NDA & SSC Physics Notes</title>
+
+<style>
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+:root{
+    --bg:#f1f5f9;
+    --card:#ffffff;
+    --text:#172033;
+    --muted:#64748b;
+    --primary:#2563eb;
+    --primary2:#4f46e5;
+    --green:#059669;
+    --orange:#ea580c;
+    --red:#dc2626;
+    --purple:#7c3aed;
+    --cyan:#0891b2;
+    --border:#e2e8f0;
+    --shadow:0 8px 25px rgba(15,23,42,.08);
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.65;
+}
+
+/* ================= HEADER ================= */
+
+.header{
+    background:linear-gradient(135deg,#1d4ed8,#6d28d9);
+    color:white;
+    padding:45px 20px;
+}
+
+.header-inner{
+    max-width:1150px;
+    margin:auto;
+}
+
+.badge{
+    display:inline-block;
+    background:rgba(255,255,255,.15);
+    border:1px solid rgba(255,255,255,.25);
+    padding:6px 13px;
+    border-radius:30px;
+    font-size:12px;
+    margin-bottom:14px;
+}
+
+.header h1{
+    font-size:48px;
+    margin-bottom:8px;
+}
+
+.header p{
+    opacity:.92;
+    font-size:16px;
+}
+
+/* ================= MAIN ================= */
+
+.container{
+    width:min(1150px,94%);
+    margin:auto;
+}
+
+/* ================= TABS ================= */
+
+.tabs-wrapper{
+    position:sticky;
+    top:0;
+    z-index:100;
+    background:rgba(255,255,255,.96);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+    box-shadow:0 3px 12px rgba(0,0,0,.05);
+}
+
+.tabs{
+    max-width:1150px;
+    margin:auto;
+    display:flex;
+    overflow-x:auto;
+    scrollbar-width:none;
+}
+
+.tabs::-webkit-scrollbar{
+    display:none;
+}
+
+.tab-btn{
+    border:0;
+    background:none;
+    padding:17px 20px;
+    cursor:pointer;
+    font-size:14px;
+    font-weight:700;
+    color:var(--muted);
+    white-space:nowrap;
+    border-bottom:3px solid transparent;
+    transition:.25s;
+}
+
+.tab-btn:hover{
+    color:var(--primary);
+    background:#f8fafc;
+}
+
+.tab-btn.active{
+    color:var(--primary);
+    border-bottom-color:var(--primary);
+    background:#eff6ff;
+}
+
+/* ================= CONTENT ================= */
+
+.tab-content{
+    display:none;
+    padding:35px 0 60px;
+    animation:fade .25s ease;
+}
+
+.tab-content.active{
+    display:block;
+}
+
+@keyframes fade{
+    from{
+        opacity:0;
+        transform:translateY(6px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+.section-title{
+    font-size:28px;
+    margin-bottom:20px;
+}
+
+.card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:16px;
+    padding:22px;
+    margin-bottom:18px;
+    box-shadow:var(--shadow);
+}
+
+.card h2{
+    font-size:22px;
+    margin-bottom:12px;
+}
+
+.card h3{
+    font-size:18px;
+    margin:18px 0 8px;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+    gap:16px;
+}
+
+.mini{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+}
+
+.mini h3{
+    margin:0 0 8px;
+}
+
+.definition{
+    border-left:5px solid var(--primary);
+    background:#f8fafc;
+}
+
+.formula{
+    background:#eff6ff;
+    border:1px solid #bfdbfe;
+    border-left:5px solid var(--primary);
+    border-radius:10px;
+    padding:14px 16px;
+    margin:12px 0;
+    font-family:Cambria,serif;
+    font-size:19px;
+}
+
+.formula-title{
+    display:block;
+    font-family:Arial,sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    color:var(--primary2);
+    margin-bottom:4px;
+}
+
+.success{
+    background:#ecfdf5;
+    border-left:5px solid var(--green);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.warning{
+    background:#fff7ed;
+    border-left:5px solid var(--orange);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.danger{
+    background:#fef2f2;
+    border-left:5px solid var(--red);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.info{
+    background:#ecfeff;
+    border-left:5px solid var(--cyan);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+ul,ol{
+    padding-left:22px;
+}
+
+li{
+    margin:7px 0;
+}
+
+/* ================= TABLE ================= */
+
+.table-wrap{
+    overflow-x:auto;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:12px;
+    background:white;
+}
+
+th{
+    background:#1e293b;
+    color:white;
+    padding:12px;
+    text-align:left;
+}
+
+td{
+    padding:11px 12px;
+    border-bottom:1px solid var(--border);
+}
+
+tr:nth-child(even){
+    background:#f8fafc;
+}
+
+/* ================= EXAMPLES ================= */
+
+.example{
+    background:#faf5ff;
+    border:1px solid #ddd6fe;
+    border-radius:14px;
+    padding:19px;
+    margin:15px 0;
+}
+
+.example-title{
+    color:var(--purple);
+    font-weight:800;
+    margin-bottom:8px;
+}
+
+.answer{
+    background:#ecfdf5;
+    color:#065f46;
+    padding:11px 14px;
+    border-radius:8px;
+    margin-top:10px;
+}
+
+/* ================= ACCORDION ================= */
+
+.accordion{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:12px;
+    margin:10px 0;
+    overflow:hidden;
+}
+
+.accordion button{
+    width:100%;
+    border:0;
+    background:white;
+    padding:16px;
+    text-align:left;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:15px;
+}
+
+.accordion button:hover{
+    background:#f8fafc;
+}
+
+.accordion-content{
+    display:none;
+    padding:0 16px 16px;
+    border-top:1px solid var(--border);
+}
+
+.accordion.open .accordion-content{
+    display:block;
+}
+
+/* ================= PRACTICE ================= */
+
+.question{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+    margin:13px 0;
+}
+
+.options{
+    margin-top:10px;
+}
+
+.options label{
+    display:block;
+    padding:8px 10px;
+    border-radius:7px;
+    cursor:pointer;
+}
+
+.options label:hover{
+    background:#eff6ff;
+}
+
+.check-answer{
+    margin-top:12px;
+    padding:9px 15px;
+    border:0;
+    background:var(--primary);
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.result{
+    display:none;
+    margin-top:10px;
+    padding:10px;
+    border-radius:8px;
+}
+
+.correct{
+    background:#dcfce7;
+    color:#166534;
+}
+
+.wrong{
+    background:#fee2e2;
+    color:#991b1b;
+}
+
+/* ================= FOOTER ================= */
+
+footer{
+    background:#0f172a;
+    color:#cbd5e1;
+    text-align:center;
+    padding:30px 15px;
+}
+
+/* ================= MOBILE ================= */
+
+@media(max-width:600px){
+
+    .header{
+        padding:35px 18px;
+    }
+
+    .header h1{
+        font-size:38px;
+    }
+
+    .tab-btn{
+        padding:14px 15px;
+        font-size:13px;
+    }
+
+    .tab-content{
+        padding-top:25px;
+    }
+
+    .card{
+        padding:17px;
+    }
+
+    .formula{
+        font-size:17px;
+        overflow-x:auto;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header class="header">
+<div class="header-inner">
+
+<span class="badge">
+NDA • SSC • PHYSICS
+</span>
+
+<h1>FORCE</h1>
+
+<p>
+Complete chapter notes — Theory, Laws, Formulas,
+Solved Examples, Short Tricks & Practice Questions
+</p>
+
+</div>
+</header>
+
+
+<!-- ================= TABS ================= -->
+
+<div class="tabs-wrapper">
+
+<div class="tabs">
+
+<button class="tab-btn active" data-tab="theory">
+Theory
+</button>
+
+<button class="tab-btn" data-tab="laws">
+Laws
+</button>
+
+<button class="tab-btn" data-tab="formulas">
+Formulas
+</button>
+
+<button class="tab-btn" data-tab="examples">
+Examples
+</button>
+
+<button class="tab-btn" data-tab="tricks">
+Short Tricks
+</button>
+
+<button class="tab-btn" data-tab="practice">
+Practice
+</button>
+
+</div>
+
+</div>
+
+
+<main class="container">
+
+
+<!-- ================================================= -->
+<!-- ===================== THEORY ===================== -->
+<!-- ================================================= -->
+
+<section id="theory" class="tab-content active">
+
+<h2 class="section-title">
+Complete Theory
+</h2>
+
+
+<div class="card definition">
+
+<h2>1. What is Force?</h2>
+
+<p>
+Force is a push or pull acting on an object which can change
+the state of rest, state of motion, direction of motion,
+or shape of the object.
+</p>
+
+<div class="formula">
+<span class="formula-title">SI Unit</span>
+Newton (N)
+</div>
+
+<div class="success">
+<strong>1 Newton:</strong> The force required to produce an
+acceleration of 1 m/s² in a mass of 1 kg.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>2. Effects of Force</h2>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Change in State</h3>
+<p>
+A force can make a stationary object move or stop a moving object.
+</p>
+</div>
+
+<div class="mini">
+<h3>Change in Speed</h3>
+<p>
+Force can increase or decrease the speed of an object.
+</p>
+</div>
+
+<div class="mini">
+<h3>Change in Direction</h3>
+<p>
+Force can change the direction of motion.
+</p>
+</div>
+
+<div class="mini">
+<h3>Change in Shape</h3>
+<p>
+Force can deform an object.
+</p>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>3. Force is a Vector Quantity</h2>
+
+<p>
+Force has both magnitude and direction, therefore force is a
+<strong>vector quantity</strong>.
+</p>
+
+<div class="info">
+Examples of other vector quantities include velocity,
+acceleration, displacement and momentum.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>4. Types of Force</h2>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Contact Force</h3>
+<p>
+Force which acts only when objects are in physical contact.
+</p>
+
+<ul>
+<li>Friction</li>
+<li>Normal Reaction</li>
+<li>Muscular Force</li>
+</ul>
+</div>
+
+<div class="mini">
+<h3>Non-Contact Force</h3>
+<p>
+Force which acts without physical contact.
+</p>
+
+<ul>
+<li>Gravitational Force</li>
+<li>Magnetic Force</li>
+<li>Electrostatic Force</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>5. Balanced and Unbalanced Forces</h2>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Balanced Force</h3>
+
+<p>
+When the resultant force acting on an object is zero,
+the forces are called balanced forces.
+</p>
+
+<div class="formula">
+F<sub>net</sub> = 0
+</div>
+
+<p>
+Balanced forces do not produce acceleration.
+</p>
+
+</div>
+
+
+<div class="mini">
+
+<h3>Unbalanced Force</h3>
+
+<p>
+When the resultant force is not zero, the forces are
+called unbalanced forces.
+</p>
+
+<div class="formula">
+F<sub>net</sub> ≠ 0
+</div>
+
+<p>
+Unbalanced force produces acceleration.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>6. Resultant Force</h2>
+
+<p>
+The single force which produces the same effect as all
+the forces acting together is called the resultant force.
+</p>
+
+<div class="formula">
+F<sub>resultant</sub> = Vector Sum of all forces
+</div>
+
+<div class="warning">
+For forces acting in the same direction, add them.
+For opposite directions, subtract them.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>7. Mass and Force</h2>
+
+<p>
+Mass is the quantity of matter in an object, whereas force
+is an interaction capable of changing its motion.
+</p>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Mass</th>
+<th>Force</th>
+</tr>
+
+<tr>
+<td>Scalar quantity</td>
+<td>Vector quantity</td>
+</tr>
+
+<tr>
+<td>SI unit: kilogram</td>
+<td>SI unit: Newton</td>
+</tr>
+
+<tr>
+<td>Does not depend on location</td>
+<td>Can depend on acceleration and interaction</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>8. Inertia</h2>
+
+<p>
+Inertia is the tendency of an object to resist any change
+in its state of rest or motion.
+</p>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Inertia of Rest</h3>
+<p>
+An object at rest tends to remain at rest.
+</p>
+</div>
+
+<div class="mini">
+<h3>Inertia of Motion</h3>
+<p>
+A moving object tends to continue moving.
+</p>
+</div>
+
+<div class="mini">
+<h3>Inertia of Direction</h3>
+<p>
+An object resists change in its direction of motion.
+</p>
+</div>
+
+</div>
+
+<div class="success">
+Mass is a measure of inertia. Greater mass means greater inertia.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>9. Momentum</h2>
+
+<p>
+Momentum is the product of mass and velocity.
+</p>
+
+<div class="formula">
+p = mv
+</div>
+
+<div class="formula">
+SI Unit = kg·m/s
+</div>
+
+<p>
+Momentum is a vector quantity because velocity is a vector.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>10. Impulse</h2>
+
+<p>
+Impulse is the product of force and the time for which the
+force acts.
+</p>
+
+<div class="formula">
+J = FΔt
+</div>
+
+<p>
+Impulse is equal to the change in momentum.
+</p>
+
+<div class="formula">
+J = Δp
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>11. Friction</h2>
+
+<p>
+Friction is a contact force which opposes relative motion
+or the tendency of relative motion between surfaces.
+</p>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Static Friction</h3>
+<p>
+Acts when there is no relative motion between surfaces.
+</p>
+</div>
+
+<div class="mini">
+<h3>Sliding Friction</h3>
+<p>
+Acts when one surface slides over another.
+</p>
+</div>
+
+<div class="mini">
+<h3>Rolling Friction</h3>
+<p>
+Acts when an object rolls over a surface.
+</p>
+</div>
+
+</div>
+
+<div class="success">
+Rolling friction is generally less than sliding friction.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>12. Normal Reaction</h2>
+
+<p>
+Normal reaction is the force exerted by a surface on an
+object in contact with it, acting perpendicular to the surface.
+</p>
+
+<div class="formula">
+N = mg
+</div>
+
+<p>
+For a stationary object on a horizontal surface, in the
+simple case where no other vertical forces act.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>13. Gravitational Force</h2>
+
+<p>
+Every object in the universe attracts every other object
+because of gravity.
+</p>
+
+<div class="formula">
+F = Gm₁m₂/r²
+</div>
+
+<p>
+This is Newton's law of universal gravitation.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>14. Weight</h2>
+
+<p>
+Weight is the gravitational force acting on an object.
+</p>
+
+<div class="formula">
+W = mg
+</div>
+
+<div class="warning">
+Mass remains essentially constant from place to place,
+while weight changes when the gravitational acceleration changes.
+</div>
+
+</div>
+
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ====================== LAWS ===================== -->
+<!-- ================================================= -->
+
+<section id="laws" class="tab-content">
+
+<h2 class="section-title">
+Newton's Laws of Motion
+</h2>
+
+
+<div class="card">
+
+<h2>Newton's First Law</h2>
+
+<p>
+An object remains at rest or continues to move with uniform
+velocity in a straight line unless acted upon by an external
+unbalanced force.
+</p>
+
+<div class="formula">
+F<sub>net</sub> = 0 → a = 0
+</div>
+
+<div class="success">
+This law is also called the <strong>Law of Inertia</strong>.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Newton's Second Law</h2>
+
+<p>
+The rate of change of momentum of an object is proportional
+to the applied force and occurs in the direction of that force.
+</p>
+
+<div class="formula">
+F = ma
+</div>
+
+<div class="formula">
+F = Δp/Δt
+</div>
+
+<div class="info">
+For constant mass:
+<strong>F = ma</strong>
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Newton's Third Law</h2>
+
+<p>
+For every action, there is an equal and opposite reaction.
+</p>
+
+<div class="formula">
+F<sub>AB</sub> = −F<sub>BA</sub>
+</div>
+
+<div class="warning">
+Action and reaction act on <strong>different objects</strong>,
+so they do not cancel each other.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Newton's Laws — Quick Comparison</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Law</th>
+<th>Main Concept</th>
+<th>Key Point</th>
+</tr>
+
+<tr>
+<td>First Law</td>
+<td>Inertia</td>
+<td>Net force zero → no acceleration</td>
+</tr>
+
+<tr>
+<td>Second Law</td>
+<td>Acceleration</td>
+<td>F = ma</td>
+</tr>
+
+<tr>
+<td>Third Law</td>
+<td>Action-Reaction</td>
+<td>Equal and opposite forces</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Applications of Newton's Laws</h2>
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why do passengers move forward when a bus suddenly stops?
+</button>
+
+<div class="accordion-content">
+<p>
+Due to inertia of motion, the passenger's body tends to
+continue moving forward when the bus stops suddenly.
+</p>
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why does a gun recoil after firing?
+</button>
+
+<div class="accordion-content">
+<p>
+The bullet moves forward and an equal and opposite momentum
+is produced in the gun, causing recoil.
+</p>
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why can we walk?
+</button>
+
+<div class="accordion-content">
+<p>
+Our foot pushes the ground backward. The ground exerts an
+equal and opposite frictional force on us, pushing us forward.
+</p>
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Why does a rocket move upward?
+</button>
+
+<div class="accordion-content">
+<p>
+The rocket pushes gases downward. The gases exert an equal
+and opposite force on the rocket, producing upward motion.
+</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ==================== FORMULAS ==================== -->
+<!-- ================================================= -->
+
+<section id="formulas" class="tab-content">
+
+<h2 class="section-title">
+Complete Formula Sheet
+</h2>
+
+
+<div class="card">
+
+<h2>Basic Force Formulas</h2>
+
+<div class="formula">
+<span class="formula-title">Newton's Second Law</span>
+F = ma
+</div>
+
+<div class="formula">
+<span class="formula-title">Momentum</span>
+p = mv
+</div>
+
+<div class="formula">
+<span class="formula-title">Impulse</span>
+J = FΔt = Δp
+</div>
+
+<div class="formula">
+<span class="formula-title">Weight</span>
+W = mg
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Gravitational Force</h2>
+
+<div class="formula">
+F = Gm₁m₂/r²
+</div>
+
+<div class="formula">
+g = GM/R²
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Friction</h2>
+
+<div class="formula">
+f ≤ μ<sub>s</sub>N
+</div>
+
+<div class="formula">
+f<sub>max</sub> = μ<sub>s</sub>N
+</div>
+
+<div class="formula">
+f<sub>k</sub> = μ<sub>k</sub>N
+</div>
+
+<div class="info">
+μ represents the coefficient of friction.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Momentum Conservation</h2>
+
+<div class="formula">
+Total Momentum Before
+=
+Total Momentum After
+</div>
+
+<div class="formula">
+m₁u₁ + m₂u₂
+=
+m₁v₁ + m₂v₂
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Force and Change in Momentum</h2>
+
+<div class="formula">
+F = Δp/Δt
+</div>
+
+<div class="formula">
+F = (mv − mu)/t
+</div>
+
+<div class="formula">
+F = m(v−u)/t
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Unit Conversions</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Quantity</th>
+<th>SI Unit</th>
+<th>Symbol</th>
+</tr>
+
+<tr>
+<td>Force</td>
+<td>Newton</td>
+<td>N</td>
+</tr>
+
+<tr>
+<td>Mass</td>
+<td>Kilogram</td>
+<td>kg</td>
+</tr>
+
+<tr>
+<td>Acceleration</td>
+<td>m/s²</td>
+<td>a</td>
+</tr>
+
+<tr>
+<td>Momentum</td>
+<td>kg·m/s</td>
+<td>p</td>
+</tr>
+
+<tr>
+<td>Impulse</td>
+<td>N·s</td>
+<td>J</td>
+</tr>
+
+<tr>
+<td>Weight</td>
+<td>Newton</td>
+<td>W</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Important Values</h2>
+
+<div class="formula">
+g ≈ 9.8 m/s²
+</div>
+
+<div class="formula">
+g ≈ 10 m/s²
+</div>
+
+<div class="warning">
+In competitive exam calculations, <strong>g = 10 m/s²</strong>
+is often used when the question permits approximation.
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ==================== EXAMPLES ==================== -->
+<!-- ================================================= -->
+
+<section id="examples" class="tab-content">
+
+<h2 class="section-title">
+Solved Examples
+</h2>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 1 — Calculate Force
+</div>
+
+<p>
+A body of mass 5 kg accelerates at 4 m/s².
+Find the force acting on it.
+</p>
+
+<div class="formula">
+F = ma
+</div>
+
+<div class="formula">
+F = 5 × 4 = 20 N
+</div>
+
+<div class="answer">
+Answer: <strong>20 N</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 2 — Find Acceleration
+</div>
+
+<p>
+A force of 60 N acts on a mass of 12 kg.
+Find acceleration.
+</p>
+
+<div class="formula">
+a = F/m
+</div>
+
+<div class="formula">
+a = 60/12 = 5 m/s²
+</div>
+
+<div class="answer">
+Answer: <strong>5 m/s²</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 3 — Find Momentum
+</div>
+
+<p>
+A 10 kg object moves with velocity 6 m/s.
+Find its momentum.
+</p>
+
+<div class="formula">
+p = mv
+</div>
+
+<div class="formula">
+p = 10 × 6 = 60 kg·m/s
+</div>
+
+<div class="answer">
+Answer: <strong>60 kg·m/s</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 4 — Find Weight
+</div>
+
+<p>
+Find the weight of a 20 kg object.
+Take g = 10 m/s².
+</p>
+
+<div class="formula">
+W = mg
+</div>
+
+<div class="formula">
+W = 20 × 10 = 200 N
+</div>
+
+<div class="answer">
+Answer: <strong>200 N</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 5 — Impulse
+</div>
+
+<p>
+A force of 50 N acts on an object for 0.2 s.
+Find the impulse.
+</p>
+
+<div class="formula">
+J = FΔt
+</div>
+
+<div class="formula">
+J = 50 × 0.2 = 10 N·s
+</div>
+
+<div class="answer">
+Answer: <strong>10 N·s</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 6 — Net Force
+</div>
+
+<p>
+Two forces of 30 N and 20 N act in the same direction.
+Find the resultant force.
+</p>
+
+<div class="formula">
+F<sub>net</sub> = 30 + 20
+</div>
+
+<div class="formula">
+F<sub>net</sub> = 50 N
+</div>
+
+<div class="answer">
+Answer: <strong>50 N</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 7 — Opposite Forces
+</div>
+
+<p>
+A 70 N force acts to the right and a 25 N force acts
+to the left. Find the net force.
+</p>
+
+<div class="formula">
+F<sub>net</sub> = 70 − 25 = 45 N
+</div>
+
+<div class="answer">
+Answer: <strong>45 N towards the right</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 8 — Acceleration Due to Net Force
+</div>
+
+<p>
+A net force of 100 N acts on a body of mass 20 kg.
+Find acceleration.
+</p>
+
+<div class="formula">
+a = F/m
+</div>
+
+<div class="formula">
+a = 100/20 = 5 m/s²
+</div>
+
+<div class="answer">
+Answer: <strong>5 m/s²</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 9 — Conservation of Momentum
+</div>
+
+<p>
+A 2 kg body moving at 6 m/s collides with another body
+at rest. For a simplified case, the total initial momentum is:
+</p>
+
+<div class="formula">
+p = m₁u₁ + m₂u₂
+</div>
+
+<div class="formula">
+p = 2×6 + m₂×0
+</div>
+
+<div class="answer">
+Initial momentum = <strong>12 kg·m/s</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 10 — Friction
+</div>
+
+<p>
+A block has normal reaction 100 N and coefficient of kinetic
+friction 0.2. Find frictional force.
+</p>
+
+<div class="formula">
+f = μN
+</div>
+
+<div class="formula">
+f = 0.2 × 100 = 20 N
+</div>
+
+<div class="answer">
+Answer: <strong>20 N</strong>
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ===================== TRICKS ===================== -->
+<!-- ================================================= -->
+
+<section id="tricks" class="tab-content">
+
+<h2 class="section-title">
+Short Tricks & Exam Tips
+</h2>
+
+
+<div class="card">
+
+<h2>🔥 Trick 1 — Force</h2>
+
+<div class="formula">
+Force = Mass × Acceleration
+</div>
+
+<p>
+Whenever mass and acceleration are given, directly use F = ma.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 2 — Weight vs Mass</h2>
+
+<div class="formula">
+Mass → kg
+</div>
+
+<div class="formula">
+Weight → N
+</div>
+
+<div class="warning">
+Do not confuse mass with weight.
+Weight is a force.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 3 — Momentum</h2>
+
+<div class="formula">
+Momentum = mv
+</div>
+
+<p>
+Mass × velocity = momentum.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 4 — Impulse</h2>
+
+<div class="formula">
+Impulse = Force × Time
+</div>
+
+<p>
+Impulse is also equal to change in momentum.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 5 — Same Direction</h2>
+
+<div class="formula">
+Same Direction → Add
+</div>
+
+<p>
+Example: 20 N + 30 N = 50 N
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 6 — Opposite Direction</h2>
+
+<div class="formula">
+Opposite Direction → Subtract
+</div>
+
+<p>
+Example: 50 N − 20 N = 30 N
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 7 — Newton's Laws</h2>
+
+<div class="formula">
+1st → Inertia
+</div>
+
+<div class="formula">
+2nd → F = ma
+</div>
+
+<div class="formula">
+3rd → Action & Reaction
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 8 — Friction</h2>
+
+<div class="formula">
+Rolling friction &lt; Sliding friction
+</div>
+
+<p>
+Therefore wheels are used to reduce friction.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 9 — Net Force Zero</h2>
+
+<div class="formula">
+F<sub>net</sub> = 0 → a = 0
+</div>
+
+<p>
+The object may still be moving with constant velocity.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>⚠️ Common Exam Traps</h2>
+
+<ul>
+
+<li>
+Force is a vector quantity.
+</li>
+
+<li>
+Mass is a scalar quantity.
+</li>
+
+<li>
+Weight is a force.
+</li>
+
+<li>
+Newton's First Law is the law of inertia.
+</li>
+
+<li>
+Newton's Second Law gives F = ma for constant mass.
+</li>
+
+<li>
+Action and reaction act on different bodies.
+</li>
+
+<li>
+Momentum is mass × velocity.
+</li>
+
+<li>
+Impulse equals change in momentum.
+</li>
+
+<li>
+Balanced force does not mean the object must be at rest.
+</li>
+
+<li>
+Zero net force means zero acceleration, not necessarily zero velocity.
+</li>
+
+</ul>
+
+</div>
+
+
+<div class="card">
+
+<h2>⭐ One-Minute Revision</h2>
+
+<div class="formula">
+F = ma
+</div>
+
+<div class="formula">
+p = mv
+</div>
+
+<div class="formula">
+J = FΔt = Δp
+</div>
+
+<div class="formula">
+W = mg
+</div>
+
+<div class="formula">
+F = Gm₁m₂/r²
+</div>
+
+<div class="formula">
+f = μN
+</div>
+
+<div class="success">
+<strong>1st Law:</strong> Inertia<br>
+<strong>2nd Law:</strong> F = ma<br>
+<strong>3rd Law:</strong> Action = Reaction
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================================================= -->
+<!-- ==================== PRACTICE ==================== -->
+<!-- ================================================= -->
+
+<section id="practice" class="tab-content">
+
+<h2 class="section-title">
+Practice Test
+</h2>
+
+
+<div class="question">
+
+<p>
+<strong>Q1.</strong>
+A force of 20 N acts on a body of mass 5 kg.
+What is its acceleration?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q1" value="a">
+A) 2 m/s²
+</label>
+
+<label>
+<input type="radio" name="q1" value="b">
+B) 4 m/s²
+</label>
+
+<label>
+<input type="radio" name="q1" value="c">
+C) 5 m/s²
+</label>
+
+<label>
+<input type="radio" name="q1" value="d">
+D) 10 m/s²
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q1','b','r1')">
+Check Answer
+</button>
+
+<div id="r1" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q2.</strong>
+Which Newton's law is known as the law of inertia?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q2" value="a">
+A) First Law
+</label>
+
+<label>
+<input type="radio" name="q2" value="b">
+B) Second Law
+</label>
+
+<label>
+<input type="radio" name="q2" value="c">
+C) Third Law
+</label>
+
+<label>
+<input type="radio" name="q2" value="d">
+D) Law of Gravitation
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q2','a','r2')">
+Check Answer
+</button>
+
+<div id="r2" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q3.</strong>
+A body of mass 10 kg moves with velocity 5 m/s.
+Find its momentum.
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q3" value="a">
+A) 2 kg·m/s
+</label>
+
+<label>
+<input type="radio" name="q3" value="b">
+B) 15 kg·m/s
+</label>
+
+<label>
+<input type="radio" name="q3" value="c">
+C) 50 kg·m/s
+</label>
+
+<label>
+<input type="radio" name="q3" value="d">
+D) 100 kg·m/s
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q3','c','r3')">
+Check Answer
+</button>
+
+<div id="r3" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q4.</strong>
+The SI unit of force is:
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q4" value="a">
+A) Joule
+</label>
+
+<label>
+<input type="radio" name="q4" value="b">
+B) Watt
+</label>
+
+<label>
+<input type="radio" name="q4" value="c">
+C) Newton
+</label>
+
+<label>
+<input type="radio" name="q4" value="d">
+D) Pascal
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q4','c','r4')">
+Check Answer
+</button>
+
+<div id="r4" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q5.</strong>
+A body of mass 8 kg is accelerated at 3 m/s².
+Find the force.
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q5" value="a">
+A) 11 N
+</label>
+
+<label>
+<input type="radio" name="q5" value="b">
+B) 24 N
+</label>
+
+<label>
+<input type="radio" name="q5" value="c">
+C) 32 N
+</label>
+
+<label>
+<input type="radio" name="q5" value="d">
+D) 40 N
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q5','b','r5')">
+Check Answer
+</button>
+
+<div id="r5" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q6.</strong>
+The tendency of an object to resist change in its state
+is called:
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q6" value="a">
+A) Momentum
+</label>
+
+<label>
+<input type="radio" name="q6" value="b">
+B) Force
+</label>
+
+<label>
+<input type="radio" name="q6" value="c">
+C) Inertia
+</label>
+
+<label>
+<input type="radio" name="q6" value="d">
+D) Impulse
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q6','c','r6')">
+Check Answer
+</button>
+
+<div id="r6" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q7.</strong>
+A 100 N force acts on a 20 kg body.
+What is its acceleration?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q7" value="a">
+A) 2 m/s²
+</label>
+
+<label>
+<input type="radio" name="q7" value="b">
+B) 4 m/s²
+</label>
+
+<label>
+<input type="radio" name="q7" value="c">
+C) 5 m/s²
+</label>
+
+<label>
+<input type="radio" name="q7" value="d">
+D) 10 m/s²
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q7','c','r7')">
+Check Answer
+</button>
+
+<div id="r7" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q8.</strong>
+Which is a non-contact force?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q8" value="a">
+A) Friction
+</label>
+
+<label>
+<input type="radio" name="q8" value="b">
+B) Muscular force
+</label>
+
+<label>
+<input type="radio" name="q8" value="c">
+C) Normal reaction
+</label>
+
+<label>
+<input type="radio" name="q8" value="d">
+D) Gravitational force
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q8','d','r8')">
+Check Answer
+</button>
+
+<div id="r8" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q9.</strong>
+If net force acting on a body is zero, its acceleration is:
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q9" value="a">
+A) Zero
+</label>
+
+<label>
+<input type="radio" name="q9" value="b">
+B) Maximum
+</label>
+
+<label>
+<input type="radio" name="q9" value="c">
+C) Negative always
+</label>
+
+<label>
+<input type="radio" name="q9" value="d">
+D) Infinite
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q9','a','r9')">
+Check Answer
+</button>
+
+<div id="r9" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q10.</strong>
+A force of 50 N acts for 0.4 s.
+Find the impulse.
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q10" value="a">
+A) 10 N·s
+</label>
+
+<label>
+<input type="radio" name="q10" value="b">
+B) 20 N·s
+</label>
+
+<label>
+<input type="radio" name="q10" value="c">
+C) 25 N·s
+</label>
+
+<label>
+<input type="radio" name="q10" value="d">
+D) 40 N·s
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q10','b','r10')">
+Check Answer
+</button>
+
+<div id="r10" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q11.</strong>
+Which quantity is a vector?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q11" value="a">
+A) Mass
+</label>
+
+<label>
+<input type="radio" name="q11" value="b">
+B) Time
+</label>
+
+<label>
+<input type="radio" name="q11" value="c">
+C) Force
+</label>
+
+<label>
+<input type="radio" name="q11" value="d">
+D) Temperature
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q11','c','r11')">
+Check Answer
+</button>
+
+<div id="r11" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q12.</strong>
+A 20 kg object is on Earth. Taking g = 10 m/s²,
+what is its weight?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q12" value="a">
+A) 20 N
+</label>
+
+<label>
+<input type="radio" name="q12" value="b">
+B) 100 N
+</label>
+
+<label>
+<input type="radio" name="q12" value="c">
+C) 200 N
+</label>
+
+<label>
+<input type="radio" name="q12" value="d">
+D) 2000 N
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q12','c','r12')">
+Check Answer
+</button>
+
+<div id="r12" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q13.</strong>
+Action and reaction forces act on:
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q13" value="a">
+A) Same object
+</label>
+
+<label>
+<input type="radio" name="q13" value="b">
+B) Different objects
+</label>
+
+<label>
+<input type="radio" name="q13" value="c">
+C) No object
+</label>
+
+<label>
+<input type="radio" name="q13" value="d">
+D) Only moving objects
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q13','b','r13')">
+Check Answer
+</button>
+
+<div id="r13" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q14.</strong>
+Which friction is generally the smallest?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q14" value="a">
+A) Static friction maximum
+</label>
+
+<label>
+<input type="radio" name="q14" value="b">
+B) Sliding friction
+</label>
+
+<label>
+<input type="radio" name="q14" value="c">
+C) Rolling friction
+</label>
+
+<label>
+<input type="radio" name="q14" value="d">
+D) All are equal
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q14','c','r14')">
+Check Answer
+</button>
+
+<div id="r14" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q15.</strong>
+If the velocity of an object doubles while mass remains
+constant, its momentum becomes:
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q15" value="a">
+A) Half
+</label>
+
+<label>
+<input type="radio" name="q15" value="b">
+B) Same
+</label>
+
+<label>
+<input type="radio" name="q15" value="c">
+C) Double
+</label>
+
+<label>
+<input type="radio" name="q15" value="d">
+D) Four times
+</label>
+
+</div>
+
+<button class="check-answer"
+onclick="checkAnswer('q15','c','r15')">
+Check Answer
+</button>
+
+<div id="r15" class="result"></div>
+
+</div>
+
+</section>
+
+</main>
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+<strong>
+FORCE — Complete Physics Notes
+</strong>
+
+<p>
+NDA • SSC • Competitive Examinations
+</p>
+
+</footer>
+
+
+<script>
+
+/* ================= TAB SYSTEM ================= */
+
+const tabButtons =
+document.querySelectorAll(".tab-btn");
+
+const tabContents =
+document.querySelectorAll(".tab-content");
+
+
+tabButtons.forEach(button => {
+
+    button.addEventListener("click", () => {
+
+        const target =
+        button.dataset.tab;
+
+        tabButtons.forEach(btn => {
+            btn.classList.remove("active");
+        });
+
+        tabContents.forEach(content => {
+            content.classList.remove("active");
+        });
+
+        button.classList.add("active");
+
+        const targetContent =
+        document.getElementById(target);
+
+        if(targetContent){
+            targetContent.classList.add("active");
+        }
+
+        window.scrollTo({
+            top:
+            document.querySelector(
+                ".tabs-wrapper"
+            ).offsetTop,
+            behavior:"smooth"
+        });
+
+    });
+
+});
+
+
+/* ================= ACCORDION ================= */
+
+function toggleAccordion(button){
+
+    const accordion =
+    button.parentElement;
+
+    accordion.classList.toggle("open");
+
+}
+
+
+/* ================= PRACTICE ANSWERS ================= */
+
+function checkAnswer(
+    question,
+    correct,
+    resultId
+){
+
+    const selected =
+    document.querySelector(
+        'input[name="' +
+        question +
+        '"]:checked'
+    );
+
+    const result =
+    document.getElementById(resultId);
+
+    result.style.display = "block";
+
+    if(!selected){
+
+        result.className =
+        "result wrong";
+
+        result.innerHTML =
+        "⚠️ Please select an option first.";
+
+        return;
+    }
+
+    if(selected.value === correct){
+
+        result.className =
+        "result correct";
+
+        result.innerHTML =
+        "✅ Correct! Excellent.";
+
+    }else{
+
+        result.className =
+        "result wrong";
+
+        result.innerHTML =
+        "❌ Incorrect. Try the formula again.";
+
+    }
+
+}
+
+</script>
+
+</body>
+</html>
