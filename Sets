@@ -1,0 +1,1604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>SETS | Complete NDA & SSC Notes</title>
+
+<style>
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+:root{
+    --bg:#f1f5f9;
+    --card:#ffffff;
+    --text:#172033;
+    --muted:#64748b;
+    --primary:#2563eb;
+    --primary2:#4f46e5;
+    --green:#059669;
+    --orange:#ea580c;
+    --red:#dc2626;
+    --purple:#7c3aed;
+    --border:#e2e8f0;
+    --shadow:0 8px 25px rgba(15,23,42,.08);
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.65;
+}
+
+/* HEADER */
+
+.header{
+    background:linear-gradient(135deg,#1d4ed8,#6d28d9);
+    color:white;
+    padding:45px 20px;
+}
+
+.header-inner{
+    max-width:1150px;
+    margin:auto;
+}
+
+.badge{
+    display:inline-block;
+    background:rgba(255,255,255,.15);
+    border:1px solid rgba(255,255,255,.25);
+    padding:6px 13px;
+    border-radius:30px;
+    font-size:12px;
+    margin-bottom:14px;
+}
+
+.header h1{
+    font-size:48px;
+    margin-bottom:8px;
+}
+
+.header p{
+    opacity:.9;
+    font-size:16px;
+}
+
+/* MAIN */
+
+.container{
+    width:min(1150px,94%);
+    margin:auto;
+}
+
+/* TABS */
+
+.tabs-wrapper{
+    position:sticky;
+    top:0;
+    z-index:100;
+    background:rgba(255,255,255,.96);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+    box-shadow:0 3px 12px rgba(0,0,0,.05);
+}
+
+.tabs{
+    max-width:1150px;
+    margin:auto;
+    display:flex;
+    overflow-x:auto;
+    scrollbar-width:none;
+}
+
+.tabs::-webkit-scrollbar{
+    display:none;
+}
+
+.tab-btn{
+    border:0;
+    background:none;
+    padding:17px 23px;
+    cursor:pointer;
+    font-size:14px;
+    font-weight:700;
+    color:var(--muted);
+    white-space:nowrap;
+    border-bottom:3px solid transparent;
+    transition:.25s;
+}
+
+.tab-btn:hover{
+    color:var(--primary);
+    background:#f8fafc;
+}
+
+.tab-btn.active{
+    color:var(--primary);
+    border-bottom-color:var(--primary);
+    background:#eff6ff;
+}
+
+/* CONTENT */
+
+.tab-content{
+    display:none;
+    padding:35px 0 60px;
+    animation:fade .25s ease;
+}
+
+.tab-content.active{
+    display:block;
+}
+
+@keyframes fade{
+    from{
+        opacity:0;
+        transform:translateY(6px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+.section-title{
+    font-size:28px;
+    margin-bottom:20px;
+}
+
+.card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:16px;
+    padding:22px;
+    margin-bottom:18px;
+    box-shadow:var(--shadow);
+}
+
+.card h2{
+    font-size:22px;
+    margin-bottom:12px;
+}
+
+.card h3{
+    font-size:18px;
+    margin:18px 0 8px;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+    gap:16px;
+}
+
+.mini{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+}
+
+.mini h3{
+    margin:0 0 8px;
+}
+
+.definition{
+    border-left:5px solid var(--primary);
+    background:#f8fafc;
+}
+
+.formula{
+    background:#eff6ff;
+    border:1px solid #bfdbfe;
+    border-left:5px solid var(--primary);
+    border-radius:10px;
+    padding:14px 16px;
+    margin:12px 0;
+    font-family:Cambria,serif;
+    font-size:19px;
+}
+
+.formula-title{
+    display:block;
+    font-family:Arial,sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    color:var(--primary2);
+    margin-bottom:4px;
+}
+
+.success{
+    background:#ecfdf5;
+    border-left:5px solid var(--green);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.warning{
+    background:#fff7ed;
+    border-left:5px solid var(--orange);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+.danger{
+    background:#fef2f2;
+    border-left:5px solid var(--red);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+
+ul,ol{
+    padding-left:22px;
+}
+
+li{
+    margin:7px 0;
+}
+
+/* TABLE */
+
+.table-wrap{
+    overflow-x:auto;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:12px;
+    background:white;
+}
+
+th{
+    background:#1e293b;
+    color:white;
+    padding:12px;
+    text-align:left;
+}
+
+td{
+    padding:11px 12px;
+    border-bottom:1px solid var(--border);
+}
+
+tr:nth-child(even){
+    background:#f8fafc;
+}
+
+/* EXAMPLES */
+
+.example{
+    background:#faf5ff;
+    border:1px solid #ddd6fe;
+    border-radius:14px;
+    padding:19px;
+    margin:15px 0;
+}
+
+.example-title{
+    color:var(--purple);
+    font-weight:800;
+    margin-bottom:8px;
+}
+
+.answer{
+    background:#ecfdf5;
+    color:#065f46;
+    padding:11px 14px;
+    border-radius:8px;
+    margin-top:10px;
+}
+
+/* PRACTICE */
+
+.question{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+    margin:13px 0;
+}
+
+.options{
+    margin-top:10px;
+}
+
+.options label{
+    display:block;
+    padding:8px 10px;
+    border-radius:7px;
+    cursor:pointer;
+}
+
+.options label:hover{
+    background:#eff6ff;
+}
+
+.check-answer{
+    margin-top:12px;
+    padding:9px 15px;
+    border:0;
+    background:var(--primary);
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.result{
+    display:none;
+    margin-top:10px;
+    padding:10px;
+    border-radius:8px;
+}
+
+.correct{
+    background:#dcfce7;
+    color:#166534;
+}
+
+.wrong{
+    background:#fee2e2;
+    color:#991b1b;
+}
+
+/* ACCORDION */
+
+.accordion{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:12px;
+    margin:10px 0;
+    overflow:hidden;
+}
+
+.accordion button{
+    width:100%;
+    border:0;
+    background:white;
+    padding:16px;
+    text-align:left;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:15px;
+}
+
+.accordion button:hover{
+    background:#f8fafc;
+}
+
+.accordion-content{
+    display:none;
+    padding:0 16px 16px;
+    border-top:1px solid var(--border);
+}
+
+.accordion.open .accordion-content{
+    display:block;
+}
+
+/* FOOTER */
+
+footer{
+    background:#0f172a;
+    color:#cbd5e1;
+    text-align:center;
+    padding:30px 15px;
+}
+
+/* MOBILE */
+
+@media(max-width:600px){
+
+    .header{
+        padding:35px 18px;
+    }
+
+    .header h1{
+        font-size:38px;
+    }
+
+    .tab-btn{
+        padding:14px 16px;
+        font-size:13px;
+    }
+
+    .tab-content{
+        padding-top:25px;
+    }
+
+    .card{
+        padding:17px;
+    }
+
+    .formula{
+        font-size:17px;
+        overflow-x:auto;
+    }
+
+}
+</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+
+<header class="header">
+<div class="header-inner">
+
+<span class="badge">NDA • SSC • MATHEMATICS</span>
+
+<h1>SETS</h1>
+
+<p>
+Complete chapter notes — Theory, Formulas, Examples,
+Short Tricks & Practice Questions
+</p>
+
+</div>
+</header>
+
+
+<!-- TABS -->
+
+<div class="tabs-wrapper">
+
+<div class="tabs">
+
+<button class="tab-btn active" data-tab="theory">
+Theory
+</button>
+
+<button class="tab-btn" data-tab="formulas">
+Formulas
+</button>
+
+<button class="tab-btn" data-tab="examples">
+Examples
+</button>
+
+<button class="tab-btn" data-tab="tricks">
+Short Tricks
+</button>
+
+<button class="tab-btn" data-tab="practice">
+Practice
+</button>
+
+</div>
+
+</div>
+
+
+<main class="container">
+
+
+<!-- ================= THEORY ================= -->
+
+<section id="theory" class="tab-content active">
+
+<h2 class="section-title">Complete Theory</h2>
+
+<div class="card definition">
+
+<h2>1. What is a Set?</h2>
+
+<p>
+A set is a well-defined collection of distinct objects.
+The objects of a set are called its elements or members.
+</p>
+
+<div class="formula">
+<span class="formula-title">Example</span>
+A = {2, 4, 6, 8}
+</div>
+
+<p>
+Here 2, 4, 6 and 8 are elements of A.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>2. Representation of Sets</h2>
+
+<div class="grid">
+
+<div class="mini">
+
+<h3>Roster Form</h3>
+
+<p>Elements are listed explicitly.</p>
+
+<div class="formula">
+A = {1,2,3,4,5}
+</div>
+
+</div>
+
+<div class="mini">
+
+<h3>Set Builder Form</h3>
+
+<p>Elements are represented using a condition.</p>
+
+<div class="formula">
+A = {x : x &lt; 6, x ∈ N}
+</div>
+
+</div>
+
+<div class="mini">
+
+<h3>Statement Form</h3>
+
+<p>Set is described in words.</p>
+
+<div class="formula">
+Set of prime numbers less than 10
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>3. Types of Sets</h2>
+
+<div class="grid">
+
+<div class="mini">
+<h3>Empty Set</h3>
+<p>No elements.</p>
+<div class="formula">∅ = { }</div>
+</div>
+
+<div class="mini">
+<h3>Singleton Set</h3>
+<p>Exactly one element.</p>
+<div class="formula">{5}</div>
+</div>
+
+<div class="mini">
+<h3>Finite Set</h3>
+<p>Finite number of elements.</p>
+</div>
+
+<div class="mini">
+<h3>Infinite Set</h3>
+<p>Infinitely many elements.</p>
+<div class="formula">N = {1,2,3,...}</div>
+</div>
+
+<div class="mini">
+<h3>Equal Sets</h3>
+<p>Exactly same elements.</p>
+</div>
+
+<div class="mini">
+<h3>Equivalent Sets</h3>
+<p>Same number of elements.</p>
+<div class="formula">n(A)=n(B)</div>
+</div>
+
+<div class="mini">
+<h3>Universal Set</h3>
+<p>Set containing all objects under consideration.</p>
+</div>
+
+<div class="mini">
+<h3>Disjoint Sets</h3>
+<p>No common element.</p>
+<div class="formula">A ∩ B = ∅</div>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>4. Subset</h2>
+
+<p>
+A is a subset of B when every element of A belongs to B.
+</p>
+
+<div class="formula">
+A ⊆ B
+</div>
+
+<div class="success">
+The empty set is a subset of every set.
+Also, every set is a subset of itself.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>5. Power Set</h2>
+
+<p>
+Power set of A is the set containing all subsets of A.
+It is denoted by P(A).
+</p>
+
+<div class="example">
+
+<div class="example-title">
+Example
+</div>
+
+<p>A = {1,2}</p>
+
+<div class="formula">
+P(A) = {∅,{1},{2},{1,2}}
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>6. Operations on Sets</h2>
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Union — A ∪ B
+</button>
+
+<div class="accordion-content">
+
+<p>
+Union contains elements belonging to A or B or both.
+</p>
+
+<div class="formula">
+A ∪ B = {x : x ∈ A or x ∈ B}
+</div>
+
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Intersection — A ∩ B
+</button>
+
+<div class="accordion-content">
+
+<p>
+Intersection contains common elements.
+</p>
+
+<div class="formula">
+A ∩ B = {x : x ∈ A and x ∈ B}
+</div>
+
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Difference — A − B
+</button>
+
+<div class="accordion-content">
+
+<p>
+Elements belonging to A but not B.
+</p>
+
+<div class="formula">
+A − B = {x : x ∈ A and x ∉ B}
+</div>
+
+</div>
+
+</div>
+
+
+<div class="accordion">
+
+<button onclick="toggleAccordion(this)">
+Complement — A'
+</button>
+
+<div class="accordion-content">
+
+<p>
+Elements of U which do not belong to A.
+</p>
+
+<div class="formula">
+A' = U − A
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>7. Cartesian Product</h2>
+
+<p>
+Cartesian product A × B is the set of all ordered pairs (a,b).
+</p>
+
+<div class="formula">
+A × B = {(a,b) : a ∈ A, b ∈ B}
+</div>
+
+<div class="formula">
+n(A × B) = n(A) × n(B)
+</div>
+
+<div class="warning">
+Order matters:
+<strong>(a,b) ≠ (b,a)</strong> in general.
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================= FORMULAS ================= -->
+
+<section id="formulas" class="tab-content">
+
+<h2 class="section-title">Complete Formula Sheet</h2>
+
+
+<div class="card">
+
+<h2>Subset Formulas</h2>
+
+<div class="formula">
+<span class="formula-title">Total Subsets</span>
+2ⁿ
+</div>
+
+<div class="formula">
+<span class="formula-title">Proper Subsets</span>
+2ⁿ − 1
+</div>
+
+<div class="formula">
+<span class="formula-title">Non-empty Subsets</span>
+2ⁿ − 1
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Two Set Formula</h2>
+
+<div class="formula">
+n(A ∪ B)
+=
+n(A)+n(B)−n(A∩B)
+</div>
+
+<div class="formula">
+n(A only)
+=
+n(A)−n(A∩B)
+</div>
+
+<div class="formula">
+n(B only)
+=
+n(B)−n(A∩B)
+</div>
+
+<div class="formula">
+Neither
+=
+n(U)−n(A∪B)
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Three Set Formula</h2>
+
+<div class="formula">
+n(A∪B∪C)
+=
+n(A)+n(B)+n(C)
+−n(A∩B)
+−n(B∩C)
+−n(C∩A)
++n(A∩B∩C)
+</div>
+
+<div class="formula">
+Only A
+=
+A−AB−AC+ABC
+</div>
+
+<div class="formula">
+Only B
+=
+B−AB−BC+ABC
+</div>
+
+<div class="formula">
+Only C
+=
+C−AC−BC+ABC
+</div>
+
+<div class="formula">
+Exactly Two
+=
+AB+BC+CA−3ABC
+</div>
+
+<div class="formula">
+None
+=
+U−(A∪B∪C)
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Complement Formulas</h2>
+
+<div class="formula">
+A ∪ A' = U
+</div>
+
+<div class="formula">
+A ∩ A' = ∅
+</div>
+
+<div class="formula">
+(A')' = A
+</div>
+
+<div class="formula">
+n(A') = n(U)−n(A)
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>De Morgan's Laws</h2>
+
+<div class="formula">
+(A∪B)' = A'∩B'
+</div>
+
+<div class="formula">
+(A∩B)' = A'∪B'
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>Important Identities</h2>
+
+<div class="table-wrap">
+
+<table>
+
+<tr>
+<th>Law</th>
+<th>Identity</th>
+</tr>
+
+<tr>
+<td>Commutative</td>
+<td>A∪B = B∪A</td>
+</tr>
+
+<tr>
+<td>Commutative</td>
+<td>A∩B = B∩A</td>
+</tr>
+
+<tr>
+<td>Associative</td>
+<td>(A∪B)∪C = A∪(B∪C)</td>
+</tr>
+
+<tr>
+<td>Associative</td>
+<td>(A∩B)∩C = A∩(B∩C)</td>
+</tr>
+
+<tr>
+<td>Identity</td>
+<td>A∪∅ = A</td>
+</tr>
+
+<tr>
+<td>Identity</td>
+<td>A∩U = A</td>
+</tr>
+
+<tr>
+<td>Domination</td>
+<td>A∪U = U</td>
+</tr>
+
+<tr>
+<td>Domination</td>
+<td>A∩∅ = ∅</td>
+</tr>
+
+<tr>
+<td>Idempotent</td>
+<td>A∪A = A</td>
+</tr>
+
+<tr>
+<td>Idempotent</td>
+<td>A∩A = A</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================= EXAMPLES ================= -->
+
+<section id="examples" class="tab-content">
+
+<h2 class="section-title">Solved Examples</h2>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 1 — Number of Subsets
+</div>
+
+<p>
+A set contains 5 elements. Find the number of subsets.
+</p>
+
+<div class="formula">
+2⁵ = 32
+</div>
+
+<div class="answer">
+Answer: <strong>32</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 2 — Proper Subsets
+</div>
+
+<p>
+A set contains 6 elements. Find its proper subsets.
+</p>
+
+<div class="formula">
+2⁶ − 1 = 63
+</div>
+
+<div class="answer">
+Answer: <strong>63</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 3 — Union
+</div>
+
+<p>
+n(A)=35, n(B)=28 and n(A∩B)=12.
+Find n(A∪B).
+</p>
+
+<div class="formula">
+35 + 28 − 12 = 51
+</div>
+
+<div class="answer">
+Answer: <strong>51</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 4 — Neither
+</div>
+
+<p>
+There are 80 students. 45 study Maths,
+40 study Physics and 20 study both.
+Find students studying neither.
+</p>
+
+<div class="formula">
+Maths ∪ Physics
+=
+45+40−20
+=
+65
+</div>
+
+<div class="formula">
+Neither = 80−65 = 15
+</div>
+
+<div class="answer">
+Answer: <strong>15 students</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 5 — Three Sets
+</div>
+
+<p>
+A=40, B=35, C=30,
+AB=15, BC=10, CA=12 and ABC=5.
+Find A∪B∪C.
+</p>
+
+<div class="formula">
+40+35+30−15−10−12+5
+=
+73
+</div>
+
+<div class="answer">
+Answer: <strong>73</strong>
+</div>
+
+</div>
+
+
+<div class="example">
+
+<div class="example-title">
+Example 6 — Cartesian Product
+</div>
+
+<p>
+If n(A)=4 and n(B)=7, find n(A×B).
+</p>
+
+<div class="formula">
+4×7 = 28
+</div>
+
+<div class="answer">
+Answer: <strong>28</strong>
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================= TRICKS ================= -->
+
+<section id="tricks" class="tab-content">
+
+<h2 class="section-title">Short Tricks & Exam Tips</h2>
+
+
+<div class="card">
+
+<h2>🔥 Trick 1 — Subset Question</h2>
+
+<p>
+Whenever the question gives number of elements directly,
+immediately use:
+</p>
+
+<div class="formula">
+n elements → 2ⁿ subsets
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 2 — Proper Subsets</h2>
+
+<div class="formula">
+Proper subsets = 2ⁿ−1
+</div>
+
+<p>
+Why minus 1? Because the set itself is removed.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 3 — At Least One</h2>
+
+<div class="formula">
+At least one = Total − None
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 4 — Neither</h2>
+
+<div class="formula">
+Neither = Total − Union
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 5 — Two Sets</h2>
+
+<div class="formula">
+Union = A+B−AB
+</div>
+
+<div class="warning">
+Never add A+B directly when the sets overlap.
+The common part must be subtracted once.
+</div>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔥 Trick 6 — Three Sets</h2>
+
+<div class="formula">
+Union
+=
+Singles − Pairwise + Triple
+</div>
+
+<p>
+Think:
+<strong>+</strong> individual sets → <strong>−</strong> pair intersections →
+<strong>+</strong> triple intersection.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>⚠️ Common Exam Traps</h2>
+
+<ul>
+
+<li>
+Repeated elements are counted only once.
+</li>
+
+<li>
+Order of elements does not matter.
+</li>
+
+<li>
+A set is always a subset of itself.
+</li>
+
+<li>
+∅ is a subset of every set.
+</li>
+
+<li>
+A−B is generally not equal to B−A.
+</li>
+
+<li>
+A×B is generally not equal to B×A.
+</li>
+
+<li>
+Do not forget the intersection while calculating union.
+</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+<!-- ================= PRACTICE ================= -->
+
+<section id="practice" class="tab-content">
+
+<h2 class="section-title">Practice Test</h2>
+
+
+<div class="question">
+
+<p>
+<strong>Q1.</strong>
+A set contains 8 elements. How many subsets does it have?
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q1" value="a">
+A) 64
+</label>
+
+<label>
+<input type="radio" name="q1" value="b">
+B) 128
+</label>
+
+<label>
+<input type="radio" name="q1" value="c">
+C) 256
+</label>
+
+<label>
+<input type="radio" name="q1" value="d">
+D) 512
+</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q1','c','r1')">
+Check Answer
+</button>
+
+<div id="r1" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q2.</strong>
+If n(A)=50, n(B)=40 and n(A∩B)=15,
+find n(A∪B).
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q2" value="a">
+A) 65
+</label>
+
+<label>
+<input type="radio" name="q2" value="b">
+B) 75
+</label>
+
+<label>
+<input type="radio" name="q2" value="c">
+C) 90
+</label>
+
+<label>
+<input type="radio" name="q2" value="d">
+D) 105
+</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q2','b','r2')">
+Check Answer
+</button>
+
+<div id="r2" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q3.</strong>
+A universal set contains 100 elements.
+If A contains 65 elements, find n(A').
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q3" value="a">
+A) 25
+</label>
+
+<label>
+<input type="radio" name="q3" value="b">
+B) 30
+</label>
+
+<label>
+<input type="radio" name="q3" value="c">
+C) 35
+</label>
+
+<label>
+<input type="radio" name="q3" value="d">
+D) 40
+</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q3','c','r3')">
+Check Answer
+</button>
+
+<div id="r3" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q4.</strong>
+If n(P(A))=64, find n(A).
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q4" value="a">
+A) 4
+</label>
+
+<label>
+<input type="radio" name="q4" value="b">
+B) 5
+</label>
+
+<label>
+<input type="radio" name="q4" value="c">
+C) 6
+</label>
+
+<label>
+<input type="radio" name="q4" value="d">
+D) 7
+</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q4','c','r4')">
+Check Answer
+</button>
+
+<div id="r4" class="result"></div>
+
+</div>
+
+
+<div class="question">
+
+<p>
+<strong>Q5.</strong>
+If A and B are disjoint, n(A)=25 and n(B)=30.
+Find n(A∪B).
+</p>
+
+<div class="options">
+
+<label>
+<input type="radio" name="q5" value="a">
+A) 5
+</label>
+
+<label>
+<input type="radio" name="q5" value="b">
+B) 25
+</label>
+
+<label>
+<input type="radio" name="q5" value="c">
+C) 30
+</label>
+
+<label>
+<input type="radio" name="q5" value="d">
+D) 55
+</label>
+
+</div>
+
+<button class="check-answer" onclick="checkAnswer('q5','d','r5')">
+Check Answer
+</button>
+
+<div id="r5" class="result"></div>
+
+</div>
+
+</section>
+
+</main>
+
+
+<footer>
+
+<strong>SETS — Complete Mathematics Notes</strong>
+
+<p>NDA • SSC • Competitive Examinations</p>
+
+</footer>
+
+
+<script>
+
+/* ================= TAB SYSTEM ================= */
+
+const tabButtons = document.querySelectorAll(".tab-btn");
+const tabContents = document.querySelectorAll(".tab-content");
+
+tabButtons.forEach(button => {
+
+    button.addEventListener("click", () => {
+
+        const target = button.dataset.tab;
+
+        /* Remove active from all buttons */
+        tabButtons.forEach(btn => {
+            btn.classList.remove("active");
+        });
+
+        /* Remove active from all content */
+        tabContents.forEach(content => {
+            content.classList.remove("active");
+        });
+
+        /* Activate clicked tab */
+        button.classList.add("active");
+
+        const targetContent = document.getElementById(target);
+
+        if(targetContent){
+            targetContent.classList.add("active");
+        }
+
+        /* Scroll content slightly into view */
+        window.scrollTo({
+            top: document.querySelector(".tabs-wrapper").offsetTop,
+            behavior:"smooth"
+        });
+
+    });
+
+});
+
+
+/* ================= ACCORDION ================= */
+
+function toggleAccordion(button){
+
+    const accordion = button.parentElement;
+
+    accordion.classList.toggle("open");
+
+}
+
+
+/* ================= PRACTICE ANSWERS ================= */
+
+function checkAnswer(question, correct, resultId){
+
+    const selected =
+        document.querySelector(
+            'input[name="' + question + '"]:checked'
+        );
+
+    const result =
+        document.getElementById(resultId);
+
+    result.style.display = "block";
+
+    if(!selected){
+
+        result.className = "result wrong";
+
+        result.innerHTML =
+            "⚠️ Please select an option first.";
+
+        return;
+    }
+
+    if(selected.value === correct){
+
+        result.className = "result correct";
+
+        result.innerHTML =
+            "✅ Correct! Excellent.";
+
+    }else{
+
+        result.className = "result wrong";
+
+        result.innerHTML =
+            "❌ Incorrect. Try the formula again.";
+
+    }
+
+}
+
+</script>
+
+</body>
+</html>
