@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PrepExam - Mock Test Series</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+    background:#f5f7fb;
+    color:#172033;
+}
+
+/* APP */
+
+.app{
+    max-width:700px;
+    margin:auto;
+    min-height:100vh;
+    background:#f5f7fb;
+}
+
+/* HEADER */
+
+.header{
+    background:#ffffff;
+    padding:18px 20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    border-bottom:1px solid #e6e9ef;
+    position:sticky;
+    top:0;
+    z-index:20;
+}
+
+.logo{
+    font-size:22px;
+    font-weight:800;
+    color:#2563eb;
+}
+
+.logo span{
+    color:#111827;
+}
+
+.header-btn{
+    border:none;
+    background:#eef4ff;
+    color:#2563eb;
+    padding:9px 13px;
+    border-radius:10px;
+    font-weight:600;
+}
+
+/* SCREENS */
+
+.screen{
+    display:none;
+    padding:20px;
+}
+
+.screen.active{
+    display:block;
+}
+
+/* HERO */
+
+.hero{
+    background:linear-gradient(135deg,#2563eb,#4f46e5);
+    color:white;
+    border-radius:20px;
+    padding:25px;
+    margin-bottom:25px;
+}
+
+.hero h1{
+    font-size:28px;
+    margin-bottom:8px;
+}
+
+.hero p{
+    color:#dbeafe;
+    line-height:1.5;
+}
+
+/* SECTION */
+
+.section-title{
+    font-size:20px;
+    font-weight:750;
+    margin-bottom:14px;
+}
+
+/* EXAM CARDS */
+
+.exam-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:14px;
+}
+
+.exam-card{
+    background:white;
+    border:1px solid #e5e7eb;
+    border-radius:16px;
+    padding:20px;
+    cursor:pointer;
+    transition:.2s;
+}
+
+.exam-card:hover{
+    transform:translateY(-2px);
+    box-shadow:0 8px 25px rgba(0,0,0,.07);
+}
+
+.exam-icon{
+    width:48px;
+    height:48px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#eef4ff;
+    border-radius:13px;
+    font-size:24px;
+    margin-bottom:12px;
+}
+
+.exam-card h3{
+    margin-bottom:5px;
+}
+
+.exam-card p{
+    color:#6b7280;
+    font-size:13px;
+}
+
+/* TEST TYPE */
+
+.test-card{
+    background:white;
+    border:1px solid #e5e7eb;
+    padding:18px;
+    border-radius:15px;
+    margin-bottom:12px;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    gap:14px;
+}
+
+.test-card:hover{
+    border-color:#2563eb;
+}
+
+.test-icon{
+    width:45px;
+    height:45px;
+    border-radius:12px;
+    background:#eef4ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:21px;
+}
+
+.test-info{
+    flex:1;
+}
+
+.test-info h3{
+    font-size:16px;
+    margin-bottom:5px;
+}
+
+.test-info p{
+    color:#6b7280;
+    font-size:13px;
+}
+
+.arrow{
+    color:#9ca3af;
+    font-size:22px;
+}
+
+/* BUTTON */
+
+.primary-btn{
+    width:100%;
+    border:none;
+    padding:15px;
+    border-radius:13px;
+    background:#2563eb;
+    color:white;
+    font-size:16px;
+    font-weight:700;
+    cursor:pointer;
+}
+
+.secondary-btn{
+    width:100%;
+    border:1px solid #d1d5db;
+    padding:14px;
+    border-radius:13px;
+    background:white;
+    color:#374151;
+    font-size:15px;
+    font-weight:600;
+    cursor:pointer;
+    margin-top:10px;
+}
+
+/* TEST HEADER */
+
+.test-header{
+    background:white;
+    padding:15px 20px;
+    border-bottom:1px solid #e5e7eb;
+    position:sticky;
+    top:0;
+    z-index:15;
+}
+
+.test-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:12px;
+}
+
+.test-title{
+    font-weight:700;
+}
+
+.timer{
+    background:#fff1f2;
+    color:#e11d48;
+    padding:7px 11px;
+    border-radius:9px;
+    font-weight:700;
+}
+
+.progress{
+    height:6px;
+    background:#e5e7eb;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.progress-bar{
+    height:100%;
+    width:0%;
+    background:#2563eb;
+}
+
+/* QUESTION */
+
+.question-box{
+    background:white;
+    padding:20px;
+    margin-top:16px;
+    border-radius:16px;
+}
+
+.question-number{
+    color:#2563eb;
+    font-weight:700;
+    margin-bottom:12px;
+}
+
+.question{
+    font-size:18px;
+    line-height:1.55;
+    font-weight:650;
+    margin-bottom:20px;
+}
+
+/* OPTIONS */
+
+.option{
+    border:1px solid #dfe3ea;
+    padding:14px;
+    border-radius:12px;
+    margin-bottom:10px;
+    cursor:pointer;
+    display:flex;
+    gap:12px;
+    align-items:flex-start;
+    background:white;
+}
+
+.option:hover{
+    border-color:#2563eb;
+}
+
+.option.selected{
+    border-color:#2563eb;
+    background:#eff6ff;
+}
+
+.option-letter{
+    width:30px;
+    height:30px;
+    border-radius:8px;
+    background:#f1f5f9;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:bold;
+    flex-shrink:0;
+}
+
+.option.selected .option-letter{
+    background:#2563eb;
+    color:white;
+}
+
+.option-text{
+    line-height:1.4;
+}
+
+/* NAVIGATION */
+
+.question-actions{
+    display:flex;
+    gap:10px;
+    margin-top:16px;
+}
+
+.nav-btn{
+    flex:1;
+    border:1px solid #d1d5db;
+    background:white;
+    padding:13px;
+    border-radius:11px;
+    font-weight:650;
+    cursor:pointer;
+}
+
+.nav-btn.primary{
+    background:#2563eb;
+    color:white;
+    border-color:#2563eb;
+}
+
+.review-btn{
+    margin-top:10px;
+    width:100%;
+    border:none;
+    background:#fef3c7;
+    color:#92400e;
+    padding:12px;
+    border-radius:10px;
+    font-weight:600;
+}
+
+/* QUESTION PALETTE */
+
+.palette{
+    background:white;
+    margin-top:15px;
+    padding:18px;
+    border-radius:15px;
+}
+
+.palette-title{
+    font-weight:700;
+    margin-bottom:12px;
+}
+
+.palette-grid{
+    display:grid;
+    grid-template-columns:repeat(8,1fr);
+    gap:7px;
+}
+
+.palette-btn{
+    height:35px;
+    border:1px solid #d1d5db;
+    border-radius:8px;
+    background:white;
+    cursor:pointer;
+}
+
+.palette-btn.current{
+    background:#2563eb;
+    color:white;
+    border-color:#2563eb;
+}
+
+.palette-btn.answered{
+    background:#dcfce7;
+    color:#166534;
+    border-color:#86efac;
+}
+
+.palette-btn.review{
+    background:#fef3c7;
+    color:#92400e;
+    border-color:#fcd34d;
+}
+
+/* RESULT */
+
+.result-header{
+    text-align:center;
+    padding:25px 10px;
+}
+
+.result-circle{
+    width:120px;
+    height:120px;
+    margin:10px auto 20px;
+    border-radius:50%;
+    background:#eff6ff;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:#2563eb;
+}
+
+.result-circle strong{
+    font-size:32px;
+}
+
+.result-circle span{
+    font-size:13px;
+}
+
+.result-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+}
+
+.result-card{
+    background:white;
+    border-radius:15px;
+    padding:18px;
+    text-align:center;
+    border:1px solid #e5e7eb;
+}
+
+.result-card strong{
+    display:block;
+    font-size:25px;
+    margin-bottom:5px;
+}
+
+.result-card span{
+    color:#6b7280;
+    font-size:13px;
+}
+
+/* MOBILE */
+
+@media(max-width:500px){
+
+    .exam-grid{
+        grid-template-columns:1fr 1fr;
+    }
+
+    .palette-grid{
+        grid-template-columns:repeat(5,1fr);
+    }
+
+    .question{
+        font-size:17px;
+    }
+
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="app">
+
+<!-- ================= HOME ================= -->
+
+<div id="homeScreen" class="screen active">
+
+    <div class="header">
+        <div class="logo">Prep<span>Exam</span></div>
+        <button class="header-btn">Mock Tests</button>
+    </div>
+
+    <div class="hero">
+        <h1>Prepare. Practice. Perform.</h1>
+        <p>
+            Practice competitive exam mock tests and improve
+            your preparation with PrepExam.
+        </p>
+    </div>
+
+    <div class="section-title">
+        Select Your Exam
+    </div>
+
+    <div class="exam-grid">
+
+        <div class="exam-card" onclick="selectExam('SSC')">
+            <div class="exam-icon">📚</div>
+            <h3>SSC</h3>
+            <p>SSC CGL, CHSL & more</p>
+        </div>
+
+        <div class="exam-card" onclick="selectExam('NDA')">
+            <div class="exam-icon">⚓</div>
+            <h3>NDA</h3>
+            <p>National Defence Academy</p>
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- ================= TEST LIST ================= -->
+
+<div id="testListScreen" class="screen">
+
+    <div class="header">
+        <div class="logo">Prep<span>Exam</span></div>
+        <button class="header-btn" onclick="showScreen('homeScreen')">
+            ← Back
+        </button>
+    </div>
+
+    <div style="margin-top:20px">
+
+        <div class="section-title" id="selectedExamTitle">
+            Select Test
+        </div>
+
+        <p style="color:#6b7280;margin-bottom:18px">
+            Choose a mock test or practice a specific subject.
+        </p>
+
+        <div id="testList"></div>
+
+    </div>
+
+</div>
+
+
+<!-- ================= TEST SCREEN ================= -->
+
+<div id="testScreen" class="screen" style="padding:0">
+
+    <div class="test-header">
+
+        <div class="test-top">
+
+            <div class="test-title" id="runningTestName">
+                Mock Test
+            </div>
+
+            <div class="timer" id="timer">
+                15:00
+            </div>
+
+        </div>
+
+        <div class="progress">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+
+    </div>
+
+
+    <div style="padding:0 20px 20px">
+
+        <div class="question-box">
+
+            <div class="question-number" id="questionNumber">
+                Question 1
+            </div>
+
+            <div class="question" id="questionText">
+                Loading question...
+            </div>
+
+            <div id="optionsContainer"></div>
+
+            <button class="review-btn" onclick="toggleReview()">
+                🔖 Mark for Review
+            </button>
+
+            <div class="question-actions">
+
+                <button class="nav-btn" onclick="previousQuestion()">
+                    ← Previous
+                </button>
+
+                <button class="nav-btn primary" onclick="nextQuestion()">
+                    Next →
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <div class="palette">
+
+            <div class="palette-title">
+                Question Palette
+            </div>
+
+            <div class="palette-grid" id="paletteGrid"></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- ================= RESULT ================= -->
+
+<div id="resultScreen" class="screen">
+
+    <div class="header">
+        <div class="logo">Prep<span>Exam</span></div>
+    </div>
+
+    <div class="result-header">
+
+        <h2>Test Completed 🎉</h2>
+
+        <div class="result-circle">
+
+            <strong id="percentage">0%</strong>
+
+            <span>Score</span>
+
+        </div>
+
+        <p id="resultMessage">
+            Keep practicing!
+        </p>
+
+    </div>
+
+
+    <div class="result-grid">
+
+        <div class="result-card">
+            <strong id="totalQuestions">0</strong>
+            <span>Total Questions</span>
+        </div>
+
+        <div class="result-card">
+            <strong id="correctAnswers">0</strong>
+            <span>Correct</span>
+        </div>
+
+        <div class="result-card">
+            <strong id="wrongAnswers">0</strong>
+            <span>Wrong</span>
+        </div>
+
+        <div class="result-card">
+            <strong id="unanswered">0</strong>
+            <span>Unanswered</span>
+        </div>
+
+    </div>
+
+    <div style="margin-top:20px">
+
+        <button class="primary-btn" onclick="restartTest()">
+            🔄 Retake Test
+        </button>
+
+        <button class="secondary-btn" onclick="showScreen('homeScreen')">
+            🏠 Back to Home
+        </button>
+
+    </div>
+
+</div>
+
+</div>
+
+
+<script>
+
+/* =========================================================
+   PREPEXAM TEST CONFIGURATION
+   =========================================================
+
+   THIS IS THE MAIN SECTION YOU CAN EASILY EDIT.
+
+   Add new tests by copying one object.
+
+========================================================= */
+
+const TESTS = {
+
+    SSC: [
+
+        {
+            title:"SSC General Knowledge Demo",
+            type:"Full Mock Test",
+            description:"GK practice mock test",
+            icon:"📝",
+
+            /*
+             YOUR GITHUB CSV/TXT LINK
+            */
+
+            url:"https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/Testing%2001",
+
+            duration:15
+        },
+
+        {
+            title:"SSC General Awareness",
+            type:"Subject Test",
+            description:"Practice General Awareness",
+            icon:"🌍",
+
+            url:"https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/Testing%2001",
+
+            duration:10
+        }
+
+    ],
+
+
+    NDA: [
+
+        {
+            title:"NDA General Knowledge Demo",
+            type:"Full Mock Test",
+            description:"NDA GK practice test",
+            icon:"⚓",
+
+            /*
+             Replace this with another GitHub file
+             when you create the NDA question bank.
+            */
+
+            url:"https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/Testing%2001",
+
+            duration:15
+        },
+
+        {
+            title:"NDA General Awareness",
+            type:"Subject Test",
+            description:"Practice General Awareness",
+            icon:"🎯",
+
+            url:"https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/Testing%2001",
+
+            duration:10
+        }
+
+    ]
+
+};
+
+
+/* =========================================================
+   GLOBAL VARIABLES
+========================================================= */
+
+let selectedExam = "";
+let currentTest = null;
+
+let questions = [];
+let currentQuestion = 0;
+
+let answers = [];
+let reviewStatus = [];
+
+let timeLeft = 0;
+let timerInterval;
+
+
+/* =========================================================
+   SCREEN CONTROL
+========================================================= */
+
+function showScreen(id){
+
+    document.querySelectorAll(".screen").forEach(screen=>{
+        screen.classList.remove("active");
+    });
+
+    document.getElementById(id).classList.add("active");
+
+    window.scrollTo({
+        top:0,
+        behavior:"smooth"
+    });
+
+}
+
+
+/* =========================================================
+   SELECT EXAM
+========================================================= */
+
+function selectExam(exam){
+
+    selectedExam = exam;
+
+    document.getElementById("selectedExamTitle").innerText =
+        exam + " Mock Test Series";
+
+    createTestList();
+
+    showScreen("testListScreen");
+
+}
+
+
+/* =========================================================
+   CREATE TEST LIST
+========================================================= */
+
+function createTestList(){
+
+    const container =
+        document.getElementById("testList");
+
+    container.innerHTML = "";
+
+    const tests = TESTS[selectedExam];
+
+    tests.forEach((test,index)=>{
+
+        const card = document.createElement("div");
+
+        card.className = "test-card";
+
+        card.innerHTML = `
+
+            <div class="test-icon">
+                ${test.icon}
+            </div>
+
+            <div class="test-info">
+
+                <h3>${test.title}</h3>
+
+                <p>
+                    ${test.type} •
+                    ${test.description}
+                </p>
+
+            </div>
+
+            <div class="arrow">
+                ›
+            </div>
+
+        `;
+
+        card.onclick = function(){
+
+            startTest(test);
+
+        };
+
+        container.appendChild(card);
+
+    });
+
+}
+
+
+/* =========================================================
+   START TEST
+========================================================= */
+
+async function startTest(test){
+
+    currentTest = test;
+
+    showScreen("testScreen");
+
+    document.getElementById("runningTestName").innerText =
+        test.title;
+
+    document.getElementById("questionText").innerText =
+        "Loading questions...";
+
+    document.getElementById("optionsContainer").innerHTML = "";
+
+    try{
+
+        const response = await fetch(test.url, {
+            cache:"no-store"
+        });
+
+        if(!response.ok){
+            throw new Error("Unable to load file");
+        }
+
+        const text = await response.text();
+
+        questions = parseCSV(text);
+
+        if(questions.length === 0){
+            throw new Error("No questions found");
+        }
+
+        currentQuestion = 0;
+
+        answers = new Array(questions.length).fill(null);
+
+        reviewStatus =
+            new Array(questions.length).fill(false);
+
+        timeLeft = test.duration * 60;
+
+        startTimer();
+
+        renderQuestion();
+
+        createPalette();
+
+    }
+    catch(error){
+
+        document.getElementById("questionText").innerHTML =
+
+        `
+        <div style="
+            background:#fff1f2;
+            padding:15px;
+            border-radius:10px;
+            color:#be123c">
+
+            <strong>Unable to load questions.</strong>
+
+            <br><br>
+
+            Please check your GitHub raw URL
+            and make sure the CSV/TXT file is publicly accessible.
+
+        </div>
+        `;
+
+        console.error(error);
+
+    }
+
+}
+
+
+/* =========================================================
+   CSV PARSER
+========================================================= */
+
+function parseCSV(text){
+
+    const lines = text
+        .replace(/\r/g,"")
+        .split("\n")
+        .filter(line=>line.trim() !== "");
+
+    const result = [];
+
+    lines.forEach(line=>{
+
+        /*
+         Simple CSV parser.
+
+         Expected format:
+
+         Question,
+         Option A,
+         Option B,
+         Option C,
+         Option D,
+         Correct Answer
+        */
+
+        const values = [];
+
+        let current = "";
+        let insideQuotes = false;
+
+        for(let i=0;i<line.length;i++){
+
+            const char = line[i];
+
+            if(char === '"'){
+
+                insideQuotes = !insideQuotes;
+
+            }
+            else if(char === "," && !insideQuotes){
+
+                values.push(current.trim());
+
+                current = "";
+
+            }
+            else{
+
+                current += char;
+
+            }
+
+        }
+
+        values.push(current.trim());
+
+        if(values.length >= 6){
+
+            result.push({
+
+                question:cleanCSV(values[0]),
+
+                options:[
+                    cleanCSV(values[1]),
+                    cleanCSV(values[2]),
+                    cleanCSV(values[3]),
+                    cleanCSV(values[4])
+                ],
+
+                correct:cleanCSV(values[5])
+
+            });
+
+        }
+
+    });
+
+    return result;
+
+}
+
+
+function cleanCSV(value){
+
+    value = value.trim();
+
+    if(
+        value.startsWith('"') &&
+        value.endsWith('"')
+    ){
+
+        value =
+            value.substring(
+                1,
+                value.length - 1
+            );
+
+    }
+
+    return value.replace(/""/g,'"');
+
+}
+
+
+/* =========================================================
+   RENDER QUESTION
+========================================================= */
+
+function renderQuestion(){
+
+    if(!questions.length) return;
+
+    const q = questions[currentQuestion];
+
+    document.getElementById("questionNumber").innerText =
+
+        `Question ${currentQuestion + 1} of ${questions.length}`;
+
+
+    document.getElementById("questionText").innerText =
+        q.question;
+
+
+    const container =
+        document.getElementById("optionsContainer");
+
+    container.innerHTML = "";
+
+
+    const letters = ["A","B","C","D"];
+
+
+    q.options.forEach((option,index)=>{
+
+        const div =
+            document.createElement("div");
+
+        div.className = "option";
+
+        if(answers[currentQuestion] === option){
+
+            div.classList.add("selected");
+
+        }
+
+
+        div.innerHTML = `
+
+            <div class="option-letter">
+                ${letters[index]}
+            </div>
+
+            <div class="option-text">
+                ${escapeHTML(option)}
+            </div>
+
+        `;
+
+
+        div.onclick = function(){
+
+            selectAnswer(option);
+
+        };
+
+
+        container.appendChild(div);
+
+    });
+
+
+    updateProgress();
+
+    updatePalette();
+
+}
+
+
+/* =========================================================
+   SELECT ANSWER
+======================================
