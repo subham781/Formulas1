@@ -1,0 +1,161 @@
+{
+  "testId": "ssc_cgl_mock_01",
+  "exam": "SSC CGL",
+  "testType": "fullLength",
+  "title": "SSC CGL Demo Mock Test 01",
+  "description": "Demo full length mock test for testing PrepExam.",
+  "durationMinutes": 15,
+  "totalQuestions": 10,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+
+  "instructions": [
+    "Total 10 questions hain.",
+    "Har question ke 2 marks hain.",
+    "Wrong answer par 0.5 marks deduct honge.",
+    "Test complete hone par result show hoga."
+  ],
+
+  "questions": [
+    {
+      "qid": "SSC001",
+      "subject": "GK",
+      "chapter": "Polity",
+      "question": "भारत का संविधान कब लागू हुआ था?",
+      "options": [
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "26 नवंबर 1949",
+        "2 अक्टूबर 1950"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारत का संविधान 26 जनवरी 1950 को लागू हुआ था."
+    },
+    {
+      "qid": "SSC002",
+      "subject": "History",
+      "chapter": "Modern History",
+      "question": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+      "options": [
+        "1930",
+        "1935",
+        "1942",
+        "1947"
+      ],
+      "correctAnswer": 3,
+      "explanation": "भारत छोड़ो आंदोलन अगस्त 1942 में शुरू हुआ था."
+    },
+    {
+      "qid": "SSC003",
+      "subject": "Geography",
+      "chapter": "Rivers",
+      "question": "भारत की सबसे लंबी नदी कौन-सी है?",
+      "options": [
+        "यमुना",
+        "गंगा",
+        "गोदावरी",
+        "नर्मदा"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारत में बहने वाली सबसे लंबी नदी गंगा है."
+    },
+    {
+      "qid": "SSC004",
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "200 का 25% कितना होगा?",
+      "options": [
+        "25",
+        "40",
+        "50",
+        "75"
+      ],
+      "correctAnswer": 3,
+      "explanation": "200 × 25/100 = 50."
+    },
+    {
+      "qid": "SSC005",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "2, 4, 8, 16, ? में अगली संख्या क्या होगी?",
+      "options": [
+        "20",
+        "24",
+        "32",
+        "36"
+      ],
+      "correctAnswer": 3,
+      "explanation": "हर संख्या को 2 से गुणा किया गया है, इसलिए अगली संख्या 32 होगी."
+    },
+    {
+      "qid": "SSC006",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Choose the synonym of 'Happy'.",
+      "options": [
+        "Sad",
+        "Joyful",
+        "Angry",
+        "Weak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joyful means happy."
+    },
+    {
+      "qid": "SSC007",
+      "subject": "Science",
+      "chapter": "Physics",
+      "question": "बल की SI इकाई क्या है?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "बल की SI इकाई Newton है."
+    },
+    {
+      "qid": "SSC008",
+      "subject": "GK",
+      "chapter": "Awards",
+      "question": "भारत का सर्वोच्च नागरिक सम्मान कौन-सा है?",
+      "options": [
+        "पद्म श्री",
+        "पद्म भूषण",
+        "पद्म विभूषण",
+        "भारत रत्न"
+      ],
+      "correctAnswer": 4,
+      "explanation": "भारत रत्न भारत का सर्वोच्च नागरिक सम्मान है."
+    },
+    {
+      "qid": "SSC009",
+      "subject": "Maths",
+      "chapter": "Profit and Loss",
+      "question": "किसी वस्तु का क्रय मूल्य ₹100 और विक्रय मूल्य ₹120 है। लाभ प्रतिशत कितना है?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "लाभ = 120 - 100 = ₹20. लाभ प्रतिशत = 20%."
+    },
+    {
+      "qid": "SSC010",
+      "subject": "Polity",
+      "chapter": "Fundamental Rights",
+      "question": "भारतीय संविधान में मौलिक अधिकार किस भाग में दिए गए हैं?",
+      "options": [
+        "भाग I",
+        "भाग II",
+        "भाग III",
+        "भाग IV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "मौलिक अधिकार संविधान के भाग III में दिए गए हैं."
+    }
+  ]
+}
