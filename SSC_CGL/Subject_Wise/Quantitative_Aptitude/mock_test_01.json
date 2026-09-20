@@ -1,0 +1,372 @@
+{
+  "testId": "ssc_cgl_quant_mock_01",
+  "exam": "SSC CGL",
+  "testType": "subjectWise",
+  "title": "SSC CGL Quantitative Aptitude Mock Test 01",
+  "description": "SSC CGL Quantitative Aptitude (Maths) Subject Wise Mock Test. 25 Questions.",
+  "durationMinutes": 25,
+  "totalQuestions": 25,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+
+  "instructions": [
+    "Yeh Quantitative Aptitude (Maths) ka subject-wise mock test hai.",
+    "Total 25 questions hain.",
+    "Har question ke 2 marks hain.",
+    "Galat jawab par 0.5 marks katenge.",
+    "Time: 25 minutes."
+  ],
+
+  "questions": [
+    {
+      "qid": "QUANT001",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "एक संख्या का 30% 150 है। वह संख्या क्या है?",
+      "options": [
+        "400",
+        "450",
+        "500",
+        "550"
+      ],
+      "correctAnswer": 3,
+      "explanation": "30% of x = 150 → x = 150 × 100/30 = 500."
+    },
+    {
+      "qid": "QUANT002",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit and Loss",
+      "question": "एक वस्तु को ₹800 में बेचने पर 20% का लाभ होता है। क्रय मूल्य क्या था?",
+      "options": [
+        "₹640",
+        "₹666.67",
+        "₹700",
+        "₹720"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SP = 120% of CP → CP = 800 × 100/120 ≈ 666.67."
+    },
+    {
+      "qid": "QUANT003",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "₹5000 पर 8% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "₹1000",
+        "₹1200",
+        "₹1400",
+        "₹1500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = (P×R×T)/100 = (5000×8×3)/100 = 1200."
+    },
+    {
+      "qid": "QUANT004",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Compound Interest",
+      "question": "₹10000 पर 10% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज (वार्षिक चक्रवृद्धि) कितना होगा?",
+      "options": [
+        "₹2000",
+        "₹2100",
+        "₹2200",
+        "₹2300"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Amount = 10000 × (1.1)² = 12100. CI = 2100."
+    },
+    {
+      "qid": "QUANT005",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio and Proportion",
+      "question": "यदि A : B = 3 : 4 और B : C = 5 : 6 हो, तो A : B : C क्या होगा?",
+      "options": [
+        "15 : 20 : 24",
+        "3 : 4 : 6",
+        "15 : 20 : 18",
+        "10 : 15 : 18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B = 3:4 = 15:20, B:C = 5:6 = 20:24 → A:B:C = 15:20:24."
+    },
+    {
+      "qid": "QUANT006",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "5 संख्याओं का औसत 28 है। यदि एक संख्या 35 हटा दी जाए, तो शेष 4 संख्याओं का औसत 26 हो जाता है। हटाई गई संख्या क्या है?",
+      "options": [
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Total of 5 = 140. Total of 4 = 104. Removed number = 140 - 104 = 36."
+    },
+    {
+      "qid": "QUANT007",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time and Work",
+      "question": "A किसी काम को 12 दिनों में और B 18 दिनों में पूरा करता है। दोनों मिलकर काम कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "6.5 दिन",
+        "7.2 दिन",
+        "8 दिन",
+        "9 दिन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time = 36/5 = 7.2 days."
+    },
+    {
+      "qid": "QUANT008",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed Time Distance",
+      "question": "एक गाड़ी 60 km/h की चाल से 2.5 घंटे में कितनी दूरी तय करेगी?",
+      "options": [
+        "120 km",
+        "140 km",
+        "150 km",
+        "160 km"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Distance = Speed × Time = 60 × 2.5 = 150 km."
+    },
+    {
+      "qid": "QUANT009",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "दो क्रमागत विषम संख्याओं का योग 48 है। बड़ी संख्या क्या है?",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "correctAnswer": 2,
+      "explanation": "x + (x+2) = 48 → 2x = 46 → x = 23. Larger = 25."
+    },
+    {
+      "qid": "QUANT010",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "यदि x + y = 12 और xy = 32 हो, तो x² + y² का मान क्या होगा?",
+      "options": [
+        "80",
+        "88",
+        "96",
+        "112"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x² + y² = (x+y)² - 2xy = 144 - 64 = 80."
+    },
+    {
+      "qid": "QUANT011",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "एक समकोण त्रिभुज की भुजाएँ 6 cm, 8 cm और 10 cm हैं। इसका क्षेत्रफल कितना होगा?",
+      "options": [
+        "24 cm²",
+        "30 cm²",
+        "40 cm²",
+        "48 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = (1/2) × 6 × 8 = 24 cm²."
+    },
+    {
+      "qid": "QUANT012",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "एक वर्ग की भुजा 12 cm है। इसका क्षेत्रफल कितना होगा?",
+      "options": [
+        "124 cm²",
+        "144 cm²",
+        "156 cm²",
+        "168 cm²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Area of square = side² = 12 × 12 = 144 cm²."
+    },
+    {
+      "qid": "QUANT013",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "एक परीक्षा में 35% छात्र अनुत्तीर्ण हुए। यदि कुल छात्र 800 थे, तो उत्तीर्ण छात्र कितने थे?",
+      "options": [
+        "480",
+        "500",
+        "520",
+        "560"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Passed = 65% of 800 = 520."
+    },
+    {
+      "qid": "QUANT014",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit and Loss",
+      "question": "एक दुकानदार 25% लाभ पर सामान बेचता है। यदि क्रय मूल्य ₹480 हो, तो विक्रय मूल्य क्या होगा?",
+      "options": [
+        "₹560",
+        "₹580",
+        "₹600",
+        "₹620"
+      ],
+      "correctAnswer": 3,
+      "explanation": "SP = 480 × 1.25 = 600."
+    },
+    {
+      "qid": "QUANT015",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "किस दर से ₹4000 का 2 वर्ष में साधारण ब्याज ₹640 हो जाएगा?",
+      "options": [
+        "6%",
+        "7%",
+        "8%",
+        "9%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "R = (SI × 100)/(P × T) = (640 × 100)/(4000 × 2) = 8%."
+    },
+    {
+      "qid": "QUANT016",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time and Work",
+      "question": "15 पुरुष एक काम को 20 दिनों में करते हैं। 25 पुरुष उसी काम को कितने दिनों में करेंगे?",
+      "options": [
+        "10 दिन",
+        "12 दिन",
+        "14 दिन",
+        "16 दिन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "M1D1 = M2D2 → 15×20 = 25×D → D = 12 days."
+    },
+    {
+      "qid": "QUANT017",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed Time Distance",
+      "question": "दो गाड़ियाँ विपरीत दिशा में 45 km/h और 55 km/h की चाल से चल रही हैं। उनकी सापेक्ष चाल कितनी है?",
+      "options": [
+        "10 km/h",
+        "90 km/h",
+        "100 km/h",
+        "110 km/h"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Relative speed in opposite direction = 45 + 55 = 100 km/h."
+    },
+    {
+      "qid": "QUANT018",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "दो संख्याओं का अनुपात 5 : 7 है और उनका योग 72 है। छोटी संख्या क्या है?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "5x + 7x = 72 → 12x = 72 → x = 6. Smaller = 30."
+    },
+    {
+      "qid": "QUANT019",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "एक कक्षा के 40 छात्रों के अंकों का औसत 52 है। यदि एक छात्र के 80 अंक जोड़ दिए जाएँ, तो नया औसत क्या होगा?",
+      "options": [
+        "52.5",
+        "52.68",
+        "53",
+        "53.2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New total = 2080 + 80 = 2160. New average = 2160/41 ≈ 52.68."
+    },
+    {
+      "qid": "QUANT020",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "यदि a² + b² = 50 और ab = 7 हो, तो (a + b)² का मान क्या होगा?",
+      "options": [
+        "57",
+        "64",
+        "71",
+        "78"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(a+b)² = a² + b² + 2ab = 50 + 14 = 64."
+    },
+    {
+      "qid": "QUANT021",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "एक आयत की लंबाई 15 cm और चौड़ाई 8 cm है। इसका परिमाप कितना होगा?",
+      "options": [
+        "40 cm",
+        "46 cm",
+        "48 cm",
+        "50 cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Perimeter = 2(l + b) = 2(15+8) = 46 cm."
+    },
+    {
+      "qid": "QUANT022",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "एक संख्या को 20% बढ़ाने के बाद 360 हो जाती है। मूल संख्या क्या थी?",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "correctAnswer": 2,
+      "explanation": "120% of x = 360 → x = 360 × 100/120 = 300."
+    },
+    {
+      "qid": "QUANT023",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit and Loss",
+      "question": "एक वस्तु को ₹900 में बेचने पर 10% की हानि होती है। क्रय मूल्य क्या था?",
+      "options": [
+        "₹950",
+        "₹1000",
+        "₹1050",
+        "₹1100"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SP = 90% of CP → CP = 900 × 100/90 = 1000."
+    },
+    {
+      "qid": "QUANT024",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time and Work",
+      "question": "A और B मिलकर एक काम 8 दिनों में करते हैं। A अकेले 12 दिनों में करता है। B अकेले कितने दिनों में करेगा?",
+      "options": [
+        "20 दिन",
+        "24 दिन",
+        "28 दिन",
+        "30 दिन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1/A + 1/B = 1/8, 1/A = 1/12 → 1/B = 1/8 - 1/12 = (3-2)/24 = 1/24. So 24 days."
+    },
+    {
+      "qid": "QUANT025",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed Time Distance",
+      "question": "एक व्यक्ति 8 km/h की चाल से 24 km की दूरी तय करता है। उसे कितना समय लगेगा?",
+      "options": [
+        "2 घंटे",
+        "2.5 घंटे",
+        "3 घंटे",
+        "3.5 घंटे"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Time = Distance / Speed = 24 / 8 = 3 hours."
+    }
+  ]
+}
