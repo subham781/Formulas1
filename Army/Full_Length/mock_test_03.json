@@ -1,1 +1,19 @@
-see-artifacts-army_full_length_mock_03.json
+{
+  "testId": "army_agniveer_full_mock_03",
+  "exam": "Army",
+  "testType": "fullLength",
+  "title": "Indian Army Agniveer GD Full Length Mock Test 03 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Army Agniveer GD (CEE). 100 Questions | 60 Minutes | Advanced challenging questions based on latest pattern.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (General Knowledge 25, General Science 25, Mathematics 25, Reasoning 25).",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "Official CEE GD pattern 50 questions ka hota hai; yeh extended full-length practice set hai."
+  ],
+  "questions": []
+}
