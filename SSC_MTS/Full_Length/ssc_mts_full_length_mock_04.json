@@ -1,0 +1,1280 @@
+{
+  "testId": "ssc_mts_full_length_mock_04",
+  "exam": "SSC MTS",
+  "testType": "fullLength",
+  "title": "SSC MTS Full Length Mock Test 04 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC MTS. 90 Questions | 90 Minutes | Numerical 20, Reasoning 20, GA 25, English 25. 3 marks each.",
+  "durationMinutes": 90,
+  "totalQuestions": 90,
+  "marksPerQuestion": 3,
+  "negativeMarks": 1,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 90 questions: Numerical Ability 20, Reasoning 20, General Awareness 25, English 25.",
+    "Har question 3 marks ka hai. Session-II pattern ke anusar galat jawab par 1 mark kat sakta hai.",
+    "Time: 90 minutes (Session-I 45 min + Session-II 45 min combined mock).",
+    "SSC MTS latest CBT pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "MTS401",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Pen is to Write as Knife is to ?",
+      "options": [
+        "Cut",
+        "Sharp",
+        "Kitchen",
+        "Steel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write; knife is used to cut."
+    },
+    {
+      "qid": "MTS402",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 5, 11, 24, 51, 106, ?",
+      "options": [
+        "217",
+        "215",
+        "213",
+        "221"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each term ≈ 2×prev +1, +2, +3... : 106×2+5=217."
+    },
+    {
+      "qid": "MTS403",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If PAPER is coded as QBQFS, how is PENCIL coded?",
+      "options": [
+        "QFODJM",
+        "QFOCJM",
+        "QFODJN",
+        "PEODJM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: P→Q, E→F, N→O, C→D, I→J, L→M."
+    },
+    {
+      "qid": "MTS404",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a boy, Rina said, 'He is the son of my mother's only son.' How is the boy related to Rina?",
+      "options": [
+        "Brother",
+        "Nephew",
+        "Son",
+        "Cousin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mother's only son is Rina's brother; his son is Rina's nephew."
+    },
+    {
+      "qid": "MTS405",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 10 km East, then 6 km North, then 10 km West. How far is he from start?",
+      "options": [
+        "6 km",
+        "10 km",
+        "16 km",
+        "4 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "East and West cancel; remaining 6 km North."
+    },
+    {
+      "qid": "MTS406",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: Square, Circle, Triangle, Rectangle, Cube",
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Cube"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Cube is a 3-D figure; others are 2-D plane figures."
+    },
+    {
+      "qid": "MTS407",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All pens are books. Some books are tables. Conclusions: I. Some pens are tables. II. All books are pens.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Neither I nor II",
+        "Both"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No definite relation between pens and tables; II is reverse and false."
+    },
+    {
+      "qid": "MTS408",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "38"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Differences +4,+6,+8,+10,+12 → 30+12=42."
+    },
+    {
+      "qid": "MTS409",
+      "subject": "Reasoning",
+      "chapter": "Alphabet",
+      "question": "Which letter is 4th to the right of the 9th letter from the left in English alphabet?",
+      "options": [
+        "M",
+        "N",
+        "O",
+        "L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "9th letter is I; 4th to its right is M."
+    },
+    {
+      "qid": "MTS410",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If the word 'SMART' is seen in a mirror placed to the right, the last letter from the left of the image is?",
+      "options": [
+        "S",
+        "T",
+        "M",
+        "R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right-placed vertical mirror reverses order: TRAMS, leftmost of image is T? Wait vertical mirror to the right reverses left-right so SMART → TRAMS, first from left is T. Question says last letter from the left of the image = last of TRAMS = S. Yes S."
+    },
+    {
+      "qid": "MTS411",
+      "subject": "Reasoning",
+      "chapter": "Venn",
+      "question": "Which diagram best represents: Doctors, Males, Engineers?",
+      "options": [
+        "Three intersecting circles",
+        "Three separate circles",
+        "Doctors inside Males",
+        "Engineers inside Doctors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A person can be male doctor-engineer; all three can overlap."
+    },
+    {
+      "qid": "MTS412",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A,B,C,D,E sit in a row. A is left of B but right of C. D is right of B. E is between B and D. Who is in the middle?",
+      "options": [
+        "B",
+        "E",
+        "D",
+        "A"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Order C-A-B-E-D; middle is B."
+    },
+    {
+      "qid": "MTS413",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2024 was Thursday, what day was 15 August 2025?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2025 is not leap affecting Aug after Feb; 1 year = +1 day → Friday."
+    },
+    {
+      "qid": "MTS414",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 are the hands at right angle first?",
+      "options": [
+        "3:16 4/11",
+        "3:15",
+        "3:18",
+        "3:20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right angle at 3: (90×1)/5.5 min ≈ 16 4/11 min."
+    },
+    {
+      "qid": "MTS415",
+      "subject": "Reasoning",
+      "chapter": "Statement Assumption",
+      "question": "Statement: 'Use our fertilizer to double your crop.' Assumption: Farmers want more crop.",
+      "options": [
+        "Assumption is implicit",
+        "Not implicit",
+        "Either",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Advertisement assumes farmers desire higher yield."
+    },
+    {
+      "qid": "MTS416",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, Ravi is 11th from left and Seema is 15th from right. How many between them?",
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Positions: Ravi 11, Seema 26 from left (40-15+1). Between = 26-11-1=14."
+    },
+    {
+      "qid": "MTS417",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A square paper is folded once and a hole punched at the centre of the folded piece. How many holes when opened?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Single fold typically yields 2 holes."
+    },
+    {
+      "qid": "MTS418",
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operation",
+      "question": "If + means ×, × means −, − means ÷ and ÷ means +, then 5 + 4 × 8 − 2 ÷ 2 = ?",
+      "options": [
+        "18",
+        "16",
+        "20",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After change: 5×4 − 8 ÷ 2 + 2 = 20 − 4 + 2 = 18."
+    },
+    {
+      "qid": "MTS419",
+      "subject": "Reasoning",
+      "chapter": "Embedded Figure",
+      "question": "A triangle is hidden in which of these complex figures conceptually most often?",
+      "options": [
+        "Star made of triangles",
+        "Circle",
+        "Rectangle only",
+        "Line"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A star (hexagram) contains several triangles."
+    },
+    {
+      "qid": "MTS420",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "EW"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letters A,B,C,D,E; second Z,Y,X,W,V → EV."
+    },
+    {
+      "qid": "MTS421",
+      "subject": "Numerical Ability",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change?",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.8×1.2=0.96 → 4% decrease."
+    },
+    {
+      "qid": "MTS422",
+      "subject": "Numerical Ability",
+      "chapter": "Ratio",
+      "question": "If A:B = 3:4 and B:C = 5:6, then A:C = ?",
+      "options": [
+        "5:8",
+        "15:24",
+        "5:6",
+        "3:6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B:C = 15:20:24 → A:C = 15:24 = 5:8."
+    },
+    {
+      "qid": "MTS423",
+      "subject": "Numerical Ability",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 20. If one number 15 is replaced by 30, new average?",
+      "options": [
+        "23",
+        "22",
+        "24",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Increase of 15 over 5 numbers → +3 → 23."
+    },
+    {
+      "qid": "MTS424",
+      "subject": "Numerical Ability",
+      "chapter": "Profit Loss",
+      "question": "CP = ₹400, SP = ₹460. Profit % ?",
+      "options": [
+        "15%",
+        "12%",
+        "10%",
+        "18%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "60/400×100=15%."
+    },
+    {
+      "qid": "MTS425",
+      "subject": "Numerical Ability",
+      "chapter": "SI CI",
+      "question": "SI on ₹5000 at 10% p.a. for 2 years?",
+      "options": [
+        "₹1000",
+        "₹1100",
+        "₹900",
+        "₹800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5000×10×2/100=1000."
+    },
+    {
+      "qid": "MTS426",
+      "subject": "Numerical Ability",
+      "chapter": "Time Work",
+      "question": "A can do a work in 12 days, B in 18 days. Days together?",
+      "options": [
+        "7.2",
+        "7",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/12+1/18=5/36 → 36/5=7.2 days."
+    },
+    {
+      "qid": "MTS427",
+      "subject": "Numerical Ability",
+      "chapter": "Time Distance",
+      "question": "A train 180 m long runs at 54 km/h. Time to pass a pole?",
+      "options": [
+        "12 s",
+        "10 s",
+        "15 s",
+        "18 s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "54 km/h=15 m/s; 180/15=12 s."
+    },
+    {
+      "qid": "MTS428",
+      "subject": "Numerical Ability",
+      "chapter": "Number System",
+      "question": "LCM of 12, 18 and 24 is?",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "96"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM(12,18,24)=72."
+    },
+    {
+      "qid": "MTS429",
+      "subject": "Numerical Ability",
+      "chapter": "HCF",
+      "question": "HCF of 84 and 126 is?",
+      "options": [
+        "42",
+        "21",
+        "14",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "84=2²×3×7; 126=2×3²×7; HCF=42."
+    },
+    {
+      "qid": "MTS430",
+      "subject": "Numerical Ability",
+      "chapter": "Fraction",
+      "question": "Simplify: 3/4 + 5/6 − 1/3",
+      "options": [
+        "5/4",
+        "7/6",
+        "1",
+        "11/12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM 12: 9/12+10/12−4/12=15/12=5/4."
+    },
+    {
+      "qid": "MTS431",
+      "subject": "Numerical Ability",
+      "chapter": "Algebra",
+      "question": "If 2x+3=11, x=?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x=8 → x=4."
+    },
+    {
+      "qid": "MTS432",
+      "subject": "Numerical Ability",
+      "chapter": "Geometry",
+      "question": "Area of a circle with radius 7 cm? (π=22/7)",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "148 cm²",
+        "150 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr²=22/7×49=154."
+    },
+    {
+      "qid": "MTS433",
+      "subject": "Numerical Ability",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 5 cm?",
+      "options": [
+        "125 cm³",
+        "100 cm³",
+        "150 cm³",
+        "25 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5³=125."
+    },
+    {
+      "qid": "MTS434",
+      "subject": "Numerical Ability",
+      "chapter": "Pipe Cistern",
+      "question": "Pipe A fills in 6 h, B in 8 h. Time together to fill?",
+      "options": [
+        "3 h 26 min",
+        "3 h 20 min",
+        "24/7 h",
+        "3.5 h"
+      ],
+      "correctAnswer": 3,
+      "explanation": "1/6+1/8=7/24 → 24/7 hours."
+    },
+    {
+      "qid": "MTS435",
+      "subject": "Numerical Ability",
+      "chapter": "Percentage",
+      "question": "30% of 250 is?",
+      "options": [
+        "75",
+        "70",
+        "80",
+        "65"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.3×250=75."
+    },
+    {
+      "qid": "MTS436",
+      "subject": "Numerical Ability",
+      "chapter": "Average",
+      "question": "Average of first 10 natural numbers?",
+      "options": [
+        "5.5",
+        "5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(10+1)/2=5.5."
+    },
+    {
+      "qid": "MTS437",
+      "subject": "Numerical Ability",
+      "chapter": "Profit Loss",
+      "question": "An article sold at 10% loss for ₹540. CP is?",
+      "options": [
+        "₹600",
+        "₹594",
+        "₹620",
+        "₹580"
+      ],
+      "correctAnswer": 1,
+      "explanation": "90% of CP=540 → CP=600."
+    },
+    {
+      "qid": "MTS438",
+      "subject": "Numerical Ability",
+      "chapter": "Time Distance",
+      "question": "A car covers 240 km in 4 hours. Speed?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "55 km/h",
+        "65 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "240/4=60."
+    },
+    {
+      "qid": "MTS439",
+      "subject": "Numerical Ability",
+      "chapter": "Simplification",
+      "question": "25×12 − 15×8 + 10 = ?",
+      "options": [
+        "190",
+        "200",
+        "180",
+        "210"
+      ],
+      "correctAnswer": 1,
+      "explanation": "300−120+10=190."
+    },
+    {
+      "qid": "MTS440",
+      "subject": "Numerical Ability",
+      "chapter": "CI",
+      "question": "CI on ₹2000 at 10% p.a. for 2 years compounded annually is?",
+      "options": [
+        "₹420",
+        "₹400",
+        "₹440",
+        "₹410"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amount=2000×1.1×1.1=2420; CI=420."
+    },
+    {
+      "qid": "MTS441",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Rajendra Prasad",
+        "Jawaharlal Nehru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord Mountbatten was the first Governor-General of independent India."
+    },
+    {
+      "qid": "MTS442",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757."
+    },
+    {
+      "qid": "MTS443",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Which Article deals with Right to Equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 14 provides equality before law."
+    },
+    {
+      "qid": "MTS444",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The President of India is elected by an",
+      "options": [
+        "Electoral College",
+        "Direct vote of people",
+        "Lok Sabha only",
+        "Rajya Sabha only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "President is elected by an Electoral College."
+    },
+    {
+      "qid": "MTS445",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The longest river of India is",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river in India."
+    },
+    {
+      "qid": "MTS446",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Highest peak in India is",
+      "options": [
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Everest",
+        "Anamudi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga is the highest peak in India."
+    },
+    {
+      "qid": "MTS447",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Reserve Bank of India was established in",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RBI was established in 1935."
+    },
+    {
+      "qid": "MTS448",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST came into force in India in",
+      "options": [
+        "2017",
+        "2016",
+        "2018",
+        "2015"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST was implemented on 1 July 2017."
+    },
+    {
+      "qid": "MTS449",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Chemical symbol of Gold is",
+      "options": [
+        "Au",
+        "Ag",
+        "Gd",
+        "Go"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gold's symbol Au comes from Aurum."
+    },
+    {
+      "qid": "MTS450",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Vitamin produced in the skin by sunlight is",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sunlight helps the skin make Vitamin D."
+    },
+    {
+      "qid": "MTS451",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "SI unit of electric current is",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Current is measured in Ampere."
+    },
+    {
+      "qid": "MTS452",
+      "subject": "General Awareness",
+      "chapter": "Static GK",
+      "question": "National animal of India is",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bengal Tiger is the national animal."
+    },
+    {
+      "qid": "MTS453",
+      "subject": "General Awareness",
+      "chapter": "Static GK",
+      "question": "First Indian Nobel Prize winner was",
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tagore won the Nobel Prize in 1913."
+    },
+    {
+      "qid": "MTS454",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Headquarters of ISRO is at",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Sriharikota",
+        "Ahmedabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ISRO headquarters is in Bengaluru."
+    },
+    {
+      "qid": "MTS455",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "Number of players in a field hockey team is",
+      "options": [
+        "11",
+        "7",
+        "9",
+        "13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each hockey team has 11 players on the field."
+    },
+    {
+      "qid": "MTS456",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Bharat Ratna can be awarded for",
+      "options": [
+        "Any field of human endeavour",
+        "Only literature",
+        "Only science",
+        "Only public affairs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bharat Ratna is for exceptional service in any field."
+    },
+    {
+      "qid": "MTS457",
+      "subject": "General Awareness",
+      "chapter": "Culture",
+      "question": "Bihu is the festival of",
+      "options": [
+        "Assam",
+        "Punjab",
+        "Odisha",
+        "Kerala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bihu is celebrated in Assam."
+    },
+    {
+      "qid": "MTS458",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Quit India Movement was launched in",
+      "options": [
+        "1942",
+        "1930",
+        "1940",
+        "1946"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement began in August 1942."
+    },
+    {
+      "qid": "MTS459",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Thar Desert is mainly located in",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The greater part of Thar Desert is in Rajasthan."
+    },
+    {
+      "qid": "MTS460",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Minimum age to become a Lok Sabha member is",
+      "options": [
+        "25 years",
+        "21 years",
+        "30 years",
+        "35 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 84 sets 25 years for Lok Sabha."
+    },
+    {
+      "qid": "MTS461",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "pH value of pure water is",
+      "options": [
+        "7",
+        "1",
+        "14",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pure water is neutral with pH 7."
+    },
+    {
+      "qid": "MTS462",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "NITI Aayog replaced the",
+      "options": [
+        "Planning Commission",
+        "Finance Commission",
+        "UPSC",
+        "CSO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NITI Aayog replaced Planning Commission in 2015."
+    },
+    {
+      "qid": "MTS463",
+      "subject": "General Awareness",
+      "chapter": "Static GK",
+      "question": "India Gate is located in",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India Gate stands in New Delhi."
+    },
+    {
+      "qid": "MTS464",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "Summer Olympic Games are held once every",
+      "options": [
+        "4 years",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Olympics are organised every four years."
+    },
+    {
+      "qid": "MTS465",
+      "subject": "General Awareness",
+      "chapter": "Static GK",
+      "question": "The currency of Japan is",
+      "options": [
+        "Yen",
+        "Won",
+        "Yuan",
+        "Dollar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Japan's currency is Yen."
+    },
+    {
+      "qid": "MTS466",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'Rapid' is",
+      "options": [
+        "Quick",
+        "Slow",
+        "Lazy",
+        "Dull"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rapid means very quick or fast."
+    },
+    {
+      "qid": "MTS467",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'Ancient' is",
+      "options": [
+        "Modern",
+        "Old",
+        "Historic",
+        "Aged"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ancient is opposite of modern."
+    },
+    {
+      "qid": "MTS468",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Break the ice' means",
+      "options": [
+        "Start a conversation",
+        "Break a fridge",
+        "Create problem",
+        "Stop work"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means to initiate conversation in a stiff situation."
+    },
+    {
+      "qid": "MTS469",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: He go to school every day.",
+      "options": [
+        "go",
+        "He",
+        "to school",
+        "every day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subject-verb: He goes."
+    },
+    {
+      "qid": "MTS470",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "She is good ____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject."
+    },
+    {
+      "qid": "MTS471",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves books is a",
+      "options": [
+        "Bibliophile",
+        "Philosopher",
+        "Philanthropist",
+        "Linguist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile means book-lover."
+    },
+    {
+      "qid": "MTS472",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Correct spelling is",
+      "options": [
+        "Maintenance",
+        "Maintainance",
+        "Maintanance",
+        "Maintenence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct form is Maintenance."
+    },
+    {
+      "qid": "MTS473",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: They built the house.",
+      "options": [
+        "The house was built by them.",
+        "The house is built by them.",
+        "The house has built.",
+        "House built they."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past simple passive: was built."
+    },
+    {
+      "qid": "MTS474",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am tired.' Indirect:",
+      "options": [
+        "He said that he was tired.",
+        "He said that I am tired.",
+        "He said he is tired.",
+        "He told he tired."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present becomes past in indirect speech."
+    },
+    {
+      "qid": "MTS475",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "The cat jumped ____ the table.",
+      "options": [
+        "onto",
+        "in",
+        "at",
+        "over of"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Onto shows movement to a surface."
+    },
+    {
+      "qid": "MTS476",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "Honesty is the ____ policy.",
+      "options": [
+        "best",
+        "better",
+        "good",
+        "well"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proverb: Honesty is the best policy."
+    },
+    {
+      "qid": "MTS477",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'Brave' is",
+      "options": [
+        "Courageous",
+        "Cowardly",
+        "Weak",
+        "Timid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brave and courageous are synonyms."
+    },
+    {
+      "qid": "MTS478",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'Victory' is",
+      "options": [
+        "Defeat",
+        "Win",
+        "Success",
+        "Prize"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victory is opposite of defeat."
+    },
+    {
+      "qid": "MTS479",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'A piece of cake' means",
+      "options": [
+        "Very easy",
+        "Dessert",
+        "Difficult",
+        "Expensive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means something very easy to do."
+    },
+    {
+      "qid": "MTS480",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Find error: She don't like tea.",
+      "options": [
+        "don't",
+        "She",
+        "like",
+        "tea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "She doesn't (singular)."
+    },
+    {
+      "qid": "MTS481",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "I have been living here ____ 2018.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since is used with a point of time."
+    },
+    {
+      "qid": "MTS482",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "Government by the people is called",
+      "options": [
+        "Democracy",
+        "Monarchy",
+        "Oligarchy",
+        "Autocracy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Democracy is rule by the people."
+    },
+    {
+      "qid": "MTS483",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Correct spelling:",
+      "options": [
+        "Embarrass",
+        "Embarass",
+        "Embarras",
+        "Embaras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Embarrass has double r and double s."
+    },
+    {
+      "qid": "MTS484",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she ____ her degree.",
+      "options": [
+        "will have completed",
+        "completed",
+        "completes",
+        "had complete"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect for action finished before a future time."
+    },
+    {
+      "qid": "MTS485",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "____ honest man is trusted.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Honest starts with vowel sound → An."
+    },
+    {
+      "qid": "MTS486",
+      "subject": "English",
+      "chapter": "Phrase",
+      "question": "Choose correct: Neither of the boys ____ present.",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither is singular → was."
+    },
+    {
+      "qid": "MTS487",
+      "subject": "English",
+      "chapter": "Vocab",
+      "question": "'Ephemeral' means",
+      "options": [
+        "Short-lived",
+        "Eternal",
+        "Strong",
+        "Huge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ephemeral means lasting a very short time."
+    },
+    {
+      "qid": "MTS488",
+      "subject": "English",
+      "chapter": "Comprehension Vocab",
+      "question": "'Benevolent' means",
+      "options": [
+        "Kind",
+        "Cruel",
+        "Poor",
+        "Angry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Benevolent means kind and generous."
+    },
+    {
+      "qid": "MTS489",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is senior than me. Improve:",
+      "options": [
+        "senior to me",
+        "senior from me",
+        "more senior than I",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior takes 'to', not 'than'."
+    },
+    {
+      "qid": "MTS490",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "Please turn ____ the lights before leaving.",
+      "options": [
+        "off",
+        "of",
+        "on of",
+        "down on"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Turn off means switch off."
+    }
+  ]
+}
