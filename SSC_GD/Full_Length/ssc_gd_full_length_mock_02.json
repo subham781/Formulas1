@@ -1,0 +1,1140 @@
+{
+  "testId": "ssc_gd_full_length_mock_02",
+  "exam": "SSC GD",
+  "testType": "fullLength",
+  "title": "SSC GD Constable Full Length Mock Test 02 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC GD Constable. 80 Questions | 60 Minutes | Reasoning 20, GA 20, Maths 20, English 20.",
+  "durationMinutes": 60,
+  "totalQuestions": 80,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 80 questions: General Intelligence and Reasoning 20, General Knowledge and GA 20, Elementary Mathematics 20, English 20.",
+    "Har question 2 marks ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC GD Constable latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "GD201",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Classroom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doctor works in a hospital; teacher works in a school."
+    },
+    {
+      "qid": "GD202",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 5, 11, 24, 51, 106, ?",
+      "options": [
+        "217",
+        "215",
+        "213",
+        "221"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each term approx 2*previous + n: 5*2+1=11, 11*2+2=24, 24*2+3=51, 51*2+4=106, 106*2+5=217."
+    },
+    {
+      "qid": "GD203",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If COLD is coded as DPME, how is HEAT coded?",
+      "options": [
+        "IFBU",
+        "IBFU",
+        "JEBU",
+        "IFBV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: H->I, E->F, A->B, T->U so IFBU."
+    },
+    {
+      "qid": "GD204",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is the father of B. C is the sister of A. D is the son of C. How is D related to B?",
+      "options": [
+        "Cousin",
+        "Uncle",
+        "Brother",
+        "Nephew"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C is paternal aunt of B; D is son of C, so D is cousin of B."
+    },
+    {
+      "qid": "GD205",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 10 km North, turns right 5 km, turns right 10 km. How far is he from start?",
+      "options": [
+        "5 km",
+        "10 km",
+        "15 km",
+        "0 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He ends 5 km East of the starting point."
+    },
+    {
+      "qid": "GD206",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All books are pens. Some pens are pencils. Conclusions: I. Some books are pencils. II. Some pens are books.",
+      "options": [
+        "Only II follows",
+        "Only I follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All books are pens implies some pens are books. I does not necessarily follow."
+    },
+    {
+      "qid": "GD207",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: Circle, Triangle, Square, Cube",
+      "options": [
+        "Cube",
+        "Circle",
+        "Triangle",
+        "Square"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cube is three-dimensional; others are two-dimensional shapes."
+    },
+    {
+      "qid": "GD208",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, Ravi is 12th from the left. Rank from the right is:",
+      "options": [
+        "29",
+        "28",
+        "30",
+        "27"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From right = 40 - 12 + 1 = 29."
+    },
+    {
+      "qid": "GD209",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1): 1*2, 2*3, 3*4, 4*5, 5*6, 6*7=42."
+    },
+    {
+      "qid": "GD210",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "ACE, BDF, CEG, ?",
+      "options": [
+        "DFH",
+        "DEG",
+        "CFH",
+        "DFI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter of the previous group is increased by 1: D, F, H."
+    },
+    {
+      "qid": "GD211",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "Mirror image of the time 2:40 is closest to:",
+      "options": [
+        "9:20",
+        "10:20",
+        "8:20",
+        "9:40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Approximate mirror of 2:40 is 9:20."
+    },
+    {
+      "qid": "GD212",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A,B,C,D,E sit in a row. A is not at ends. B is immediate right of A. C is at left end. Who is in the middle?",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C at left end. A not at end and B right of A so A is in the middle (3rd)."
+    },
+    {
+      "qid": "GD213",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Best representation of: Men, Fathers, Doctors",
+      "options": [
+        "Fathers subset of Men; Doctors intersect Men",
+        "Three separate circles",
+        "All fathers are doctors",
+        "Doctors subset of Fathers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All fathers are men; some doctors are men or fathers."
+    },
+    {
+      "qid": "GD214",
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operation",
+      "question": "If + means x, x means -, - means /, / means +, then 6 + 3 x 2 - 2 / 4 = ?",
+      "options": [
+        "21",
+        "18",
+        "16",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Becomes 6*3 - 2/2 + 4. BODMAS: 18 - 1 + 4 = 21."
+    },
+    {
+      "qid": "GD215",
+      "subject": "Reasoning",
+      "chapter": "Inequality",
+      "question": "P > Q = R >= S < T. Which is true?",
+      "options": [
+        "P > S",
+        "R < P",
+        "S = T",
+        "Q < S"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P > Q = R >= S implies P > S."
+    },
+    {
+      "qid": "GD216",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 1 January 2024 was Monday, what day was 1 January 2025?",
+      "options": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2024 is a leap year so 2 odd days; Monday + 2 = Wednesday."
+    },
+    {
+      "qid": "GD217",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 4 and 5 are the hands at right angles first?",
+      "options": [
+        "4:27 3/11",
+        "4:16 4/11",
+        "4:18",
+        "4:21 9/11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Minutes = (60*4 - 90)/5.5 = 150/5.5 = 300/11 approx 27 3/11 min past 4."
+    },
+    {
+      "qid": "GD218",
+      "subject": "Reasoning",
+      "chapter": "Sitting Arrangement",
+      "question": "Six people sit in a circle facing centre. A opposite D. B immediate right of A. Who is opposite B?",
+      "options": [
+        "Person immediate right of D",
+        "C",
+        "E",
+        "Cannot say"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a circle, opposite of B is the person sitting immediate right of D."
+    },
+    {
+      "qid": "GD219",
+      "subject": "Reasoning",
+      "chapter": "Dice",
+      "question": "Two positions of a dice show faces 1,2,3 adjacent and 3,5,6 adjacent. Number opposite 3 is:",
+      "options": [
+        "4",
+        "2",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Faces adjacent to 3 cannot be opposite it; remaining face is 4."
+    },
+    {
+      "qid": "GD220",
+      "subject": "Reasoning",
+      "chapter": "Word Formation",
+      "question": "From the letters of CONSTABLE, which is a meaningful word?",
+      "options": [
+        "TABLE",
+        "CABLEN",
+        "STABLEX",
+        "All of the first only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TABLE can be formed from the letters of CONSTABLE."
+    },
+    {
+      "qid": "GD221",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lord Wavell",
+        "Warren Hastings"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord Mountbatten was the first Governor-General of independent India."
+    },
+    {
+      "qid": "GD222",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Which Article deals with the Right to Equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 14 guarantees equality before the law."
+    },
+    {
+      "qid": "GD223",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest state of India by area?",
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rajasthan is the largest state by area."
+    },
+    {
+      "qid": "GD224",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "The full form of GST is:",
+      "options": [
+        "Goods and Services Tax",
+        "General Sales Tax",
+        "Government Service Tax",
+        "Goods Supply Tax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST stands for Goods and Services Tax."
+    },
+    {
+      "qid": "GD225",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The chemical formula of water is:",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "H2O2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H2O."
+    },
+    {
+      "qid": "GD226",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Chandrayaan-3 was launched by:",
+      "options": [
+        "ISRO",
+        "NASA",
+        "DRDO",
+        "BARC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ISRO launched Chandrayaan-3 in 2023."
+    },
+    {
+      "qid": "GD227",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Bharat Ratna is the highest civilian award of India. First awards in 1954 went to:",
+      "options": [
+        "C. Rajagopalachari, S. Radhakrishnan, C.V. Raman",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Mother Teresa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First Bharat Ratna recipients in 1954 were C. Rajagopalachari, S. Radhakrishnan and C.V. Raman."
+    },
+    {
+      "qid": "GD228",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "How many players are there in a kabaddi team on the court?",
+      "options": [
+        "7",
+        "11",
+        "9",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each kabaddi team fields 7 players on the court."
+    },
+    {
+      "qid": "GD229",
+      "subject": "General Awareness",
+      "chapter": "Culture",
+      "question": "Kathak is a classical dance form of which region?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kathak originated and is practised mainly in North India."
+    },
+    {
+      "qid": "GD230",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "The ozone layer is found in which atmospheric layer?",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The ozone layer is located in the stratosphere."
+    },
+    {
+      "qid": "GD231",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The capital of the Mauryan Empire was:",
+      "options": [
+        "Pataliputra",
+        "Taxila",
+        "Ujjain",
+        "Kannauj"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pataliputra was the capital of the Mauryan Empire."
+    },
+    {
+      "qid": "GD232",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Minimum age to become a member of Lok Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "21 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 84 sets the minimum age at 25 years for Lok Sabha."
+    },
+    {
+      "qid": "GD233",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which river is called the Sorrow of Bihar?",
+      "options": [
+        "Kosi",
+        "Ganga",
+        "Yamuna",
+        "Gandak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kosi is known as the Sorrow of Bihar because of frequent floods."
+    },
+    {
+      "qid": "GD234",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "SI unit of force is:",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Force is measured in newton (N)."
+    },
+    {
+      "qid": "GD235",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Who issues currency notes in India?",
+      "options": [
+        "RBI",
+        "Finance Ministry",
+        "SBI",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Reserve Bank of India issues currency notes (except one-rupee notes)."
+    },
+    {
+      "qid": "GD236",
+      "subject": "General Awareness",
+      "chapter": "Books",
+      "question": "Wings of Fire is the autobiography of:",
+      "options": [
+        "A.P.J. Abdul Kalam",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Vikram Sarabhai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wings of Fire is the autobiography of Dr. A.P.J. Abdul Kalam."
+    },
+    {
+      "qid": "GD237",
+      "subject": "General Awareness",
+      "chapter": "Computer",
+      "question": "Which of the following is an input device?",
+      "options": [
+        "Keyboard",
+        "Monitor",
+        "Printer",
+        "Speaker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Keyboard is an input device."
+    },
+    {
+      "qid": "GD238",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in:",
+      "options": [
+        "1942",
+        "1940",
+        "1945",
+        "1930"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Quit India Movement was launched in August 1942."
+    },
+    {
+      "qid": "GD239",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the highest peak in India?",
+      "options": [
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Mount Everest",
+        "K2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga is the highest peak wholly in India."
+    },
+    {
+      "qid": "GD240",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Vitamin C is also known as:",
+      "options": [
+        "Ascorbic acid",
+        "Retinol",
+        "Thiamine",
+        "Riboflavin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitamin C is ascorbic acid."
+    },
+    {
+      "qid": "GD241",
+      "subject": "Elementary Mathematics",
+      "chapter": "Percentage",
+      "question": "20% of 250 is:",
+      "options": [
+        "50",
+        "25",
+        "75",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20% of 250 = 50."
+    },
+    {
+      "qid": "GD242",
+      "subject": "Elementary Mathematics",
+      "chapter": "Profit-Loss",
+      "question": "An article bought for Rs 200 is sold for Rs 250. Profit percentage is:",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profit = 50; percentage = 50/200 * 100 = 25%."
+    },
+    {
+      "qid": "GD243",
+      "subject": "Elementary Mathematics",
+      "chapter": "SI",
+      "question": "SI on Rs 1000 at 10% p.a. for 2 years is:",
+      "options": [
+        "Rs 200",
+        "Rs 100",
+        "Rs 220",
+        "Rs 210"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (1000*10*2)/100 = 200."
+    },
+    {
+      "qid": "GD244",
+      "subject": "Elementary Mathematics",
+      "chapter": "Ratio",
+      "question": "If A:B = 2:3, then (A+B):(A-B) is:",
+      "options": [
+        "5:1",
+        "5:2",
+        "3:1",
+        "2:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(2+3):(2-3) taken positive gives 5:1."
+    },
+    {
+      "qid": "GD245",
+      "subject": "Elementary Mathematics",
+      "chapter": "Average",
+      "question": "Average of 10, 20, 30, 40, 50 is:",
+      "options": [
+        "30",
+        "25",
+        "35",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum 150 divided by 5 = 30."
+    },
+    {
+      "qid": "GD246",
+      "subject": "Elementary Mathematics",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 10 days. In how many days can he do 1/5 of the work?",
+      "options": [
+        "2 days",
+        "5 days",
+        "1 day",
+        "4 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One-fifth of the work takes 10/5 = 2 days."
+    },
+    {
+      "qid": "GD247",
+      "subject": "Elementary Mathematics",
+      "chapter": "Time-Speed",
+      "question": "A car covers 120 km in 3 hours. Speed is:",
+      "options": [
+        "40 km/h",
+        "30 km/h",
+        "50 km/h",
+        "60 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 120/3 = 40 km/h."
+    },
+    {
+      "qid": "GD248",
+      "subject": "Elementary Mathematics",
+      "chapter": "Number System",
+      "question": "LCM of 8 and 12 is:",
+      "options": [
+        "24",
+        "16",
+        "36",
+        "48"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 8 and 12 is 24."
+    },
+    {
+      "qid": "GD249",
+      "subject": "Elementary Mathematics",
+      "chapter": "Simplification",
+      "question": "15 + 5 * 2 - 10 / 2 = ?",
+      "options": [
+        "20",
+        "25",
+        "15",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BODMAS: 15 + 10 - 5 = 20."
+    },
+    {
+      "qid": "GD250",
+      "subject": "Elementary Mathematics",
+      "chapter": "Mensuration",
+      "question": "Area of a square of side 8 cm is:",
+      "options": [
+        "64 cm2",
+        "32 cm2",
+        "16 cm2",
+        "48 cm2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = side squared = 64."
+    },
+    {
+      "qid": "GD251",
+      "subject": "Elementary Mathematics",
+      "chapter": "Percentage",
+      "question": "A number increased by 25% becomes 100. Original number is:",
+      "options": [
+        "80",
+        "75",
+        "90",
+        "85"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1.25x = 100 so x = 80."
+    },
+    {
+      "qid": "GD252",
+      "subject": "Elementary Mathematics",
+      "chapter": "Algebra",
+      "question": "If 2x + 3 = 11, then x = ?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 8 so x = 4."
+    },
+    {
+      "qid": "GD253",
+      "subject": "Elementary Mathematics",
+      "chapter": "Geometry",
+      "question": "Sum of angles of a triangle is:",
+      "options": [
+        "180 deg",
+        "90 deg",
+        "360 deg",
+        "270 deg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum of interior angles of a triangle is 180 degrees."
+    },
+    {
+      "qid": "GD254",
+      "subject": "Elementary Mathematics",
+      "chapter": "CI",
+      "question": "CI on Rs 1000 at 10% for 1 year is:",
+      "options": [
+        "Rs 100",
+        "Rs 110",
+        "Rs 90",
+        "Rs 105"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For one year CI equals SI = 100."
+    },
+    {
+      "qid": "GD255",
+      "subject": "Elementary Mathematics",
+      "chapter": "Mixture",
+      "question": "Milk and water in ratio 3:1. In 40 L mixture, milk is:",
+      "options": [
+        "30 L",
+        "10 L",
+        "20 L",
+        "25 L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3/4 of 40 = 30 L."
+    },
+    {
+      "qid": "GD256",
+      "subject": "Elementary Mathematics",
+      "chapter": "Age",
+      "question": "Father is twice the son. If son is 20, father is:",
+      "options": [
+        "40",
+        "30",
+        "50",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Father = 2 * 20 = 40."
+    },
+    {
+      "qid": "GD257",
+      "subject": "Elementary Mathematics",
+      "chapter": "Pipe",
+      "question": "A pipe fills a tank in 6 hours. In 2 hours it fills:",
+      "options": [
+        "1/3 of tank",
+        "1/2 of tank",
+        "1/4 of tank",
+        "2/3 of tank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2/6 = 1/3 of the tank."
+    },
+    {
+      "qid": "GD258",
+      "subject": "Elementary Mathematics",
+      "chapter": "Progression",
+      "question": "Sum of first 10 natural numbers is:",
+      "options": [
+        "55",
+        "50",
+        "45",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1)/2 = 10*11/2 = 55."
+    },
+    {
+      "qid": "GD259",
+      "subject": "Elementary Mathematics",
+      "chapter": "Mensuration",
+      "question": "Perimeter of a rectangle of length 10 cm and breadth 5 cm is:",
+      "options": [
+        "30 cm",
+        "25 cm",
+        "50 cm",
+        "15 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2(l+b) = 2*15 = 30 cm."
+    },
+    {
+      "qid": "GD260",
+      "subject": "Elementary Mathematics",
+      "chapter": "Fraction",
+      "question": "1/2 + 1/3 = ?",
+      "options": [
+        "5/6",
+        "2/5",
+        "3/5",
+        "1/6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3/6 + 2/6 = 5/6."
+    },
+    {
+      "qid": "GD261",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: He / go to / school / every day.",
+      "options": [
+        "go to",
+        "He",
+        "school",
+        "every day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subject He takes the verb goes."
+    },
+    {
+      "qid": "GD262",
+      "subject": "English",
+      "chapter": "Fill in the Blank",
+      "question": "She has been working here _____ 2020.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A point of time takes since."
+    },
+    {
+      "qid": "GD263",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of HAPPY is:",
+      "options": [
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Happy means joyful."
+    },
+    {
+      "qid": "GD264",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of HOT is:",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Mild"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opposite of hot is cold."
+    },
+    {
+      "qid": "GD265",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "A piece of cake means:",
+      "options": [
+        "Something very easy",
+        "A dessert",
+        "A difficult task",
+        "A surprise"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A piece of cake means something that is very easy."
+    },
+    {
+      "qid": "GD266",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who cannot read or write is:",
+      "options": [
+        "Illiterate",
+        "Literate",
+        "Scholar",
+        "Teacher"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Illiterate means unable to read or write."
+    },
+    {
+      "qid": "GD267",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Correctly spelled word:",
+      "options": [
+        "Necessary",
+        "Necesary",
+        "Neccessary",
+        "Neceserry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Necessary has one c and double s."
+    },
+    {
+      "qid": "GD268",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Passive of: She writes a letter.",
+      "options": [
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written.",
+        "A letter has been written."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple present passive uses is written."
+    },
+    {
+      "qid": "GD269",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, I am busy. Indirect form:",
+      "options": [
+        "He said that he was busy.",
+        "He said that I am busy.",
+        "He said that he is busy.",
+        "He told that he was busy."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present tense changes to past in reported speech."
+    },
+    {
+      "qid": "GD270",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "He is interested _____ music.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Interested takes the preposition in."
+    },
+    {
+      "qid": "GD271",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "_____ apple a day keeps the doctor away.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apple begins with a vowel sound so An is used."
+    },
+    {
+      "qid": "GD272",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By tomorrow they _____ the work.",
+      "options": [
+        "will have finished",
+        "will finish",
+        "finished",
+        "have finished"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect is used for an action completed by a future time."
+    },
+    {
+      "qid": "GD273",
+      "subject": "English",
+      "chapter": "Conjunction",
+      "question": "Work hard _____ you will fail.",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "so"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Or is used to show the alternative consequence."
+    },
+    {
+      "qid": "GD274",
+      "subject": "English",
+      "chapter": "Phrasal Verb",
+      "question": "Please _____ the lights when you leave.",
+      "options": [
+        "turn off",
+        "turn on",
+        "turn up",
+        "turn down"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Turn off means to switch off."
+    },
+    {
+      "qid": "GD275",
+      "subject": "English",
+      "chapter": "Improvement",
+      "question": "He is enough tall to reach the shelf. Improve:",
+      "options": [
+        "tall enough",
+        "enough tall",
+        "too tall",
+        "so tall"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct order is adjective followed by enough."
+    },
+    {
+      "qid": "GD276",
+      "subject": "English",
+      "chapter": "Homonym",
+      "question": "The _____ of the college is strict.",
+      "options": [
+        "principal",
+        "principle",
+        "principale",
+        "principl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Principal means the head of an institution."
+    },
+    {
+      "qid": "GD277",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "Break a leg means:",
+      "options": [
+        "Good luck",
+        "Injury",
+        "Run fast",
+        "Stop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Break a leg is an idiom used to wish good luck."
+    },
+    {
+      "qid": "GD278",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Neither of the girls / are / present / today.",
+      "options": [
+        "are",
+        "Neither of the girls",
+        "present",
+        "today"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither takes the singular verb is."
+    },
+    {
+      "qid": "GD279",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of BEGIN is:",
+      "options": [
+        "Start",
+        "End",
+        "Finish",
+        "Stop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Begin means start."
+    },
+    {
+      "qid": "GD280",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of BEAUTIFUL is:",
+      "options": [
+        "Ugly",
+        "Pretty",
+        "Nice",
+        "Lovely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opposite of beautiful is ugly."
+    }
+  ]
+}

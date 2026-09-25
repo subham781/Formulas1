@@ -1,0 +1,740 @@
+{
+  "testId": "ssc_gd_full_length_mock_04",
+  "exam": "SSC GD",
+  "testType": "fullLength",
+  "title": "SSC GD Constable Full Length Mock Test 04 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC GD Constable. 80 Questions | 60 Minutes | Reasoning 20, GA 20, Maths 20, English 20.",
+  "durationMinutes": 60,
+  "totalQuestions": 80,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 80 questions: General Intelligence and Reasoning 20, General Knowledge and GA 20, Elementary Mathematics 20, English 20.",
+    "Har question 2 marks ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC GD Constable latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "GD401",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Clock : Time :: Thermometer : ?",
+      "options": ["Heat", "Temperature", "Mercury", "Weather"],
+      "correctAnswer": 2,
+      "explanation": "A clock measures time; a thermometer measures temperature."
+    },
+    {
+      "qid": "GD402",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 2, 6, 12, 20, 30, ?",
+      "options": ["40", "42", "44", "38"],
+      "correctAnswer": 2,
+      "explanation": "n(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42."
+    },
+    {
+      "qid": "GD403",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If BRAIN is coded as CSBJO, how is HEART coded?",
+      "options": ["IFBSU", "IFBTU", "IDBSU", "IFASU"],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: H→I, E→F, A→B, R→S, T→U so IFBSU."
+    },
+    {
+      "qid": "GD404",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is the brother of B. B is the daughter of C. C is the wife of D. How is A related to D?",
+      "options": ["Son", "Brother", "Uncle", "Father"],
+      "correctAnswer": 1,
+      "explanation": "C is wife of D, so D is father of B and A. A is son of D."
+    },
+    {
+      "qid": "GD405",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 10 km North, then 6 km East, then 10 km South. How far is he from the starting point?",
+      "options": ["6 km East", "10 km East", "4 km East", "6 km West"],
+      "correctAnswer": 1,
+      "explanation": "North and South cancel; he is 6 km East of start."
+    },
+    {
+      "qid": "GD406",
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Find the odd one out: 121, 144, 169, 196, 225, 256, 288",
+      "options": ["121", "196", "256", "288"],
+      "correctAnswer": 4,
+      "explanation": "All others are perfect squares (11² to 16²). 288 is not a perfect square."
+    },
+    {
+      "qid": "GD407",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. Some books are pens.",
+      "options": ["Only I follows", "Only II follows", "Both follow", "Neither follows"],
+      "correctAnswer": 2,
+      "explanation": "All pens are books ⇒ some books are pens. Some books being papers does not force pens to be papers."
+    },
+    {
+      "qid": "GD408",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends P, Q, R, S, T sit in a row facing North. Q sits at one end. R sits second to the right of Q. S sits between R and T. Who sits in the middle?",
+      "options": ["R", "S", "T", "P"],
+      "correctAnswer": 1,
+      "explanation": "Order: Q, P, R, S, T (or Q at left). Q end, R second right of Q ⇒ Q _ R. S between R and T ⇒ Q P R S T. Middle is R."
+    },
+    {
+      "qid": "GD409",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "7, 14, 28, 56, 112, ?",
+      "options": ["168", "196", "224", "210"],
+      "correctAnswer": 3,
+      "explanation": "Each term is multiplied by 2: 112 × 2 = 224."
+    },
+    {
+      "qid": "GD410",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which diagram best represents: Police, Thief, Criminal?",
+      "options": ["Three separate circles", "Thief inside Criminal, Police separate", "All three overlapping equally", "Police inside Thief inside Criminal"],
+      "correctAnswer": 2,
+      "explanation": "Every thief is a criminal, but police is a separate set."
+    },
+    {
+      "qid": "GD411",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "The mirror image of the word 'GUARD' (vertical mirror on the right) will start with which letter appearance?",
+      "options": ["D reversed", "G reversed", "R reversed", "U reversed"],
+      "correctAnswer": 1,
+      "explanation": "Right-side vertical mirror reverses order: last letter D appears first as its mirror form."
+    },
+    {
+      "qid": "GD412",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2024 was Thursday, what day was 15 August 2025?",
+      "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+      "correctAnswer": 2,
+      "explanation": "2025 is not a leap year after 15 Aug 2024, so +1 day: Friday. (From 15 Aug 2024 to 15 Aug 2025 is 365 days = 52 weeks + 1 day.)"
+    },
+    {
+      "qid": "GD413",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "How many times do the hands of a clock coincide in 12 hours?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": 2,
+      "explanation": "Hands coincide 11 times in 12 hours (not at 11–12 and 12–1 separately in that stretch as 12 is shared)."
+    },
+    {
+      "qid": "GD414",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 12th from the left and B is 18th from the right. How many students are between A and B?",
+      "options": ["10", "11", "12", "9"],
+      "correctAnswer": 1,
+      "explanation": "B from left = 40-18+1=23. Between A (12) and B (23) = 10 students."
+    },
+    {
+      "qid": "GD415",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: All officers are honest. Some honest people are poor. Conclusion: Some officers are poor.",
+      "options": ["Follows", "Does not follow", "Either follows", "Data insufficient only"],
+      "correctAnswer": 2,
+      "explanation": "The poor honest people need not include officers. Conclusion does not follow."
+    },
+    {
+      "qid": "GD416",
+      "subject": "Reasoning",
+      "chapter": "Embedded Figure",
+      "question": "A cube is painted red on all faces and cut into 27 smaller equal cubes. How many small cubes have only one face painted?",
+      "options": ["6", "8", "12", "1"],
+      "correctAnswer": 1,
+      "explanation": "3×3×3 cube: each of 6 faces has 1 centre cube with only one face painted."
+    },
+    {
+      "qid": "GD417",
+      "subject": "Reasoning",
+      "chapter": "Alphabet Series",
+      "question": "Find the next letters: AZ, BY, CX, DW, ?",
+      "options": ["EV", "EU", "FV", "EX"],
+      "correctAnswer": 1,
+      "explanation": "First letters A,B,C,D,E; second letters Z,Y,X,W,V → EV."
+    },
+    {
+      "qid": "GD418",
+      "subject": "Reasoning",
+      "chapter": "Non-Verbal",
+      "question": "If a square paper is folded twice and two holes are punched, the maximum number of holes after unfolding can be:",
+      "options": ["4", "6", "8", "16"],
+      "correctAnswer": 3,
+      "explanation": "Two folds create 4 layers; 2 punches × 4 layers = 8 holes."
+    },
+    {
+      "qid": "GD419",
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operation",
+      "question": "If + means ×, × means −, − means ÷ and ÷ means +, then 8 ÷ 2 + 3 − 6 × 1 = ?",
+      "options": ["6", "8", "10", "4"],
+      "correctAnswer": 2,
+      "explanation": "After replacement the expression becomes 8 + 2 × 3 ÷ 6 − 1. Using BODMAS: 2 × 3 = 6, 6 ÷ 6 = 1, then 8 + 1 − 1 = 8."
+    },
+    {
+      "qid": "GD420",
+      "subject": "Reasoning",
+      "chapter": "Sitting Arrangement",
+      "question": "Six people A B C D E F sit around a circular table facing centre. A sits opposite D. B sits to the immediate right of A. C sits between B and D. Who sits opposite C?",
+      "options": ["E", "F", "B", "Cannot be determined"],
+      "correctAnswer": 4,
+      "explanation": "C between B and D on one arc; E and F occupy remaining two seats, so opposite of C can be E or F depending on exact placement. Data insufficient."
+    },
+    {
+      "qid": "GD421",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": ["1757", "1764", "1761", "1857"],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757 between the British East India Company and Siraj-ud-Daulah."
+    },
+    {
+      "qid": "GD422",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution deals with the Right to Equality?",
+      "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+      "correctAnswer": 1,
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws."
+    },
+    {
+      "qid": "GD423",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": ["Yamuna", "Ganga", "Godavari", "Brahmaputra"],
+      "correctAnswer": 2,
+      "explanation": "The Ganga is the longest river flowing within India (about 2525 km in India)."
+    },
+    {
+      "qid": "GD424",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "NITI Aayog was established in which year?",
+      "options": ["2014", "2015", "2016", "2017"],
+      "correctAnswer": 2,
+      "explanation": "NITI Aayog was formed on 1 January 2015, replacing the Planning Commission."
+    },
+    {
+      "qid": "GD425",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "The chemical formula of washing soda is:",
+      "options": ["Na2CO3·10H2O", "NaHCO3", "NaOH", "CaOCl2"],
+      "correctAnswer": 1,
+      "explanation": "Washing soda is sodium carbonate decahydrate, Na2CO3·10H2O."
+    },
+    {
+      "qid": "GD426",
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "Which country hosted the 2024 Summer Olympics?",
+      "options": ["Japan", "France", "USA", "Australia"],
+      "correctAnswer": 2,
+      "explanation": "Paris, France hosted the 2024 Summer Olympics."
+    },
+    {
+      "qid": "GD427",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Bharat Ratna is given in which field?",
+      "options": ["Only sports", "Only literature", "Exceptional service of the highest order", "Only science"],
+      "correctAnswer": 3,
+      "explanation": "Bharat Ratna is awarded for exceptional service/performance of the highest order in any field of human endeavour."
+    },
+    {
+      "qid": "GD428",
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "Indian Coast Guard was established in which year?",
+      "options": ["1976", "1978", "1980", "1962"],
+      "correctAnswer": 2,
+      "explanation": "Indian Coast Guard was established on 18 August 1978."
+    },
+    {
+      "qid": "GD429",
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "How many players are there in a hockey team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": 3,
+      "explanation": "A field hockey team has 11 players on the field including the goalkeeper."
+    },
+    {
+      "qid": "GD430",
+      "subject": "GA",
+      "chapter": "Static GK",
+      "question": "The headquarters of UNESCO is located in:",
+      "options": ["Geneva", "Paris", "New York", "Rome"],
+      "correctAnswer": 2,
+      "explanation": "UNESCO headquarters is in Paris, France."
+    },
+    {
+      "qid": "GD431",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": ["C. Rajagopalachari", "Lord Mountbatten", "Rajendra Prasad", "Jawaharlal Nehru"],
+      "correctAnswer": 2,
+      "explanation": "Lord Mountbatten was the first Governor-General of independent India; C. Rajagopalachari was the first Indian Governor-General."
+    },
+    {
+      "qid": "GD432",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The minimum age to become the President of India is:",
+      "options": ["25 years", "30 years", "35 years", "40 years"],
+      "correctAnswer": 3,
+      "explanation": "Article 58: a person must have completed 35 years of age to be eligible for President."
+    },
+    {
+      "qid": "GD433",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which of the following is a landlocked state?",
+      "options": ["Gujarat", "Odisha", "Madhya Pradesh", "Andhra Pradesh"],
+      "correctAnswer": 3,
+      "explanation": "Madhya Pradesh has no coastline; the others are coastal states."
+    },
+    {
+      "qid": "GD434",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "Vitamin C is also known as:",
+      "options": ["Thiamine", "Riboflavin", "Ascorbic acid", "Retinol"],
+      "correctAnswer": 3,
+      "explanation": "Vitamin C is ascorbic acid."
+    },
+    {
+      "qid": "GD435",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from:",
+      "options": ["1 April 2017", "1 July 2017", "1 January 2018", "1 July 2016"],
+      "correctAnswer": 2,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "GD436",
+      "subject": "GA",
+      "chapter": "Books",
+      "question": "The book 'Discovery of India' was written by:",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+      "correctAnswer": 2,
+      "explanation": "The Discovery of India was written by Jawaharlal Nehru."
+    },
+    {
+      "qid": "GD437",
+      "subject": "GA",
+      "chapter": "Culture",
+      "question": "Bihu is the folk dance of which state?",
+      "options": ["Punjab", "Assam", "Gujarat", "Rajasthan"],
+      "correctAnswer": 2,
+      "explanation": "Bihu is the traditional folk dance of Assam."
+    },
+    {
+      "qid": "GD438",
+      "subject": "GA",
+      "chapter": "Environment",
+      "question": "Project Tiger was launched in India in:",
+      "options": ["1972", "1973", "1975", "1983"],
+      "correctAnswer": 2,
+      "explanation": "Project Tiger was launched in 1973."
+    },
+    {
+      "qid": "GD439",
+      "subject": "GA",
+      "chapter": "Computer",
+      "question": "The brain of a computer is:",
+      "options": ["Monitor", "CPU", "Keyboard", "Hard disk"],
+      "correctAnswer": 2,
+      "explanation": "CPU (Central Processing Unit) is called the brain of the computer."
+    },
+    {
+      "qid": "GD440",
+      "subject": "GA",
+      "chapter": "Misc GK",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "correctAnswer": 2,
+      "explanation": "Mars is called the Red Planet due to iron oxide on its surface."
+    },
+    {
+      "qid": "GD441",
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "If 40% of a number is 240, the number is:",
+      "options": ["500", "600", "650", "700"],
+      "correctAnswer": 2,
+      "explanation": "0.4x = 240 ⇒ x = 240/0.4 = 600."
+    },
+    {
+      "qid": "GD442",
+      "subject": "Maths",
+      "chapter": "Profit-Loss",
+      "question": "An article is sold at 20% profit. If cost price is Rs 450, selling price is:",
+      "options": ["Rs 520", "Rs 540", "Rs 500", "Rs 560"],
+      "correctAnswer": 2,
+      "explanation": "SP = 450 × 1.20 = 540."
+    },
+    {
+      "qid": "GD443",
+      "subject": "Maths",
+      "chapter": "SI-CI",
+      "question": "Simple interest on Rs 2000 at 10% per annum for 3 years is:",
+      "options": ["Rs 400", "Rs 500", "Rs 600", "Rs 700"],
+      "correctAnswer": 3,
+      "explanation": "SI = PRT/100 = 2000×10×3/100 = 600."
+    },
+    {
+      "qid": "GD444",
+      "subject": "Maths",
+      "chapter": "Ratio",
+      "question": "If A:B = 2:3 and B:C = 4:5, then A:C is:",
+      "options": ["8:15", "2:5", "8:9", "4:5"],
+      "correctAnswer": 1,
+      "explanation": "A:B = 2:3 = 8:12; B:C = 4:5 = 12:15; so A:C = 8:15."
+    },
+    {
+      "qid": "GD445",
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "Average of 5, 10, 15, 20, 25 is:",
+      "options": ["12", "15", "16", "18"],
+      "correctAnswer": 2,
+      "explanation": "Sum = 75; average = 75/5 = 15."
+    },
+    {
+      "qid": "GD446",
+      "subject": "Maths",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 10 days, B in 15 days. Together they finish in:",
+      "options": ["5 days", "6 days", "7 days", "8 days"],
+      "correctAnswer": 2,
+      "explanation": "1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6, so 6 days."
+    },
+    {
+      "qid": "GD447",
+      "subject": "Maths",
+      "chapter": "Time-Distance",
+      "question": "A train 150 m long running at 54 km/h crosses a pole in:",
+      "options": ["8 seconds", "10 seconds", "12 seconds", "15 seconds"],
+      "correctAnswer": 2,
+      "explanation": "54 km/h = 15 m/s; time = 150/15 = 10 s."
+    },
+    {
+      "qid": "GD448",
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The HCF of 36 and 60 is:",
+      "options": ["6", "12", "18", "24"],
+      "correctAnswer": 2,
+      "explanation": "HCF(36,60) = 12."
+    },
+    {
+      "qid": "GD449",
+      "subject": "Maths",
+      "chapter": "LCM-HCF",
+      "question": "LCM of 12 and 18 is:",
+      "options": ["24", "36", "48", "54"],
+      "correctAnswer": 2,
+      "explanation": "LCM(12,18) = 36."
+    },
+    {
+      "qid": "GD450",
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 5, then x² + 1/x² is:",
+      "options": ["23", "25", "27", "21"],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)² = x² + 2 + 1/x² = 25 ⇒ x² + 1/x² = 23."
+    },
+    {
+      "qid": "GD451",
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "The sum of interior angles of a hexagon is:",
+      "options": ["540°", "720°", "900°", "1080°"],
+      "correctAnswer": 2,
+      "explanation": "(n-2)×180 = 4×180 = 720°."
+    },
+    {
+      "qid": "GD452",
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "Area of a circle with radius 7 cm is (use π=22/7):",
+      "options": ["154 cm²", "144 cm²", "164 cm²", "132 cm²"],
+      "correctAnswer": 1,
+      "explanation": "πr² = 22/7 × 49 = 154."
+    },
+    {
+      "qid": "GD453",
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 5 cm is:",
+      "options": ["125 cm³", "100 cm³", "150 cm³", "25 cm³"],
+      "correctAnswer": 1,
+      "explanation": "Side³ = 125 cm³."
+    },
+    {
+      "qid": "GD454",
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change is:",
+      "options": ["No change", "4% decrease", "4% increase", "2% decrease"],
+      "correctAnswer": 2,
+      "explanation": "Net factor = 1.2 × 0.8 = 0.96 ⇒ 4% decrease."
+    },
+    {
+      "qid": "GD455",
+      "subject": "Maths",
+      "chapter": "CI",
+      "question": "CI on Rs 1000 at 10% per annum for 2 years compounded annually is:",
+      "options": ["Rs 200", "Rs 210", "Rs 220", "Rs 121"],
+      "correctAnswer": 2,
+      "explanation": "Amount = 1000×1.1×1.1 = 1210; CI = 210."
+    },
+    {
+      "qid": "GD456",
+      "subject": "Maths",
+      "chapter": "Mixture",
+      "question": "Milk and water are mixed in ratio 4:1. In 20 litres mixture, quantity of water is:",
+      "options": ["4 litres", "5 litres", "3 litres", "2 litres"],
+      "correctAnswer": 1,
+      "explanation": "Water = 1/5 × 20 = 4 litres."
+    },
+    {
+      "qid": "GD457",
+      "subject": "Maths",
+      "chapter": "Pipe-Cistern",
+      "question": "A pipe fills a tank in 8 hours. In 2 hours it fills:",
+      "options": ["1/2", "1/4", "1/8", "1/6"],
+      "correctAnswer": 2,
+      "explanation": "In 2 hours it fills 2/8 = 1/4 of the tank."
+    },
+    {
+      "qid": "GD458",
+      "subject": "Maths",
+      "chapter": "Simplification",
+      "question": "25% of 480 + 15% of 300 = ?",
+      "options": ["165", "175", "185", "195"],
+      "correctAnswer": 1,
+      "explanation": "120 + 45 = 165."
+    },
+    {
+      "qid": "GD459",
+      "subject": "Maths",
+      "chapter": "Age",
+      "question": "Father is 3 times as old as his son. After 15 years he will be twice as old. Present age of son is:",
+      "options": ["12 years", "15 years", "18 years", "10 years"],
+      "correctAnswer": 2,
+      "explanation": "Let son = x, father = 3x. 3x+15 = 2(x+15) ⇒ 3x+15=2x+30 ⇒ x=15."
+    },
+    {
+      "qid": "GD460",
+      "subject": "Maths",
+      "chapter": "Data Interpretation",
+      "question": "If 5 workers earn Rs 750 in a day, 8 workers will earn in a day:",
+      "options": ["Rs 1000", "Rs 1200", "Rs 1100", "Rs 1250"],
+      "correctAnswer": 2,
+      "explanation": "One worker = 150; 8 workers = 1200."
+    },
+    {
+      "qid": "GD461",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of ABUNDANT is:",
+      "options": ["Scarce", "Plentiful", "Tiny", "Rare"],
+      "correctAnswer": 2,
+      "explanation": "Abundant means existing in large quantity; plentiful."
+    },
+    {
+      "qid": "GD462",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of OPTIMISTIC is:",
+      "options": ["Hopeful", "Cheerful", "Pessimistic", "Confident"],
+      "correctAnswer": 3,
+      "explanation": "Optimistic is hopeful; opposite is pessimistic."
+    },
+    {
+      "qid": "GD463",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "The idiom 'hit the nail on the head' means:",
+      "options": ["To hurt someone", "To say exactly the right thing", "To fail badly", "To work very hard"],
+      "correctAnswer": 2,
+      "explanation": "It means to describe exactly or do something in the most effective way."
+    },
+    {
+      "qid": "GD464",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves books is called:",
+      "options": ["Bibliophile", "Philosopher", "Philanthropist", "Linguist"],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": "GD465",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: He do not know the answer.",
+      "options": ["He", "do not", "know", "No error"],
+      "correctAnswer": 2,
+      "explanation": "Singular subject 'He' takes 'does not'."
+    },
+    {
+      "qid": "GD466",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "She has been living here _____ 2018.",
+      "options": ["for", "since", "from", "at"],
+      "correctAnswer": 2,
+      "explanation": "Present perfect continuous with a point of time takes 'since'."
+    },
+    {
+      "qid": "GD467",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: The police caught the thief.",
+      "options": ["The thief was caught by the police.", "The thief is caught by the police.", "The thief has caught by the police.", "The thief caught the police."],
+      "correctAnswer": 1,
+      "explanation": "Simple past active → was/were + V3."
+    },
+    {
+      "qid": "GD468",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am tired.' Indirect form is:",
+      "options": ["He said that he was tired.", "He said that I am tired.", "He said that he is tired.", "He said he tired."],
+      "correctAnswer": 1,
+      "explanation": "Present becomes past in indirect speech: am → was."
+    },
+    {
+      "qid": "GD469",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": ["Recieve", "Receive", "Receeve", "Receve"],
+      "correctAnswer": 2,
+      "explanation": "Correct spelling is Receive (i before e after c is exception: receive)."
+    },
+    {
+      "qid": "GD470",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "He is good _____ mathematics.",
+      "options": ["in", "at", "on", "with"],
+      "correctAnswer": 2,
+      "explanation": "Good at a subject/skill."
+    },
+    {
+      "qid": "GD471",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "_____ honest man is respected by all.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": 2,
+      "explanation": "'Honest' begins with a vowel sound, so 'an'."
+    },
+    {
+      "qid": "GD472",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she _____ her degree.",
+      "options": ["completes", "will complete", "will have completed", "completed"],
+      "correctAnswer": 3,
+      "explanation": "Future perfect is used for an action completed by a future time."
+    },
+    {
+      "qid": "GD473",
+      "subject": "English",
+      "chapter": "Phrase Replacement",
+      "question": "He is senior than me. Correct form:",
+      "options": ["senior to me", "senior from me", "senior of me", "No change"],
+      "correctAnswer": 1,
+      "explanation": "Senior/junior/prefer take 'to', not 'than'."
+    },
+    {
+      "qid": "GD474",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "The sun _____ in the east.",
+      "options": ["rise", "rises", "rose", "rising"],
+      "correctAnswer": 2,
+      "explanation": "Universal truth uses simple present: rises."
+    },
+    {
+      "qid": "GD475",
+      "subject": "English",
+      "chapter": "Comprehension Vocab",
+      "question": "Meaning of 'reluctant' is:",
+      "options": ["Eager", "Unwilling", "Happy", "Quick"],
+      "correctAnswer": 2,
+      "explanation": "Reluctant means unwilling or hesitant."
+    },
+    {
+      "qid": "GD476",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Once in a blue moon' means:",
+      "options": ["Very often", "Very rarely", "Every night", "Suddenly"],
+      "correctAnswer": 2,
+      "explanation": "It means very rarely."
+    },
+    {
+      "qid": "GD477",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of BRIEF is:",
+      "options": ["Long", "Short", "Loud", "Slow"],
+      "correctAnswer": 2,
+      "explanation": "Brief means short in duration or length."
+    },
+    {
+      "qid": "GD478",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of TRANSPARENT is:",
+      "options": ["Clear", "Opaque", "Bright", "Open"],
+      "correctAnswer": 2,
+      "explanation": "Transparent means see-through; opposite is opaque."
+    },
+    {
+      "qid": "GD479",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "She did not went to school yesterday. Correct:",
+      "options": ["did not go", "does not went", "did not gone", "No improvement"],
+      "correctAnswer": 1,
+      "explanation": "After 'did' the base form 'go' is used."
+    },
+    {
+      "qid": "GD480",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A government by the people is called:",
+      "options": ["Autocracy", "Democracy", "Monarchy", "Oligarchy"],
+      "correctAnswer": 2,
+      "explanation": "Democracy is government by the people."
+    }
+  ]
+}
