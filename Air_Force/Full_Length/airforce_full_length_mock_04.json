@@ -1,0 +1,1420 @@
+{
+  "testId": "airforce_agniveer_full_mock_04",
+  "exam": "Air_Force",
+  "testType": "fullLength",
+  "title": "Indian Air Force Agniveer Vayu Full Length Mock Test 04 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for IAF Agniveer Vayu (Science + Other than Science combined pattern). 100 Questions | 85 Minutes | English 20, Physics 25, Mathematics 25, Reasoning & General Awareness 30.",
+  "durationMinutes": 85,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: English 20, Physics 25, Mathematics 25, Reasoning & General Awareness 30.",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 85 minutes (official combined Science + Other than Science pattern).",
+    "Physics and Mathematics 10+2 CBSE level; English 10+2; RAGA includes Reasoning and GK/Defence."
+  ],
+  "questions": [
+    {
+      "qid": "AF401",
+      "subject": "English",
+      "chapter": "Grammar",
+      "question": "Identify the error: Each of the cadets have submitted their log book.",
+      "options": [
+        "Each of the cadets",
+        "have submitted",
+        "their log book",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each takes singular verb: has submitted."
+    },
+    {
+      "qid": "AF402",
+      "subject": "English",
+      "chapter": "Grammar",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "The CO said \"Take off now.\"",
+        "The CO said, \"Take off now.\"",
+        "The CO said Take off now.",
+        "The CO said: Take off now"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Comma after said and quotation marks around direct speech."
+    },
+    {
+      "qid": "AF403",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Synonym of INDOMITABLE:",
+      "options": [
+        "Cowardly",
+        "Unconquerable",
+        "Fragile",
+        "Timid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Indomitable means impossible to defeat."
+    },
+    {
+      "qid": "AF404",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Antonym of TRANSIENT:",
+      "options": [
+        "Temporary",
+        "Fleeting",
+        "Permanent",
+        "Brief"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Transient means short-lived; opposite is permanent."
+    },
+    {
+      "qid": "AF405",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "To bite the bullet means:",
+      "options": [
+        "To eat hastily",
+        "To face a difficult situation bravely",
+        "To fire a weapon",
+        "To run away"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Idiom means to endure a painful necessity."
+    },
+    {
+      "qid": "AF406",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "A storm in a teacup means:",
+      "options": [
+        "A cyclone",
+        "A major disaster",
+        "A fuss over a trivial matter",
+        "Heavy rainfall"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Great agitation about something unimportant."
+    },
+    {
+      "qid": "AF407",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who studies weather is called:",
+      "options": [
+        "Geologist",
+        "Meteorologist",
+        "Seismologist",
+        "Astronomer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Meteorology is the science of atmosphere and weather."
+    },
+    {
+      "qid": "AF408",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A speech delivered without preparation:",
+      "options": [
+        "Rhetoric",
+        "Extempore",
+        "Eulogy",
+        "Monologue"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Extempore means spoken without notes."
+    },
+    {
+      "qid": "AF409",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: The squadron launched the drone.",
+      "options": [
+        "The drone was launched by the squadron.",
+        "The drone is launched by the squadron.",
+        "The drone has launched by the squadron.",
+        "The drone launched the squadron."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past active → was/were + V3."
+    },
+    {
+      "qid": "AF410",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, \"I am ready for the sortie.\"",
+      "options": [
+        "He said that he is ready for the sortie.",
+        "He said that he was ready for the sortie.",
+        "He said that I was ready for the sortie.",
+        "He said that he had been ready for the sortie."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present continuous/simple present in reported speech becomes past."
+    },
+    {
+      "qid": "AF411",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "The pilot was ______ of the approaching storm.",
+      "options": [
+        "conscious",
+        "conscience",
+        "cautiously",
+        "conscientious"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conscious of = aware of."
+    },
+    {
+      "qid": "AF412",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "Neither the captain nor the co-pilot ______ available.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Neither...nor takes the verb of the nearer subject (co-pilot → is)."
+    },
+    {
+      "qid": "AF413",
+      "subject": "English",
+      "chapter": "Spotting Error",
+      "question": "Select the part with error: The number of sorties have increased this month.",
+      "options": [
+        "The number of sorties",
+        "have increased",
+        "this month",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The number of takes singular verb: has increased."
+    },
+    {
+      "qid": "AF414",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Meaning of AVIATION:",
+      "options": [
+        "Study of birds",
+        "Science of flying aircraft",
+        "Naval warfare",
+        "Space travel only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aviation is the operation of aircraft."
+    },
+    {
+      "qid": "AF415",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of ASCEND:",
+      "options": [
+        "Climb",
+        "Rise",
+        "Descend",
+        "Soar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ascend = go up; descend = go down."
+    },
+    {
+      "qid": "AF416",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "To keep one's head means:",
+      "options": [
+        "To remain calm",
+        "To be proud",
+        "To hide",
+        "To sleep"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Remain composed in a crisis."
+    },
+    {
+      "qid": "AF417",
+      "subject": "English",
+      "chapter": "Grammar",
+      "question": "Which is a complex sentence?",
+      "options": [
+        "The jet took off and the runway cleared.",
+        "When the jet took off, the runway cleared.",
+        "The jet took off.",
+        "Take off now."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Has a dependent clause (When...) + independent clause."
+    },
+    {
+      "qid": "AF418",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "The aircraft ______ altitude to avoid turbulence.",
+      "options": [
+        "gained",
+        "gain",
+        "gaining",
+        "gainsed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past: gained."
+    },
+    {
+      "qid": "AF419",
+      "subject": "English",
+      "chapter": "Comprehension Vocab",
+      "question": "Opaque means:",
+      "options": [
+        "Transparent",
+        "Not allowing light to pass",
+        "Shiny",
+        "Hollow"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Opaque materials do not transmit light."
+    },
+    {
+      "qid": "AF420",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "The missile locked ______ the target.",
+      "options": [
+        "on",
+        "onto",
+        "upon",
+        "into"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lock onto a target is the standard phrasal verb."
+    },
+    {
+      "qid": "AF421",
+      "subject": "Physics",
+      "chapter": "Kinematics",
+      "question": "A body is projected vertically up with 20 m/s. Time to return to ground (g=10) is:",
+      "options": [
+        "2 s",
+        "4 s",
+        "1 s",
+        "8 s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "T=2u/g=4 s."
+    },
+    {
+      "qid": "AF422",
+      "subject": "Physics",
+      "chapter": "Kinematics",
+      "question": "The slope of v–t graph gives:",
+      "options": [
+        "Displacement",
+        "Acceleration",
+        "Speed",
+        "Jerk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "dv/dt = acceleration."
+    },
+    {
+      "qid": "AF423",
+      "subject": "Physics",
+      "chapter": "Laws of Motion",
+      "question": "A 2 kg mass on a smooth table is pulled by 10 N. Acceleration is:",
+      "options": [
+        "5 m/s²",
+        "20 m/s²",
+        "2 m/s²",
+        "10 m/s²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a=F/m=5 m/s²."
+    },
+    {
+      "qid": "AF424",
+      "subject": "Physics",
+      "chapter": "Laws of Motion",
+      "question": "Action and reaction:",
+      "options": [
+        "Act on same body",
+        "Are equal, opposite, on different bodies",
+        "Cancel each other always",
+        "Are unequal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Newton's third law pairs act on different bodies."
+    },
+    {
+      "qid": "AF425",
+      "subject": "Physics",
+      "chapter": "Work Energy",
+      "question": "Work done by centripetal force in uniform circular motion is:",
+      "options": [
+        "Maximum",
+        "mgh",
+        "Zero",
+        "mv²"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Force is perpendicular to displacement."
+    },
+    {
+      "qid": "AF426",
+      "subject": "Physics",
+      "chapter": "Work Energy",
+      "question": "KE of a 4 kg mass moving at 3 m/s is:",
+      "options": [
+        "18 J",
+        "6 J",
+        "36 J",
+        "12 J"
+      ],
+      "correctAnswer": 1,
+      "explanation": "½mv²=18 J."
+    },
+    {
+      "qid": "AF427",
+      "subject": "Physics",
+      "chapter": "Gravitation",
+      "question": "Escape speed from Earth surface is about:",
+      "options": [
+        "8 km/s",
+        "11.2 km/s",
+        "3 km/s",
+        "7.9 km/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "√(2GM/R) ≈ 11.2 km/s."
+    },
+    {
+      "qid": "AF428",
+      "subject": "Physics",
+      "chapter": "Gravitation",
+      "question": "Value of g at height R (Earth radius) above surface is:",
+      "options": [
+        "g/2",
+        "g/4",
+        "g",
+        "2g"
+      ],
+      "correctAnswer": 2,
+      "explanation": "g'=g(R/(R+h))²=g/4."
+    },
+    {
+      "qid": "AF429",
+      "subject": "Physics",
+      "chapter": "SHM",
+      "question": "Time period of simple pendulum depends on:",
+      "options": [
+        "Mass",
+        "Amplitude (small)",
+        "Length and g",
+        "Colour of bob"
+      ],
+      "correctAnswer": 3,
+      "explanation": "T=2π√(L/g)."
+    },
+    {
+      "qid": "AF430",
+      "subject": "Physics",
+      "chapter": "Waves",
+      "question": "Speed of sound is maximum in:",
+      "options": [
+        "Air",
+        "Vacuum",
+        "Steel",
+        "Water"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Solids have highest elasticity; vacuum has no sound."
+    },
+    {
+      "qid": "AF431",
+      "subject": "Physics",
+      "chapter": "Thermodynamics",
+      "question": "First law of thermodynamics is:",
+      "options": [
+        "ΔU=Q+W (sign convention dependent)",
+        "Conservation of charge",
+        "Newton I",
+        "Ohm's law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Energy conservation for a thermodynamic system."
+    },
+    {
+      "qid": "AF432",
+      "subject": "Physics",
+      "chapter": "Heat",
+      "question": "SI unit of specific heat is:",
+      "options": [
+        "J/kg",
+        "J/kg K",
+        "cal",
+        "W"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Heat per unit mass per unit temperature."
+    },
+    {
+      "qid": "AF433",
+      "subject": "Physics",
+      "chapter": "Electrostatics",
+      "question": "Electric field inside a charged conducting sphere is:",
+      "options": [
+        "σ/ε0",
+        "Zero",
+        "kQ/r²",
+        "Infinite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gaussian surface inside conductor: E=0."
+    },
+    {
+      "qid": "AF434",
+      "subject": "Physics",
+      "chapter": "Current",
+      "question": "Resistivity of a wire depends on:",
+      "options": [
+        "Length",
+        "Area",
+        "Material and temperature",
+        "Current"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ρ is material property, weakly T-dependent."
+    },
+    {
+      "qid": "AF435",
+      "subject": "Physics",
+      "chapter": "Current",
+      "question": "Equivalent of two 6 Ω resistors in parallel:",
+      "options": [
+        "12 Ω",
+        "3 Ω",
+        "6 Ω",
+        "9 Ω"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1/R=1/6+1/6 ⇒ R=3 Ω."
+    },
+    {
+      "qid": "AF436",
+      "subject": "Physics",
+      "chapter": "Magnetism",
+      "question": "SI unit of magnetic field is:",
+      "options": [
+        "Weber",
+        "Tesla",
+        "Henry",
+        "Farad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "B is measured in tesla (T)."
+    },
+    {
+      "qid": "AF437",
+      "subject": "Physics",
+      "chapter": "EMI",
+      "question": "Lenz's law is a consequence of:",
+      "options": [
+        "Conservation of charge",
+        "Conservation of energy",
+        "Ohm's law",
+        "Pascal's law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Induced current opposes the cause to conserve energy."
+    },
+    {
+      "qid": "AF438",
+      "subject": "Physics",
+      "chapter": "Optics",
+      "question": "Focal length of a convex lens of power +2 D is:",
+      "options": [
+        "50 cm",
+        "2 m",
+        "20 cm",
+        "0.5 mm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "f=1/P=0.5 m=50 cm."
+    },
+    {
+      "qid": "AF439",
+      "subject": "Physics",
+      "chapter": "Optics",
+      "question": "Total internal reflection occurs when light goes from:",
+      "options": [
+        "Air to glass",
+        "Water to air at i>c",
+        "Air to water always",
+        "Vacuum to air"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Denser to rarer with i greater than critical angle."
+    },
+    {
+      "qid": "AF440",
+      "subject": "Physics",
+      "chapter": "Modern",
+      "question": "Photoelectric effect supports:",
+      "options": [
+        "Wave nature of light",
+        "Particle nature of light",
+        "Newton's rings",
+        "Polarisation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Photons eject electrons; energy is hf."
+    },
+    {
+      "qid": "AF441",
+      "subject": "Physics",
+      "chapter": "Modern",
+      "question": "de Broglie wavelength of a particle is:",
+      "options": [
+        "h/p",
+        "hf",
+        "mc²",
+        "eV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "λ=h/p."
+    },
+    {
+      "qid": "AF442",
+      "subject": "Physics",
+      "chapter": "Semiconductor",
+      "question": "A p-type semiconductor is doped with:",
+      "options": [
+        "Phosphorus",
+        "Arsenic",
+        "Boron",
+        "Antimony"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Trivalent impurity (B, Al, Ga, In)."
+    },
+    {
+      "qid": "AF443",
+      "subject": "Physics",
+      "chapter": "Units",
+      "question": "Dimensional formula of force is:",
+      "options": [
+        "MLT⁻²",
+        "ML²T⁻²",
+        "MT⁻²",
+        "MLT⁻¹"
+      ],
+      "correctAnswer": 1,
+      "explanation": "F=ma."
+    },
+    {
+      "qid": "AF444",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "question": "Bernoulli's theorem is based on:",
+      "options": [
+        "Conservation of mass",
+        "Conservation of energy",
+        "Newton III",
+        "Coulomb's law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Along a streamline for ideal fluids."
+    },
+    {
+      "qid": "AF445",
+      "subject": "Physics",
+      "chapter": "Circular Motion",
+      "question": "A pilot in a vertical loop feels weightlessness at:",
+      "options": [
+        "Bottom",
+        "Top if v=√(gR)",
+        "Anywhere",
+        "Ground"
+      ],
+      "correctAnswer": 2,
+      "explanation": "At top, N+mg=mv²/R; N=0 when v=√(gR)."
+    },
+    {
+      "qid": "AF446",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x+1/x=3, then x²+1/x² equals:",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)²-2=9-2=7."
+    },
+    {
+      "qid": "AF447",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "Roots of x²-5x+6=0 are:",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "-2 and -3",
+        "5 and 1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x-2)(x-3)=0."
+    },
+    {
+      "qid": "AF448",
+      "subject": "Mathematics",
+      "chapter": "Quadratic",
+      "question": "Discriminant of 2x²-4x+2=0 is:",
+      "options": [
+        "0",
+        "4",
+        "8",
+        "-4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "16-16=0; equal roots."
+    },
+    {
+      "qid": "AF449",
+      "subject": "Mathematics",
+      "chapter": "AP GP",
+      "question": "Sum of first n odd numbers is:",
+      "options": [
+        "n²",
+        "n(n+1)",
+        "2n",
+        "n³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1+3+...+(2n-1)=n²."
+    },
+    {
+      "qid": "AF450",
+      "subject": "Mathematics",
+      "chapter": "AP GP",
+      "question": "5th term of AP 3,7,11,... is:",
+      "options": [
+        "15",
+        "19",
+        "23",
+        "11"
+      ],
+      "correctAnswer": 2,
+      "explanation": "a+4d=3+16=19."
+    },
+    {
+      "qid": "AF451",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "sin²θ + cos²θ equals:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "tanθ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fundamental identity."
+    },
+    {
+      "qid": "AF452",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "Value of sin 30° is:",
+      "options": [
+        "1",
+        "1/2",
+        "√3/2",
+        "0"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard value."
+    },
+    {
+      "qid": "AF453",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "sec²θ - tan²θ equals:",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "sinθ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "sec²-tan²=1."
+    },
+    {
+      "qid": "AF454",
+      "subject": "Mathematics",
+      "chapter": "Coordinate",
+      "question": "Slope of line joining (1,2) and (3,6) is:",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(6-2)/(3-1)=2."
+    },
+    {
+      "qid": "AF455",
+      "subject": "Mathematics",
+      "chapter": "Coordinate",
+      "question": "Distance between (0,0) and (3,4) is:",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(9+16)=5."
+    },
+    {
+      "qid": "AF456",
+      "subject": "Mathematics",
+      "chapter": "Circle",
+      "question": "Equation x²+y²=25 represents circle of radius:",
+      "options": [
+        "5",
+        "25",
+        "10",
+        "√25/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Centre origin, r=5."
+    },
+    {
+      "qid": "AF457",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cone is:",
+      "options": [
+        "πr²h",
+        "(1/3)πr²h",
+        "2πrh",
+        "(4/3)πr³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard formula."
+    },
+    {
+      "qid": "AF458",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Surface area of a sphere of radius 7 cm is:",
+      "options": [
+        "196π",
+        "616",
+        "44π",
+        "98π"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4πr²=4π×49=196π cm²."
+    },
+    {
+      "qid": "AF459",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "A fair die is thrown. P(even number) is:",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "2/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2,4,6 → 3/6=1/2."
+    },
+    {
+      "qid": "AF460",
+      "subject": "Mathematics",
+      "chapter": "Permutation",
+      "question": "Number of ways to arrange 4 distinct letters is:",
+      "options": [
+        "24",
+        "16",
+        "12",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4!=24."
+    },
+    {
+      "qid": "AF461",
+      "subject": "Mathematics",
+      "chapter": "Combination",
+      "question": "C(5,2) equals:",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5!/(2!3!)=10."
+    },
+    {
+      "qid": "AF462",
+      "subject": "Mathematics",
+      "chapter": "Logarithm",
+      "question": "log₁₀ 1000 equals:",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "10³=1000."
+    },
+    {
+      "qid": "AF463",
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "d/dx (x³) is:",
+      "options": [
+        "3x²",
+        "x²",
+        "3x",
+        "3x³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Power rule."
+    },
+    {
+      "qid": "AF464",
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "∫ 2x dx equals:",
+      "options": [
+        "x²+C",
+        "2x²+C",
+        "x+C",
+        "2+C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antiderivative of 2x is x²."
+    },
+    {
+      "qid": "AF465",
+      "subject": "Mathematics",
+      "chapter": "Matrices",
+      "question": "Order of a matrix with 2 rows and 3 columns is:",
+      "options": [
+        "2×3",
+        "3×2",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rows × columns."
+    },
+    {
+      "qid": "AF466",
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "question": "If A·B=0 and A,B ≠ 0 then:",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Equal",
+        "Opposite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dot product zero ⇒ 90°."
+    },
+    {
+      "qid": "AF467",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Mean of 2,4,6,8,10 is:",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "30/5=6."
+    },
+    {
+      "qid": "AF468",
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "HCF of 18 and 24 is:",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6."
+    },
+    {
+      "qid": "AF469",
+      "subject": "Mathematics",
+      "chapter": "Complex",
+      "question": "i² equals:",
+      "options": [
+        "1",
+        "-1",
+        "i",
+        "0"
+      ],
+      "correctAnswer": 2,
+      "explanation": "i=√-1 so i²=-1."
+    },
+    {
+      "qid": "AF470",
+      "subject": "Mathematics",
+      "chapter": "Height Distance",
+      "question": "If tanθ=3/4 and adjacent side is 8 m, opposite side is:",
+      "options": [
+        "6 m",
+        "10 m",
+        "12 m",
+        "4 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "opp/adj=3/4 ⇒ opp=6 m."
+    },
+    {
+      "qid": "AF471",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Pilot : Aircraft :: Captain : ?",
+      "options": [
+        "Ship",
+        "Runway",
+        "Hangar",
+        "Radar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In-charge of the vehicle."
+    },
+    {
+      "qid": "AF472",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "36",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "+4,+6,+8,+10,+12."
+    },
+    {
+      "qid": "AF473",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "If AIR=912, then FLY=?",
+      "options": [
+        "625",
+        "636",
+        "612",
+        "618"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A=1, I=9, R=18→2 so 912; F=6, L=12→2, Y=25→5 so 625."
+    },
+    {
+      "qid": "AF474",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Sister",
+        "Aunt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is maternal grandfather of A."
+    },
+    {
+      "qid": "AF475",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A jet flies 10 km N, 10 km E, 10 km S. Distance from start:",
+      "options": [
+        "10 km East",
+        "0",
+        "30 km",
+        "10 km North"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net 10 km East."
+    },
+    {
+      "qid": "AF476",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "All hangars are buildings. Some buildings are towers. Conclusions: I Some hangars are towers II Some towers are buildings.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 2,
+      "explanation": "II follows; I does not necessarily."
+    },
+    {
+      "qid": "AF477",
+      "subject": "Reasoning",
+      "chapter": "Odd One",
+      "question": "Choose odd one: MiG-21, Su-30, Tejas, INS Vikrant",
+      "options": [
+        "INS Vikrant",
+        "Tejas",
+        "Su-30",
+        "MiG-21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Vikrant is a ship; others are aircraft."
+    },
+    {
+      "qid": "AF478",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "If Monday is 1st, what day is 31st of the same month?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "correctAnswer": 2,
+      "explanation": "31-1=30 days = 4 weeks + 2 days → Wednesday."
+    },
+    {
+      "qid": "AF479",
+      "subject": "Reasoning",
+      "chapter": "Mirror",
+      "question": "If RAM is coded as 18113, how is JET coded? (A=1)",
+      "options": [
+        "10520",
+        "101520",
+        "1052",
+        "52010"
+      ],
+      "correctAnswer": 1,
+      "explanation": "J=10,E=5,T=20 → 10520."
+    },
+    {
+      "qid": "AF480",
+      "subject": "Reasoning",
+      "chapter": "Venn",
+      "question": "Which diagram best represents Pilots, Officers, Women?",
+      "options": [
+        "Intersecting circles",
+        "Three disjoint",
+        "Women inside Officers inside Pilots",
+        "One circle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All three can overlap independently."
+    },
+    {
+      "qid": "AF481",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "Headquarters of Indian Air Force is at:",
+      "options": [
+        "New Delhi",
+        "Bengaluru",
+        "Pune",
+        "Hyderabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vayu Bhawan, New Delhi."
+    },
+    {
+      "qid": "AF482",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "IAF day is celebrated on:",
+      "options": [
+        "8 October",
+        "15 January",
+        "4 December",
+        "26 January"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8 October 1932 foundation."
+    },
+    {
+      "qid": "AF483",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "Tejas is a:",
+      "options": [
+        "Transport aircraft",
+        "Light Combat Aircraft",
+        "Helicopter",
+        "UAV only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HAL Tejas LCA."
+    },
+    {
+      "qid": "AF484",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "AWACS in IAF is named:",
+      "options": [
+        "Netra",
+        "Pinaka",
+        "Akash",
+        "Nag"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DRDO Netra AEW&C."
+    },
+    {
+      "qid": "AF485",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "Highest gallantry award in India is:",
+      "options": [
+        "Vir Chakra",
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Shaurya Chakra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PVC is wartime highest."
+    },
+    {
+      "qid": "AF486",
+      "subject": "GK",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "8 states."
+    },
+    {
+      "qid": "AF487",
+      "subject": "GK",
+      "chapter": "Geography",
+      "question": "Highest peak in India (undisputed in-country) commonly cited in exams:",
+      "options": [
+        "K2",
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Everest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kangchenjunga on India-Nepal border; often given as highest in India."
+    },
+    {
+      "qid": "AF488",
+      "subject": "GK",
+      "chapter": "Polity",
+      "question": "Article 21 deals with:",
+      "options": [
+        "Equality",
+        "Freedom of speech",
+        "Right to life and personal liberty",
+        "Religion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Protection of life and personal liberty."
+    },
+    {
+      "qid": "AF489",
+      "subject": "GK",
+      "chapter": "Polity",
+      "question": "President of India is elected by:",
+      "options": [
+        "Lok Sabha only",
+        "Electoral college",
+        "Rajya Sabha only",
+        "Supreme Court"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elected MPs + elected MLAs."
+    },
+    {
+      "qid": "AF490",
+      "subject": "GK",
+      "chapter": "History",
+      "question": "Battle of Plassey was fought in:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1757, Robert Clive."
+    },
+    {
+      "qid": "AF491",
+      "subject": "GK",
+      "chapter": "History",
+      "question": "Father of the Indian Air Force is often referred as:",
+      "options": [
+        "Subroto Mukerjee",
+        "Arjan Singh",
+        "Rakesh Sharma",
+        "JRD Tata"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Air Marshal Subroto Mukerjee."
+    },
+    {
+      "qid": "AF492",
+      "subject": "GK",
+      "chapter": "Science",
+      "question": "Ozone layer absorbs:",
+      "options": [
+        "IR",
+        "UV",
+        "Radio",
+        "Visible only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stratospheric ozone absorbs UV-B."
+    },
+    {
+      "qid": "AF493",
+      "subject": "GK",
+      "chapter": "Science",
+      "question": "SI unit of luminous intensity is:",
+      "options": [
+        "Lux",
+        "Candela",
+        "Lumen",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Candela (cd)."
+    },
+    {
+      "qid": "AF494",
+      "subject": "GK",
+      "chapter": "Current/Static",
+      "question": "GAGAN is related to:",
+      "options": [
+        "Missile",
+        "Satellite based navigation for aviation",
+        "Submarine",
+        "Tank"
+      ],
+      "correctAnswer": 2,
+      "explanation": "GPS Aided GEO Augmented Navigation."
+    },
+    {
+      "qid": "AF495",
+      "subject": "GK",
+      "chapter": "Sports",
+      "question": "Olympic flag has how many rings?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Five interlocking rings."
+    },
+    {
+      "qid": "AF496",
+      "subject": "GK",
+      "chapter": "Economy",
+      "question": "RBI was established in:",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 April 1935."
+    },
+    {
+      "qid": "AF497",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "Rafale aircraft in IAF were procured from:",
+      "options": [
+        "USA",
+        "France",
+        "Russia",
+        "UK"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dassault Aviation, France."
+    },
+    {
+      "qid": "AF498",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "S-400 air defence system is from:",
+      "options": [
+        "USA",
+        "Israel",
+        "Russia",
+        "France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Almaz-Antey, Russia."
+    },
+    {
+      "qid": "AF499",
+      "subject": "Reasoning",
+      "chapter": "Statement",
+      "question": "Statement: All jets need fuel. Conclusion: Some jets do not need fuel.",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "Either",
+        "Data inadequate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Contradicts the universal statement."
+    },
+    {
+      "qid": "AF500",
+      "subject": "GK",
+      "chapter": "Defence",
+      "question": "Agniveer Vayu scheme enlistment period is:",
+      "options": [
+        "4 years",
+        "15 years",
+        "20 years",
+        "6 months"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agnipath: 4 years including training."
+    }
+  ]
+}
