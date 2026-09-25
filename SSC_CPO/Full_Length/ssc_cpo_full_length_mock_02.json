@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_cpo_full_length_mock_02",
+  "exam": "SSC CPO",
+  "testType": "fullLength",
+  "title": "SSC CPO Paper-1 Full Length Mock Test 02 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CPO SI Paper-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: General Intelligence & Reasoning 25, General Knowledge & GA 25, Quantitative Aptitude 25, English Comprehension 25.",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CPO SI Paper-1 latest pattern ke anusar (condensed 100Q mock)."
+  ],
+  "questions": [
+    {
+      "qid": "CPO201",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Surgeon : Scalpel :: Sculptor : ?",
+      "options": [
+        "Chisel",
+        "Hammer",
+        "Marble",
+        "Statue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Surgeon uses a scalpel; sculptor uses a chisel as the primary tool."
+    },
+    {
+      "qid": "CPO202",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 5, 11, 24, 51, 106, ?",
+      "options": [
+        "217",
+        "215",
+        "213",
+        "219"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each term ≈ 2×previous +1, +2, +3, +4: 5×2+1=11, 11×2+2=24, 24×2+3=51, 51×2+4=106, 106×2+5=217."
+    },
+    {
+      "qid": "CPO203",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If CRICKET is coded as DQJBLFS, how is FOOTBALL coded?",
+      "options": [
+        "GNPSCZMK",
+        "GNPSABKM",
+        "GPPUABKM",
+        "ENPTCBKM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alternate +1 and −1: F+1=G, O−1=N, O+1=P, T−1=S, B+1=C, A−1=Z, L+1=M, L−1=K → GNPSCZMK."
+    },
+    {
+      "qid": "CPO204",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "P is the brother of Q. R is the father of P. S is the brother of R. How is S related to Q?",
+      "options": [
+        "Uncle",
+        "Father",
+        "Grandfather",
+        "Brother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S is brother of Q's father R, so S is uncle of Q."
+    },
+    {
+      "qid": "CPO205",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 12 km North, turns right 5 km, turns right 12 km, turns left 3 km. How far is he from start?",
+      "options": [
+        "8 km",
+        "7 km",
+        "5 km",
+        "9 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After two right turns he is 5 km East of start, then left 3 km North → distance √(5²+3²)=√34≈5.8 not in options. Path: N12, East5, South12 (back to E-W line 5 km East), left from South is East 3 → total East 8 km. Distance 8 km."
+    },
+    {
+      "qid": "CPO206",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All locks are keys. Some keys are doors. Conclusions: I. Some locks are doors. II. All keys are locks.",
+      "options": [
+        "Neither I nor II follows",
+        "Only I follows",
+        "Only II follows",
+        "Both follow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All locks⊂keys; some keys are doors does not force locks∩doors. II is converse false."
+    },
+    {
+      "qid": "CPO207",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: 121, 143, 169, 187, 209",
+      "options": [
+        "169",
+        "143",
+        "187",
+        "209"
+      ],
+      "correctAnswer": 1,
+      "explanation": "121=11×11, 143=11×13, 187=11×17, 209=11×19; 169=13×13 is the only perfect square not of form 11×odd."
+    },
+    {
+      "qid": "CPO208",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A,B,C,D,E sit in a row. B is not at either end. A is to the left of C. E is at the right end. D is between B and E. Who is in the middle?",
+      "options": [
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E right end. D between B and E ⇒ order _ _ B D E. B not at end so not position 1. Remaining A,C in first two with A left of C ⇒ A C B D E. Middle is D."
+    },
+    {
+      "qid": "CPO209",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If a clock shows 3:40, the mirror image time is?",
+      "options": [
+        "8:20",
+        "8:10",
+        "9:20",
+        "7:20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror time = 11:60 − 3:40 = 8:20."
+    },
+    {
+      "qid": "CPO210",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which diagram best represents India, Delhi, Asia?",
+      "options": [
+        "Delhi inside India inside Asia",
+        "Three disjoint circles",
+        "India and Delhi overlapping in Asia",
+        "Asia inside India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Delhi ⊂ India ⊂ Asia."
+    },
+    {
+      "qid": "CPO211",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1): 1×2,2×3,3×4,4×5,5×6,6×7=42."
+    },
+    {
+      "qid": "CPO212",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "AZ, CX, EV, GT, ?",
+      "options": [
+        "IR",
+        "HS",
+        "IQ",
+        "JR"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letters +2: A,C,E,G,I; second −2: Z,X,V,T,R → IR."
+    },
+    {
+      "qid": "CPO213",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: Only graduates are eligible for the post. Conclusions: I. Some graduates are not eligible. II. All eligible persons are graduates.",
+      "options": [
+        "Only II follows",
+        "Only I follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Only graduates are eligible' means eligible ⊂ graduates, so all eligible are graduates. I does not necessarily follow."
+    },
+    {
+      "qid": "CPO214",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2024 was Thursday, what day was 15 August 2025?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From 15 Aug 2024 to 15 Aug 2025 is 365 days (Feb 2024 leap day already passed). 365 days = +1 weekday, so Friday."
+    },
+    {
+      "qid": "CPO215",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 2 and 3 o'clock are the hands at right angle for the first time?",
+      "options": [
+        "2:5 5/11",
+        "2:16 4/11",
+        "2:21 9/11",
+        "2:10 10/11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At 2:00 the angle is 60 degrees. To become 90 degrees the minute hand must gain 30 degrees. Time = 30/5.5 = 60/11 minutes = 2:5 5/11."
+    },
+    {
+      "qid": "CPO216",
+      "subject": "Reasoning",
+      "chapter": "Embedded Figure",
+      "question": "A square is divided into 4 congruent smaller squares. How many squares are there in total?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4 small + 1 large = 5."
+    },
+    {
+      "qid": "CPO217",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A paper is folded in half twice and a hole is punched at a corner that is not on the fold. How many holes appear when unfolded?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two folds give 4 layers; one punch yields 4 holes."
+    },
+    {
+      "qid": "CPO218",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 11th from the left and B is 8th from the right. How many students are between A and B?",
+      "options": [
+        "21",
+        "22",
+        "20",
+        "19"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B from left = 40-8+1=33. Between A(11) and B(33): 33-11-1=21."
+    },
+    {
+      "qid": "CPO219",
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operations",
+      "question": "If + means x, x means -, - means / and / means +, then 8 + 2 x 4 - 2 / 6 = ?",
+      "options": [
+        "20",
+        "18",
+        "16",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Becomes 8 x 2 - 4 / 2 + 6. BODMAS: 4/2=2; 8x2=16; 16-2+6=20."
+    },
+    {
+      "qid": "CPO220",
+      "subject": "Reasoning",
+      "chapter": "Cube",
+      "question": "A cube is painted on all faces and cut into 27 unit cubes. How many small cubes have exactly two faces painted?",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Edge cubes excluding corners: 12 edges × 1 (for 3×3×3) = 12."
+    },
+    {
+      "qid": "CPO221",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Peace : Chaos :: Creation : ?",
+      "options": [
+        "Destruction",
+        "Build",
+        "Manufacture",
+        "Plan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antonym pair."
+    },
+    {
+      "qid": "CPO222",
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Odd one: Triangle, Rectangle, Pentagon, Circle",
+      "options": [
+        "Circle",
+        "Triangle",
+        "Rectangle",
+        "Pentagon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Circle is not a polygon."
+    },
+    {
+      "qid": "CPO223",
+      "subject": "Reasoning",
+      "chapter": "Sitting Arrangement",
+      "question": "Six people sit around a hexagonal table. A sits opposite D. B sits to the immediate right of A. C sits between B and D clockwise. Who sits opposite B?",
+      "options": [
+        "E",
+        "C",
+        "D",
+        "F"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clockwise order A, B, C, D, E, F. A opposite D and B opposite E."
+    },
+    {
+      "qid": "CPO224",
+      "subject": "Reasoning",
+      "chapter": "Data Sufficiency",
+      "question": "What is the rank of P from the top in a class of 40? (I) P is 12th from the bottom. (II) There are 28 students above P.",
+      "options": [
+        "Either I or II alone",
+        "Only I",
+        "Only II",
+        "Both needed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "I: rank from top = 40-12+1=29. II: rank from top = 29. Either is enough."
+    },
+    {
+      "qid": "CPO225",
+      "subject": "Reasoning",
+      "chapter": "Non-Verbal",
+      "question": "How many triangles are there in a figure of a large triangle divided by joining midpoints of all sides (midpoint triangle)?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4 small upward/down mix + 1 large = 5 triangles when connecting midpoints (medial triangle yields 4 small congruent + no extra). Connecting midpoints gives 4 small triangles of equal size."
+    },
+    {
+      "qid": "CPO226",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah in 1757."
+    },
+    {
+      "qid": "CPO227",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution deals with amendment of the Constitution?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 370",
+        "Article 32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 provides the procedure for amendment."
+    },
+    {
+      "qid": "CPO228",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river entirely in India?",
+      "options": [
+        "Godavari",
+        "Ganga",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga originates in India but also flows from/through Nepal basin; the longest river flowing entirely within India is Godavari (~1465 km)."
+    },
+    {
+      "qid": "CPO229",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Repo rate is the rate at which",
+      "options": [
+        "RBI lends to commercial banks against securities",
+        "Banks lend to RBI",
+        "Banks lend to public",
+        "Government borrows from public"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo is RBI's short-term lending rate to banks."
+    },
+    {
+      "qid": "CPO230",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The chemical formula of washing soda is",
+      "options": [
+        "Na2CO3·10H2O",
+        "NaHCO3",
+        "NaOH",
+        "Na2CO3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Washing soda is sodium carbonate decahydrate."
+    },
+    {
+      "qid": "CPO231",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "G20 Presidency of India was held in which year?",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India held the G20 Presidency in 2023; summit in New Delhi."
+    },
+    {
+      "qid": "CPO232",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "The first Indian to win a Nobel Prize was",
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tagore won Nobel Prize in Literature in 1913."
+    },
+    {
+      "qid": "CPO233",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "The term 'LBW' is associated with",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leg Before Wicket is a mode of dismissal in cricket."
+    },
+    {
+      "qid": "CPO234",
+      "subject": "General Awareness",
+      "chapter": "Culture",
+      "question": "Kathakali is a classical dance form of",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kathakali originated in Kerala."
+    },
+    {
+      "qid": "CPO235",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who founded the Slave Dynasty in India?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Alauddin Khilji"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aibak established the Mamluk/Slave dynasty after 1206."
+    },
+    {
+      "qid": "CPO236",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The minimum age to become President of India is",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "40 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 58: 35 years."
+    },
+    {
+      "qid": "CPO237",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer does NOT pass through",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "West Bengal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It passes through Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram — not Odisha."
+    },
+    {
+      "qid": "CPO238",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "SI unit of electric resistance is",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Resistance is measured in ohm (Ω)."
+    },
+    {
+      "qid": "CPO239",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "The Kyoto Protocol is related to",
+      "options": [
+        "Greenhouse gas emissions",
+        "Ozone layer only",
+        "Desertification",
+        "Wetlands"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kyoto Protocol (1997) sets binding emission reduction targets."
+    },
+    {
+      "qid": "CPO240",
+      "subject": "General Awareness",
+      "chapter": "Books",
+      "question": "The book 'Discovery of India' was written by",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "S. Radhakrishnan",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nehru wrote The Discovery of India in 1944."
+    },
+    {
+      "qid": "CPO241",
+      "subject": "General Awareness",
+      "chapter": "Defence",
+      "question": "The highest peacetime gallantry award in India is",
+      "options": [
+        "Ashoka Chakra",
+        "Param Vir Chakra",
+        "Kirti Chakra",
+        "Shaurya Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ashoka Chakra is the highest peacetime gallantry award; PVC is wartime."
+    },
+    {
+      "qid": "CPO242",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "1 July 2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "CPO243",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which vitamin is synthesized in human skin in presence of sunlight?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UV-B converts 7-dehydrocholesterol to vitamin D3."
+    },
+    {
+      "qid": "CPO244",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Dual Government in Bengal was introduced by",
+      "options": [
+        "Robert Clive",
+        "Warren Hastings",
+        "Cornwallis",
+        "Wellesley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clive introduced Dual System after 1765 Diwani."
+    },
+    {
+      "qid": "CPO245",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "How many Fundamental Duties are there in the Indian Constitution at present?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Originally 10 (42nd Amendment); 11th added by 86th Amendment (2002)."
+    },
+    {
+      "qid": "CPO246",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which planet is known as the Morning Star?",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Venus appears as Morning or Evening Star."
+    },
+    {
+      "qid": "CPO247",
+      "subject": "General Awareness",
+      "chapter": "Computer",
+      "question": "The brain of the computer is",
+      "options": [
+        "CPU",
+        "ALU",
+        "Monitor",
+        "Memory"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CPU performs processing and control."
+    },
+    {
+      "qid": "CPO248",
+      "subject": "General Awareness",
+      "chapter": "Organisations",
+      "question": "Headquarters of UNESCO is in",
+      "options": [
+        "Paris",
+        "Geneva",
+        "New York",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UNESCO HQ is in Paris."
+    },
+    {
+      "qid": "CPO249",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The process of conversion of water vapour into liquid is called",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Transpiration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Condensation is vapour to liquid."
+    },
+    {
+      "qid": "CPO250",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first woman President of the Indian National Congress?",
+      "options": [
+        "Annie Besant",
+        "Sarojini Naidu",
+        "Nellie Sengupta",
+        "Indira Gandhi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Annie Besant, 1917 Calcutta session. Sarojini Naidu was first Indian woman President (1925)."
+    },
+    {
+      "qid": "CPO251",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If a number is increased by 20% and then decreased by 20%, the net change is",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiplier 1.2×0.8=0.96 → 4% decrease."
+    },
+    {
+      "qid": "CPO252",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "If A:B = 2:3 and B:C = 4:5, then A:C is",
+      "options": [
+        "8:15",
+        "2:5",
+        "8:9",
+        "4:15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B=2:3=8:12; B:C=4:5=12:15; A:C=8:15."
+    },
+    {
+      "qid": "CPO253",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of first 10 natural numbers is",
+      "options": [
+        "5.5",
+        "5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum=55; average=5.5."
+    },
+    {
+      "qid": "CPO254",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit-Loss",
+      "question": "An article bought for Rs 500 is sold at 12% profit. Selling price is",
+      "options": [
+        "Rs 560",
+        "Rs 550",
+        "Rs 512",
+        "Rs 540"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP=500×1.12=560."
+    },
+    {
+      "qid": "CPO255",
+      "subject": "Quantitative Aptitude",
+      "chapter": "SI-CI",
+      "question": "Simple interest on Rs 2000 at 10% p.a. for 3 years is",
+      "options": [
+        "Rs 600",
+        "Rs 660",
+        "Rs 500",
+        "Rs 700"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI=PRt/100=2000×10×3/100=600."
+    },
+    {
+      "qid": "CPO256",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 12 days, B in 18 days. Together they finish in",
+      "options": [
+        "7.2 days",
+        "6 days",
+        "8 days",
+        "9 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/12+1/18=5/36; time=36/5=7.2 days."
+    },
+    {
+      "qid": "CPO257",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time-Distance",
+      "question": "A train 180 m long crosses a pole in 12 seconds. Speed is",
+      "options": [
+        "54 km/h",
+        "45 km/h",
+        "60 km/h",
+        "36 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed=180/12=15 m/s=15×18/5=54 km/h."
+    },
+    {
+      "qid": "CPO258",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x² + 1/x² =",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)²=x²+2+1/x²=9 ⇒ x²+1/x²=7."
+    },
+    {
+      "qid": "CPO259",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "The number of sides of a regular polygon whose each interior angle is 140° is",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Interior= [(n-2)/n]×180=140 ⇒ 180n−360=140n ⇒ 40n=360 ⇒ n=9."
+    },
+    {
+      "qid": "CPO260",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of edge 6 cm is",
+      "options": [
+        "216 cm³",
+        "36 cm³",
+        "108 cm³",
+        "72 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6³=216."
+    },
+    {
+      "qid": "CPO261",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "The HCF of 36 and 60 is",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "36=2²×3², 60=2²×3×5, HCF=2²×3=12."
+    },
+    {
+      "qid": "CPO262",
+      "subject": "Quantitative Aptitude",
+      "chapter": "LCM-HCF",
+      "question": "LCM of 12, 18 and 24 is",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "96"
+      ],
+      "correctAnswer": 1,
+      "explanation": "12=2²×3, 18=2×3², 24=2³×3 → LCM=2³×3²=72."
+    },
+    {
+      "qid": "CPO263",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simplification",
+      "question": "√(256) + ∛(125) − 9 =",
+      "options": [
+        "12",
+        "11",
+        "13",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "16+5−9=12."
+    },
+    {
+      "qid": "CPO264",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Pipe-Cistern",
+      "question": "A pipe fills a tank in 6 hours, another empties in 8 hours. If both open, time to fill is",
+      "options": [
+        "24 hours",
+        "14 hours",
+        "7 hours",
+        "48 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6−1/8=1/24 → 24 hours."
+    },
+    {
+      "qid": "CPO265",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Partnership",
+      "question": "A and B invest 30000 and 40000. After a year profit is 14000. A's share is",
+      "options": [
+        "Rs 6000",
+        "Rs 7000",
+        "Rs 8000",
+        "Rs 5000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ratio 3:4; A=3/7×14000=6000."
+    },
+    {
+      "qid": "CPO266",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "30% of 250 + 20% of 150 =",
+      "options": [
+        "105",
+        "100",
+        "110",
+        "95"
+      ],
+      "correctAnswer": 1,
+      "explanation": "75+30=105."
+    },
+    {
+      "qid": "CPO267",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Triangle",
+      "question": "If sides of a triangle are 6, 8, 10 cm, it is",
+      "options": [
+        "Right-angled",
+        "Equilateral",
+        "Isosceles but not right",
+        "Obtuse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6²+8²=36+64=100=10²."
+    },
+    {
+      "qid": "CPO268",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Circle",
+      "question": "Circumference of a circle of radius 7 cm is (π=22/7)",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "154 cm",
+        "49 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2πr=2×22/7×7=44."
+    },
+    {
+      "qid": "CPO269",
+      "subject": "Quantitative Aptitude",
+      "chapter": "CI",
+      "question": "CI on Rs 5000 at 10% p.a. for 2 years compounded annually is",
+      "options": [
+        "Rs 1050",
+        "Rs 1000",
+        "Rs 1100",
+        "Rs 950"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amount=5000×1.1²=6050; CI=1050."
+    },
+    {
+      "qid": "CPO270",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mixture",
+      "question": "A 40-litre mixture of milk and water is in ratio 4:1. How much water should be added to make the ratio 2:1?",
+      "options": [
+        "8 litres",
+        "10 litres",
+        "6 litres",
+        "12 litres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milk=32 L, water=8 L. 32:(8+x)=2:1 gives 32=16+2x so x=8 litres."
+    },
+    {
+      "qid": "CPO271",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Age",
+      "question": "Father is 3 times as old as son. After 12 years he will be twice. Present age of son is",
+      "options": [
+        "12 years",
+        "15 years",
+        "10 years",
+        "18 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "F=3S; 3S+12=2(S+12) ⇒ 3S+12=2S+24 ⇒ S=12."
+    },
+    {
+      "qid": "CPO272",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Boat",
+      "question": "Speed of boat in still water 15 km/h, stream 3 km/h. Downstream speed is",
+      "options": [
+        "18 km/h",
+        "12 km/h",
+        "15 km/h",
+        "21 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15+3=18."
+    },
+    {
+      "qid": "CPO273",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "sin 30° + cos 60° =",
+      "options": [
+        "1",
+        "1/2",
+        "0",
+        "√3/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/2+1/2=1."
+    },
+    {
+      "qid": "CPO274",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Data Interpretation",
+      "question": "If a bar graph shows sales 20,30,25,35 in four quarters, average quarterly sales is",
+      "options": [
+        "27.5",
+        "25",
+        "30",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "110/4=27.5."
+    },
+    {
+      "qid": "CPO275",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "The roots of x² − 5x + 6 = 0 are",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "−2 and −3",
+        "3 and 5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x-2)(x-3)=0."
+    },
+    {
+      "qid": "CPO276",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part with error: He / has went / to Delhi / yesterday.",
+      "options": [
+        "has went",
+        "He",
+        "to Delhi",
+        "yesterday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present perfect of go is 'has gone', and yesterday needs simple past 'went'."
+    },
+    {
+      "qid": "CPO277",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'Abandon' is",
+      "options": [
+        "Forsake",
+        "Keep",
+        "Adopt",
+        "Retain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abandon means to leave/forsake."
+    },
+    {
+      "qid": "CPO278",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'Scarce' is",
+      "options": [
+        "Abundant",
+        "Rare",
+        "Limited",
+        "Scant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scarce × abundant."
+    },
+    {
+      "qid": "CPO279",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'To beat about the bush' means",
+      "options": [
+        "To avoid the main topic",
+        "To hit plants",
+        "To search thoroughly",
+        "To speak angrily"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means not coming to the point."
+    },
+    {
+      "qid": "CPO280",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who speaks many languages is called",
+      "options": [
+        "Polyglot",
+        "Linguist",
+        "Orator",
+        "Bilingual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Polyglot = many languages."
+    },
+    {
+      "qid": "CPO281",
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject."
+    },
+    {
+      "qid": "CPO282",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: 'They are painting the house.'",
+      "options": [
+        "The house is being painted by them.",
+        "The house was painted.",
+        "The house has been painted.",
+        "The house painted by them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is/are being + V3."
+    },
+    {
+      "qid": "CPO283",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am tired.' Indirect form is",
+      "options": [
+        "He said that he was tired.",
+        "He said that he is tired.",
+        "He told he was tired.",
+        "He said I was tired."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present changes to past in reported speech."
+    },
+    {
+      "qid": "CPO284",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word.",
+      "options": [
+        "Embarrass",
+        "Embarass",
+        "Embarras",
+        "Embaras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Embarrass has double r and double s."
+    },
+    {
+      "qid": "CPO285",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "The sun _____ in the east.",
+      "options": [
+        "rises",
+        "raises",
+        "rose",
+        "raise"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intransitive verb rise; habitual present."
+    },
+    {
+      "qid": "CPO286",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is enough strong to lift the box. Improved:",
+      "options": [
+        "strong enough",
+        "enough strong",
+        "too strong",
+        "so strong"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adjective + enough."
+    },
+    {
+      "qid": "CPO287",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "She has been living here _____ 2018.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Point of time → since."
+    },
+    {
+      "qid": "CPO288",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "_____ honest man is respected by all.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Honest begins with vowel sound."
+    },
+    {
+      "qid": "CPO289",
+      "subject": "English",
+      "chapter": "Phrase Replacement",
+      "question": "The manager called off the meeting. 'Called off' means",
+      "options": [
+        "Cancelled",
+        "Postponed",
+        "Started",
+        "Attended"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Call off = cancel."
+    },
+    {
+      "qid": "CPO290",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'Mitigate' is",
+      "options": [
+        "Alleviate",
+        "Aggravate",
+        "Intensify",
+        "Worsen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitigate = make less severe."
+    },
+    {
+      "qid": "CPO291",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'Transparent' is",
+      "options": [
+        "Opaque",
+        "Clear",
+        "Lucid",
+        "Obvious"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transparent × opaque."
+    },
+    {
+      "qid": "CPO292",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Neither of the two boys / have / submitted / the project.",
+      "options": [
+        "have",
+        "Neither of the two boys",
+        "submitted",
+        "the project"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither is singular → 'has'."
+    },
+    {
+      "qid": "CPO293",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'A blessing in disguise' means",
+      "options": [
+        "Something good that seemed bad at first",
+        "A hidden gift",
+        "A religious event",
+        "An unexpected loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apparent misfortune that turns out well."
+    },
+    {
+      "qid": "CPO294",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A speech made without preparation is",
+      "options": [
+        "Extempore",
+        "Rhetoric",
+        "Soliloquy",
+        "Debate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore / impromptu speech."
+    },
+    {
+      "qid": "CPO295",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "If I _____ rich, I would help the poor.",
+      "options": [
+        "were",
+        "was",
+        "am",
+        "will be"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unreal conditional uses 'were'."
+    },
+    {
+      "qid": "CPO296",
+      "subject": "English",
+      "chapter": "Para Jumble",
+      "question": "Which sentence should come first? A. It is the capital of France. B. Paris is a beautiful city. C. The Eiffel Tower stands there. D. Millions visit it every year.",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B introduces Paris; A, C, D follow."
+    },
+    {
+      "qid": "CPO297",
+      "subject": "English",
+      "chapter": "Comprehension Vocab",
+      "question": "'Imminent' most nearly means",
+      "options": [
+        "About to happen",
+        "Famous",
+        "Distant",
+        "Uncertain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Imminent = impending."
+    },
+    {
+      "qid": "CPO298",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Passive of 'Open the door' is",
+      "options": [
+        "Let the door be opened.",
+        "The door is opened.",
+        "The door was opened.",
+        "Door should open."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Imperative passive: Let + object + be + V3."
+    },
+    {
+      "qid": "CPO299",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "She _____ her homework before her mother came.",
+      "options": [
+        "had finished",
+        "has finished",
+        "finished",
+        "finishes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past perfect for earlier of two past actions."
+    },
+    {
+      "qid": "CPO300",
+      "subject": "English",
+      "chapter": "Confusable",
+      "question": "The _____ of the building is unsafe.",
+      "options": [
+        "ceiling",
+        "sealing",
+        "selling",
+        "sailing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ceiling = underside of a roof."
+    }
+  ]
+}

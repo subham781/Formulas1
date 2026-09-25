@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_cpo_full_length_mock_03",
+  "exam": "SSC CPO",
+  "testType": "fullLength",
+  "title": "SSC CPO Paper-1 Full Length Mock Test 03 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CPO SI Paper-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: General Intelligence & Reasoning 25, General Knowledge & GA 25, Quantitative Aptitude 25, English Comprehension 25.",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CPO SI Paper-1 latest pattern ke anusar (condensed 100Q mock)."
+  ],
+  "questions": [
+    {
+      "qid": "CPO301",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Needle : Stitch :: Pen : ?",
+      "options": [
+        "Ink",
+        "Write",
+        "Paper",
+        "Nib"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Needle is used to stitch; a pen is used to write."
+    },
+    {
+      "qid": "CPO302",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 3, 10, 29, 66, 127, ?",
+      "options": [
+        "218",
+        "216",
+        "214",
+        "220"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Differences: 7, 19, 37, 61. Second differences: 12, 18, 24 (increase by 6), so next second difference is 30. Next first difference = 61+30=91. Therefore 127+91=218."
+    },
+    {
+      "qid": "CPO303",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If BRAIN is coded as CSBJO, how is HEART coded?",
+      "options": [
+        "IFBSU",
+        "IDZQS",
+        "IFBQU",
+        "GDZQS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: H→I, E→F, A→B, R→S, T→U → IFBSU."
+    },
+    {
+      "qid": "CPO304",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Sister",
+        "Grandmother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is father of C, C is mother of A, so A is granddaughter of D."
+    },
+    {
+      "qid": "CPO305",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person walks 8 km East, turns left and walks 6 km, turns left and walks 8 km. How far from start?",
+      "options": [
+        "6 km",
+        "8 km",
+        "10 km",
+        "14 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He forms three sides of a rectangle; remaining displacement is 6 km North."
+    },
+    {
+      "qid": "CPO306",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All locks are keys. Some keys are doors. Conclusions: I. Some locks are doors. II. All doors are keys.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Neither I nor II",
+        "Both"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No definite relation between locks and doors; II is not given. Neither follows."
+    },
+    {
+      "qid": "CPO307",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which best represents Teachers, Women, Mothers?",
+      "options": [
+        "Intersecting circles with Mothers subset Women overlapping Teachers",
+        "Three disjoint",
+        "Women subset Teachers",
+        "Mothers subset Teachers only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All mothers are women; some teachers may be women/mothers."
+    },
+    {
+      "qid": "CPO308",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Choose the odd one: Square, Rectangle, Rhombus, Triangle",
+      "options": [
+        "Triangle",
+        "Square",
+        "Rectangle",
+        "Rhombus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Triangle has 3 sides; others are quadrilaterals."
+    },
+    {
+      "qid": "CPO309",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2024 was Thursday, what day was 15 August 2025?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2025 is not leap from Aug 2024 to Aug 2025 includes Feb 29? 2024 is leap but Feb already passed after Aug 2024. From 15 Aug 2024 to 15 Aug 2025 = 365 days = 1 odd day → Friday."
+    },
+    {
+      "qid": "CPO310",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 o'clock are the hands of a clock at right angle for the first time?",
+      "options": [
+        "3:16 4/11",
+        "3:32 8/11",
+        "3:15 exactly",
+        "3:18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right angle times: M=(2/11)(30H±90). For H=3 first value is (2/11)(90-90)=0 (at 3:00 they are not at 90). Valid first is (2/11)(90+90)? Standard first between 3-4 is 16 4/11 min: (2/11)×(90) = 180/11 = 16 4/11."
+    },
+    {
+      "qid": "CPO311",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends P,Q,R,S,T sit in a row facing north. Q is second to the right of P. S is at one end. R is immediate left of T. P is not next to S. Who is in the middle?",
+      "options": [
+        "Q",
+        "R",
+        "P",
+        "T"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S at end. Possible: S _ _ _ _ or _ _ _ _ S. Q is 2nd right of P so P _ Q. R immediate left of T → RT. P not next to S. Arrangement: S P R Q T? Q is 2nd right of P only if P R Q. Middle is Q if S P R Q T — P next to S, invalid. P R Q T S: Q 2nd right of P yes, S at end, R left of T, P not next to S. Middle is Q."
+    },
+    {
+      "qid": "CPO312",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: The government has decided to increase tax on diesel. Conclusions: I. Diesel consumption will fall. II. Revenue may increase.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Either I or II",
+        "Neither"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Both are possible but not definite conclusions. Neither follows strictly."
+    },
+    {
+      "qid": "CPO313",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If a clock shows 3:40, what is the mirror image time (12-hour analog)?",
+      "options": [
+        "8:20",
+        "7:20",
+        "8:40",
+        "9:20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror of h:m is 11:60 minus time = 8:20."
+    },
+    {
+      "qid": "CPO314",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A square paper is folded once along the diagonal and a hole is punched near the fold. How many holes when opened?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One fold along diagonal yields 2 congruent parts; one punch gives 2 holes."
+    },
+    {
+      "qid": "CPO315",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1): 1×2,2×3,3×4,4×5,5×6,6×7=42."
+    },
+    {
+      "qid": "CPO316",
+      "subject": "Reasoning",
+      "chapter": "Alphabet",
+      "question": "Which letter is 7th to the right of the 13th letter from the left in English alphabet?",
+      "options": [
+        "T",
+        "S",
+        "U",
+        "R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "13th is M; 7th right of M is T."
+    },
+    {
+      "qid": "CPO317",
+      "subject": "Reasoning",
+      "chapter": "Inequality",
+      "question": "P ≥ Q = R > S ≤ T. Which is true?",
+      "options": [
+        "P > S",
+        "Q < T",
+        "R ≤ P only sometimes",
+        "S > P"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P ≥ Q = R > S ⇒ P > S always."
+    },
+    {
+      "qid": "CPO318",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 11th from left and B is 31st from left. How many between A and B?",
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Positions 11 and 31; between = 31-11-1=19."
+    },
+    {
+      "qid": "CPO319",
+      "subject": "Reasoning",
+      "chapter": "Embedded Figure",
+      "question": "Which simple figure is embedded in a complex star-in-square design most commonly tested?",
+      "options": [
+        "Triangle",
+        "Circle only",
+        "Hexagon only",
+        "Pentagon only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Star-in-square embeds several triangles."
+    },
+    {
+      "qid": "CPO320",
+      "subject": "Reasoning",
+      "chapter": "Missing Number",
+      "question": "3 5 7 / 4 6 8 / 5 7 ?  Find ?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each row increases by 2; third row 5,7,9."
+    },
+    {
+      "qid": "CPO321",
+      "subject": "Reasoning",
+      "chapter": "Dice",
+      "question": "Two positions of a dice show 2 opposite 5? If 1,2,3 meet at a corner, opposite of 1 is?",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard: faces 1-2-3 meet so opposites 6,5,4 respectively if consecutive numbering; commonly opposite of 1 is 6."
+    },
+    {
+      "qid": "CPO322",
+      "subject": "Reasoning",
+      "chapter": "Water Image",
+      "question": "Water image of letter P looks most like?",
+      "options": [
+        "Inverted P (b-like)",
+        "Q",
+        "R",
+        "d"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water image flips vertically; P becomes a shape like an inverted P."
+    },
+    {
+      "qid": "CPO323",
+      "subject": "Reasoning",
+      "chapter": "Sitting Arrangement",
+      "question": "8 people sit around a circular table. How many distinct arrangements if rotations are same and seats are unnumbered?",
+      "options": [
+        "5040",
+        "40320",
+        "720",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(8-1)! = 5040."
+    },
+    {
+      "qid": "CPO324",
+      "subject": "Reasoning",
+      "chapter": "Statement-Assumption",
+      "question": "Statement: Use our toothpaste for 24-hour freshness. Assumption: People want long-lasting freshness.",
+      "options": [
+        "Assumption follows",
+        "Does not follow",
+        "Either",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Advertisement assumes desire for 24-hour freshness."
+    },
+    {
+      "qid": "CPO325",
+      "subject": "Reasoning",
+      "chapter": "Logical Sequence",
+      "question": "Arrange: 1.Seed 2.Plant 3.Fruit 4.Flower 5.Tree",
+      "options": [
+        "1-2-5-4-3",
+        "1-5-2-4-3",
+        "1-2-4-5-3",
+        "2-1-5-4-3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Seed → Plant → Tree → Flower → Fruit."
+    },
+    {
+      "qid": "CPO326",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution deals with the amendment procedure?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 352",
+        "Article 360"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 provides the power and procedure to amend the Constitution."
+    },
+    {
+      "qid": "CPO327",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah in 1757."
+    },
+    {
+      "qid": "CPO328",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the longest river entirely in India?",
+      "options": [
+        "Godavari",
+        "Ganga",
+        "Yamuna",
+        "Krishna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godavari is the longest river that flows entirely within India; Ganga's course also involves Bangladesh."
+    },
+    {
+      "qid": "CPO329",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "Repo rate is the rate at which",
+      "options": [
+        "RBI lends to commercial banks",
+        "Banks lend to RBI",
+        "Banks lend to public",
+        "Government borrows from public"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo is RBI's short-term lending rate to commercial banks."
+    },
+    {
+      "qid": "CPO330",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "SI unit of electric charge is",
+      "options": [
+        "Coulomb",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Charge is measured in coulomb (C)."
+    },
+    {
+      "qid": "CPO331",
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "G20 presidency of India was in which year?",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India held the G20 Presidency in 2023; summit in New Delhi."
+    },
+    {
+      "qid": "CPO332",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Bharat Ratna in 2024 was conferred (among others) on",
+      "options": [
+        "Karpoori Thakur",
+        "Amitabh Bachchan",
+        "Sachin Tendulkar",
+        "Lata Mangeshkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Karpoori Thakur was awarded Bharat Ratna posthumously in 2024."
+    },
+    {
+      "qid": "CPO333",
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "How many players are there in a hockey team on the field?",
+      "options": [
+        "11",
+        "7",
+        "9",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Field hockey has 11 players per side."
+    },
+    {
+      "qid": "CPO334",
+      "subject": "GA",
+      "chapter": "Books",
+      "question": "Who wrote 'Discovery of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Gandhi",
+        "Tagore",
+        "Ambedkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nehru wrote The Discovery of India during imprisonment."
+    },
+    {
+      "qid": "CPO335",
+      "subject": "GA",
+      "chapter": "Culture",
+      "question": "Bihu is the folk festival of which state?",
+      "options": [
+        "Assam",
+        "Punjab",
+        "Gujarat",
+        "Kerala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bihu is Assam's major harvest festival."
+    },
+    {
+      "qid": "CPO336",
+      "subject": "GA",
+      "chapter": "Environment",
+      "question": "The Kyoto Protocol is related to",
+      "options": [
+        "Greenhouse gas emissions",
+        "Ozone only",
+        "Wetlands",
+        "Desertification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kyoto Protocol sets binding GHG emission targets."
+    },
+    {
+      "qid": "CPO337",
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "Headquarters of the Indian Army is in",
+      "options": [
+        "New Delhi",
+        "Pune",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrated HQ of MoD (Army) is in New Delhi."
+    },
+    {
+      "qid": "CPO338",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The minimum age to become President of India is",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "21 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 58: 35 years."
+    },
+    {
+      "qid": "CPO339",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who founded the Arya Samaj?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Raja Ram Mohan Roy",
+        "Vivekananda",
+        "Annie Besant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arya Samaj was founded in 1875 by Dayanand Saraswati."
+    },
+    {
+      "qid": "CPO340",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram."
+    },
+    {
+      "qid": "CPO341",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scurvy is due to lack of ascorbic acid (Vitamin C)."
+    },
+    {
+      "qid": "CPO342",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "GST was implemented in India from",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "1 July 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST came into effect on 1 July 2017."
+    },
+    {
+      "qid": "CPO343",
+      "subject": "GA",
+      "chapter": "Computer",
+      "question": "Full form of URL is",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Register Locator",
+        "Unique Resource Locator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "URL means Uniform Resource Locator."
+    },
+    {
+      "qid": "CPO344",
+      "subject": "GA",
+      "chapter": "International",
+      "question": "UN headquarters is located in",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "Vienna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UN HQ is in New York City."
+    },
+    {
+      "qid": "CPO345",
+      "subject": "GA",
+      "chapter": "Art",
+      "question": "Madhubani painting originated in",
+      "options": [
+        "Bihar",
+        "Odisha",
+        "Rajasthan",
+        "West Bengal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Madhubani (Mithila) painting is from Bihar."
+    },
+    {
+      "qid": "CPO346",
+      "subject": "GA",
+      "chapter": "Physics",
+      "question": "Newton's third law is about",
+      "options": [
+        "Action and reaction",
+        "Inertia",
+        "F=ma",
+        "Gravitation only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every action has equal and opposite reaction."
+    },
+    {
+      "qid": "CPO347",
+      "subject": "GA",
+      "chapter": "Biology",
+      "question": "The powerhouse of the cell is",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria produce ATP."
+    },
+    {
+      "qid": "CPO348",
+      "subject": "GA",
+      "chapter": "Static GK",
+      "question": "National animal of India is",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bengal tiger is the national animal."
+    },
+    {
+      "qid": "CPO349",
+      "subject": "GA",
+      "chapter": "Constitution",
+      "question": "How many Fundamental Rights are currently provided in the Constitution?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Originally 7; Right to Property removed; now 6."
+    },
+    {
+      "qid": "CPO350",
+      "subject": "GA",
+      "chapter": "River",
+      "question": "Which river is called Dakshin Ganga?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godavari is known as Dakshin Ganga."
+    },
+    {
+      "qid": "CPO351",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change is",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.8×1.2=0.96 → 4% decrease."
+    },
+    {
+      "qid": "CPO352",
+      "subject": "Quant",
+      "chapter": "Profit-Loss",
+      "question": "CP=800, SP=920. Profit percent is",
+      "options": [
+        "15%",
+        "12%",
+        "18%",
+        "20%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profit 120/800×100=15%."
+    },
+    {
+      "qid": "CPO353",
+      "subject": "Quant",
+      "chapter": "SI-CI",
+      "question": "SI on 5000 at 10% p.a. for 2 years is",
+      "options": [
+        "1000",
+        "500",
+        "1500",
+        "800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI=PRT/100=5000×10×2/100=1000."
+    },
+    {
+      "qid": "CPO354",
+      "subject": "Quant",
+      "chapter": "Ratio",
+      "question": "If A:B=2:3 and B:C=4:5, then A:C is",
+      "options": [
+        "8:15",
+        "2:5",
+        "3:5",
+        "8:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B=2:3=8:12; B:C=4:5=12:15; A:C=8:15."
+    },
+    {
+      "qid": "CPO355",
+      "subject": "Quant",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 20. If one number 15 is replaced by 25, new average is",
+      "options": [
+        "22",
+        "21",
+        "23",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Increase of 10 over 5 numbers → +2 → 22."
+    },
+    {
+      "qid": "CPO356",
+      "subject": "Quant",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 10 days, B in 15 days. Together they finish in",
+      "options": [
+        "6 days",
+        "5 days",
+        "8 days",
+        "12.5 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10+1/15=1/6 → 6 days."
+    },
+    {
+      "qid": "CPO357",
+      "subject": "Quant",
+      "chapter": "Time-Speed",
+      "question": "A train 180 m long crosses a pole in 12 s. Speed is",
+      "options": [
+        "54 km/h",
+        "45 km/h",
+        "60 km/h",
+        "36 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 m/s = 15×18/5=54 km/h."
+    },
+    {
+      "qid": "CPO358",
+      "subject": "Quant",
+      "chapter": "Algebra",
+      "question": "If x+1/x=3, then x^2+1/x^2 is",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)^2=9=x^2+2+1/x^2 ⇒ x^2+1/x^2=7."
+    },
+    {
+      "qid": "CPO359",
+      "subject": "Quant",
+      "chapter": "Geometry",
+      "question": "Area of a circle with radius 7 cm is (use 22/7)",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "22 cm²",
+        "77 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr²=22/7×49=154."
+    },
+    {
+      "qid": "CPO360",
+      "subject": "Quant",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 5 cm is",
+      "options": [
+        "125 cm³",
+        "25 cm³",
+        "100 cm³",
+        "150 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5³=125."
+    },
+    {
+      "qid": "CPO361",
+      "subject": "Quant",
+      "chapter": "Number System",
+      "question": "LCM of 12 and 18 is",
+      "options": [
+        "36",
+        "6",
+        "54",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM(12,18)=36."
+    },
+    {
+      "qid": "CPO362",
+      "subject": "Quant",
+      "chapter": "HCF-LCM",
+      "question": "HCF of 48 and 72 is",
+      "options": [
+        "24",
+        "12",
+        "16",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF(48,72)=24."
+    },
+    {
+      "qid": "CPO363",
+      "subject": "Quant",
+      "chapter": "Simplification",
+      "question": "25% of 640 is",
+      "options": [
+        "160",
+        "150",
+        "180",
+        "120"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.25×640=160."
+    },
+    {
+      "qid": "CPO364",
+      "subject": "Quant",
+      "chapter": "Fraction",
+      "question": "3/4 of 240 is",
+      "options": [
+        "180",
+        "160",
+        "200",
+        "120"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3/4×240=180."
+    },
+    {
+      "qid": "CPO365",
+      "subject": "Quant",
+      "chapter": "CI",
+      "question": "CI on 1000 at 10% p.a. for 2 years is",
+      "options": [
+        "210",
+        "200",
+        "220",
+        "121"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1000×1.1²−1000=210."
+    },
+    {
+      "qid": "CPO366",
+      "subject": "Quant",
+      "chapter": "Partnership",
+      "question": "A invests 3000 for 4 months, B 2000 for 6 months. Profit share A:B is",
+      "options": [
+        "1:1",
+        "2:1",
+        "3:2",
+        "1:2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3000×4 : 2000×6 = 12000:12000=1:1."
+    },
+    {
+      "qid": "CPO367",
+      "subject": "Quant",
+      "chapter": "Pipe-Cistern",
+      "question": "Pipe A fills in 6 h, B empties in 8 h. Together net fill time for empty tank",
+      "options": [
+        "24 h",
+        "14 h",
+        "7 h",
+        "48 h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6−1/8=1/24 → 24 hours."
+    },
+    {
+      "qid": "CPO368",
+      "subject": "Quant",
+      "chapter": "Triangle",
+      "question": "In a right triangle, sides 3 and 4. Hypotenuse is",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3-4-5 Pythagorean triple."
+    },
+    {
+      "qid": "CPO369",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "45 is what percent of 180?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "45/180×100=25%."
+    },
+    {
+      "qid": "CPO370",
+      "subject": "Quant",
+      "chapter": "Average",
+      "question": "Average of first 10 natural numbers is",
+      "options": [
+        "5.5",
+        "5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(10+1)/2=5.5."
+    },
+    {
+      "qid": "CPO371",
+      "subject": "Quant",
+      "chapter": "Discount",
+      "question": "MP=500, discount 10%. SP is",
+      "options": [
+        "450",
+        "400",
+        "475",
+        "425"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.9×500=450."
+    },
+    {
+      "qid": "CPO372",
+      "subject": "Quant",
+      "chapter": "Mixture",
+      "question": "Milk:water = 4:1 in 20 L. Milk quantity is",
+      "options": [
+        "16 L",
+        "15 L",
+        "12 L",
+        "18 L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4/5×20=16 L."
+    },
+    {
+      "qid": "CPO373",
+      "subject": "Quant",
+      "chapter": "Age",
+      "question": "Father is 3 times son. After 12 years he will be twice. Son's present age is",
+      "options": [
+        "12",
+        "10",
+        "15",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3x+12=2(x+12) ⇒ 3x+12=2x+24 ⇒ x=12."
+    },
+    {
+      "qid": "CPO374",
+      "subject": "Quant",
+      "chapter": "Boat-Stream",
+      "question": "Speed in still water 15 km/h, stream 3 km/h. Downstream speed is",
+      "options": [
+        "18 km/h",
+        "12 km/h",
+        "15 km/h",
+        "21 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15+3=18."
+    },
+    {
+      "qid": "CPO375",
+      "subject": "Quant",
+      "chapter": "Data Interpretation",
+      "question": "If a bar shows sales 40,50,60 over 3 years, average sales are",
+      "options": [
+        "50",
+        "45",
+        "55",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(40+50+60)/3=50."
+    },
+    {
+      "qid": "CPO376",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of ABUNDANT is",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Meagre",
+        "Rare"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abundant means existing in large quantity; plentiful."
+    },
+    {
+      "qid": "CPO377",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of TRANSPARENT is",
+      "options": [
+        "Opaque",
+        "Clear",
+        "Lucid",
+        "Open"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transparent opposite is opaque."
+    },
+    {
+      "qid": "CPO378",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Break the ice' means",
+      "options": [
+        "Start a conversation",
+        "Break something",
+        "Get angry",
+        "Run away"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To initiate conversation in a stiff situation."
+    },
+    {
+      "qid": "CPO379",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error part conceptually: He do not like tea. Error is in",
+      "options": [
+        "do not",
+        "He",
+        "like",
+        "tea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subject He needs does not."
+    },
+    {
+      "qid": "CPO380",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "She has been living here _____ 2018.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Point of time takes since."
+    },
+    {
+      "qid": "CPO381",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves books is a",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misanthrope",
+        "Cartographer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile = book lover."
+    },
+    {
+      "qid": "CPO382",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: They will finish the work.",
+      "options": [
+        "The work will be finished by them",
+        "The work finished by them",
+        "The work is finished",
+        "They finished the work"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future simple passive: will be + V3."
+    },
+    {
+      "qid": "CPO383",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am tired.' Indirect:",
+      "options": [
+        "He said that he was tired",
+        "He said that I am tired",
+        "He said he is tired",
+        "He told that he tired"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present becomes past in indirect speech."
+    },
+    {
+      "qid": "CPO384",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject."
+    },
+    {
+      "qid": "CPO385",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Correct spelling is",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Acomodate",
+        "Accomodate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Accommodate has double c and double m."
+    },
+    {
+      "qid": "CPO386",
+      "subject": "English",
+      "chapter": "Phrase",
+      "question": "'Look down upon' means",
+      "options": [
+        "Despise",
+        "Search",
+        "Take care",
+        "Ignore physically looking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Look down upon = regard with contempt."
+    },
+    {
+      "qid": "CPO387",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "The sun _____ in the east.",
+      "options": [
+        "rises",
+        "raises",
+        "rose always",
+        "risen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sun rises (intransitive)."
+    },
+    {
+      "qid": "CPO388",
+      "subject": "English",
+      "chapter": "Adjective",
+      "question": "The comparative of 'good' is",
+      "options": [
+        "better",
+        "gooder",
+        "best",
+        "well"
+      ],
+      "correctAnswer": 1,
+      "explanation": "good-better-best."
+    },
+    {
+      "qid": "CPO389",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "_____ honest man is respected.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "honest starts with vowel sound → an."
+    },
+    {
+      "qid": "CPO390",
+      "subject": "English",
+      "chapter": "Conjunction",
+      "question": "Work hard _____ you will fail.",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "so"
+      ],
+      "correctAnswer": 1,
+      "explanation": "or else / otherwise sense: or."
+    },
+    {
+      "qid": "CPO391",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she _____ her degree.",
+      "options": [
+        "will have completed",
+        "completed",
+        "completes",
+        "had complete"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect for action done before a future point."
+    },
+    {
+      "qid": "CPO392",
+      "subject": "English",
+      "chapter": "Para Jumble",
+      "question": "Logical first sentence usually introduces",
+      "options": [
+        "Theme/topic",
+        "Conclusion",
+        "Example only",
+        "Question tag"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opening sentence sets the theme."
+    },
+    {
+      "qid": "CPO393",
+      "subject": "English",
+      "chapter": "Comprehension Skill",
+      "question": "Main idea of a passage is also called",
+      "options": [
+        "Central theme",
+        "Tone only",
+        "Vocabulary",
+        "Inference only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Main idea = central theme."
+    },
+    {
+      "qid": "CPO394",
+      "subject": "English",
+      "chapter": "Homophone",
+      "question": "Their / There / They're: '_____ going to school.'",
+      "options": [
+        "They're",
+        "Their",
+        "There",
+        "Thier"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They're = they are."
+    },
+    {
+      "qid": "CPO395",
+      "subject": "English",
+      "chapter": "Phrasal Verb",
+      "question": "'Give up' means",
+      "options": [
+        "Quit / surrender",
+        "Donate upward",
+        "Start",
+        "Continue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Give up = stop trying or surrender."
+    },
+    {
+      "qid": "CPO396",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is senior than me. Improved:",
+      "options": [
+        "He is senior to me",
+        "He is senior from me",
+        "He is more senior than I",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior/junior take to, not than."
+    },
+    {
+      "qid": "CPO397",
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Passive of: Open the door.",
+      "options": [
+        "Let the door be opened",
+        "The door opened",
+        "Door is open",
+        "You opened the door"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Imperative passive often uses Let + be + V3."
+    },
+    {
+      "qid": "CPO398",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Benevolent means",
+      "options": [
+        "Kind and generous",
+        "Violent",
+        "Poor",
+        "Angry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Benevolent = well-wishing, kind."
+    },
+    {
+      "qid": "CPO399",
+      "subject": "English",
+      "chapter": "Grammar",
+      "question": "Neither of the boys _____ present.",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither is singular → was."
+    },
+    {
+      "qid": "CPO400",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Once in a blue moon' means",
+      "options": [
+        "Very rarely",
+        "Very often",
+        "At night",
+        "Never"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blue moon is rare; hence very rarely."
+    }
+  ]
+}

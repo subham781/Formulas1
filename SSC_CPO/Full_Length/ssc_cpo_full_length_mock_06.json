@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_cpo_full_length_mock_06",
+  "exam": "SSC CPO",
+  "testType": "fullLength",
+  "title": "SSC CPO Paper-1 Full Length Mock Test 06 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CPO SI Paper-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: General Intelligence & Reasoning 25, General Knowledge & GA 25, Quantitative Aptitude 25, English Comprehension 25.",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CPO SI Paper-1 latest pattern ke anusar (condensed 100Q mock)."
+  ],
+  "questions": [
+    {
+      "qid": "CPO601",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Architect : Blueprint :: Composer : ?",
+      "options": [
+        "Score",
+        "Orchestra",
+        "Instrument",
+        "Concert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Architect designs a blueprint; a composer designs a musical score."
+    },
+    {
+      "qid": "CPO602",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 3, 8, 18, 38, 78, ?",
+      "options": [
+        "158",
+        "156",
+        "160",
+        "154"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each term = previous×2 + 2: 78×2+2=158."
+    },
+    {
+      "qid": "CPO603",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If POLICY is written as QNMDJZ, how is MARKET written?",
+      "options": [
+        "NBSLDU",
+        "NBSLFU",
+        "OBSLFU",
+        "NCSLFU"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each letter is increased by 1: M→N, A→B, R→S, K→L, E→F, T→U giving NBSLFU."
+    },
+    {
+      "qid": "CPO604",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a photograph, a man said, 'She is the daughter of the only son of my grandfather.' How is the girl related to the man?",
+      "options": [
+        "Sister",
+        "Daughter",
+        "Cousin",
+        "Aunt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only son of grandfather is the man's father; father's daughter is sister (or himself if male). Girl is sister."
+    },
+    {
+      "qid": "CPO605",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 10 km North, turns right 6 km, turns right 10 km, then left 4 km. How far and in which direction from start?",
+      "options": [
+        "10 km East",
+        "10 km West",
+        "6 km East",
+        "10 km South"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After 10N, 6E, 10S he is 6E of start, then left (from south-facing after second right? Start N, right faces E, right faces S, left from S is E so +4E = 10 km East."
+    },
+    {
+      "qid": "CPO606",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All medals are trophies. Some trophies are prizes. Conclusions: I. Some medals are prizes. II. No medal is a prize.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Either I or II",
+        "Neither"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Some trophies prizes does not force medals to be prizes; I and II form complementary pair (either-or)."
+    },
+    {
+      "qid": "CPO607",
+      "subject": "Reasoning",
+      "chapter": "Inequality",
+      "question": "P ≥ Q = R > S ≤ T. Which is definitely true?",
+      "options": [
+        "P > S",
+        "Q ≤ T",
+        "P = T",
+        "S > P"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P ≥ Q = R > S ⇒ P > S is certain."
+    },
+    {
+      "qid": "CPO608",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A B C D E sit in a row facing North. C is second to the left of E. A is at an extreme end. B is immediate right of A. Who sits in the middle?",
+      "options": [
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A B _ _ _ and C second left of E. Possible A B C D E so middle D; or A B D C E middle D."
+    },
+    {
+      "qid": "CPO609",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "38"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1): 1×2,2×3,3×4,4×5,5×6,6×7=42."
+    },
+    {
+      "qid": "CPO610",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If the word FORCE is seen in a mirror placed vertically to the right, the last letter of the image appears as?",
+      "options": [
+        "Reversed F",
+        "Reversed E",
+        "E",
+        "F"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vertical mirror reverses left-right; last visible letter of image corresponds to reversed first letter wait: FORCE reversed as ECROF so first of image is E (mirrored glyph)."
+    },
+    {
+      "qid": "CPO611",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A square paper is folded in half twice and a hole is punched at the centre of the small square. How many holes when unfolded?",
+      "options": [
+        "4",
+        "2",
+        "8",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two folds give 4 layers; one punch → 4 holes."
+    },
+    {
+      "qid": "CPO612",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which diagram best represents Police, Women, Mothers?",
+      "options": [
+        "Intersecting Police-Women, Mothers subset Women",
+        "Three disjoint",
+        "Women subset Police",
+        "Mothers disjoint Women"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some women are police; all mothers who are women sit inside women."
+    },
+    {
+      "qid": "CPO613",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2023 was Tuesday, what day was 15 August 2024?",
+      "options": [
+        "Thursday",
+        "Wednesday",
+        "Friday",
+        "Tuesday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2024 is leap year and 15 Aug is after Feb 29, so +2 weekdays → Thursday."
+    },
+    {
+      "qid": "CPO614",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 4 and 5 are the hands at right angle?",
+      "options": [
+        "4:32 8/11",
+        "4:38 2/11",
+        "4:20",
+        "Both A and a later time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hands are at right angle at 4 : 38 2/11 minutes (and also 4 : 21 9/11)."
+    },
+    {
+      "qid": "CPO615",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: The government has increased petrol prices. Conclusions: I. Demand will fall. II. Inflation may rise.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Either"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Price rise of fuel commonly feeds inflation; demand fall is not certain."
+    },
+    {
+      "qid": "CPO616",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Choose the odd one: 121, 144, 169, 196, 225, 256, 289",
+      "options": [
+        "196",
+        "256",
+        "225",
+        "289"
+      ],
+      "correctAnswer": 2,
+      "explanation": "All given numbers are perfect squares from 11^2 to 17^2. 256 = 16^2 = 2^8 is the only power of 2, so it is the odd one out."
+    },
+    {
+      "qid": "CPO617",
+      "subject": "Reasoning",
+      "chapter": "Counting Figures",
+      "question": "Maximum number of triangles in a figure of a large triangle divided by joining midpoints and all vertices to centre (standard 3 medians)?",
+      "options": [
+        "16",
+        "12",
+        "8",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Three medians divide a triangle into 6 small triangles plus combinations totalling 16 commonly in SSC figures of this type."
+    },
+    {
+      "qid": "CPO618",
+      "subject": "Reasoning",
+      "chapter": "Seating",
+      "question": "Eight persons sit around a circular table facing centre. A sits second to the left of B. C is opposite A. Who sits opposite B?",
+      "options": [
+        "Person two left of C",
+        "C",
+        "A",
+        "Cannot say from this alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opposite of B is the person sitting opposite; with A second left of B and C opposite A, opposite B is two seats from C — uniquely determined as the person second to the right of C. Option 1."
+    },
+    {
+      "qid": "CPO619",
+      "subject": "Reasoning",
+      "chapter": "Data Sufficiency",
+      "question": "What is the code for 'bank'? I. 'public sector bank' is coded 'sx vt qm'. II. 'reserve bank india' is coded 'qm lp az'.",
+      "options": [
+        "I alone",
+        "II alone",
+        "Both needed",
+        "Even both not enough"
+      ],
+      "correctAnswer": 3,
+      "explanation": "From both, 'bank' is the common word and 'qm' the common code."
+    },
+    {
+      "qid": "CPO620",
+      "subject": "Reasoning",
+      "chapter": "Alphabet",
+      "question": "If the first and third letters of the word IMPUDENT are interchanged, then 2nd and 4th, and so on, which letter is 5th from right in the new word?",
+      "options": [
+        "D",
+        "U",
+        "P",
+        "E"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pairs swap: PMIU EDNT → PMIUEDNT. 5th from right is U."
+    },
+    {
+      "qid": "CPO621",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "16 : 56 :: 32 : ?",
+      "options": [
+        "96",
+        "112",
+        "120",
+        "64"
+      ],
+      "correctAnswer": 2,
+      "explanation": "16×3.5=56; 32×3.5=112. Or 16×4-8=56; 32×4-16=112."
+    },
+    {
+      "qid": "CPO622",
+      "subject": "Reasoning",
+      "chapter": "Statement-Assumption",
+      "question": "Statement: 'Use our helmets — ride safe.' Assumptions: I. People want safety. II. Helmets reduce risk.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advertisement assumes desire for safety and efficacy of helmets."
+    },
+    {
+      "qid": "CPO623",
+      "subject": "Reasoning",
+      "chapter": "Input-Output",
+      "question": "A machine rearranges: '49 13 72 25 8 61' step1 '8 13 72 25 49 61' (smallest to left, largest? 49 moved). If each step swaps next smallest to next left, step 2?",
+      "options": [
+        "8 13 25 72 49 61",
+        "8 13 72 25 49 61",
+        "8 13 25 49 72 61",
+        "8 13 61 25 49 72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Selection-sort like: after placing 8, next place 13 already set, then 25 to third position."
+    },
+    {
+      "qid": "CPO624",
+      "subject": "Reasoning",
+      "chapter": "Cube",
+      "question": "A cube is painted red on all faces and cut into 64 small cubes. How many have exactly two faces painted?",
+      "options": [
+        "24",
+        "16",
+        "32",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4×4×4 cube: edges 12×2=24 small cubes with two faces painted."
+    },
+    {
+      "qid": "CPO625",
+      "subject": "Reasoning",
+      "chapter": "Logical",
+      "question": "If only route from P to R is via Q and Q is closed, then",
+      "options": [
+        "P cannot reach R",
+        "P can reach R another way",
+        "Q is on R",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only route via Q and Q closed ⇒ P cannot reach R."
+    },
+    {
+      "qid": "CPO626",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Which article of the Indian Constitution deals with the amendment procedure?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 370",
+        "Article 352"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 lays down the power and procedure to amend the Constitution."
+    },
+    {
+      "qid": "CPO627",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah in 1757."
+    },
+    {
+      "qid": "CPO628",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Durand Line is the border between",
+      "options": [
+        "India and Afghanistan",
+        "Pakistan and Afghanistan",
+        "India and China",
+        "India and Myanmar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durand Line (1893) separates Pakistan and Afghanistan."
+    },
+    {
+      "qid": "CPO629",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "Which of the following is a direct tax in India?",
+      "options": [
+        "Corporation Tax",
+        "GST",
+        "Excise Duty",
+        "Customs Duty"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Corporation tax is levied directly on companies' income."
+    },
+    {
+      "qid": "CPO630",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "The SI unit of luminous intensity is",
+      "options": [
+        "Candela",
+        "Lumen",
+        "Lux",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candela (cd) is the SI base unit of luminous intensity."
+    },
+    {
+      "qid": "CPO631",
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "G20 Presidency of India was held in which year?",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India held the G20 Presidency in 2023; New Delhi summit in September 2023."
+    },
+    {
+      "qid": "CPO632",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "The first Indian to win the Nobel Prize was",
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tagore won the Nobel Prize in Literature in 1913."
+    },
+    {
+      "qid": "CPO633",
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "The term 'LBW' is associated with",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leg Before Wicket is a mode of dismissal in cricket."
+    },
+    {
+      "qid": "CPO634",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "Vice-President of India",
+        "President",
+        "Prime Minister",
+        "Speaker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 64/89: Vice-President is ex-officio Chairman of Rajya Sabha."
+    },
+    {
+      "qid": "CPO635",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who founded the Servants of India Society?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "M.G. Ranade",
+        "Dadabhai Naoroji"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gokhale founded it in 1905 in Pune."
+    },
+    {
+      "qid": "CPO636",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which planet is known as the 'Morning Star'?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Venus appears bright near sunrise or sunset."
+    },
+    {
+      "qid": "CPO637",
+      "subject": "GA",
+      "chapter": "Environment",
+      "question": "The Kyoto Protocol is related to",
+      "options": [
+        "Greenhouse gas emission cuts",
+        "Ozone layer",
+        "Wetlands",
+        "Desertification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kyoto Protocol (1997) set binding GHG emission targets."
+    },
+    {
+      "qid": "CPO638",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "Which vitamin is synthesized in human skin by sunlight?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UV-B converts 7-dehydrocholesterol to vitamin D3."
+    },
+    {
+      "qid": "CPO639",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "Repo rate is decided by",
+      "options": [
+        "RBI's MPC",
+        "SEBI",
+        "NITI Aayog",
+        "Finance Commission"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Monetary Policy Committee of RBI sets the repo rate."
+    },
+    {
+      "qid": "CPO640",
+      "subject": "GA",
+      "chapter": "Books",
+      "question": "The book 'Discovery of India' was written by",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "S. Radhakrishnan",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nehru wrote it during imprisonment (1942–46)."
+    },
+    {
+      "qid": "CPO641",
+      "subject": "GA",
+      "chapter": "Culture",
+      "question": "Bihu is the folk dance of",
+      "options": [
+        "Assam",
+        "Punjab",
+        "Gujarat",
+        "Odisha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bihu is Assam's harvest festival dance."
+    },
+    {
+      "qid": "CPO642",
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The headquarters of the Indian Army is located at",
+      "options": [
+        "New Delhi",
+        "Pune",
+        "Kolkata",
+        "Chandimandir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrated HQ of MoD (Army) is in New Delhi."
+    },
+    {
+      "qid": "CPO643",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Fundamental Duties were added by which amendment?",
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "correctAnswer": 1,
+      "explanation": "42nd Amendment, 1976, added Part IVA / Article 51A."
+    },
+    {
+      "qid": "CPO644",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Ilbert Bill controversy occurred during the viceroyalty of",
+      "options": [
+        "Lord Ripon",
+        "Lord Curzon",
+        "Lord Lytton",
+        "Lord Canning"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ilbert Bill (1883) under Ripon sought to allow Indian judges to try Europeans."
+    },
+    {
+      "qid": "CPO645",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The highest peak in India is",
+      "options": [
+        "Kangchenjunga",
+        "Nanda Devi",
+        "K2 (in PoK claimed)",
+        "Mount Everest"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga (8586 m) in Sikkim is the highest peak entirely in India; K2 is in PoK."
+    },
+    {
+      "qid": "CPO646",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "pH of a neutral solution at 25°C is",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutral water has pH 7 at 25°C."
+    },
+    {
+      "qid": "CPO647",
+      "subject": "GA",
+      "chapter": "International",
+      "question": "The headquarters of UNESCO is in",
+      "options": [
+        "Paris",
+        "Geneva",
+        "New York",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UNESCO HQ is in Paris, France."
+    },
+    {
+      "qid": "CPO648",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "GST was implemented in India from",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "8 November 2016",
+        "1 January 2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "CPO649",
+      "subject": "GA",
+      "chapter": "Computer",
+      "question": "Which of the following is a volatile memory?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard Disk",
+        "Flash drive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RAM loses data when power is cut."
+    },
+    {
+      "qid": "CPO650",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Param Vir Chakra is awarded for",
+      "options": [
+        "Highest gallantry in war",
+        "Distinguished service",
+        "Sports excellence",
+        "Literary work"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PVC is India's highest wartime gallantry award."
+    },
+    {
+      "qid": "CPO651",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change is",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiplier 1.2×0.8=0.96 → 4% decrease."
+    },
+    {
+      "qid": "CPO652",
+      "subject": "Quant",
+      "chapter": "Profit-Loss",
+      "question": "A man sells an article at 10% profit. If he had bought it at 10% less and sold at Rs 10 more, profit would be 25%. Cost price is",
+      "options": [
+        "Rs 400",
+        "Rs 500",
+        "Rs 450",
+        "Rs 360"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let CP=x. SP=1.1x. New CP=0.9x, new SP=1.1x+10, profit 25% ⇒ 1.1x+10=1.25×0.9x=1.125x ⇒ 10=0.025x ⇒ x=400."
+    },
+    {
+      "qid": "CPO653",
+      "subject": "Quant",
+      "chapter": "SI-CI",
+      "question": "CI on a sum at 10% p.a. for 2 years is Rs 210 more than SI. The sum is",
+      "options": [
+        "Rs 21000",
+        "Rs 20000",
+        "Rs 10500",
+        "Rs 15000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CI-SI for 2 yrs = P(r/100)^2 =210 ⇒ P×0.01=210 ⇒ P=21000."
+    },
+    {
+      "qid": "CPO654",
+      "subject": "Quant",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 12 days, B in 18. Together with C they finish in 4 days. C alone takes",
+      "options": [
+        "18 days",
+        "9 days",
+        "16 days",
+        "24 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A+B=5/36, A+B+C=1/4=9/36, so C=4/36=1/9 → 9 days."
+    },
+    {
+      "qid": "CPO655",
+      "subject": "Quant",
+      "chapter": "Time-Speed",
+      "question": "A train 180 m long crosses a pole in 12 s. Speed in km/h is",
+      "options": [
+        "54",
+        "45",
+        "60",
+        "72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed=180/12=15 m/s=15×18/5=54 km/h."
+    },
+    {
+      "qid": "CPO656",
+      "subject": "Quant",
+      "chapter": "Average",
+      "question": "Average of 11 numbers is 30. If one number 42 is excluded, new average is",
+      "options": [
+        "28.8",
+        "29",
+        "28",
+        "27.6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum=330; exclude 42 → 288/10=28.8."
+    },
+    {
+      "qid": "CPO657",
+      "subject": "Quant",
+      "chapter": "Ratio",
+      "question": "If a:b=3:5 and b:c=10:7, then a:c is",
+      "options": [
+        "6:7",
+        "3:7",
+        "6:5",
+        "5:7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a:b=3:5=6:10, b:c=10:7 ⇒ a:c=6:7."
+    },
+    {
+      "qid": "CPO658",
+      "subject": "Quant",
+      "chapter": "Partnership",
+      "question": "A and B invest in ratio 4:5. After 6 months C joins with amount equal to B. If profit after 1 year is Rs 138000, C's share is",
+      "options": [
+        "30000",
+        "24000",
+        "32000",
+        "36000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capitals-months 4×12 : 5×12 : 5×6 = 48:60:30 = 8:10:5. C gets 5/23 × 138000 = 30000."
+    },
+    {
+      "qid": "CPO659",
+      "subject": "Quant",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 5, then x^2 + 1/x^2 is",
+      "options": [
+        "23",
+        "25",
+        "21",
+        "27"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)^2=25=x^2+2+1/x^2 ⇒ x^2+1/x^2=23."
+    },
+    {
+      "qid": "CPO660",
+      "subject": "Quant",
+      "chapter": "Geometry",
+      "question": "The diagonal of a square is 10√2 cm. Its area is",
+      "options": [
+        "100 cm²",
+        "50 cm²",
+        "200 cm²",
+        "80 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diagonal a√2=10√2 ⇒ a=10, area=100."
+    },
+    {
+      "qid": "CPO661",
+      "subject": "Quant",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube whose total surface area is 384 cm² is",
+      "options": [
+        "512 cm³",
+        "256 cm³",
+        "64 cm³",
+        "768 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6a^2=384 ⇒ a^2=64 ⇒ a=8, volume=512."
+    },
+    {
+      "qid": "CPO662",
+      "subject": "Quant",
+      "chapter": "Number System",
+      "question": "The HCF of 84 and 144 is",
+      "options": [
+        "12",
+        "24",
+        "18",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "84=2^2×3×7, 144=2^4×3^2, HCF=2^2×3=12."
+    },
+    {
+      "qid": "CPO663",
+      "subject": "Quant",
+      "chapter": "Simplification",
+      "question": "√(0.01) + √(0.81) - √(0.36) equals",
+      "options": [
+        "0.4",
+        "0.2",
+        "1.0",
+        "0.04"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.1+0.9-0.6=0.4."
+    },
+    {
+      "qid": "CPO664",
+      "subject": "Quant",
+      "chapter": "Pipe-Cistern",
+      "question": "Two pipes fill a tank in 20 and 30 min. Both opened together, tank fills in",
+      "options": [
+        "12 min",
+        "25 min",
+        "15 min",
+        "10 min"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/20+1/30=1/12."
+    },
+    {
+      "qid": "CPO665",
+      "subject": "Quant",
+      "chapter": "Boat-Stream",
+      "question": "Speed of boat in still water 15 km/h, stream 3 km/h. Downstream 36 km time is",
+      "options": [
+        "2 hours",
+        "3 hours",
+        "2.5 hours",
+        "1.5 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Downstream 18 km/h; 36/18=2 h."
+    },
+    {
+      "qid": "CPO666",
+      "subject": "Quant",
+      "chapter": "Mixture",
+      "question": "Milk and water in ratio 5:3. If 8 L mixture is replaced by water, ratio becomes 1:1. Original quantity of mixture is",
+      "options": [
+        "40 L",
+        "32 L",
+        "48 L",
+        "24 L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let 8x. Milk 5x water 3x. Remove 5L milk 3L water from 8L of 5:3. Milk left 5x-5, water 3x-3+8=3x+5. Set equal: 5x-5=3x+5 ⇒ 2x=10 ⇒ x=5, total 40 L."
+    },
+    {
+      "qid": "CPO667",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "30% of a number is 90. The number is",
+      "options": [
+        "300",
+        "270",
+        "330",
+        "180"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.3n=90 ⇒ n=300."
+    },
+    {
+      "qid": "CPO668",
+      "subject": "Quant",
+      "chapter": "CI",
+      "question": "Amount of Rs 8000 at 5% p.a. CI for 2 years is",
+      "options": [
+        "Rs 8820",
+        "Rs 8800",
+        "Rs 8600",
+        "Rs 8400"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8000×(1.05)^2=8000×1.1025=8820."
+    },
+    {
+      "qid": "CPO669",
+      "subject": "Quant",
+      "chapter": "Triangle",
+      "question": "If sides of a triangle are 5, 12, 13, it is",
+      "options": [
+        "Right-angled",
+        "Obtuse",
+        "Equilateral",
+        "Isosceles only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5²+12²=13², so right-angled."
+    },
+    {
+      "qid": "CPO670",
+      "subject": "Quant",
+      "chapter": "Data Interpretation",
+      "question": "If a pie chart shows 90° for item A of total 720 units, value of A is",
+      "options": [
+        "180",
+        "90",
+        "240",
+        "360"
+      ],
+      "correctAnswer": 1,
+      "explanation": "90/360×720=180."
+    },
+    {
+      "qid": "CPO671",
+      "subject": "Quant",
+      "chapter": "Age",
+      "question": "Father is 3 times son. After 12 years he will be twice. Son's present age is",
+      "options": [
+        "12 years",
+        "18 years",
+        "15 years",
+        "10 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S and 3S; 3S+12=2(S+12) ⇒ 3S+12=2S+24 ⇒ S=12."
+    },
+    {
+      "qid": "CPO672",
+      "subject": "Quant",
+      "chapter": "Trigo",
+      "question": "If sin θ = 3/5, then tan θ is (θ acute)",
+      "options": [
+        "3/4",
+        "4/3",
+        "3/5",
+        "4/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cos=4/5, tan=3/4."
+    },
+    {
+      "qid": "CPO673",
+      "subject": "Quant",
+      "chapter": "Series",
+      "question": "Find missing: 5, 11, 23, 47, 95, ?",
+      "options": [
+        "191",
+        "190",
+        "193",
+        "189"
+      ],
+      "correctAnswer": 1,
+      "explanation": "×2+1 each time: 95×2+1=191."
+    },
+    {
+      "qid": "CPO674",
+      "subject": "Quant",
+      "chapter": "LCM-HCF",
+      "question": "LCM of two numbers is 180, HCF is 15. If one number is 45, the other is",
+      "options": [
+        "60",
+        "90",
+        "30",
+        "75"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Product=LCM×HCF ⇒ 45×x=180×15=2700 ⇒ x=60."
+    },
+    {
+      "qid": "CPO675",
+      "subject": "Quant",
+      "chapter": "Discount",
+      "question": "Marked price Rs 500, successive discounts 10% and 20%. Selling price is",
+      "options": [
+        "Rs 360",
+        "Rs 350",
+        "Rs 400",
+        "Rs 370"
+      ],
+      "correctAnswer": 1,
+      "explanation": "500×0.9×0.8=360."
+    },
+    {
+      "qid": "CPO676",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part with error: The committee / have decided / to postpone / the meeting.",
+      "options": [
+        "have decided",
+        "The committee",
+        "to postpone",
+        "the meeting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Committee as a single body takes singular 'has decided'."
+    },
+    {
+      "qid": "CPO677",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "He is senior _____ me by two years.",
+      "options": [
+        "to",
+        "than",
+        "from",
+        "over"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior/junior take preposition 'to', not 'than'."
+    },
+    {
+      "qid": "CPO678",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'CANDID' is",
+      "options": [
+        "Frank",
+        "Cunning",
+        "Hidden",
+        "Rude"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candid means frank and straightforward."
+    },
+    {
+      "qid": "CPO679",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'SCARCE' is",
+      "options": [
+        "Abundant",
+        "Rare",
+        "Little",
+        "Short"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scarce × abundant."
+    },
+    {
+      "qid": "CPO680",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'To beat about the bush' means",
+      "options": [
+        "Avoid the main topic",
+        "Search everywhere",
+        "Hit plants",
+        "Speak loudly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means to talk without coming to the point."
+    },
+    {
+      "qid": "CPO681",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves mankind is a",
+      "options": [
+        "Philanthropist",
+        "Misanthrope",
+        "Optimist",
+        "Egoist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Philanthropist loves and helps humanity."
+    },
+    {
+      "qid": "CPO682",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: 'They are building a new bridge.'",
+      "options": [
+        "A new bridge is being built by them.",
+        "A new bridge was built.",
+        "A new bridge has built.",
+        "A new bridge is built them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is being built."
+    },
+    {
+      "qid": "CPO683",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am busy now.' Reported speech:",
+      "options": [
+        "He said that he was busy then.",
+        "He said that he is busy now.",
+        "He said he will be busy.",
+        "He told he was busy now."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present→past, now→then."
+    },
+    {
+      "qid": "CPO684",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word.",
+      "options": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "Acomodation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Double c and double m: accommodation."
+    },
+    {
+      "qid": "CPO685",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "She is good _____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject/skill."
+    },
+    {
+      "qid": "CPO686",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "The officer was _____ for bribery.",
+      "options": [
+        "prosecuted",
+        "persecuted",
+        "proclaimed",
+        "procured"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prosecuted = legal proceedings; persecuted = harassed."
+    },
+    {
+      "qid": "CPO687",
+      "subject": "English",
+      "chapter": "Para Jumble",
+      "question": "Arrange: P. it is a necessary evil Q. though everyone hates corruption R. in public life S. according to some cynics",
+      "options": [
+        "QPSR",
+        "QRPS",
+        "SQPR",
+        "QPRS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "S introduces cynics' view, Q contrast, P 'necessary evil', R location. SQPR."
+    },
+    {
+      "qid": "CPO688",
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "Tone of a passage that mocks a public policy without naming names is usually",
+      "options": [
+        "Satirical",
+        "Narrative",
+        "Elegiac",
+        "Didactic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mocking social/political folly is satire."
+    },
+    {
+      "qid": "CPO689",
+      "subject": "English",
+      "chapter": "Improvement",
+      "question": "Replace the underlined if needed: 'He suggested me to apply.'",
+      "options": [
+        "suggested that I apply",
+        "suggested me apply",
+        "No improvement",
+        "suggested me applying"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Suggest + that-clause (or suggest + gerund), not suggest + object + to-infinitive."
+    },
+    {
+      "qid": "CPO690",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'A blessing in disguise' means",
+      "options": [
+        "Something good that seemed bad at first",
+        "A hidden gift",
+        "A prayer",
+        "An unknown person"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An apparent misfortune that later proves beneficial."
+    },
+    {
+      "qid": "CPO691",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'OBSTINATE' is",
+      "options": [
+        "Stubborn",
+        "Flexible",
+        "Humble",
+        "Calm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Obstinate = stubbornly refusing to change."
+    },
+    {
+      "qid": "CPO692",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'TRANSPARENT' is",
+      "options": [
+        "Opaque",
+        "Clear",
+        "Open",
+        "Lucid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transparent × opaque."
+    },
+    {
+      "qid": "CPO693",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Neither of the two boys / have submitted / their project / on time.",
+      "options": [
+        "have submitted",
+        "Neither of the two boys",
+        "their project",
+        "on time"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither takes singular verb 'has submitted'."
+    },
+    {
+      "qid": "CPO694",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "Government by the wealthy is called",
+      "options": [
+        "Plutocracy",
+        "Autocracy",
+        "Theocracy",
+        "Oligarchy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plutocracy is rule by the rich."
+    },
+    {
+      "qid": "CPO695",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "Hardly had he left _____ it started raining.",
+      "options": [
+        "when",
+        "than",
+        "then",
+        "that"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hardly/scarcely ... when; no sooner ... than."
+    },
+    {
+      "qid": "CPO696",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Active of: 'The work will have been finished by Monday.'",
+      "options": [
+        "They will have finished the work by Monday.",
+        "They finished the work Monday.",
+        "They have finished by Monday.",
+        "The work finished Monday."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect passive → future perfect active."
+    },
+    {
+      "qid": "CPO697",
+      "subject": "English",
+      "chapter": "Phrasal",
+      "question": "'Call off' means",
+      "options": [
+        "Cancel",
+        "Visit",
+        "Shout",
+        "Telephone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Call off a meeting/event = cancel it."
+    },
+    {
+      "qid": "CPO698",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "_____ honest man is respected everywhere.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Honest begins with a vowel sound, so 'an'."
+    },
+    {
+      "qid": "CPO699",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she _____ in this office for a decade.",
+      "options": [
+        "will have worked",
+        "will work",
+        "has worked",
+        "worked"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect for duration completed by a future point."
+    },
+    {
+      "qid": "CPO700",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'BENEVOLENT' is",
+      "options": [
+        "Malevolent",
+        "Kind",
+        "Generous",
+        "Humane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Benevolent (kind) × malevolent (wishing harm)."
+    }
+  ]
+}

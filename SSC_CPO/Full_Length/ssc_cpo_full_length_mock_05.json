@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_cpo_full_length_mock_05",
+  "exam": "SSC CPO",
+  "testType": "fullLength",
+  "title": "SSC CPO Paper-1 Full Length Mock Test 05 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CPO SI Paper-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: General Intelligence & Reasoning 25, General Knowledge & GA 25, Quantitative Aptitude 25, English Comprehension 25.",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CPO SI Paper-1 latest pattern ke anusar (condensed 100Q mock)."
+  ],
+  "questions": [
+    {
+      "qid": "CPO501",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Needle : Sewing :: Pen : ?",
+      "options": [
+        "Writing",
+        "Ink",
+        "Paper",
+        "Nib"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Needle is used for sewing; pen is used for writing."
+    },
+    {
+      "qid": "CPO502",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next term: 5, 11, 24, 51, 106, ?",
+      "options": [
+        "217",
+        "213",
+        "215",
+        "221"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern x2+1, x2+2, x2+3, x2+4, x2+5 so 106x2+5=217."
+    },
+    {
+      "qid": "CPO503",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If BRAVE is coded as CSBWF, how is STORM coded?",
+      "options": [
+        "TUPSN",
+        "TUPNS",
+        "SUPTN",
+        "TUPSM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: S-T, T-U, O-P, R-S, M-N."
+    },
+    {
+      "qid": "CPO504",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Sister",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is maternal grandfather of A."
+    },
+    {
+      "qid": "CPO505",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person walks 8 km East, then 6 km North, then 8 km West. Distance from start?",
+      "options": [
+        "6 km",
+        "8 km",
+        "10 km",
+        "14 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "East and West cancel; 6 km North remains."
+    },
+    {
+      "qid": "CPO506",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All locks are keys. Some keys are doors. Conclusions: I. Some locks are doors. II. All doors are keys.",
+      "options": [
+        "Neither I nor II follows",
+        "Only I follows",
+        "Only II follows",
+        "Both follow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither conclusion is definite."
+    },
+    {
+      "qid": "CPO507",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: 121, 144, 169, 196, 225, 256, 288",
+      "options": [
+        "288",
+        "256",
+        "225",
+        "196"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All others are perfect squares; 288 is not."
+    },
+    {
+      "qid": "CPO508",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends P,Q,R,S,T sit in a row facing North. Q sits second to the right of P. S sits at the left end. R sits between P and T. Who sits at the right end?",
+      "options": [
+        "Q",
+        "T",
+        "R",
+        "P"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Order S-P-R-T-Q; Q at the right end."
+    },
+    {
+      "qid": "CPO509",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "7, 8, 18, 57, 232, ?",
+      "options": [
+        "1165",
+        "1160",
+        "928",
+        "1168"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x1+1, x2+2, x3+3, x4+4, x5+5 = 232x5+5=1165."
+    },
+    {
+      "qid": "CPO510",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which best represents Teachers, Women and Mothers?",
+      "options": [
+        "Intersecting circles allowing a woman to be teacher and mother",
+        "Three disjoint circles",
+        "Teachers subset of Women subset of Mothers",
+        "Mothers disjoint from Women"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A woman can be both a teacher and a mother."
+    },
+    {
+      "qid": "CPO511",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2024 was Thursday, what day was 15 August 2025?",
+      "options": [
+        "Friday",
+        "Thursday",
+        "Saturday",
+        "Wednesday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From Aug 2024 to Aug 2025 there is no intervening 29 Feb after August, so +1 weekday."
+    },
+    {
+      "qid": "CPO512",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 are the hands first at right angles?",
+      "options": [
+        "3:16 4/11",
+        "3:15",
+        "3:18",
+        "3:21 9/11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right angle times after 3h: 3 : 16 4/11 and 3 : 49 1/11."
+    },
+    {
+      "qid": "CPO513",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "All efficient officers are promoted. Ravi is an efficient officer. Conclusion: Ravi will be promoted.",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "Either",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Universal rule applied to a particular case follows."
+    },
+    {
+      "qid": "CPO514",
+      "subject": "Reasoning",
+      "chapter": "Alphabet Series",
+      "question": "AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "EX"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letters A-B-C-D-E; second Z-Y-X-W-V."
+    },
+    {
+      "qid": "CPO515",
+      "subject": "Reasoning",
+      "chapter": "Inequality",
+      "question": "P >= Q = R > S <= T. Which is definitely true?",
+      "options": [
+        "P > S",
+        "P = T",
+        "Q < T",
+        "R < P"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P is at least R which is greater than S, so P > S."
+    },
+    {
+      "qid": "CPO516",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 12th from left and B is 9th from right. How many sit between A and B?",
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B is at position 32; between 12 and 32 there are 19 students."
+    },
+    {
+      "qid": "CPO517",
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operation",
+      "question": "If A means +, B means -, C means x and D means /, then 18 C 2 A 8 B 6 D 3 = ?",
+      "options": [
+        "42",
+        "36",
+        "40",
+        "38"
+      ],
+      "correctAnswer": 1,
+      "explanation": "18 x 2 + 8 - 6 / 3 = 36 + 8 - 2 = 42."
+    },
+    {
+      "qid": "CPO518",
+      "subject": "Reasoning",
+      "chapter": "Seating Arrangement",
+      "question": "A, B, C, D sit facing centre of a square table, one on each side. A faces C. B sits to the right of A. Who faces B?",
+      "options": [
+        "D",
+        "C",
+        "A",
+        "Cannot say"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opposite pairs are A-C and B-D."
+    },
+    {
+      "qid": "CPO519",
+      "subject": "Reasoning",
+      "chapter": "Cube Dice",
+      "question": "A dice has 1 opposite 6, 2 opposite 5, 3 opposite 4. If 1,2,3 meet at a corner, which faces meet at the opposite corner?",
+      "options": [
+        "4,5,6",
+        "4,5,3",
+        "6,5,2",
+        "1,4,5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The three opposite faces meet at the opposite corner."
+    },
+    {
+      "qid": "CPO520",
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Find the odd pair: Mercury-Planet, Moon-Satellite, Sun-Star, Earth-Galaxy",
+      "options": [
+        "Earth-Galaxy",
+        "Moon-Satellite",
+        "Sun-Star",
+        "Mercury-Planet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth is a planet, not a galaxy."
+    },
+    {
+      "qid": "CPO521",
+      "subject": "Reasoning",
+      "chapter": "Missing Number",
+      "question": "2,3,8 ; 3,4,15 ; 4,5,?",
+      "options": [
+        "24",
+        "20",
+        "21",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1)+2: 2x3+2=8, 3x4+3=15, 4x5+4=24."
+    },
+    {
+      "qid": "CPO522",
+      "subject": "Reasoning",
+      "chapter": "Statement-Assumption",
+      "question": "Statement: Use public transport to reduce pollution. Assumption: Public transport causes less pollution than private vehicles.",
+      "options": [
+        "Assumption is implicit",
+        "Not implicit",
+        "Either",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The advice rests on that assumption."
+    },
+    {
+      "qid": "CPO523",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a man, a woman said: His mother is the only daughter of my mother. How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Grandmother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only daughter of her mother is herself, so she is the man's mother."
+    },
+    {
+      "qid": "CPO524",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "If South-East becomes North, then North-East becomes?",
+      "options": [
+        "West",
+        "East",
+        "South",
+        "North"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rotation is 135 deg clockwise; NE rotated the same way becomes West."
+    },
+    {
+      "qid": "CPO525",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "b e d f i h j m l ?",
+      "options": [
+        "n",
+        "o",
+        "p",
+        "k"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Groups of 3 with middle and last swapped: bed / fih / jml / next would start with n."
+    },
+    {
+      "qid": "CPO526",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution deals with the amendment procedure?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 370",
+        "Article 352"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 provides the amendment procedure."
+    },
+    {
+      "qid": "CPO527",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah in 1757."
+    },
+    {
+      "qid": "CPO528",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the longest river that flows entirely in India?",
+      "options": [
+        "Godavari",
+        "Ganga",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godavari is the longest river flowing entirely within India."
+    },
+    {
+      "qid": "CPO529",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "Repo rate is the rate at which RBI",
+      "options": [
+        "lends to commercial banks against securities",
+        "borrows from commercial banks",
+        "lends to government",
+        "fixes CRR"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo is RBI's short-term lending rate to banks."
+    },
+    {
+      "qid": "CPO530",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "The SI unit of electric current is",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ampere is the SI base unit of electric current."
+    },
+    {
+      "qid": "CPO531",
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "India held the G20 presidency in which year?",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India's G20 presidency and New Delhi summit were in 2023."
+    },
+    {
+      "qid": "CPO532",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Bharat Ratna is awarded for",
+      "options": [
+        "exceptional service in art, literature, science and public service",
+        "only sports",
+        "only gallantry",
+        "only cinema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It is India's highest civilian award."
+    },
+    {
+      "qid": "CPO533",
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "How many players are there in a field hockey team on the field?",
+      "options": [
+        "11",
+        "9",
+        "7",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Field hockey has 11 players per side."
+    },
+    {
+      "qid": "CPO534",
+      "subject": "GA",
+      "chapter": "Books",
+      "question": "Who wrote Discovery of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "S. Radhakrishnan",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nehru wrote it while imprisoned at Ahmednagar Fort."
+    },
+    {
+      "qid": "CPO535",
+      "subject": "GA",
+      "chapter": "Organizations",
+      "question": "Headquarters of UNESCO is in",
+      "options": [
+        "Paris",
+        "Geneva",
+        "New York",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UNESCO headquarters is in Paris."
+    },
+    {
+      "qid": "CPO536",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The minimum age for the President of India is",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "40 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 58 requires 35 years."
+    },
+    {
+      "qid": "CPO537",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who is regarded as the founder of the Gupta dynasty?",
+      "options": [
+        "Sri Gupta",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harshavardhana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sri Gupta founded the dynasty."
+    },
+    {
+      "qid": "CPO538",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eight states from Gujarat to Mizoram."
+    },
+    {
+      "qid": "CPO539",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "Vitamin C is chemically known as",
+      "options": [
+        "Ascorbic acid",
+        "Retinol",
+        "Thiamine",
+        "Niacin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ascorbic acid is Vitamin C."
+    },
+    {
+      "qid": "CPO540",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "8 November 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "CPO541",
+      "subject": "GA",
+      "chapter": "Environment",
+      "question": "The Ramsar Convention is related to",
+      "options": [
+        "Wetlands",
+        "Ozone",
+        "Climate change",
+        "Desertification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ramsar 1971 covers wetlands of international importance."
+    },
+    {
+      "qid": "CPO542",
+      "subject": "GA",
+      "chapter": "Culture",
+      "question": "Bihu is a festival of which state?",
+      "options": [
+        "Assam",
+        "Punjab",
+        "Odisha",
+        "Kerala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bihu is the principal festival of Assam."
+    },
+    {
+      "qid": "CPO543",
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The first Chief of Defence Staff of India was",
+      "options": [
+        "Gen. Bipin Rawat",
+        "Gen. Manoj Pande",
+        "Adm. Karambir Singh",
+        "ACM R.K.S. Bhadauria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gen. Bipin Rawat became the first CDS in 2019."
+    },
+    {
+      "qid": "CPO544",
+      "subject": "GA",
+      "chapter": "Computer",
+      "question": "HTTP stands for",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Text Transfer Protocol",
+        "HyperText Transmission Process",
+        "Home Tool Transfer Protocol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HTTP is HyperText Transfer Protocol."
+    },
+    {
+      "qid": "CPO545",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Dandi March started from",
+      "options": [
+        "Sabarmati Ashram",
+        "Wardha",
+        "Pune",
+        "Allahabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gandhi started the Salt March from Sabarmati on 12 March 1930."
+    },
+    {
+      "qid": "CPO546",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which planet is known as the Morning Star?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Venus appears as Morning or Evening Star."
+    },
+    {
+      "qid": "CPO547",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Finance Commission is constituted under which Article?",
+      "options": [
+        "Article 280",
+        "Article 275",
+        "Article 265",
+        "Article 112"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 280 provides for the Finance Commission."
+    },
+    {
+      "qid": "CPO548",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "pH of a neutral solution at 25 C is",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutral water has pH 7 at 25 C."
+    },
+    {
+      "qid": "CPO549",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Nobel Prize in Literature 2023 was awarded to",
+      "options": [
+        "Jon Fosse",
+        "Abdulrazak Gurnah",
+        "Annie Ernaux",
+        "Louise Gluck"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jon Fosse received the 2023 Literature Nobel."
+    },
+    {
+      "qid": "CPO550",
+      "subject": "GA",
+      "chapter": "Miscellaneous",
+      "question": "National Voters Day in India is observed on",
+      "options": [
+        "25 January",
+        "26 January",
+        "15 August",
+        "2 October"
+      ],
+      "correctAnswer": 1,
+      "explanation": "25 January is the foundation day of the Election Commission."
+    },
+    {
+      "qid": "CPO551",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change is",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1.2 x 0.8 = 0.96, i.e. 4% decrease."
+    },
+    {
+      "qid": "CPO552",
+      "subject": "Quant",
+      "chapter": "Ratio",
+      "question": "If A:B = 3:4 and B:C = 5:6, then A:C is",
+      "options": [
+        "5:8",
+        "3:5",
+        "3:6",
+        "5:6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B:C = 15:20:24 so A:C = 15:24 = 5:8."
+    },
+    {
+      "qid": "CPO553",
+      "subject": "Quant",
+      "chapter": "Profit-Loss",
+      "question": "An article bought for Rs 500 is sold at 12% profit. Selling price is",
+      "options": [
+        "Rs 560",
+        "Rs 550",
+        "Rs 612",
+        "Rs 540"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 500 x 1.12 = 560."
+    },
+    {
+      "qid": "CPO554",
+      "subject": "Quant",
+      "chapter": "SI-CI",
+      "question": "SI on Rs 2000 at 10% p.a. for 3 years is",
+      "options": [
+        "Rs 600",
+        "Rs 660",
+        "Rs 500",
+        "Rs 400"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = 2000 x 10 x 3 / 100 = 600."
+    },
+    {
+      "qid": "CPO555",
+      "subject": "Quant",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 12 days, B in 18 days. Together they finish in",
+      "options": [
+        "7.2 days",
+        "15 days",
+        "6 days",
+        "8 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/12 + 1/18 = 5/36 so 36/5 = 7.2 days."
+    },
+    {
+      "qid": "CPO556",
+      "subject": "Quant",
+      "chapter": "Time-Speed",
+      "question": "A train 180 m long runs at 54 km/h. Time to pass a pole is",
+      "options": [
+        "12 s",
+        "10 s",
+        "15 s",
+        "8 s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "54 km/h = 15 m/s; t = 180/15 = 12 s."
+    },
+    {
+      "qid": "CPO557",
+      "subject": "Quant",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 20. If 15 is replaced by 30, new average is",
+      "options": [
+        "23",
+        "22",
+        "25",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum becomes 115; average 23."
+    },
+    {
+      "qid": "CPO558",
+      "subject": "Quant",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x^2 + 1/x^2 =",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Square both sides: 9 = x^2 + 2 + 1/x^2 so answer 7."
+    },
+    {
+      "qid": "CPO559",
+      "subject": "Quant",
+      "chapter": "Geometry",
+      "question": "Area of an equilateral triangle of side 6 cm is",
+      "options": [
+        "9 sqrt(3) cm2",
+        "18 sqrt(3) cm2",
+        "6 sqrt(3) cm2",
+        "12 sqrt(3) cm2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(sqrt(3)/4) a^2 = 9 sqrt(3)."
+    },
+    {
+      "qid": "CPO560",
+      "subject": "Quant",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 5 cm is",
+      "options": [
+        "125 cm3",
+        "25 cm3",
+        "100 cm3",
+        "150 cm3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a^3 = 125."
+    },
+    {
+      "qid": "CPO561",
+      "subject": "Quant",
+      "chapter": "Number System",
+      "question": "The LCM of 12, 18 and 24 is",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "96"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM = 2^3 x 3^2 = 72."
+    },
+    {
+      "qid": "CPO562",
+      "subject": "Quant",
+      "chapter": "HCF-LCM",
+      "question": "HCF of 84 and 126 is",
+      "options": [
+        "42",
+        "21",
+        "14",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF = 2 x 3 x 7 = 42."
+    },
+    {
+      "qid": "CPO563",
+      "subject": "Quant",
+      "chapter": "Simplification",
+      "question": "25% of 40% of 800 is",
+      "options": [
+        "80",
+        "100",
+        "60",
+        "120"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.25 x 0.40 x 800 = 80."
+    },
+    {
+      "qid": "CPO564",
+      "subject": "Quant",
+      "chapter": "CI",
+      "question": "CI on Rs 1000 at 10% p.a. for 2 years compounded annually is",
+      "options": [
+        "Rs 210",
+        "Rs 200",
+        "Rs 220",
+        "Rs 221"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1000 x 1.21 - 1000 = 210."
+    },
+    {
+      "qid": "CPO565",
+      "subject": "Quant",
+      "chapter": "Partnership",
+      "question": "A and B invest 3:2 for 12 and 8 months. Profit ratio is",
+      "options": [
+        "9:4",
+        "3:2",
+        "12:8",
+        "2:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3x12 : 2x8 = 36:16 = 9:4."
+    },
+    {
+      "qid": "CPO566",
+      "subject": "Quant",
+      "chapter": "Pipe-Cistern",
+      "question": "A pipe fills a tank in 6 hours, another empties in 8 hours. Both open, time to fill is",
+      "options": [
+        "24 hours",
+        "14 hours",
+        "7 hours",
+        "48 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6 - 1/8 = 1/24."
+    },
+    {
+      "qid": "CPO567",
+      "subject": "Quant",
+      "chapter": "Boat-Stream",
+      "question": "Speed of boat in still water 15 km/h, stream 3 km/h. Downstream speed is",
+      "options": [
+        "18 km/h",
+        "12 km/h",
+        "15 km/h",
+        "21 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 + 3 = 18 km/h."
+    },
+    {
+      "qid": "CPO568",
+      "subject": "Quant",
+      "chapter": "Triangle",
+      "question": "In a right triangle, legs 5 and 12. Hypotenuse is",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5-12-13 Pythagorean triple."
+    },
+    {
+      "qid": "CPO569",
+      "subject": "Quant",
+      "chapter": "Circle",
+      "question": "Circumference of a circle of radius 7 cm (pi=22/7) is",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "154 cm",
+        "49 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2 pi r = 44 cm."
+    },
+    {
+      "qid": "CPO570",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "If 40% of a number is 240, the number is",
+      "options": [
+        "600",
+        "400",
+        "480",
+        "500"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x = 240 / 0.4 = 600."
+    },
+    {
+      "qid": "CPO571",
+      "subject": "Quant",
+      "chapter": "Mixture",
+      "question": "Milk and water are in ratio 4:1 in 20 L mixture. 5 L water is added. New ratio is",
+      "options": [
+        "16:9",
+        "4:2",
+        "3:1",
+        "5:2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milk 16 L, water 9 L."
+    },
+    {
+      "qid": "CPO572",
+      "subject": "Quant",
+      "chapter": "Age",
+      "question": "Father is 3 times son. After 12 years he will be twice. Son's present age is",
+      "options": [
+        "12 years",
+        "10 years",
+        "15 years",
+        "18 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3x+12=2(x+12) gives x=12."
+    },
+    {
+      "qid": "CPO573",
+      "subject": "Quant",
+      "chapter": "Average",
+      "question": "Sales in four quarters: 20, 30, 25, 35. Average is",
+      "options": [
+        "27.5",
+        "25",
+        "30",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "110/4 = 27.5."
+    },
+    {
+      "qid": "CPO574",
+      "subject": "Quant",
+      "chapter": "Trigonometry",
+      "question": "sin 30 + cos 60 equals",
+      "options": [
+        "1",
+        "0.5",
+        "1.5",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.5 + 0.5 = 1."
+    },
+    {
+      "qid": "CPO575",
+      "subject": "Quant",
+      "chapter": "Coordinate",
+      "question": "Distance between (0,0) and (3,4) is",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sqrt(9+16)=5."
+    },
+    {
+      "qid": "CPO576",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of ABANDON is",
+      "options": [
+        "Forsake",
+        "Retain",
+        "Keep",
+        "Hold"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abandon means to forsake or leave."
+    },
+    {
+      "qid": "CPO577",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of SCARCE is",
+      "options": [
+        "Abundant",
+        "Rare",
+        "Little",
+        "Few"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scarce means insufficient; abundant is the opposite."
+    },
+    {
+      "qid": "CPO578",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "Beat around the bush means",
+      "options": [
+        "Avoid the main topic",
+        "Hit the bushes",
+        "Search thoroughly",
+        "Speak clearly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means talking without coming to the point."
+    },
+    {
+      "qid": "CPO579",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves mankind is called a",
+      "options": [
+        "Philanthropist",
+        "Misanthrope",
+        "Optimist",
+        "Egoist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Philanthropist loves and helps humanity."
+    },
+    {
+      "qid": "CPO580",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: Neither of the boys have submitted the form.",
+      "options": [
+        "have should be has",
+        "Neither should be None",
+        "boys should be boy",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither of takes a singular verb."
+    },
+    {
+      "qid": "CPO581",
+      "subject": "English",
+      "chapter": "Fill in the Blank",
+      "question": "He is senior ___ me by two years.",
+      "options": [
+        "to",
+        "than",
+        "from",
+        "over"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior and junior take the preposition to."
+    },
+    {
+      "qid": "CPO582",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: They are painting the house.",
+      "options": [
+        "The house is being painted by them.",
+        "The house was painted.",
+        "The house has painted.",
+        "The house painted them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive uses is being + third form."
+    },
+    {
+      "qid": "CPO583",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, I am tired. Indirect speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said that I am tired.",
+        "He said he is tired.",
+        "He told he was tired."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present tense becomes past in indirect speech."
+    },
+    {
+      "qid": "CPO584",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Correct spelling is",
+      "options": [
+        "Embarrass",
+        "Embarass",
+        "Embarras",
+        "Embaras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Embarrass has double r and double s."
+    },
+    {
+      "qid": "CPO585",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "She is good ___ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject."
+    },
+    {
+      "qid": "CPO586",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "The committee has ___ its decision.",
+      "options": [
+        "announced",
+        "announce",
+        "announcing",
+        "announces"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present perfect needs the past participle."
+    },
+    {
+      "qid": "CPO587",
+      "subject": "English",
+      "chapter": "Para Jumble",
+      "question": "Rearrange: P. because it rained heavily  Q. last evening  R. the match  S. was cancelled",
+      "options": [
+        "R S P Q",
+        "P Q R S",
+        "R P S Q",
+        "S R P Q"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The match was cancelled because it rained heavily last evening."
+    },
+    {
+      "qid": "CPO588",
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "Tone of a passage that only lists facts without opinion is",
+      "options": [
+        "Objective",
+        "Sarcastic",
+        "Ironic",
+        "Sentimental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A factual listing has an objective tone."
+    },
+    {
+      "qid": "CPO589",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "A blessing in disguise means",
+      "options": [
+        "Something good that seemed bad at first",
+        "A hidden gift",
+        "A prayer",
+        "An open secret"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An apparent misfortune that turns out well."
+    },
+    {
+      "qid": "CPO590",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of METICULOUS is",
+      "options": [
+        "Careful",
+        "Careless",
+        "Hasty",
+        "Rough"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meticulous means very careful and precise."
+    },
+    {
+      "qid": "CPO591",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of OPAQUE is",
+      "options": [
+        "Transparent",
+        "Dark",
+        "Dull",
+        "Thick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opaque blocks light; transparent transmits it."
+    },
+    {
+      "qid": "CPO592",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A speech made without preparation is",
+      "options": [
+        "Extempore",
+        "Dialogue",
+        "Monologue",
+        "Rhetoric"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore means spoken without prior preparation."
+    },
+    {
+      "qid": "CPO593",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "The sceneries of Kashmir are beautiful. Error is",
+      "options": [
+        "sceneries should be scenery",
+        "are should be is",
+        "of should be in",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scenery is uncountable."
+    },
+    {
+      "qid": "CPO594",
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "No sooner had he left ___ it started raining.",
+      "options": [
+        "than",
+        "when",
+        "but",
+        "then"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correlative is no sooner ... than."
+    },
+    {
+      "qid": "CPO595",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Active of: The letter was written by Sita.",
+      "options": [
+        "Sita wrote the letter.",
+        "Sita was written the letter.",
+        "The letter wrote Sita.",
+        "Sita is writing the letter."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past passive converts to simple past active."
+    },
+    {
+      "qid": "CPO596",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "___ Ganga is a sacred river.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Names of rivers take the definite article."
+    },
+    {
+      "qid": "CPO597",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she ___ her degree.",
+      "options": [
+        "will have completed",
+        "completed",
+        "completes",
+        "had completed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect for an action finished before a future point."
+    },
+    {
+      "qid": "CPO598",
+      "subject": "English",
+      "chapter": "Phrase",
+      "question": "Look down upon means",
+      "options": [
+        "Despise",
+        "Search",
+        "Respect",
+        "Examine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To look down upon is to regard with contempt."
+    },
+    {
+      "qid": "CPO599",
+      "subject": "English",
+      "chapter": "Correct Usage",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Neither he nor his friends were present.",
+        "Neither he nor his friends was present.",
+        "Neither he or his friends were present.",
+        "Neither he nor his friends is present."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The verb agrees with the nearer subject friends."
+    },
+    {
+      "qid": "CPO600",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "A person who is new to a job is a",
+      "options": [
+        "Novice",
+        "Veteran",
+        "Expert",
+        "Scholar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Novice means beginner."
+    }
+  ]
+}
