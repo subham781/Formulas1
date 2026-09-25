@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_chsl_full_length_mock_03",
+  "exam": "SSC CHSL",
+  "testType": "fullLength",
+  "title": "SSC CHSL Tier-1 Full Length Mock Test 03 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CHSL Tier-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.",
+    "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CHSL Tier-1 latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "CHSL301",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Odometer : Distance :: Ammeter : ?",
+      "options": [
+        "Current",
+        "Voltage",
+        "Resistance",
+        "Power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Odometer measures distance; ammeter measures electric current."
+    },
+    {
+      "qid": "CHSL302",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 2, 12, 36, 80, 150, ?",
+      "options": [
+        "252",
+        "246",
+        "240",
+        "258"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern n^3 + n^2: 1+1=2, 8+4=12, 27+9=36, 64+16=80, 125+25=150, 216+36=252."
+    },
+    {
+      "qid": "CHSL303",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If CREDIT is coded as ETGFKV, how is DEBIT coded?",
+      "options": [
+        "FGDKV",
+        "FGDKW",
+        "EGCKU",
+        "FHDKV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +2: D to F, E to G, B to D, I to K, T to V so FGDKV."
+    },
+    {
+      "qid": "CHSL304",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "P is the brother of Q. R is the father of P. S is the mother of T. T is the sister of Q. How is S related to R?",
+      "options": [
+        "Wife",
+        "Sister",
+        "Daughter",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "R is father of P and Q; T is sister of Q so T is also child of R. S is mother of T, hence S is wife of R."
+    },
+    {
+      "qid": "CHSL305",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 10 m North, turns right and walks 6 m, turns right and walks 10 m, then turns left and walks 4 m. How far is he from the start?",
+      "options": [
+        "10 m",
+        "6 m",
+        "4 m",
+        "14 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After two right turns of 10 m he is 6 m East of start, then left 4 m further East: 10 m East."
+    },
+    {
+      "qid": "CHSL306",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. Some books are pens.",
+      "options": [
+        "Only II follows",
+        "Only I follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All pens are books implies some books are pens (II). I does not necessarily follow."
+    },
+    {
+      "qid": "CHSL307",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: 121, 143, 169, 187, 209",
+      "options": [
+        "169",
+        "121",
+        "143",
+        "187"
+      ],
+      "correctAnswer": 1,
+      "explanation": "121, 143, 187 and 209 are multiples of 11; 169 = 13 x 13 is not."
+    },
+    {
+      "qid": "CHSL308",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A,B,C,D,E sit in a row. A is second to the left of C. B is to the immediate right of C. D is at one end. E is between A and D. Who is in the middle?",
+      "options": [
+        "A",
+        "C",
+        "B",
+        "E"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Order D-E-A-C-B. Middle is A."
+    },
+    {
+      "qid": "CHSL309",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2023 was Tuesday, what day was 15 August 2024?",
+      "options": [
+        "Thursday",
+        "Wednesday",
+        "Friday",
+        "Tuesday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2024 is a leap year and 15 Aug is after 29 Feb, so +2 days: Tuesday to Thursday."
+    },
+    {
+      "qid": "CHSL310",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 4 and 5 o'clock are the hands of a clock at right angles for the first time?",
+      "options": [
+        "4 : 5 5/11",
+        "4 : 16 4/11",
+        "4 : 19 5/11",
+        "4 : 21 9/11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|120 - 5.5m| = 90 gives 5.5m = 30 or 210. First m = 30/5.5 = 60/11 = 5 5/11 minutes."
+    },
+    {
+      "qid": "CHSL311",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "7, 26, 63, 124, 215, ?",
+      "options": [
+        "342",
+        "336",
+        "344",
+        "348"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n^3 - 1: 2^3-1=7 ... 7^3-1=342."
+    },
+    {
+      "qid": "CHSL312",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "Find the next: AZ, CX, FU, JQ, ?",
+      "options": [
+        "OL",
+        "NK",
+        "PM",
+        "OK"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letters +2,+3,+4,+5 = O; second -2,-3,-4,-5 = L. So OL."
+    },
+    {
+      "qid": "CHSL313",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which best represents Politicians, Poets, Women?",
+      "options": [
+        "Three intersecting circles",
+        "Two circles inside a third",
+        "Three separate circles",
+        "One circle inside another"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A person can belong to any combination of the three sets."
+    },
+    {
+      "qid": "CHSL314",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If a clock shows 3:40, the mirror image time is?",
+      "options": [
+        "8:20",
+        "9:20",
+        "8:10",
+        "9:10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror time = 11:60 minus 3:40 = 8:20."
+    },
+    {
+      "qid": "CHSL315",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A square paper is folded once and a hole is punched at the centre of the folded edge. After unfolding how many holes?",
+      "options": [
+        "Two holes along the fold line",
+        "One hole",
+        "Four holes",
+        "Three holes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A single fold duplicates the punch across the crease."
+    },
+    {
+      "qid": "CHSL316",
+      "subject": "Reasoning",
+      "chapter": "Statement Conclusion",
+      "question": "Statement: All that glitters is not gold. Conclusions: I. All gold glitters. II. Some glittering things are not gold.",
+      "options": [
+        "Only II follows",
+        "Only I follows",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The proverb means some glittering things are not gold."
+    },
+    {
+      "qid": "CHSL317",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 11th from the left and B is 31st from the right. How many students are between A and B?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B from left = 40-31+1 = 10th. A is 11th. Adjacent, so 0 between them."
+    },
+    {
+      "qid": "CHSL318",
+      "subject": "Reasoning",
+      "chapter": "Inequality",
+      "question": "If P > Q >= R = S < T, which is definitely true?",
+      "options": [
+        "P > S",
+        "Q < T",
+        "R > T",
+        "P < R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P > Q >= R = S implies P > S."
+    },
+    {
+      "qid": "CHSL319",
+      "subject": "Reasoning",
+      "chapter": "Counting Figures",
+      "question": "How many triangles are there in a standard hexagram (Star of David)?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two large overlapping triangles plus 6 small pointed triangles = 8."
+    },
+    {
+      "qid": "CHSL320",
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operation",
+      "question": "If + means x, x means -, - means / and / means +, then 8 + 2 x 4 - 2 / 6 = ?",
+      "options": [
+        "20",
+        "18",
+        "16",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Decoded: 8 x 2 - 4 / 2 + 6 = 16 - 2 + 6 = 20."
+    },
+    {
+      "qid": "CHSL321",
+      "subject": "Reasoning",
+      "chapter": "Sitting Arrangement",
+      "question": "Eight people sit around a circular table facing the centre. A sits third to the left of B. C is opposite A. Who sits opposite B?",
+      "options": [
+        "Cannot be determined",
+        "C",
+        "A",
+        "Immediate neighbour of C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only A, B, C are named; the person opposite B is not identified."
+    },
+    {
+      "qid": "CHSL322",
+      "subject": "Reasoning",
+      "chapter": "Counting Figures",
+      "question": "Number of squares in a 4 x 4 grid?",
+      "options": [
+        "30",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "16 + 9 + 4 + 1 = 30."
+    },
+    {
+      "qid": "CHSL323",
+      "subject": "Reasoning",
+      "chapter": "Word Formation",
+      "question": "Using the 1st, 4th, 7th and 10th letters of PREMONITION, how many meaningful English words can be formed?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "More than two"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Letters P, M, I, I form no meaningful word."
+    },
+    {
+      "qid": "CHSL324",
+      "subject": "Reasoning",
+      "chapter": "Data Sufficiency",
+      "question": "Who is tallest among A, B, C? (I) A is taller than B. (II) B is taller than C.",
+      "options": [
+        "Both I and II needed",
+        "Only I",
+        "Only II",
+        "Either"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Together A > B > C, so A is tallest."
+    },
+    {
+      "qid": "CHSL325",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Circle is to Sphere as Square is to?",
+      "options": [
+        "Cube",
+        "Rectangle",
+        "Cylinder",
+        "Pyramid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2-D circle corresponds to 3-D sphere; 2-D square to 3-D cube."
+    },
+    {
+      "qid": "CHSL326",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "23 June 1757, Robert Clive vs Siraj-ud-Daulah."
+    },
+    {
+      "qid": "CHSL327",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Which Article deals with amendment of the Constitution?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 370",
+        "Article 32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 lays down the amendment procedure."
+    },
+    {
+      "qid": "CHSL328",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ganga is the longest river flowing in India (about 2525 km)."
+    },
+    {
+      "qid": "CHSL329",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Repo rate is the rate at which",
+      "options": [
+        "RBI lends to commercial banks against securities",
+        "Banks lend to RBI",
+        "Banks lend to public",
+        "Government borrows from public"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo is RBI short-term lending rate to banks."
+    },
+    {
+      "qid": "CHSL330",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The SI unit of electric resistance is",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Resistance is measured in ohm."
+    },
+    {
+      "qid": "CHSL331",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "India held the G20 Presidency in which year?",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India G20 Presidency 2023; New Delhi Summit September 2023."
+    },
+    {
+      "qid": "CHSL332",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Who among the following was awarded Bharat Ratna in 2024 (posthumous)?",
+      "options": [
+        "Karpoori Thakur",
+        "Sachin Tendulkar",
+        "A.P.J. Abdul Kalam",
+        "Lata Mangeshkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Karpoori Thakur was among the 2024 Bharat Ratna awardees (posthumous)."
+    },
+    {
+      "qid": "CHSL333",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "How many players of a team are on the court in standard Kabaddi?",
+      "options": [
+        "7",
+        "11",
+        "5",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Seven players per side on the court."
+    },
+    {
+      "qid": "CHSL334",
+      "subject": "General Awareness",
+      "chapter": "Culture",
+      "question": "Bihu is the folk dance of",
+      "options": [
+        "Assam",
+        "Punjab",
+        "Gujarat",
+        "Odisha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bihu is the festival dance of Assam."
+    },
+    {
+      "qid": "CHSL335",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "The Montreal Protocol is related to",
+      "options": [
+        "Ozone layer protection",
+        "Climate finance",
+        "Wetlands",
+        "Desertification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Montreal Protocol (1987) phases out ozone-depleting substances."
+    },
+    {
+      "qid": "CHSL336",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who first formed the Indian National Army in 1942?",
+      "options": [
+        "Mohan Singh",
+        "Subhas Chandra Bose",
+        "Rash Behari Bose",
+        "Shah Nawaz Khan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capt. Mohan Singh first organised the INA in 1942."
+    },
+    {
+      "qid": "CHSL337",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Minimum age to become President of India is",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "40 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 58 requires 35 years of age."
+    },
+    {
+      "qid": "CHSL338",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Iron oxide gives Mars its red colour."
+    },
+    {
+      "qid": "CHSL339",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which vitamin is synthesised in human skin in sunlight?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UVB converts 7-dehydrocholesterol to vitamin D3."
+    },
+    {
+      "qid": "CHSL340",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "8 November 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "CHSL341",
+      "subject": "General Awareness",
+      "chapter": "Computer",
+      "question": "Full form of URL is",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Resource Link",
+        "Universal Record Locator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "URL means Uniform Resource Locator."
+    },
+    {
+      "qid": "CHSL342",
+      "subject": "General Awareness",
+      "chapter": "Books",
+      "question": "The book Discovery of India was written by",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "S. Radhakrishnan",
+        "R.K. Narayan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nehru wrote it during 1942-46 imprisonment."
+    },
+    {
+      "qid": "CHSL343",
+      "subject": "General Awareness",
+      "chapter": "National Symbols",
+      "question": "The national aquatic animal of India is",
+      "options": [
+        "Ganges River Dolphin",
+        "Blue Whale",
+        "Crocodile",
+        "Olive Ridley Turtle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganges river dolphin is the national aquatic animal."
+    },
+    {
+      "qid": "CHSL344",
+      "subject": "General Awareness",
+      "chapter": "Physics",
+      "question": "Escape velocity from Earth's surface is approximately",
+      "options": [
+        "11.2 km/s",
+        "7.9 km/s",
+        "3 km/s",
+        "21 km/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escape velocity from Earth is about 11.2 km/s."
+    },
+    {
+      "qid": "CHSL345",
+      "subject": "General Awareness",
+      "chapter": "Chemistry",
+      "question": "pH of a neutral solution at 25 C is",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutral water has pH 7 at 25 C."
+    },
+    {
+      "qid": "CHSL346",
+      "subject": "General Awareness",
+      "chapter": "Biology",
+      "question": "The powerhouse of the cell is",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria generate ATP."
+    },
+    {
+      "qid": "CHSL347",
+      "subject": "General Awareness",
+      "chapter": "World GK",
+      "question": "Headquarters of UNESCO is in",
+      "options": [
+        "Paris",
+        "Geneva",
+        "New York",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UNESCO headquarters is in Paris."
+    },
+    {
+      "qid": "CHSL348",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Finance Commission is constituted every",
+      "options": [
+        "5 years",
+        "2 years",
+        "6 years",
+        "10 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 280: every five years or earlier."
+    },
+    {
+      "qid": "CHSL349",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Western Ghats are also known as",
+      "options": [
+        "Sahyadri",
+        "Himadri",
+        "Purvanchal",
+        "Aravalli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Western Ghats are called Sahyadri in Maharashtra."
+    },
+    {
+      "qid": "CHSL350",
+      "subject": "General Awareness",
+      "chapter": "Defence",
+      "question": "Agnipath scheme relates to",
+      "options": [
+        "Short-term military recruitment",
+        "Naval satellites",
+        "Cyber command",
+        "Border roads"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agnipath recruits Agniveers for four-year service."
+    },
+    {
+      "qid": "CHSL351",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "The LCM of 12, 18 and 30 is",
+      "options": [
+        "180",
+        "90",
+        "60",
+        "360"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM = 2^2 x 3^2 x 5 = 180."
+    },
+    {
+      "qid": "CHSL352",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change is",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1.2 x 0.8 = 0.96, i.e. 4% decrease."
+    },
+    {
+      "qid": "CHSL353",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit Loss",
+      "question": "Marked 40% above cost and 10% discount. Profit percent is",
+      "options": [
+        "26%",
+        "30%",
+        "24%",
+        "28%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 1.4C x 0.9 = 1.26C, profit 26%."
+    },
+    {
+      "qid": "CHSL354",
+      "subject": "Quantitative Aptitude",
+      "chapter": "SI CI",
+      "question": "SI for 2 years at 10% p.a. is Rs 400. CI for same time and rate is",
+      "options": [
+        "Rs 420",
+        "Rs 440",
+        "Rs 410",
+        "Rs 400"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P = 2000; CI = 2000 x 0.21 = 420."
+    },
+    {
+      "qid": "CHSL355",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "If A:B = 3:4 and B:C = 5:6, then A:C is",
+      "options": [
+        "5:8",
+        "3:6",
+        "15:24",
+        "5:6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B:C = 15:20:24 so A:C = 15:24 = 5:8."
+    },
+    {
+      "qid": "CHSL356",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of first 10 natural numbers is",
+      "options": [
+        "5.5",
+        "5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(1+10)/2 = 5.5."
+    },
+    {
+      "qid": "CHSL357",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time Work",
+      "question": "A does a work in 12 days, B in 18 days. Together they finish in",
+      "options": [
+        "7.2 days",
+        "15 days",
+        "6 days",
+        "9 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/12 + 1/18 = 5/36, time = 36/5 = 7.2 days."
+    },
+    {
+      "qid": "CHSL358",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time Speed",
+      "question": "A train 180 m long runs at 54 km/h. Time to cross a pole is",
+      "options": [
+        "12 s",
+        "10 s",
+        "15 s",
+        "18 s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "54 km/h = 15 m/s; t = 180/15 = 12 s."
+    },
+    {
+      "qid": "CHSL359",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x^2 + 1/x^2 =",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Square both sides: 9 = x^2 + 2 + 1/x^2 so answer 7."
+    },
+    {
+      "qid": "CHSL360",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "Area of an equilateral triangle of side 6 cm is",
+      "options": [
+        "9\\sqrt3 cm^{2}",
+        "18\\sqrt3 cm^{2}",
+        "6\\sqrt3 cm^{2}",
+        "12\\sqrt3 cm^{2}"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(\\sqrt3/4) x 36 = 9\\sqrt3."
+    },
+    {
+      "qid": "CHSL361",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of edge 5 cm is",
+      "options": [
+        "125 cm^{3}",
+        "25 cm^{3}",
+        "75 cm^{3}",
+        "150 cm^{3}"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5^3 = 125."
+    },
+    {
+      "qid": "CHSL362",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "sin 30° + cos 60° =",
+      "options": [
+        "1",
+        "0.5",
+        "1.5",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/2 + 1/2 = 1."
+    },
+    {
+      "qid": "CHSL363",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If 35% of a number is 140, the number is",
+      "options": [
+        "400",
+        "350",
+        "420",
+        "280"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x = 140 x 100 / 35 = 400."
+    },
+    {
+      "qid": "CHSL364",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Partnership",
+      "question": "A invests 3 times B. Profit Rs 4800; A's share is",
+      "options": [
+        "Rs 3600",
+        "Rs 3200",
+        "Rs 2400",
+        "Rs 1200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ratio 3:1, A gets 3600."
+    },
+    {
+      "qid": "CHSL365",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mixture",
+      "question": "20 L milk-water 4:1. 5 L mixture replaced by water. New milk:water is",
+      "options": [
+        "3:2",
+        "4:1",
+        "2:1",
+        "3:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milk left 12 L, water 8 L, ratio 3:2."
+    },
+    {
+      "qid": "CHSL366",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simplification",
+      "question": "√(0.01) x √(0.36) =",
+      "options": [
+        "0.06",
+        "0.6",
+        "0.006",
+        "0.036"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.1 x 0.6 = 0.06."
+    },
+    {
+      "qid": "CHSL367",
+      "subject": "Quantitative Aptitude",
+      "chapter": "HCF LCM",
+      "question": "HCF of 96 and 404 is",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "404 = 4 x 101, 96 = 32 x 3, HCF = 4."
+    },
+    {
+      "qid": "CHSL368",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Age",
+      "question": "Father is 3 times son. After 12 years he will be twice the son. Present age of son is",
+      "options": [
+        "12 years",
+        "15 years",
+        "18 years",
+        "10 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3S+12 = 2(S+12) gives S = 12."
+    },
+    {
+      "qid": "CHSL369",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Pipe Cistern",
+      "question": "Two pipes fill a tank in 10 and 15 min. Together they fill in",
+      "options": [
+        "6 min",
+        "12.5 min",
+        "7.5 min",
+        "5 min"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 1/6."
+    },
+    {
+      "qid": "CHSL370",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Coordinate",
+      "question": "Distance between (0,0) and (3,4) is",
+      "options": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sqrt(9+16) = 5."
+    },
+    {
+      "qid": "CHSL371",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Circle",
+      "question": "Circumference of a circle of radius 7 cm (π=22/7) is",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "154 cm",
+        "49 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2 x 22/7 x 7 = 44."
+    },
+    {
+      "qid": "CHSL372",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Progression",
+      "question": "Sum of first 20 natural numbers is",
+      "options": [
+        "210",
+        "200",
+        "220",
+        "190"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20 x 21 / 2 = 210."
+    },
+    {
+      "qid": "CHSL373",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Boat Stream",
+      "question": "Boat speed in still water 15 km/h, stream 3 km/h. Downstream speed is",
+      "options": [
+        "18 km/h",
+        "12 km/h",
+        "15 km/h",
+        "21 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 + 3 = 18."
+    },
+    {
+      "qid": "CHSL374",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Probability",
+      "question": "A die is thrown. Probability of a prime number is",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2,3,5 are prime: 3/6 = 1/2."
+    },
+    {
+      "qid": "CHSL375",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 20. Four of them are 18, 22, 19, 21. Fifth is",
+      "options": [
+        "20",
+        "19",
+        "21",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum 100; known sum 80; fifth = 20."
+    },
+    {
+      "qid": "CHSL376",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the erroneous part: Neither of the two boys (A)/ have submitted (B)/ their assignments (C)/ No error (D).",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither is singular; use has submitted."
+    },
+    {
+      "qid": "CHSL377",
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "He is senior ____ me in service.",
+      "options": [
+        "to",
+        "than",
+        "from",
+        "over"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior, junior, superior take the preposition to."
+    },
+    {
+      "qid": "CHSL378",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of ABANDON",
+      "options": [
+        "Forsake",
+        "Retain",
+        "Adopt",
+        "Continue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abandon means to leave or forsake."
+    },
+    {
+      "qid": "CHSL379",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of SCARCE",
+      "options": [
+        "Abundant",
+        "Rare",
+        "Meagre",
+        "Sparse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scarce is opposite of abundant."
+    },
+    {
+      "qid": "CHSL380",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "To bury the hatchet means",
+      "options": [
+        "To make peace",
+        "To hide a weapon",
+        "To start a fight",
+        "To dig the past"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom means to end a quarrel."
+    },
+    {
+      "qid": "CHSL381",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves mankind",
+      "options": [
+        "Philanthropist",
+        "Misanthrope",
+        "Optimist",
+        "Egoist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Philanthropist means lover of mankind."
+    },
+    {
+      "qid": "CHSL382",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word",
+      "options": [
+        "Occasion",
+        "Ocassion",
+        "Occassion",
+        "Ocasion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct spelling is Occasion."
+    },
+    {
+      "qid": "CHSL383",
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Passive of: They will finish the work tomorrow.",
+      "options": [
+        "The work will be finished by them tomorrow.",
+        "The work would be finished tomorrow.",
+        "The work is finished by them tomorrow.",
+        "The work will finish tomorrow."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future simple passive uses will be + past participle."
+    },
+    {
+      "qid": "CHSL384",
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "He said, I am unwell.",
+      "options": [
+        "He said that he was unwell.",
+        "He said that I am unwell.",
+        "He said that he is unwell.",
+        "He told that he was unwell."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present becomes past; pronoun I becomes he."
+    },
+    {
+      "qid": "CHSL385",
+      "subject": "English",
+      "chapter": "Subject Verb",
+      "question": "The committee ____ divided in its opinion.",
+      "options": [
+        "was",
+        "were",
+        "have",
+        "are"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Committee as a unit takes singular was."
+    },
+    {
+      "qid": "CHSL386",
+      "subject": "English",
+      "chapter": "Para Jumble",
+      "question": "P. but also builds character Q. Discipline not only R. ensures success S. in the long run. Correct order:",
+      "options": [
+        "QRSP",
+        "QPRS",
+        "RQPS",
+        "QSRP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Discipline not only ensures success in the long run but also builds character."
+    },
+    {
+      "qid": "CHSL387",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Ephemeral means",
+      "options": [
+        "Short-lived",
+        "Eternal",
+        "Powerful",
+        "Hidden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ephemeral means lasting a very short time."
+    },
+    {
+      "qid": "CHSL388",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "He insisted ____ going there.",
+      "options": [
+        "on",
+        "to",
+        "for",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Insist takes on + gerund."
+    },
+    {
+      "qid": "CHSL389",
+      "subject": "English",
+      "chapter": "Article",
+      "question": "____ honest man is respected everywhere.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Honest begins with a vowel sound so An."
+    },
+    {
+      "qid": "CHSL390",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she ____ her degree.",
+      "options": [
+        "will have completed",
+        "will complete",
+        "completed",
+        "has completed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect for an action finished before a future point."
+    },
+    {
+      "qid": "CHSL391",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "The letter was written by Ravi. Active form:",
+      "options": [
+        "Ravi wrote the letter.",
+        "Ravi writes the letter.",
+        "Ravi has written the letter.",
+        "Ravi had written the letter."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past simple passive converts to past simple active."
+    },
+    {
+      "qid": "CHSL392",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "A wild goose chase means",
+      "options": [
+        "A futile pursuit",
+        "Hunting birds",
+        "A fast race",
+        "A secret plan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means a hopeless or pointless search."
+    },
+    {
+      "qid": "CHSL393",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of PRUDENT",
+      "options": [
+        "Wise",
+        "Reckless",
+        "Proud",
+        "Hasty"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prudent means careful and wise."
+    },
+    {
+      "qid": "CHSL394",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of OPAQUE",
+      "options": [
+        "Transparent",
+        "Dull",
+        "Dark",
+        "Thick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opaque is opposite of transparent."
+    },
+    {
+      "qid": "CHSL395",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Choose the improvement: She is good in mathematics.",
+      "options": [
+        "good at",
+        "No improvement",
+        "good on",
+        "good with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct collocation is good at."
+    },
+    {
+      "qid": "CHSL396",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A speech made without preparation",
+      "options": [
+        "Extempore",
+        "Debate",
+        "Rhetoric",
+        "Soliloquy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore means spoken without preparation."
+    },
+    {
+      "qid": "CHSL397",
+      "subject": "English",
+      "chapter": "Conjunction",
+      "question": "Hardly had he left ____ it started raining.",
+      "options": [
+        "when",
+        "than",
+        "then",
+        "but"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hardly / scarcely is paired with when."
+    },
+    {
+      "qid": "CHSL398",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "She said to me, Please help me.",
+      "options": [
+        "She requested me to help her.",
+        "She said me to help her.",
+        "She asked me help her.",
+        "She told to help me."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Please becomes requested + to-infinitive."
+    },
+    {
+      "qid": "CHSL399",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "A person who does not believe in God is an",
+      "options": [
+        "Atheist",
+        "Agnostic",
+        "Theist",
+        "Pagan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An atheist denies the existence of God."
+    },
+    {
+      "qid": "CHSL400",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is the most unique artist.",
+      "options": [
+        "a unique artist",
+        "the unique artist",
+        "most unique artist",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unique is an absolute adjective; do not use most unique."
+    }
+  ]
+}
