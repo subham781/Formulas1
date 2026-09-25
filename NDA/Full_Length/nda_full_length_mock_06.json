@@ -1,0 +1,1423 @@
+{
+  "testId": "nda_full_length_mock_06",
+  "exam": "NDA",
+  "testType": "fullLength",
+  "title": "NDA Full Length Mock Test 06 (Hard Level)",
+  "description": "National Defence Academy style full-length mock covering Mathematics, English and General Knowledge. Hard level, 100 questions, 120 minutes.",
+  "durationMinutes": 120,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2.5,
+  "negativeMarks": 0.83,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total questions: 100. Maximum marks: 250.",
+    "Time allowed: 120 minutes.",
+    "Each correct answer carries 2.5 marks.",
+    "There is a penalty of 0.83 marks for every wrong answer.",
+    "No marks will be deducted for unattempted questions.",
+    "The paper covers Mathematics, English and General Knowledge as in NDA GAT/Maths combined mock.",
+    "Use of calculator or electronic device is not permitted."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If α and β are roots of x² - 7x + 10 = 0, then α³ + β³ equals:",
+      "options": [
+        "133",
+        "343",
+        "217",
+        "153"
+      ],
+      "correctAnswer": 1,
+      "explanation": "α+β=7, αβ=10. α³+β³=(α+β)[(α+β)²-3αβ]=7(49-30)=133."
+    },
+    {
+      "qid": 2,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "The remainder when x³ + 3x² + 3x + 1 is divided by x+2 is:",
+      "options": [
+        "-1",
+        "1",
+        "-8",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "f(-2)= -8 + 12 -6 +1 = -1."
+    },
+    {
+      "qid": 3,
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "The quadratic equation whose roots are 3 and -2 is:",
+      "options": [
+        "x²-x-6=0",
+        "x²+x-6=0",
+        "x²-x+6=0",
+        "x²+x+6=0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum=1, product=-6 → x²-x-6=0."
+    },
+    {
+      "qid": 4,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The 8th term of the AP 3, 7, 11, 15,... is:",
+      "options": [
+        "31",
+        "28",
+        "32",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a=3,d=4. T8=3+7*4=31."
+    },
+    {
+      "qid": 5,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The sum of an infinite GP with first term 6 and common ratio 1/3 is:",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "S=a/(1-r)=6/(2/3)=9."
+    },
+    {
+      "qid": 6,
+      "subject": "Mathematics",
+      "chapter": "Binomial Theorem",
+      "question": "The middle term in the expansion of (x + 1/x)^8 is:",
+      "options": [
+        "56",
+        "70",
+        "28",
+        "84"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Even n=8, one middle term T5=C(8,4)=70."
+    },
+    {
+      "qid": 7,
+      "subject": "Mathematics",
+      "chapter": "Binomial Theorem",
+      "question": "The coefficient of x^3 in (1+x)^7 is:",
+      "options": [
+        "35",
+        "21",
+        "7",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C(7,3)=35."
+    },
+    {
+      "qid": 8,
+      "subject": "Mathematics",
+      "chapter": "Permutation Combination",
+      "question": "The number of ways of arranging 5 different books on a shelf is:",
+      "options": [
+        "120",
+        "60",
+        "24",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5!=120."
+    },
+    {
+      "qid": 9,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "Two coins are tossed. Probability of getting at least one head is:",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "HH,HT,TH,TT → 3/4."
+    },
+    {
+      "qid": 10,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "A die is thrown. Probability of getting a prime number is:",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2,3,5 → 3/6=1/2."
+    },
+    {
+      "qid": 11,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "The value of sin²30° + cos²60° is:",
+      "options": [
+        "1",
+        "1/2",
+        "3/4",
+        "1/4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(1/2)²+(1/2)²=1/4+1/4=1/2."
+    },
+    {
+      "qid": 12,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "If tan θ = 3/4 and θ is acute, then sin θ is:",
+      "options": [
+        "3/5",
+        "4/5",
+        "3/4",
+        "5/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "opp=3,adj=4,hyp=5. sin=3/5."
+    },
+    {
+      "qid": 13,
+      "subject": "Mathematics",
+      "chapter": "Trigonometric Equations",
+      "question": "The general solution of sin θ = 0 is:",
+      "options": [
+        "θ=nπ",
+        "θ=2nπ",
+        "θ=(2n+1)π/2",
+        "θ=nπ/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin θ=0 ⇒ θ=nπ."
+    },
+    {
+      "qid": 14,
+      "subject": "Mathematics",
+      "chapter": "Heights and Distances",
+      "question": "The angle of elevation of the top of a 20 m tower from a point 20 m away is:",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tanθ=20/20=1 ⇒ θ=45°."
+    },
+    {
+      "qid": 15,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "The distance between (1,2) and (4,6) is:",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√[(3)²+(4)²]=5."
+    },
+    {
+      "qid": 16,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "The midpoint of the segment joining (2,-3) and (4,5) is:",
+      "options": [
+        "(3,1)",
+        "(3,2)",
+        "(1,1)",
+        "(6,2)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "((2+4)/2,(-3+5)/2)=(3,1)."
+    },
+    {
+      "qid": 17,
+      "subject": "Mathematics",
+      "chapter": "Straight Lines",
+      "question": "The slope of the line 3x+4y-7=0 is:",
+      "options": [
+        "-3/4",
+        "3/4",
+        "-4/3",
+        "4/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "y=-3x/4+7/4. Slope=-3/4."
+    },
+    {
+      "qid": 18,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "question": "The equation of the circle with centre (0,0) and radius 5 is:",
+      "options": [
+        "x²+y²=25",
+        "x²+y²=5",
+        "x²+y²=10",
+        "x+y=5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x²+y²=r²=25."
+    },
+    {
+      "qid": 19,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "question": "The radius of the circle x²+y²-6x-8y=0 is:",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Centre(3,4), r=√(9+16)=5."
+    },
+    {
+      "qid": 20,
+      "subject": "Mathematics",
+      "chapter": "Conic Sections",
+      "question": "The eccentricity of a parabola is:",
+      "options": [
+        "0",
+        "1",
+        ">1",
+        "<1"
+      ],
+      "correctAnswer": 2,
+      "explanation": "e=1 for parabola."
+    },
+    {
+      "qid": 21,
+      "subject": "Mathematics",
+      "chapter": "Parabola",
+      "question": "The focus of the parabola y²=8x is:",
+      "options": [
+        "(2,0)",
+        "(0,2)",
+        "(4,0)",
+        "(1,0)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4a=8 ⇒ a=2. Focus(a,0)=(2,0)."
+    },
+    {
+      "qid": 22,
+      "subject": "Mathematics",
+      "chapter": "3D Geometry",
+      "question": "The distance of the point (1,2,2) from the origin is:",
+      "options": [
+        "3",
+        "√5",
+        "√9",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(1+4+4)=3."
+    },
+    {
+      "qid": 23,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "question": "If a = i+2j and b = 3i-j, then a·b equals:",
+      "options": [
+        "1",
+        "5",
+        "3",
+        "-1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1*3+2*(-1)=3-2=1."
+    },
+    {
+      "qid": 24,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "question": "The magnitude of vector 3i-4j is:",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(9+16)=5."
+    },
+    {
+      "qid": 25,
+      "subject": "Mathematics",
+      "chapter": "Matrices",
+      "question": "If A is a 2×3 matrix and B is a 3×2 matrix, then AB is of order:",
+      "options": [
+        "2×2",
+        "3×3",
+        "2×3",
+        "3×2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(2×3)(3×2)=2×2."
+    },
+    {
+      "qid": 26,
+      "subject": "Mathematics",
+      "chapter": "Determinants",
+      "question": "The value of det [[1,2],[3,4]] is:",
+      "options": [
+        "-2",
+        "2",
+        "10",
+        "-1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4-6=-2."
+    },
+    {
+      "qid": 27,
+      "subject": "Mathematics",
+      "chapter": "Limits",
+      "question": "lim(x→0) (sin x)/x equals:",
+      "options": [
+        "0",
+        "1",
+        "∞",
+        "does not exist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard limit = 1."
+    },
+    {
+      "qid": 28,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "d/dx (x³) equals:",
+      "options": [
+        "3x²",
+        "3x",
+        "x²",
+        "3x³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Power rule."
+    },
+    {
+      "qid": 29,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "∫ 2x dx equals:",
+      "options": [
+        "x²+C",
+        "2x²+C",
+        "x+C",
+        "2+C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "∫2x=x²+C."
+    },
+    {
+      "qid": 30,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "The derivative of sin x with respect to x is:",
+      "options": [
+        "cos x",
+        "-cos x",
+        "-sin x",
+        "sec x"
+      ],
+      "correctAnswer": 1,
+      "explanation": "d(sin x)/dx=cos x."
+    },
+    {
+      "qid": 31,
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A={1,2,3} and B={2,3,4}, then A∩B is:",
+      "options": [
+        "{2,3}",
+        "{1,2,3,4}",
+        "{1}",
+        "{4}"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Common elements 2,3."
+    },
+    {
+      "qid": 32,
+      "subject": "Mathematics",
+      "chapter": "Complex Numbers",
+      "question": "The modulus of 3+4i is:",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(9+16)=5."
+    },
+    {
+      "qid": 33,
+      "subject": "Mathematics",
+      "chapter": "Logarithms",
+      "question": "If log₁₀ x = 2, then x equals:",
+      "options": [
+        "100",
+        "20",
+        "10",
+        "200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x=10²=100."
+    },
+    {
+      "qid": 34,
+      "subject": "Mathematics",
+      "chapter": "Inequalities",
+      "question": "The solution of 2x-3>5 is:",
+      "options": [
+        "x>4",
+        "x<4",
+        "x>1",
+        "x>8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x>8 ⇒ x>4."
+    },
+    {
+      "qid": 35,
+      "subject": "Mathematics",
+      "chapter": "Functions",
+      "question": "If f(x)=2x+1, then f(3) equals:",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2*3+1=7."
+    },
+    {
+      "qid": 36,
+      "subject": "Mathematics",
+      "chapter": "Area",
+      "question": "The area of a triangle with base 10 cm and height 6 cm is:",
+      "options": [
+        "30 cm²",
+        "60 cm²",
+        "16 cm²",
+        "20 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(1/2)*10*6=30."
+    },
+    {
+      "qid": 37,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The volume of a cube of side 4 cm is:",
+      "options": [
+        "64 cm³",
+        "16 cm³",
+        "48 cm³",
+        "12 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4³=64."
+    },
+    {
+      "qid": 38,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "The mean of 2,4,6,8,10 is:",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "30/5=6."
+    },
+    {
+      "qid": 39,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "The median of 3,7,9,11,15 is:",
+      "options": [
+        "9",
+        "7",
+        "11",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Middle value of odd n is 9."
+    },
+    {
+      "qid": 40,
+      "subject": "Mathematics",
+      "chapter": "Sequence",
+      "question": "The next term of 2,6,12,20,... is:",
+      "options": [
+        "30",
+        "28",
+        "32",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "+4,+6,+8,+10 → 30."
+    },
+    {
+      "qid": 41,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: He / do not / know the / answer.",
+      "options": [
+        "He",
+        "do not",
+        "know the",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "He does not (singular)."
+    },
+    {
+      "qid": 42,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: The news / are / very good / today.",
+      "options": [
+        "The news",
+        "are",
+        "very good",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "News is singular → is."
+    },
+    {
+      "qid": 43,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: She has been / living here / since / five years.",
+      "options": [
+        "She has been",
+        "living here",
+        "since",
+        "five years"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Duration uses 'for', not 'since'."
+    },
+    {
+      "qid": 44,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: One of the boys / have / gone / home.",
+      "options": [
+        "One of the boys",
+        "have",
+        "gone",
+        "home"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One of + plural noun takes singular verb 'has'."
+    },
+    {
+      "qid": 45,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "He is senior _____ me.",
+      "options": [
+        "than",
+        "to",
+        "from",
+        "of"
+      ],
+      "correctAnswer": 2,
+      "explanation": "senior/junior take 'to'."
+    },
+    {
+      "qid": 46,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "She insisted _____ paying the bill.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "insist on."
+    },
+    {
+      "qid": 47,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The train is arriving _____ platform 3.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "correctAnswer": 3,
+      "explanation": "on platform."
+    },
+    {
+      "qid": 48,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Abandon' is:",
+      "options": [
+        "Forsake",
+        "Retain",
+        "Keep",
+        "Hold"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abandon = forsake/leave."
+    },
+    {
+      "qid": 49,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Brief' is:",
+      "options": [
+        "Short",
+        "Long",
+        "Lengthy",
+        "Extended"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brief = short/concise."
+    },
+    {
+      "qid": 50,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Diligent' is:",
+      "options": [
+        "Lazy",
+        "Industrious",
+        "Idle",
+        "Careless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diligent = hardworking/industrious."
+    },
+    {
+      "qid": 51,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Expand' is:",
+      "options": [
+        "Contract",
+        "Enlarge",
+        "Increase",
+        "Grow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Expand ≠ contract."
+    },
+    {
+      "qid": 52,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Scarce' is:",
+      "options": [
+        "Abundant",
+        "Rare",
+        "Few",
+        "Limited"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scarce ≠ abundant."
+    },
+    {
+      "qid": 53,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Virtue' is:",
+      "options": [
+        "Vice",
+        "Goodness",
+        "Morality",
+        "Honesty"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Virtue ≠ vice."
+    },
+    {
+      "qid": 54,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'A blessing in disguise' means:",
+      "options": [
+        "Something good that seemed bad at first",
+        "A hidden gift",
+        "A curse",
+        "An open blessing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apparently bad but actually good."
+    },
+    {
+      "qid": 55,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'Hit the nail on the head' means:",
+      "options": [
+        "To be exactly right",
+        "To hurt someone",
+        "To miss the point",
+        "To work hard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Exactly correct."
+    },
+    {
+      "qid": 56,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'Spill the beans' means:",
+      "options": [
+        "Reveal a secret",
+        "Cook food",
+        "Waste time",
+        "Plant seeds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Disclose confidential information."
+    },
+    {
+      "qid": 57,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'Once in a blue moon' means:",
+      "options": [
+        "Very rarely",
+        "Very often",
+        "Every month",
+        "Never"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rarely."
+    },
+    {
+      "qid": 58,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves books is a:",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misanthrope",
+        "Pedagogue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Biblio = books."
+    },
+    {
+      "qid": 59,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A government by the people is:",
+      "options": [
+        "Democracy",
+        "Autocracy",
+        "Oligarchy",
+        "Monarchy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Demos = people."
+    },
+    {
+      "qid": 60,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "One who cannot be corrected is:",
+      "options": [
+        "Incorrigible",
+        "Incredible",
+        "Ineligible",
+        "Invisible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Incorrigible."
+    },
+    {
+      "qid": 61,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is good in mathematics. Improve:",
+      "options": [
+        "good at mathematics",
+        "good on mathematics",
+        "good with mathematics",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "good at a subject."
+    },
+    {
+      "qid": 62,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "She suggested me to wait. Improve:",
+      "options": [
+        "suggested that I wait",
+        "suggested me wait",
+        "suggested to me wait",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "suggest that + clause."
+    },
+    {
+      "qid": 63,
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: They built this house in 1990.",
+      "options": [
+        "This house was built in 1990.",
+        "This house is built in 1990.",
+        "This house has built in 1990.",
+        "This house built in 1990."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past simple passive."
+    },
+    {
+      "qid": 64,
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to active: The letter was written by Ravi.",
+      "options": [
+        "Ravi wrote the letter.",
+        "Ravi writes the letter.",
+        "Ravi was writing the letter.",
+        "Ravi has written the letter."
+      ],
+      "correctAnswer": 1,
+      "explanation": "was written → simple past active."
+    },
+    {
+      "qid": 65,
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, \"I am tired.\" Indirect:",
+      "options": [
+        "He said that he was tired.",
+        "He said that I am tired.",
+        "He said that he is tired.",
+        "He said he tired."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present → past in reported speech."
+    },
+    {
+      "qid": 66,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "She is afraid _____ dogs.",
+      "options": [
+        "of",
+        "from",
+        "with",
+        "by"
+      ],
+      "correctAnswer": 1,
+      "explanation": "afraid of."
+    },
+    {
+      "qid": 67,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "He congratulated me _____ my success.",
+      "options": [
+        "on",
+        "for",
+        "at",
+        "to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "congratulate on."
+    },
+    {
+      "qid": 68,
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "Choose the best word: The sun _____ in the east.",
+      "options": [
+        "rises",
+        "raises",
+        "rose",
+        "raised"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sun rises."
+    },
+    {
+      "qid": 69,
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "The phrase 'read between the lines' means:",
+      "options": [
+        "Understand hidden meaning",
+        "Read quickly",
+        "Skip lines",
+        "Read aloud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Infer unstated meaning."
+    },
+    {
+      "qid": 70,
+      "subject": "English",
+      "chapter": "Ordering of Words",
+      "question": "Arrange: (P) the truth (Q) always (R) tell (S) you should",
+      "options": [
+        "S Q R P",
+        "R P S Q",
+        "S R Q P",
+        "Q S R P"
+      ],
+      "correctAnswer": 1,
+      "explanation": "You should always tell the truth."
+    },
+    {
+      "qid": 71,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1757, Clive vs Siraj-ud-Daulah."
+    },
+    {
+      "qid": 72,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta with Chanakya."
+    },
+    {
+      "qid": 73,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Jallianwala Bagh massacre took place in:",
+      "options": [
+        "1919",
+        "1920",
+        "1918",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "explanation": "13 April 1919, Amritsar."
+    },
+    {
+      "qid": 74,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Warren Hastings",
+        "Lord Wavell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mountbatten, then Rajaji as first Indian GG."
+    },
+    {
+      "qid": 75,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Quit India Movement was launched in:",
+      "options": [
+        "1942",
+        "1940",
+        "1930",
+        "1946"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 1942."
+    },
+    {
+      "qid": 76,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The President of India is elected by:",
+      "options": [
+        "Electoral College",
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "People directly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elected MPs + MLAs of states/UTs."
+    },
+    {
+      "qid": 77,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Which Article deals with the Right to Equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arts 14–18 Right to Equality."
+    },
+    {
+      "qid": 78,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The minimum age to become Prime Minister of India is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "21 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Must be member of Parliament; LS min age 25."
+    },
+    {
+      "qid": 79,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "How many Fundamental Duties are in the Constitution?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Originally 10, 11th added by 86th Amendment."
+    },
+    {
+      "qid": 80,
+      "subject": "General Knowledge",
+      "chapter": "Indian Geography",
+      "question": "The longest river of India is:",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga ~2525 km in India."
+    },
+    {
+      "qid": 81,
+      "subject": "General Knowledge",
+      "chapter": "Indian Geography",
+      "question": "Which is the highest peak in India?",
+      "options": [
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Mount Everest",
+        "K2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga on India-Nepal border is highest in India."
+    },
+    {
+      "qid": 82,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GJ, RJ, MP, CG, JH, WB, TR, MZ."
+    },
+    {
+      "qid": 83,
+      "subject": "General Knowledge",
+      "chapter": "World Geography",
+      "question": "The largest ocean in the world is:",
+      "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pacific."
+    },
+    {
+      "qid": 84,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The chemical formula of water is:",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two hydrogen + one oxygen."
+    },
+    {
+      "qid": 85,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "N2 ~78%."
+    },
+    {
+      "qid": 86,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The SI unit of force is:",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "F=ma, newton."
+    },
+    {
+      "qid": 87,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Vitamin C is also known as:",
+      "options": [
+        "Ascorbic acid",
+        "Retinol",
+        "Thiamine",
+        "Riboflavin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ascorbic acid."
+    },
+    {
+      "qid": 88,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The powerhouse of the cell is:",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria produce ATP."
+    },
+    {
+      "qid": 89,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "pH of a neutral solution is:",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutral water pH 7."
+    },
+    {
+      "qid": 90,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "RBI was established in:",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 April 1935."
+    },
+    {
+      "qid": 91,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST was introduced in India in:",
+      "options": [
+        "2017",
+        "2016",
+        "2018",
+        "2014"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 July 2017."
+    },
+    {
+      "qid": 92,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The highest peacetime gallantry award of India is:",
+      "options": [
+        "Ashoka Chakra",
+        "Param Vir Chakra",
+        "Kirti Chakra",
+        "Shaurya Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ashoka Chakra is highest peacetime; PVC is wartime."
+    },
+    {
+      "qid": 93,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Indian Naval Academy is located at:",
+      "options": [
+        "Ezhimala",
+        "Goa",
+        "Visakhapatnam",
+        "Kochi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INA Ezhimala, Kerala."
+    },
+    {
+      "qid": 94,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The first Chief of Defence Staff of India was:",
+      "options": [
+        "Gen. Bipin Rawat",
+        "Gen. Manoj Pande",
+        "Adm. Karambir Singh",
+        "ACM RKS Bhadauria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gen. Bipin Rawat, 2020."
+    },
+    {
+      "qid": 95,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "INS Vikrant is a:",
+      "options": [
+        "Aircraft carrier",
+        "Submarine",
+        "Destroyer",
+        "Frigate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indigenous aircraft carrier."
+    },
+    {
+      "qid": 96,
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "The Ozone layer protects us from:",
+      "options": [
+        "UV radiation",
+        "Infrared",
+        "X-rays",
+        "Microwaves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stratospheric ozone absorbs UV-B."
+    },
+    {
+      "qid": 97,
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "How many players are there in a hockey team on the field?",
+      "options": [
+        "11",
+        "7",
+        "9",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "11 like football."
+    },
+    {
+      "qid": 98,
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "Bharat Ratna is awarded for:",
+      "options": [
+        "Exceptional service of the highest order",
+        "Gallantry",
+        "Sports only",
+        "Literature only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Highest civilian award."
+    },
+    {
+      "qid": 99,
+      "subject": "General Knowledge",
+      "chapter": "World History",
+      "question": "The French Revolution began in:",
+      "options": [
+        "1789",
+        "1776",
+        "1815",
+        "1848"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1789, storming of Bastille."
+    },
+    {
+      "qid": 100,
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "G20 Presidency of India was in the year:",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India hosted G20 Summit 2023."
+    }
+  ]
+}

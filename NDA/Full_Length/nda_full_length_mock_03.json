@@ -1,0 +1,1423 @@
+{
+  "testId": "nda_full_length_mock_03",
+  "exam": "NDA",
+  "testType": "fullLength",
+  "title": "NDA Full Length Mock Test 03 (Hard Level)",
+  "description": "National Defence Academy style full-length mock covering Mathematics, English and General Knowledge. Hard level, 100 questions, 120 minutes.",
+  "durationMinutes": 120,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2.5,
+  "negativeMarks": 0.83,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total questions: 100. Maximum marks: 250.",
+    "Time allowed: 120 minutes.",
+    "Each correct answer carries 2.5 marks.",
+    "There is a penalty of 0.83 marks for every wrong answer.",
+    "No marks will be deducted for unattempted questions.",
+    "The paper covers Mathematics, English and General Knowledge as in NDA GAT/Maths combined mock.",
+    "Use of calculator or electronic device is not permitted."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x³ + 1/x³ equals:",
+      "options": [
+        "18",
+        "27",
+        "24",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x³ + 1/x³ = (x + 1/x)³ − 3(x + 1/x) = 27 − 9 = 18."
+    },
+    {
+      "qid": 2,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "The number of real solutions of |x² − 5x + 6| = |x − 2| is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Factor (x−2)(x−3) and consider intervals determined by 2 and 3; four distinct real roots."
+    },
+    {
+      "qid": 3,
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If one root of x² − 4x + k = 0 is three times the other, then k equals:",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Roots α, 3α. Sum 4α = 4 ⇒ α = 1. Product 3α² = k ⇒ k = 3."
+    },
+    {
+      "qid": 4,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The sum of first n terms of an AP is 3n² + 5n. Its 10th term is:",
+      "options": [
+        "62",
+        "59",
+        "65",
+        "56"
+      ],
+      "correctAnswer": 1,
+      "explanation": "T_n = S_n − S_{n−1} = 6n + 2. Hence T_10 = 62."
+    },
+    {
+      "qid": 5,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If a, b, c are in GP and a + b + c = 21, abc = 216, then b equals:",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "b² = ac so abc = b³ = 216 ⇒ b = 6."
+    },
+    {
+      "qid": 6,
+      "subject": "Mathematics",
+      "chapter": "Binomial Theorem",
+      "question": "The middle term in the expansion of (x − 1/x)^{10} is:",
+      "options": [
+        "−252",
+        "252",
+        "−210",
+        "210"
+      ],
+      "correctAnswer": 1,
+      "explanation": "11 terms; middle is T_6 = C(10,5) x^5 (−1/x)^5 = −252."
+    },
+    {
+      "qid": 7,
+      "subject": "Mathematics",
+      "chapter": "Permutation Combination",
+      "question": "The number of ways to arrange the letters of MATHEMATICS is:",
+      "options": [
+        "11!/(2!2!2!)",
+        "11!/(2!2!)",
+        "10!/(2!2!2!)",
+        "11!/2!"
+      ],
+      "correctAnswer": 1,
+      "explanation": "11 letters with M, A, T each twice: 11!/(2!2!2!)."
+    },
+    {
+      "qid": 8,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "Two dice are thrown. Probability that the product of the numbers is even is:",
+      "options": [
+        "3/4",
+        "1/2",
+        "5/8",
+        "11/16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Product odd only if both odd: 9/36. Even = 27/36 = 3/4."
+    },
+    {
+      "qid": 9,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "A bag has 4 red and 6 blue balls. Two balls drawn at random. P(both red) is:",
+      "options": [
+        "2/15",
+        "1/15",
+        "4/45",
+        "8/45"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C(4,2)/C(10,2) = 6/45 = 2/15."
+    },
+    {
+      "qid": 10,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "The value of sin 18° is:",
+      "options": [
+        "(√5 − 1)/4",
+        "(√5 + 1)/4",
+        "√(10 − 2√5)/4",
+        "(√3 − 1)/4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard identity: sin 18° = (√5 − 1)/4."
+    },
+    {
+      "qid": 11,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "If tan A + cot A = 2, then tan²A + cot²A equals:",
+      "options": [
+        "2",
+        "0",
+        "4",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(tan + cot)² = 4 ⇒ tan² + cot² + 2 = 4 ⇒ tan² + cot² = 2."
+    },
+    {
+      "qid": 12,
+      "subject": "Mathematics",
+      "chapter": "Trigonometric Equations",
+      "question": "The general solution of 2 cos θ = 1 is:",
+      "options": [
+        "θ = 2nπ ± π/3",
+        "θ = nπ ± π/3",
+        "θ = 2nπ ± π/6",
+        "θ = nπ/2 ± π/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cos θ = 1/2 ⇒ θ = 2nπ ± π/3."
+    },
+    {
+      "qid": 13,
+      "subject": "Mathematics",
+      "chapter": "Heights and Distances",
+      "question": "Angle of elevation of a tower from a point is 30°. After walking 20 m towards it the angle is 60°. Height of the tower is:",
+      "options": [
+        "10√3 m",
+        "10 m",
+        "20√3 m",
+        "15√3 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "h(cot 30° − cot 60°) = 20 ⇒ h(√3 − 1/√3) = 20 ⇒ h = 10√3 m."
+    },
+    {
+      "qid": 14,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance between (a cos θ, a sin θ) and (a cos φ, a sin φ) is:",
+      "options": [
+        "2a |sin((θ − φ)/2)|",
+        "2a |cos((θ − φ)/2)|",
+        "a |sin(θ − φ)|",
+        "a |θ − φ|"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Distance² = 4a² sin²((θ − φ)/2)."
+    },
+    {
+      "qid": 15,
+      "subject": "Mathematics",
+      "chapter": "Straight Lines",
+      "question": "The lines 3x + 4y = 5 and 4x − 3y = 2 are:",
+      "options": [
+        "perpendicular",
+        "parallel",
+        "coincident",
+        "intersecting at 45°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Slopes −3/4 and 4/3; product = −1."
+    },
+    {
+      "qid": 16,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "question": "Equation of the circle with centre (2, −3) and radius 5 is:",
+      "options": [
+        "x² + y² − 4x + 6y − 12 = 0",
+        "x² + y² − 4x + 6y + 12 = 0",
+        "x² + y² + 4x − 6y − 12 = 0",
+        "x² + y² − 4x − 6y − 12 = 0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x−2)² + (y+3)² = 25 ⇒ x² + y² − 4x + 6y − 12 = 0."
+    },
+    {
+      "qid": 17,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "question": "Length of the tangent from (5, 1) to x² + y² = 16 is:",
+      "options": [
+        "√10",
+        "√26",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(25 + 1 − 16) = √10."
+    },
+    {
+      "qid": 18,
+      "subject": "Mathematics",
+      "chapter": "Conic Sections",
+      "question": "Eccentricity of the ellipse x²/25 + y²/9 = 1 is:",
+      "options": [
+        "4/5",
+        "3/5",
+        "5/4",
+        "2/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a = 5, b = 3, e = √(1 − 9/25) = 4/5."
+    },
+    {
+      "qid": 19,
+      "subject": "Mathematics",
+      "chapter": "Parabola",
+      "question": "The focus of the parabola y² = 12x is:",
+      "options": [
+        "(3, 0)",
+        "(0, 3)",
+        "(6, 0)",
+        "(0, 6)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4a = 12 ⇒ a = 3. Focus (3, 0)."
+    },
+    {
+      "qid": 20,
+      "subject": "Mathematics",
+      "chapter": "3D Geometry",
+      "question": "Direction cosines of a line equally inclined to the axes are:",
+      "options": [
+        "±1/√3, ±1/√3, ±1/√3",
+        "±1/3, ±1/3, ±1/3",
+        "±1, ±1, ±1",
+        "±√3, ±√3, ±√3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "l = m = n and l² + m² + n² = 1 ⇒ l = ±1/√3."
+    },
+    {
+      "qid": 21,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "question": "If |a| = 3, |b| = 4 and a · b = 6, then |a × b| equals:",
+      "options": [
+        "6√3",
+        "√7",
+        "12",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|a × b|² = 9·16 − 36 = 108 ⇒ |a × b| = 6√3."
+    },
+    {
+      "qid": 22,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "question": "If a = 2i − j + k and b = i + 2j − 3k, then a · b equals:",
+      "options": [
+        "−3",
+        "3",
+        "0",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2(1) + (−1)(2) + 1(−3) = 2 − 2 − 3 = −3."
+    },
+    {
+      "qid": 23,
+      "subject": "Mathematics",
+      "chapter": "Matrices",
+      "question": "If A = [[2, 3], [1, 4]], then det(A) equals:",
+      "options": [
+        "5",
+        "8",
+        "11",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2·4 − 3·1 = 8 − 3 = 5."
+    },
+    {
+      "qid": 24,
+      "subject": "Mathematics",
+      "chapter": "Determinants",
+      "question": "If Δ = |a b c; a² b² c²; a³ b³ c³|, then Δ equals:",
+      "options": [
+        "abc(a−b)(b−c)(c−a)",
+        "abc(a−b)(b−c)(a−c)",
+        "(a−b)(b−c)(c−a)",
+        "abc(a+b+c)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vandermonde-type factorisation: abc(a−b)(b−c)(a−c)."
+    },
+    {
+      "qid": 25,
+      "subject": "Mathematics",
+      "chapter": "Limits",
+      "question": "lim (x→0) (sin 5x)/x equals:",
+      "options": [
+        "5",
+        "1",
+        "0",
+        "1/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "lim (sin 5x)/(5x) · 5 = 1 · 5 = 5."
+    },
+    {
+      "qid": 26,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "d/dx (x³ e^x) equals:",
+      "options": [
+        "e^x (x³ + 3x²)",
+        "e^x (3x²)",
+        "3x² e^x + x³",
+        "e^x x² (x + 3)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Product rule: 3x² e^x + x³ e^x = e^x (x³ + 3x²)."
+    },
+    {
+      "qid": 27,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "∫ 1/(1 + x²) dx equals:",
+      "options": [
+        "tan⁻¹ x + C",
+        "sin⁻¹ x + C",
+        "ln(1 + x²) + C",
+        "sec⁻¹ x + C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard integral: tan⁻¹ x + C."
+    },
+    {
+      "qid": 28,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "The derivative of sin²x with respect to x is:",
+      "options": [
+        "sin 2x",
+        "2 sin x",
+        "cos 2x",
+        "2 cos x"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2 sin x cos x = sin 2x."
+    },
+    {
+      "qid": 29,
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A) = 20, n(B) = 25 and n(A ∪ B) = 35, then n(A ∩ B) is:",
+      "options": [
+        "10",
+        "15",
+        "5",
+        "45"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) ⇒ 35 = 45 − n(A ∩ B) ⇒ 10."
+    },
+    {
+      "qid": 30,
+      "subject": "Mathematics",
+      "chapter": "Complex Numbers",
+      "question": "The modulus of 3 − 4i is:",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|3 − 4i| = √(9 + 16) = 5."
+    },
+    {
+      "qid": 31,
+      "subject": "Mathematics",
+      "chapter": "Logarithms",
+      "question": "If log₁₀ 2 = 0.3010, then log₁₀ 8 equals:",
+      "options": [
+        "0.9030",
+        "0.6020",
+        "2.4080",
+        "0.3010"
+      ],
+      "correctAnswer": 1,
+      "explanation": "log 8 = log(2³) = 3 × 0.3010 = 0.9030."
+    },
+    {
+      "qid": 32,
+      "subject": "Mathematics",
+      "chapter": "Inequalities",
+      "question": "The solution of 2x − 5 > 3 is:",
+      "options": [
+        "x > 4",
+        "x < 4",
+        "x > 1",
+        "x < 1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x > 8 ⇒ x > 4."
+    },
+    {
+      "qid": 33,
+      "subject": "Mathematics",
+      "chapter": "Functions",
+      "question": "If f(x) = (x − 1)/(x + 1), then f(f(x)) equals:",
+      "options": [
+        "−1/x",
+        "x",
+        "1/x",
+        "−x"
+      ],
+      "correctAnswer": 1,
+      "explanation": "f(f(x)) simplifies to −1/x."
+    },
+    {
+      "qid": 34,
+      "subject": "Mathematics",
+      "chapter": "Area",
+      "question": "Area of the triangle with vertices (0,0), (4,0), (0,6) is:",
+      "options": [
+        "12",
+        "24",
+        "10",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right triangle: (1/2)×4×6 = 12."
+    },
+    {
+      "qid": 35,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a sphere of radius 3 cm is:",
+      "options": [
+        "36π cm³",
+        "108π cm³",
+        "12π cm³",
+        "27π cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(4/3)π r³ = (4/3)π · 27 = 36π."
+    },
+    {
+      "qid": 36,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "The mean of first n natural numbers is:",
+      "options": [
+        "(n+1)/2",
+        "n/2",
+        "(n−1)/2",
+        "n(n+1)/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = n(n+1)/2; mean = (n+1)/2."
+    },
+    {
+      "qid": 37,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If mean of 5 observations is 12, their sum is:",
+      "options": [
+        "60",
+        "12",
+        "17",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = 5 × 12 = 60."
+    },
+    {
+      "qid": 38,
+      "subject": "Mathematics",
+      "chapter": "Sequence",
+      "question": "The 8th term of the GP 3, 6, 12, … is:",
+      "options": [
+        "384",
+        "192",
+        "256",
+        "768"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a = 3, r = 2; T_8 = 3 · 2⁷ = 3 · 128 = 384."
+    },
+    {
+      "qid": 39,
+      "subject": "Mathematics",
+      "chapter": "Binomial Theorem",
+      "question": "The constant term in (x² + 1/x)^6 is:",
+      "options": [
+        "15",
+        "20",
+        "6",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Exponent 12 − 3r = 0 ⇒ r = 4. C(6,4) = 15."
+    },
+    {
+      "qid": 40,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "The centroid of the triangle with vertices (1,2), (3,4), (5,0) is:",
+      "options": [
+        "(3, 2)",
+        "(3, 3)",
+        "(9, 6)",
+        "(2, 2)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "((1+3+5)/3, (2+4+0)/3) = (3, 2)."
+    },
+    {
+      "qid": 41,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: The committee / have decided / to postpone / the meeting.",
+      "options": [
+        "have decided",
+        "The committee",
+        "to postpone",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Collective noun 'committee' takes singular verb 'has decided' when acting as one body."
+    },
+    {
+      "qid": 42,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: Neither of the two boys / were present / in the class / yesterday.",
+      "options": [
+        "were present",
+        "Neither of the two boys",
+        "in the class",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Neither' is singular; use 'was present'."
+    },
+    {
+      "qid": 43,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: He is senior / than me / by five years / in service.",
+      "options": [
+        "than me",
+        "He is senior",
+        "by five years",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior takes 'to', not 'than'."
+    },
+    {
+      "qid": 44,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part with error: One of my friend / has gone / to London / last week.",
+      "options": [
+        "One of my friend",
+        "has gone",
+        "to London",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Should be 'one of my friends' (plural after 'one of')."
+    },
+    {
+      "qid": 45,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "He is accustomed _____ hard work.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "by"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Accustomed to + noun/gerund."
+    },
+    {
+      "qid": 46,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The officer was _____ of his duties.",
+      "options": [
+        "relieved",
+        "released",
+        "relinquished",
+        "retrieved"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Idiomatic: relieved of duties."
+    },
+    {
+      "qid": 47,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "She takes pride _____ her work.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pride in + noun."
+    },
+    {
+      "qid": 48,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of ABROGATE:",
+      "options": [
+        "Repeal",
+        "Enact",
+        "Confirm",
+        "Establish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abrogate means to repeal or abolish formally."
+    },
+    {
+      "qid": 49,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of LACONIC:",
+      "options": [
+        "Brief",
+        "Verbose",
+        "Loud",
+        "Confused"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Laconic means using few words; terse."
+    },
+    {
+      "qid": 50,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of OSTENSIBLE:",
+      "options": [
+        "Apparent",
+        "Hidden",
+        "Genuine",
+        "Secret"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ostensible means stated or appearing to be true."
+    },
+    {
+      "qid": 51,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of BENIGN:",
+      "options": [
+        "Malignant",
+        "Kind",
+        "Gentle",
+        "Mild"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Benign (harmless/kind) vs malignant."
+    },
+    {
+      "qid": 52,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of PAUCITY:",
+      "options": [
+        "Abundance",
+        "Scarcity",
+        "Lack",
+        "Dearth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paucity means scarcity; opposite is abundance."
+    },
+    {
+      "qid": 53,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of GREGARIOUS:",
+      "options": [
+        "Aloof",
+        "Sociable",
+        "Friendly",
+        "Outgoing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gregarious means fond of company; aloof is withdrawn."
+    },
+    {
+      "qid": 54,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'To bury the hatchet' means:",
+      "options": [
+        "To make peace",
+        "To hide a weapon",
+        "To dig a grave",
+        "To start a quarrel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Idiom for ending a quarrel."
+    },
+    {
+      "qid": 55,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'A storm in a teacup' means:",
+      "options": [
+        "Great fuss over a trivial matter",
+        "A sudden rain",
+        "A tea party",
+        "A naval battle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Excessive agitation about something unimportant."
+    },
+    {
+      "qid": 56,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'To hit the nail on the head' means:",
+      "options": [
+        "To be exactly right",
+        "To injure someone",
+        "To do carpentry",
+        "To miss the point"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To describe something with complete accuracy."
+    },
+    {
+      "qid": 57,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'Once in a blue moon' means:",
+      "options": [
+        "Very rarely",
+        "Very often",
+        "At night",
+        "During festivals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An event that happens seldom."
+    },
+    {
+      "qid": 58,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves mankind is a:",
+      "options": [
+        "Philanthropist",
+        "Misanthrope",
+        "Pessimist",
+        "Egoist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Philanthropist = lover of humanity."
+    },
+    {
+      "qid": 59,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A speech delivered without preparation is:",
+      "options": [
+        "Extempore",
+        "Eulogy",
+        "Soliloquy",
+        "Rhetoric"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore / impromptu speech."
+    },
+    {
+      "qid": 60,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "Government by the wealthy is called:",
+      "options": [
+        "Plutocracy",
+        "Autocracy",
+        "Theocracy",
+        "Bureaucracy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plutocracy is rule by the rich."
+    },
+    {
+      "qid": 61,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is enough tall to touch the ceiling. Improvement:",
+      "options": [
+        "tall enough",
+        "enough height",
+        "too enough tall",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Enough' follows the adjective: tall enough."
+    },
+    {
+      "qid": 62,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "If I was you, I would resign. Improvement:",
+      "options": [
+        "If I were you",
+        "If I am you",
+        "If I had been you",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subjunctive: If I were you."
+    },
+    {
+      "qid": 63,
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: They will finish the work tomorrow.",
+      "options": [
+        "The work will be finished by them tomorrow.",
+        "The work would be finished tomorrow.",
+        "The work is finished by them.",
+        "The work was finished tomorrow."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future simple passive: will be + V3."
+    },
+    {
+      "qid": 64,
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to active: The letter was written by Sita.",
+      "options": [
+        "Sita wrote the letter.",
+        "Sita writes the letter.",
+        "Sita has written the letter.",
+        "Sita is writing the letter."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past simple active of was written."
+    },
+    {
+      "qid": 65,
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am going to Delhi.' Indirect:",
+      "options": [
+        "He said that he was going to Delhi.",
+        "He said that he is going to Delhi.",
+        "He said that I was going to Delhi.",
+        "He told that he went to Delhi."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous → past continuous; pronoun changes to he."
+    },
+    {
+      "qid": 66,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject."
+    },
+    {
+      "qid": 67,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "The book is _____ the table.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "over"
+      ],
+      "correctAnswer": 1,
+      "explanation": "On the surface of the table."
+    },
+    {
+      "qid": 68,
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "Choose the best word: The soldier showed great _____ in battle.",
+      "options": [
+        "valour",
+        "value",
+        "valve",
+        "valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Valour means courage in war."
+    },
+    {
+      "qid": 69,
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "'The early bird catches the worm' implies:",
+      "options": [
+        "Promptness brings advantage",
+        "Birds eat worms",
+        "Morning is for birds",
+        "Worms are scarce"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Those who act early succeed."
+    },
+    {
+      "qid": 70,
+      "subject": "English",
+      "chapter": "Ordering of Words",
+      "question": "Arrange: (P) to succeed (Q) hard work (R) is essential (S) in life",
+      "options": [
+        "Q R P S",
+        "Q P R S",
+        "P Q R S",
+        "R Q P S"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hard work is essential to succeed in life. → Q R P S."
+    },
+    {
+      "qid": 71,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah in 1757."
+    },
+    {
+      "qid": 72,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta Maurya, with Chanakya, founded the empire c. 321 BCE."
+    },
+    {
+      "qid": 73,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The first session of the Indian National Congress was held in:",
+      "options": [
+        "1885",
+        "1905",
+        "1919",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bombay, December 1885, President W.C. Bonnerjee."
+    },
+    {
+      "qid": 74,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement, 1942."
+    },
+    {
+      "qid": 75,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The President of India is elected by:",
+      "options": [
+        "An electoral college",
+        "The Lok Sabha only",
+        "Universal adult franchise",
+        "The Rajya Sabha only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electoral college of elected MPs and MLAs (Art. 54)."
+    },
+    {
+      "qid": 76,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Which Article deals with the amendment of the Constitution?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 370",
+        "Article 32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 provides the amending procedure."
+    },
+    {
+      "qid": 77,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The minimum age for a Rajya Sabha member is:",
+      "options": [
+        "30 years",
+        "25 years",
+        "35 years",
+        "21 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 84: 30 for Rajya Sabha, 25 for Lok Sabha."
+    },
+    {
+      "qid": 78,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Fundamental Duties were added by which Amendment?",
+      "options": [
+        "42nd",
+        "44th",
+        "52nd",
+        "73rd"
+      ],
+      "correctAnswer": 1,
+      "explanation": "42nd Amendment, 1976, on Swaran Singh Committee recommendations."
+    },
+    {
+      "qid": 79,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer does NOT pass through:",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It passes through 8 states; Odisha is not one of them."
+    },
+    {
+      "qid": 80,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The longest river in India is:",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river flowing in India."
+    },
+    {
+      "qid": 81,
+      "subject": "General Knowledge",
+      "chapter": "Indian Geography",
+      "question": "Which is the highest peak in India?",
+      "options": [
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Mount Everest",
+        "K2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga (8598 m) is the highest peak entirely in India."
+    },
+    {
+      "qid": 82,
+      "subject": "General Knowledge",
+      "chapter": "World Geography",
+      "question": "The Suez Canal connects:",
+      "options": [
+        "Mediterranean Sea and Red Sea",
+        "Red Sea and Arabian Sea",
+        "Atlantic and Pacific",
+        "Black Sea and Mediterranean"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Suez links Mediterranean to Red Sea."
+    },
+    {
+      "qid": 83,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The chemical formula of washing soda is:",
+      "options": [
+        "Na₂CO₃·10H₂O",
+        "NaHCO₃",
+        "NaOH",
+        "NaCl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Washing soda is sodium carbonate decahydrate."
+    },
+    {
+      "qid": 84,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "SI unit of electric current is:",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ampere is the SI base unit of current."
+    },
+    {
+      "qid": 85,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which vitamin is synthesised in the human skin by sunlight?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UV converts 7-dehydrocholesterol to vitamin D₃."
+    },
+    {
+      "qid": 86,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The powerhouse of the cell is the:",
+      "options": [
+        "Mitochondrion",
+        "Nucleus",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria produce ATP."
+    },
+    {
+      "qid": 87,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "pH of a neutral solution at 25°C is:",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutral water has pH 7 at 25°C."
+    },
+    {
+      "qid": 88,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Newton’s third law states that:",
+      "options": [
+        "Every action has an equal and opposite reaction",
+        "F = ma",
+        "Objects remain at rest unless acted upon",
+        "Energy is conserved"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Action–reaction pairs."
+    },
+    {
+      "qid": 89,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The highest wartime gallantry award of India is:",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Maha Vir Chakra",
+        "Kirti Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Param Vir Chakra is the highest wartime decoration."
+    },
+    {
+      "qid": 90,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "INS Vikrant is a:",
+      "options": [
+        "Aircraft carrier",
+        "Submarine",
+        "Destroyer",
+        "Frigate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indigenous aircraft carrier of the Indian Navy."
+    },
+    {
+      "qid": 91,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The Indian Air Force was founded in:",
+      "options": [
+        "1932",
+        "1947",
+        "1950",
+        "1911"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8 October 1932 as Royal Indian Air Force."
+    },
+    {
+      "qid": 92,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Headquarters of the Indian Army is at:",
+      "options": [
+        "New Delhi",
+        "Pune",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrated HQ of MoD (Army), New Delhi."
+    },
+    {
+      "qid": 93,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "The Reserve Bank of India was established in:",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RBI started operations on 1 April 1935."
+    },
+    {
+      "qid": 94,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from:",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "1 July 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST launched on 1 July 2017."
+    },
+    {
+      "qid": 95,
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "G20 Presidency of India was in the year:",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India held the G20 Presidency in 2023; summit in New Delhi."
+    },
+    {
+      "qid": 96,
+      "subject": "General Knowledge",
+      "chapter": "World History",
+      "question": "The French Revolution began in:",
+      "options": [
+        "1789",
+        "1776",
+        "1815",
+        "1848"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Storming of the Bastille, 14 July 1789."
+    },
+    {
+      "qid": 97,
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "The first Indian to receive the Nobel Prize was:",
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tagore, Nobel Prize in Literature, 1913."
+    },
+    {
+      "qid": 98,
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "The term 'LBW' is associated with:",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leg Before Wicket in cricket."
+    },
+    {
+      "qid": 99,
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "The Kyoto Protocol is related to:",
+      "options": [
+        "Climate change",
+        "Ozone hole only",
+        "Wetlands",
+        "Desertification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kyoto Protocol (1997) set binding GHG emission targets."
+    },
+    {
+      "qid": 100,
+      "subject": "General Knowledge",
+      "chapter": "Indian Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Kosi",
+        "Gandak",
+        "Son",
+        "Ghaghara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kosi’s frequent course changes and floods earned this name."
+    }
+  ]
+}
