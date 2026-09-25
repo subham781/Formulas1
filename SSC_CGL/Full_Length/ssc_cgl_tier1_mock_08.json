@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_cgl_tier1_mock_08",
+  "exam": "SSC CGL",
+  "testType": "fullLength",
+  "title": "SSC CGL Tier-1 Full Mock Test 08 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CGL Tier-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.",
+    "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CGL Tier-1 latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "CGL801",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Needle : Stitch :: Pen : ?",
+      "options": [
+        "Write",
+        "Ink",
+        "Paper",
+        "Nib"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Needle is used to stitch; pen is used to write."
+    },
+    {
+      "qid": "CGL802",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Court : Justice :: Hospital : ?",
+      "options": [
+        "Doctor",
+        "Treatment",
+        "Patient",
+        "Medicine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Court is associated with justice; hospital with treatment."
+    },
+    {
+      "qid": "CGL803",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next term: 7, 15, 31, 63, 127, ?",
+      "options": [
+        "255",
+        "253",
+        "256",
+        "254"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each term is previous×2 +1: 127×2+1=255."
+    },
+    {
+      "qid": "CGL804",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "2, 6, 12, 20, 30, 42, ?",
+      "options": [
+        "56",
+        "54",
+        "58",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Differences +4,+6,+8,+10,+12,+14 → 42+14=56."
+    },
+    {
+      "qid": "CGL805",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If BRAIN is coded as CSBJO, how is HEART coded?",
+      "options": [
+        "IFBSU",
+        "IFBTU",
+        "IDBSU",
+        "IFASU"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: H→I, E→F, A→B, R→S, T→U."
+    },
+    {
+      "qid": "CGL806",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a code, MANGO is written as NZOHP. How is APPLE written?",
+      "options": [
+        "BQQMF",
+        "BQQME",
+        "AQQLF",
+        "BPPMF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: A→B, P→Q, P→Q, L→M, E→F."
+    },
+    {
+      "qid": "CGL807",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a photograph, Ravi said, 'She is the daughter of my grandfather's only son.' How is the girl related to Ravi?",
+      "options": [
+        "Sister",
+        "Mother",
+        "Cousin",
+        "Aunt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Grandfather's only son is Ravi's father; his daughter is Ravi's sister."
+    },
+    {
+      "qid": "CGL808",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Sister",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is A's maternal grandfather, so A is D's granddaughter."
+    },
+    {
+      "qid": "CGL809",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 10 m north, then 6 m east, then 10 m south. How far is he from the start?",
+      "options": [
+        "6 m",
+        "10 m",
+        "16 m",
+        "4 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "North and south cancel; remaining 6 m east."
+    },
+    {
+      "qid": "CGL810",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "From point P, Q is 8 km east. From Q, R is 6 km north. Distance PR is:",
+      "options": [
+        "10 km",
+        "14 km",
+        "7 km",
+        "12 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right triangle 8-6-10."
+    },
+    {
+      "qid": "CGL811",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All books are papers. Some papers are pens. Conclusions: I. Some books are pens. II. Some pens are papers.",
+      "options": [
+        "Only II follows",
+        "Only I follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "I does not necessarily follow; II follows from 'some papers are pens'."
+    },
+    {
+      "qid": "CGL812",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All cats are animals. All animals are living. Conclusions: I. All cats are living. II. Some living are cats.",
+      "options": [
+        "Both follow",
+        "Only I",
+        "Only II",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both conclusions follow from the chain."
+    },
+    {
+      "qid": "CGL813",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: Triangle, Square, Rectangle, Circle",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Circle has no sides; others are polygons."
+    },
+    {
+      "qid": "CGL814",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: Mercury, Venus, Mars, Moon",
+      "options": [
+        "Moon",
+        "Mars",
+        "Venus",
+        "Mercury"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moon is a satellite, others are planets."
+    },
+    {
+      "qid": "CGL815",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A,B,C,D,E sit in a row. A is to the left of B but right of C. D is to the right of B. E is between B and D. Who is in the middle?",
+      "options": [
+        "B",
+        "E",
+        "A",
+        "D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Order: C A B E D. Middle is B."
+    },
+    {
+      "qid": "CGL816",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "If the 15th of a month is Thursday, what day is the 3rd of the same month?",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Friday",
+        "Monday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3rd is 12 days before 15th. 12 = 1 week + 5 days, so Thursday minus 5 = Saturday."
+    },
+    {
+      "qid": "CGL817",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which diagram best represents: Doctors, Women, Mothers?",
+      "options": [
+        "Intersecting circles",
+        "Three disjoint circles",
+        "Doctors ⊂ Women",
+        "Mothers ⊂ Doctors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women, doctors and mothers overlap partially; intersecting circles best represent the relation."
+    },
+    {
+      "qid": "CGL818",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If a clock shows 3:45, the mirror image time is closest to:",
+      "options": [
+        "8:15",
+        "9:15",
+        "8:45",
+        "3:15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror of h:m is 11:60 minus time → 11:60-3:45=8:15."
+    },
+    {
+      "qid": "CGL819",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A square paper is folded once along the diagonal and a hole is punched at the centre of the folded triangle. How many holes when unfolded?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One fold along diagonal yields 2 layers; one punch gives 2 holes."
+    },
+    {
+      "qid": "CGL820",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, Ravi is 11th from the left and Seema is 31st from the right. How many students are between them?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Impossible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ravi position 11; Seema from left = 40-31+1=10. Seema is 10th, Ravi 11th, so no one between if order left-to-right Seema then Ravi. Between = 0."
+    },
+    {
+      "qid": "CGL821",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 1 January 2024 was Monday, what day was 1 March 2024?",
+      "options": [
+        "Friday",
+        "Thursday",
+        "Saturday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jan 31 days + Feb 29 (leap) = 60 days = 8 weeks +4 → Monday+4=Friday."
+    },
+    {
+      "qid": "CGL822",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: All that glitters is not gold. Conclusion: I. Gold does not glitter. II. Some glittering things are not gold.",
+      "options": [
+        "Only II follows",
+        "Only I",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The proverb means some glittering things are not gold."
+    },
+    {
+      "qid": "CGL823",
+      "subject": "Reasoning",
+      "chapter": "Number Analogy",
+      "question": "14 : 225 :: 16 : ?",
+      "options": [
+        "289",
+        "256",
+        "324",
+        "272"
+      ],
+      "correctAnswer": 1,
+      "explanation": "14:(15)² = 225, so 16:(17)² = 289."
+    },
+    {
+      "qid": "CGL824",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "BDF, CFI, DHL, ?",
+      "options": [
+        "EJO",
+        "EJP",
+        "EIN",
+        "EIO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First +1, second +2,+3 pattern: B C D E; D F H J; F I L O → EJO."
+    },
+    {
+      "qid": "CGL825",
+      "subject": "Reasoning",
+      "chapter": "Embedded Figure",
+      "question": "A cube painted on all faces is cut into 64 small cubes. How many small cubes have exactly two faces painted?",
+      "options": [
+        "24",
+        "16",
+        "32",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4×4×4 cube; edges except corners: 12 edges × 2 = 24."
+    },
+    {
+      "qid": "CGL826",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey, 23 June 1757, between British and Siraj-ud-Daulah."
+    },
+    {
+      "qid": "CGL827",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who founded the Slave Dynasty in India?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Alauddin Khilji"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Qutb-ud-din Aibak founded the Mamluk/Slave Dynasty in 1206."
+    },
+    {
+      "qid": "CGL828",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution deals with the amendment procedure?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 32",
+        "Article 370"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 368 provides the power and procedure to amend the Constitution."
+    },
+    {
+      "qid": "CGL829",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The idea of the Concurrent List in the Indian Constitution is borrowed from:",
+      "options": [
+        "Australia",
+        "USA",
+        "Canada",
+        "Ireland"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Concurrent List is taken from the Australian Constitution."
+    },
+    {
+      "qid": "CGL830",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river entirely flowing in India?",
+      "options": [
+        "Godavari",
+        "Ganga",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga originates in India but also flows through Bangladesh; Godavari is the longest river wholly in India."
+    },
+    {
+      "qid": "CGL831",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer does NOT pass through which Indian state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tropic of Cancer passes through Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram — not Odisha."
+    },
+    {
+      "qid": "CGL832",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Who is called the Father of Indian Green Revolution?",
+      "options": [
+        "M.S. Swaminathan",
+        "Norman Borlaug",
+        "Verghese Kurien",
+        "C. Subramaniam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "M.S. Swaminathan is regarded as the Father of the Green Revolution in India."
+    },
+    {
+      "qid": "CGL833",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Repo rate is the rate at which:",
+      "options": [
+        "RBI lends to commercial banks",
+        "Banks lend to RBI",
+        "Banks lend to public",
+        "Government borrows from RBI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo is the rate at which RBI lends short-term funds to banks against securities."
+    },
+    {
+      "qid": "CGL834",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The SI unit of electric charge is:",
+      "options": [
+        "Coulomb",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electric charge is measured in coulomb (C)."
+    },
+    {
+      "qid": "CGL835",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which gas is mainly responsible for the greenhouse effect on Earth?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CO2 is the principal long-lived greenhouse gas from human activity."
+    },
+    {
+      "qid": "CGL836",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Vitamin D deficiency causes:",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Night blindness"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rickets in children is due to Vitamin D deficiency."
+    },
+    {
+      "qid": "CGL837",
+      "subject": "General Awareness",
+      "chapter": "Static GK",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "S. Radhakrishnan",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jawaharlal Nehru wrote The Discovery of India during imprisonment (1942–46)."
+    },
+    {
+      "qid": "CGL838",
+      "subject": "General Awareness",
+      "chapter": "Static GK",
+      "question": "The headquarters of ISRO is located at:",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Sriharikota",
+        "Thiruvananthapuram"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ISRO headquarters is in Bengaluru."
+    },
+    {
+      "qid": "CGL839",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "G20 Presidency of India was held in which year?",
+      "options": [
+        "2023",
+        "2022",
+        "2024",
+        "2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India held the G20 Presidency in 2023; summit in New Delhi."
+    },
+    {
+      "qid": "CGL840",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "The first Indian to win a Nobel Prize was:",
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tagore won Nobel Prize in Literature in 1913."
+    },
+    {
+      "qid": "CGL841",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "The term 'LBW' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leg Before Wicket is a mode of dismissal in cricket."
+    },
+    {
+      "qid": "CGL842",
+      "subject": "General Awareness",
+      "chapter": "Culture",
+      "question": "Bihu is the folk dance of which state?",
+      "options": [
+        "Assam",
+        "Punjab",
+        "Gujarat",
+        "Odisha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bihu is the traditional dance and festival of Assam."
+    },
+    {
+      "qid": "CGL843",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "The Chipko Movement was related to:",
+      "options": [
+        "Forest conservation",
+        "Anti-dam protest",
+        "Water conservation",
+        "Wildlife hunting ban"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chipko (1970s, Uttarakhand) involved hugging trees to prevent felling."
+    },
+    {
+      "qid": "CGL844",
+      "subject": "General Awareness",
+      "chapter": "Ancient History",
+      "question": "The capital of the Mauryan Empire was:",
+      "options": [
+        "Pataliputra",
+        "Taxila",
+        "Ujjain",
+        "Kannauj"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pataliputra (modern Patna) was the Mauryan capital."
+    },
+    {
+      "qid": "CGL845",
+      "subject": "General Awareness",
+      "chapter": "Medieval History",
+      "question": "Who built the Qutub Minar?",
+      "options": [
+        "Started by Qutb-ud-din Aibak, completed by Iltutmish",
+        "Alauddin Khilji",
+        "Firoz Shah Tughlaq",
+        "Babur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aibak started Qutub Minar; Iltutmish completed it."
+    },
+    {
+      "qid": "CGL846",
+      "subject": "General Awareness",
+      "chapter": "Modern History",
+      "question": "The Jallianwala Bagh massacre took place in:",
+      "options": [
+        "1919",
+        "1920",
+        "1918",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "explanation": "13 April 1919 at Amritsar."
+    },
+    {
+      "qid": "CGL847",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "How many Fundamental Duties are there in the Indian Constitution at present?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Originally 10; 11th added by 86th Amendment (education of children)."
+    },
+    {
+      "qid": "CGL848",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which planet is known as the Morning Star?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Venus appears bright near sunrise/sunset and is called Morning/Evening Star."
+    },
+    {
+      "qid": "CGL849",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "pH of a neutral solution at 25°C is:",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutral water has pH 7 at 25°C."
+    },
+    {
+      "qid": "CGL850",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from:",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "1 July 2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "CGL851",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If a number is increased by 20% and then decreased by 20%, the net change is:",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net factor 1.2×0.8=0.96 → 4% decrease."
+    },
+    {
+      "qid": "CGL852",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit-Loss",
+      "question": "A shopkeeper marks 40% above cost and allows 10% discount. Profit % is:",
+      "options": [
+        "26%",
+        "30%",
+        "28%",
+        "24%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP=1.4C×0.9=1.26C → 26% profit."
+    },
+    {
+      "qid": "CGL853",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "If A:B = 3:4 and B:C = 5:6, then A:C is:",
+      "options": [
+        "5:8",
+        "3:6",
+        "15:24",
+        "5:6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B=3:4=15:20; B:C=5:6=20:24 → A:C=15:24=5:8."
+    },
+    {
+      "qid": "CGL854",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 20. If one number 15 is replaced by 30, new average is:",
+      "options": [
+        "23",
+        "22",
+        "25",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Increase of 15 over 5 numbers → average +3 = 23."
+    },
+    {
+      "qid": "CGL855",
+      "subject": "Quantitative Aptitude",
+      "chapter": "SI-CI",
+      "question": "SI on a sum for 2 years at 10% p.a. is Rs 400. CI for same period and rate is:",
+      "options": [
+        "Rs 420",
+        "Rs 440",
+        "Rs 410",
+        "Rs 400"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P=400×100/(10×2)=2000; CI=2000[(1.1)²-1]=420."
+    },
+    {
+      "qid": "CGL856",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 12 days, B in 18 days. Together they finish in:",
+      "options": [
+        "7.2 days",
+        "15 days",
+        "6 days",
+        "8 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/12+1/18=5/36 → 36/5=7.2 days."
+    },
+    {
+      "qid": "CGL857",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time-Speed",
+      "question": "A train 180 m long crosses a pole in 12 seconds. Speed in km/h is:",
+      "options": [
+        "54",
+        "45",
+        "60",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed=180/12=15 m/s=15×18/5=54 km/h."
+    },
+    {
+      "qid": "CGL858",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Pipes",
+      "question": "A pipe fills a tank in 6 hours, another empties in 8 hours. If both open, time to fill is:",
+      "options": [
+        "24 hours",
+        "14 hours",
+        "7 hours",
+        "48 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6-1/8=1/24 → 24 hours."
+    },
+    {
+      "qid": "CGL859",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x² + 1/x² = ?",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)²=9=x²+2+1/x² → x²+1/x²=7."
+    },
+    {
+      "qid": "CGL860",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "Roots of x² - 5x + 6 = 0 are:",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "-2 and -3",
+        "3 and 5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x-2)(x-3)=0."
+    },
+    {
+      "qid": "CGL861",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "The diagonal of a square of side 8 cm is:",
+      "options": [
+        "8√2 cm",
+        "16 cm",
+        "8 cm",
+        "4√2 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diagonal = a√2 = 8√2 cm."
+    },
+    {
+      "qid": "CGL862",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of edge 5 cm is:",
+      "options": [
+        "125 cm³",
+        "25 cm³",
+        "100 cm³",
+        "150 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a³=125."
+    },
+    {
+      "qid": "CGL863",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "sin 30° + cos 60° = ?",
+      "options": [
+        "1",
+        "0",
+        "√3",
+        "1/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/2 + 1/2 = 1."
+    },
+    {
+      "qid": "CGL864",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "If tan θ = 1, θ in first quadrant is:",
+      "options": [
+        "45°",
+        "30°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tan 45° = 1."
+    },
+    {
+      "qid": "CGL865",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "The HCF of 36 and 60 is:",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "36=2²×3², 60=2²×3×5 → HCF=2²×3=12."
+    },
+    {
+      "qid": "CGL866",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "LCM of 12, 18 and 24 is:",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "96"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM=2³×3²=72."
+    },
+    {
+      "qid": "CGL867",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simplification",
+      "question": "√1764 = ?",
+      "options": [
+        "42",
+        "44",
+        "38",
+        "48"
+      ],
+      "correctAnswer": 1,
+      "explanation": "42×42=1764."
+    },
+    {
+      "qid": "CGL868",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Partnership",
+      "question": "A invests 8000 for 12 months, B invests 6000 for 8 months. Profit share A:B is:",
+      "options": [
+        "2:1",
+        "4:3",
+        "3:2",
+        "8:6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ratio of capitals×time = 8000×12 : 6000×8 = 96000:48000=2:1."
+    },
+    {
+      "qid": "CGL869",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mixture",
+      "question": "In 40 litres of mixture, milk:water = 3:1. Water to be added to make 2:1 is:",
+      "options": [
+        "5 litres",
+        "10 litres",
+        "8 litres",
+        "12 litres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milk=30 L, water=10 L. For 2:1, water=15 L; add 5 L."
+    },
+    {
+      "qid": "CGL870",
+      "subject": "Quantitative Aptitude",
+      "chapter": "CI",
+      "question": "The compound interest on Rs 5000 at 10% p.a. for 2 years is:",
+      "options": [
+        "Rs 1050",
+        "Rs 1000",
+        "Rs 1100",
+        "Rs 950"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5000×(1.21-1)=1050."
+    },
+    {
+      "qid": "CGL871",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "30% of a number is 90. The number is:",
+      "options": [
+        "300",
+        "270",
+        "330",
+        "180"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x=90/0.3=300."
+    },
+    {
+      "qid": "CGL872",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time-Speed",
+      "question": "A man covers 120 km at 40 km/h and returns at 60 km/h. Average speed is:",
+      "options": [
+        "48 km/h",
+        "50 km/h",
+        "45 km/h",
+        "52 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Harmonic mean 2ab/(a+b)=2×40×60/100=48."
+    },
+    {
+      "qid": "CGL873",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "Area of a circle with radius 7 cm is (take π=22/7):",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "164 cm²",
+        "148 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr²=22/7×49=154."
+    },
+    {
+      "qid": "CGL874",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Data Interpretation",
+      "question": "If the mean of 10 observations is 15 and one observation 10 is wrongly taken as 20, correct mean is:",
+      "options": [
+        "14",
+        "13",
+        "16",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total was 150; correct total 140; mean=14."
+    },
+    {
+      "qid": "CGL875",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ages",
+      "question": "Father is 3 times as old as son. After 12 years he will be twice. Present age of son is:",
+      "options": [
+        "12 years",
+        "10 years",
+        "15 years",
+        "18 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3x+12=2(x+12) → 3x+12=2x+24 → x=12."
+    },
+    {
+      "qid": "CGL876",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of ABANDON:",
+      "options": [
+        "Forsake",
+        "Adopt",
+        "Retain",
+        "Continue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abandon means to leave/forsake."
+    },
+    {
+      "qid": "CGL877",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of BRIEF:",
+      "options": [
+        "Concise",
+        "Lengthy",
+        "Detailed",
+        "Endless"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brief means short or concise."
+    },
+    {
+      "qid": "CGL878",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of GENEROUS:",
+      "options": [
+        "Stingy",
+        "Kind",
+        "Noble",
+        "Helpful"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Generous opposite is stingy/miserly."
+    },
+    {
+      "qid": "CGL879",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of EXPAND:",
+      "options": [
+        "Contract",
+        "Enlarge",
+        "Increase",
+        "Spread"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Expand opposite is contract/shrink."
+    },
+    {
+      "qid": "CGL880",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Bite the bullet' means:",
+      "options": [
+        "Endure a painful situation",
+        "Shoot someone",
+        "Eat quickly",
+        "Avoid danger"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means to face a difficult situation with courage."
+    },
+    {
+      "qid": "CGL881",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Spill the beans' means:",
+      "options": [
+        "Reveal a secret",
+        "Waste food",
+        "Cook badly",
+        "Tell a joke"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To disclose confidential information."
+    },
+    {
+      "qid": "CGL882",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part with error: The committee / have decided / to postpone / the meeting.",
+      "options": [
+        "have decided",
+        "The committee",
+        "to postpone",
+        "the meeting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Committee is collective singular here → has decided."
+    },
+    {
+      "qid": "CGL883",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Neither of the two boys / were present / in the class / yesterday.",
+      "options": [
+        "were present",
+        "Neither of the two boys",
+        "in the class",
+        "yesterday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither takes singular verb: was present."
+    },
+    {
+      "qid": "CGL884",
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "He is senior ___ me by two years.",
+      "options": [
+        "to",
+        "than",
+        "from",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior/junior/prefer take 'to', not 'than'."
+    },
+    {
+      "qid": "CGL885",
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "She has been living here ___ 2018.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Point of time → since."
+    },
+    {
+      "qid": "CGL886",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves books:",
+      "options": [
+        "Bibliophile",
+        "Philatelist",
+        "Omnivore",
+        "Calligrapher"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a book lover."
+    },
+    {
+      "qid": "CGL887",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A speech made without preparation:",
+      "options": [
+        "Extempore",
+        "Dialogue",
+        "Monologue",
+        "Oration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore/impromptu speech."
+    },
+    {
+      "qid": "CGL888",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: They will complete the work tomorrow.",
+      "options": [
+        "The work will be completed by them tomorrow.",
+        "The work is completed by them tomorrow.",
+        "The work was completed by them tomorrow.",
+        "The work has been completed by them tomorrow."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future simple passive: will be + V3."
+    },
+    {
+      "qid": "CGL889",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am unwell.' Indirect form:",
+      "options": [
+        "He said that he was unwell.",
+        "He said that I am unwell.",
+        "He said that he is unwell.",
+        "He told that he was unwell."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present becomes past in indirect speech."
+    },
+    {
+      "qid": "CGL890",
+      "subject": "English",
+      "chapter": "Cloze",
+      "question": "Choose the correct article: He is ___ honest man.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Honest begins with a vowel sound."
+    },
+    {
+      "qid": "CGL891",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Embarrass",
+        "Embarass",
+        "Embarras",
+        "Embaras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct spelling is embarrass."
+    },
+    {
+      "qid": "CGL892",
+      "subject": "English",
+      "chapter": "Para Jumble",
+      "question": "Arrange: P: it rained heavily Q: the match was cancelled R: because S: last night",
+      "options": [
+        "QRPS",
+        "PQRS",
+        "SPQR",
+        "RQPS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The match was cancelled because it rained heavily last night → Q R P S."
+    },
+    {
+      "qid": "CGL893",
+      "subject": "English",
+      "chapter": "Reading Comprehension",
+      "question": "Tone of a passage that criticises government policy is usually:",
+      "options": [
+        "Critical",
+        "Humorous",
+        "Narrative",
+        "Nostalgic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Criticism implies a critical tone."
+    },
+    {
+      "qid": "CGL894",
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "The book is ___ the table.",
+      "options": [
+        "on",
+        "in",
+        "over",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "On the table is standard."
+    },
+    {
+      "qid": "CGL895",
+      "subject": "English",
+      "chapter": "Conjunction",
+      "question": "Work hard ___ you should fail.",
+      "options": [
+        "lest",
+        "unless",
+        "otherwise",
+        "but"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lest is followed by should."
+    },
+    {
+      "qid": "CGL896",
+      "subject": "English",
+      "chapter": "Phrase Replacement",
+      "question": "'In a nutshell' can be replaced by:",
+      "options": [
+        "In brief",
+        "In detail",
+        "In secret",
+        "In parts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a nutshell means briefly."
+    },
+    {
+      "qid": "CGL897",
+      "subject": "English",
+      "chapter": "Adjective",
+      "question": "The comparative of 'good' is:",
+      "options": [
+        "better",
+        "gooder",
+        "best",
+        "well"
+      ],
+      "correctAnswer": 1,
+      "explanation": "good-better-best."
+    },
+    {
+      "qid": "CGL898",
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "By next year she ___ her degree.",
+      "options": [
+        "will have completed",
+        "completed",
+        "has completed",
+        "completes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect for action finished by a future time."
+    },
+    {
+      "qid": "CGL899",
+      "subject": "English",
+      "chapter": "Vocab",
+      "question": "Meaning of 'Inevitable':",
+      "options": [
+        "Certain to happen",
+        "Avoidable",
+        "Doubtful",
+        "Rare"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inevitable means unavoidable."
+    },
+    {
+      "qid": "CGL900",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He suggested me to wait. Improved:",
+      "options": [
+        "He suggested that I should wait.",
+        "He suggested me wait.",
+        "He suggested to me wait.",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Suggest is not followed by object + to-infinitive; use that-clause."
+    }
+  ]
+}

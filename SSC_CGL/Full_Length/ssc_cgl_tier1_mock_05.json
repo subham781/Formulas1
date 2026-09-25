@@ -1,0 +1,1420 @@
+{
+  "testId": "ssc_cgl_tier1_mock_05",
+  "exam": "SSC CGL",
+  "testType": "fullLength",
+  "title": "SSC CGL Tier-1 Full Mock Test 05 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CGL Tier-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.",
+    "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CGL Tier-1 latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "CGL501",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book : Library :: Painting : ?",
+      "options": [
+        "Gallery",
+        "Studio",
+        "Museum",
+        "Frame"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Books are kept/displayed in a library; paintings are displayed in a gallery."
+    },
+    {
+      "qid": "CGL502",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Odometer : Speed :: Thermometer : ?",
+      "options": [
+        "Heat",
+        "Temperature",
+        "Energy",
+        "Climate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Odometer measures distance/speed related travel; thermometer measures temperature."
+    },
+    {
+      "qid": "CGL503",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing term: 3, 8, 15, 24, 35, ?",
+      "options": [
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Differences: +5,+7,+9,+11,+13 → 35+13=48."
+    },
+    {
+      "qid": "CGL504",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "48"
+      ],
+      "correctAnswer": 2,
+      "explanation": "n(n+1): 1×2,2×3,3×4,4×5,5×6,6×7=42."
+    },
+    {
+      "qid": "CGL505",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If PAPER is coded as QBQFS, how is PENCIL coded?",
+      "options": [
+        "QFODJM",
+        "QFOCJM",
+        "QFODJN",
+        "QEODJM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: P→Q,E→F,N→O,C→D,I→J,L→M → QFODJM."
+    },
+    {
+      "qid": "CGL506",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a certain code, 'SMART' is written as 'UQCTV'. How is 'BRAVE' written?",
+      "options": [
+        "DTCXG",
+        "DTBXG",
+        "CTCXG",
+        "DTCYF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +2: B→D,R→T,A→C,V→X,E→G → DTCXG."
+    },
+    {
+      "qid": "CGL507",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the girl related to the man?",
+      "options": [
+        "Sister",
+        "Daughter",
+        "Cousin",
+        "Niece"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Grandfather's only son is the man's father; his daughter is the man's sister."
+    },
+    {
+      "qid": "CGL508",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Grandmother",
+        "Sister"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is A's maternal grandfather, so A is granddaughter of D."
+    },
+    {
+      "qid": "CGL509",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person walks 10 km East, then 6 km South, then 4 km West, then 6 km North. How far is he from the start?",
+      "options": [
+        "4 km",
+        "6 km",
+        "10 km",
+        "14 km"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Net displacement = (10-4) km East = 6 km East; North-South cancel. Distance = 6 km."
+    },
+    {
+      "qid": "CGL510",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "Ravi starts from home, walks 5 km North, turns left and walks 3 km, turns left and walks 5 km. Where is he from home?",
+      "options": [
+        "3 km West",
+        "3 km East",
+        "5 km South",
+        "At home"
+      ],
+      "correctAnswer": 1,
+      "explanation": "N5, then West 3, then South 5 → 3 km West of home."
+    },
+    {
+      "qid": "CGL511",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All pens are books. Some books are tables. Conclusions: I. Some pens are tables. II. All books are pens.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Some books being tables does not force pens to be tables. II is converse of 'all pens are books' and does not follow."
+    },
+    {
+      "qid": "CGL512",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All cats are dogs. All dogs are animals. Conclusions: I. All cats are animals. II. Some animals are cats.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All cats → dogs → animals, so all cats are animals and some animals are cats."
+    },
+    {
+      "qid": "CGL513",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 12th from the left and B is 18th from the right. How many students are between A and B?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B from left = 40-18+1=23. Between 12 and 23: 10 students."
+    },
+    {
+      "qid": "CGL514",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2024 was Thursday, what day was 15 August 2023?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 Aug 2023 to 15 Aug 2024 includes 29 Feb 2024, so 366 days = 2 odd days. Thursday minus 2 days = Tuesday."
+    },
+    {
+      "qid": "CGL515",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 4 and 5 o'clock are the hands of a clock together?",
+      "options": [
+        "4:21 9/11",
+        "4:20",
+        "4:22",
+        "4:18 2/11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hands coincide at m = (30H)/5.5 = 120/5.5 = 240/11 = 21 9/11 minutes past 4."
+    },
+    {
+      "qid": "CGL516",
+      "subject": "Reasoning",
+      "chapter": "Seating",
+      "question": "Five friends A,B,C,D,E sit in a row facing North. A is at the left end. E is at the right end. B is second to the left of E. C is not next to A. Who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Positions: 1=A, 5=E. B is second to the left of E ⇒ position 3. Remaining 2 and 4 for C,D. C is not next to A ⇒ C ≠ 2 ⇒ C at 4, D at 2. Middle (pos 3) is B."
+    },
+    {
+      "qid": "CGL517",
+      "subject": "Reasoning",
+      "chapter": "Venn",
+      "question": "Which diagram best represents: Doctors, Males, Engineers?",
+      "options": [
+        "Three intersecting circles",
+        "Two circles inside one",
+        "Three disjoint circles",
+        "One circle inside another"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A person can be male doctor engineer; categories overlap."
+    },
+    {
+      "qid": "CGL518",
+      "subject": "Reasoning",
+      "chapter": "Mirror",
+      "question": "If a clock shows 3:40, the mirror image time is?",
+      "options": [
+        "8:20",
+        "8:25",
+        "9:20",
+        "7:20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror of h:m is 11:60 minus time. 11:60-3:40=8:20."
+    },
+    {
+      "qid": "CGL519",
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A square paper is folded once along the diagonal and a hole is punched near the fold. How many holes when unfolded?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One fold (2 layers) yields 2 holes."
+    },
+    {
+      "qid": "CGL520",
+      "subject": "Reasoning",
+      "chapter": "Figure Counting",
+      "question": "How many squares are there in a 3×3 grid of unit squares?",
+      "options": [
+        "9",
+        "14",
+        "16",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1×1: 9, 2×2: 4, 3×3: 1; total 14."
+    },
+    {
+      "qid": "CGL521",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: All that glitters is not gold. Conclusions: I. Gold does not glitter. II. Some glittering things are not gold.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The proverb means some glittering things are not gold."
+    },
+    {
+      "qid": "CGL522",
+      "subject": "Reasoning",
+      "chapter": "Odd One",
+      "question": "Find the odd one: 8, 27, 64, 125, 216, 343",
+      "options": [
+        "8",
+        "64",
+        "125",
+        "216"
+      ],
+      "correctAnswer": 2,
+      "explanation": "8, 27, 125, 216, 343 are cubes only. 64 is both 4³ and 8² (also a perfect square), so it is the odd one."
+    },
+    {
+      "qid": "CGL523",
+      "subject": "Reasoning",
+      "chapter": "Odd One",
+      "question": "Find the odd one: Circle, Ellipse, Sphere, Parabola",
+      "options": [
+        "Circle",
+        "Ellipse",
+        "Sphere",
+        "Parabola"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sphere is 3-dimensional; others are plane curves."
+    },
+    {
+      "qid": "CGL524",
+      "subject": "Reasoning",
+      "chapter": "Missing Number",
+      "question": "In a 3×3 grid: 2 3 6 / 4 5 20 / 6 7 ?",
+      "options": [
+        "42",
+        "36",
+        "48",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: c = a×b ; 2×3=6, 4×5=20, 6×7=42."
+    },
+    {
+      "qid": "CGL525",
+      "subject": "Reasoning",
+      "chapter": "Inequality",
+      "question": "If P > Q ≥ R = S < T, which is true?",
+      "options": [
+        "P > S",
+        "P < T",
+        "Q = T",
+        "R > T"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P > Q ≥ R = S ⇒ P > S."
+    },
+    {
+      "qid": "CGL526",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey, 23 June 1757, marked the start of British political power in India."
+    },
+    {
+      "qid": "CGL527",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first Indian Governor-General of independent India?",
+      "options": [
+        "C. Rajagopalachari",
+        "Lord Mountbatten",
+        "Rajendra Prasad",
+        "Jawaharlal Nehru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C. Rajagopalachari was the first Indian Governor-General (June 1948–January 1950). Mountbatten was the first GG after independence but was British."
+    },
+    {
+      "qid": "CGL528",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution deals with the amendment procedure?",
+      "options": [
+        "Article 356",
+        "Article 368",
+        "Article 370",
+        "Article 352"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 368 provides the power and procedure to amend the Constitution."
+    },
+    {
+      "qid": "CGL529",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The idea of a Constituent Assembly was first put forward by?",
+      "options": [
+        "M.N. Roy",
+        "Jawaharlal Nehru",
+        "Gandhi",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "M.N. Roy proposed a Constituent Assembly in 1934."
+    },
+    {
+      "qid": "CGL530",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river entirely in India?",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Narmada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Godavari is the longest river that flows entirely within India (~1465 km). Ganga originates in India but has a course also associated with Bangladesh."
+    },
+    {
+      "qid": "CGL531",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer does NOT pass through which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Jharkhand",
+        "Odisha",
+        "Gujarat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "It passes through Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram — not Odisha."
+    },
+    {
+      "qid": "CGL532",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Repo rate is the rate at which:",
+      "options": [
+        "RBI lends to commercial banks",
+        "Banks lend to RBI",
+        "Banks lend to public",
+        "Government borrows from public"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo rate is the rate at which RBI lends short-term money to commercial banks against securities."
+    },
+    {
+      "qid": "CGL533",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST in India was implemented from:",
+      "options": [
+        "1 April 2017",
+        "1 July 2017",
+        "1 January 2018",
+        "1 July 2018"
+      ],
+      "correctAnswer": 2,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": "CGL534",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The chemical formula of washing soda is:",
+      "options": [
+        "Na2CO3·10H2O",
+        "NaHCO3",
+        "NaOH",
+        "CaOCl2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Washing soda is sodium carbonate decahydrate, Na2CO3·10H2O."
+    },
+    {
+      "qid": "CGL535",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "SI unit of luminous intensity is:",
+      "options": [
+        "Lux",
+        "Lumen",
+        "Candela",
+        "Watt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Candela (cd) is the SI base unit of luminous intensity."
+    },
+    {
+      "qid": "CGL536",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which vitamin is synthesized in the human skin in presence of sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 4,
+      "explanation": "UV-B helps convert 7-dehydrocholesterol in skin to vitamin D3."
+    },
+    {
+      "qid": "CGL537",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "The Kyoto Protocol is related to:",
+      "options": [
+        "Ozone depletion",
+        "Climate change / greenhouse gases",
+        "Biodiversity",
+        "Desertification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kyoto Protocol (1997) set binding emission reduction targets for greenhouse gases."
+    },
+    {
+      "qid": "CGL538",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "The first Indian to win a Nobel Prize was:",
+      "options": [
+        "C.V. Raman",
+        "Rabindranath Tagore",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913."
+    },
+    {
+      "qid": "CGL539",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "The term 'LBW' is associated with:",
+      "options": [
+        "Football",
+        "Hockey",
+        "Cricket",
+        "Tennis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Leg Before Wicket is a mode of dismissal in cricket."
+    },
+    {
+      "qid": "CGL540",
+      "subject": "General Awareness",
+      "chapter": "Books",
+      "question": "Who wrote 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "S. Radhakrishnan",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru wrote The Discovery of India during his imprisonment at Ahmednagar Fort."
+    },
+    {
+      "qid": "CGL541",
+      "subject": "General Awareness",
+      "chapter": "Art Culture",
+      "question": "Kathakali dance form originated in:",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kathakali is a classical dance-drama of Kerala."
+    },
+    {
+      "qid": "CGL542",
+      "subject": "General Awareness",
+      "chapter": "National",
+      "question": "Which is the official language of the Union of India as per the Constitution?",
+      "options": [
+        "Hindi in Devanagari script",
+        "English",
+        "Sanskrit",
+        "Hindustani"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 343: official language of the Union is Hindi in Devanagari script."
+    },
+    {
+      "qid": "CGL543",
+      "subject": "General Awareness",
+      "chapter": "Current/Static",
+      "question": "Headquarters of the International Court of Justice is at:",
+      "options": [
+        "Geneva",
+        "New York",
+        "The Hague",
+        "Paris"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ICJ sits at the Peace Palace in The Hague, Netherlands."
+    },
+    {
+      "qid": "CGL544",
+      "subject": "General Awareness",
+      "chapter": "Defence",
+      "question": "INS Vikrant is India's first:",
+      "options": [
+        "Nuclear submarine",
+        "Indigenous aircraft carrier",
+        "Stealth destroyer",
+        "Aircraft carrier purchased from Russia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "INS Vikrant is India's first indigenously designed and built aircraft carrier."
+    },
+    {
+      "qid": "CGL545",
+      "subject": "General Awareness",
+      "chapter": "Schemes",
+      "question": "PM-KISAN provides income support of how much per year to eligible farmers?",
+      "options": [
+        "₹4,000",
+        "₹6,000",
+        "₹8,000",
+        "₹12,000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PM-KISAN gives ₹6,000 per year in three instalments."
+    },
+    {
+      "qid": "CGL546",
+      "subject": "General Awareness",
+      "chapter": "UN",
+      "question": "India is a member of which of the following?",
+      "options": [
+        "NATO",
+        "G7",
+        "G20",
+        "ANZUS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "India is a member of the G20; not NATO, G7 or ANZUS."
+    },
+    {
+      "qid": "CGL547",
+      "subject": "General Awareness",
+      "chapter": "Physics",
+      "question": "Sound cannot travel through:",
+      "options": [
+        "Steel",
+        "Water",
+        "Vacuum",
+        "Air"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sound needs a material medium; vacuum has none."
+    },
+    {
+      "qid": "CGL548",
+      "subject": "General Awareness",
+      "chapter": "Chemistry",
+      "question": "pH of a neutral solution at 25°C is:",
+      "options": [
+        "0",
+        "1",
+        "7",
+        "14"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Neutral water has [H+]=10^-7, pH=7 at 25°C."
+    },
+    {
+      "qid": "CGL549",
+      "subject": "General Awareness",
+      "chapter": "Computer",
+      "question": "Which of the following is an input device?",
+      "options": [
+        "Monitor",
+        "Speaker",
+        "Scanner",
+        "Projector"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A scanner inputs images/documents into a computer."
+    },
+    {
+      "qid": "CGL550",
+      "subject": "General Awareness",
+      "chapter": "Misc GK",
+      "question": "The Reserve Bank of India was established in:",
+      "options": [
+        "1921",
+        "1935",
+        "1947",
+        "1950"
+      ],
+      "correctAnswer": 2,
+      "explanation": "RBI was established on 1 April 1935 under the RBI Act, 1934."
+    },
+    {
+      "qid": "CGL551",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If the price of a commodity is increased by 20% and then decreased by 20%, the net change is:",
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiplier = 1.2×0.8=0.96 → 4% decrease."
+    },
+    {
+      "qid": "CGL552",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit Loss",
+      "question": "A man sells an article at 10% profit. If he had bought it at 10% less and sold it for ₹10 more, profit would be 25%. Cost price is:",
+      "options": [
+        "₹400",
+        "₹500",
+        "₹450",
+        "₹480"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let CP=x. SP=1.1x. New CP=0.9x, new SP=1.1x+10, profit 25% ⇒ 1.1x+10 = 1.25×0.9x = 1.125x ⇒ 10=0.025x ⇒ x=400."
+    },
+    {
+      "qid": "CGL553",
+      "subject": "Quantitative Aptitude",
+      "chapter": "SI CI",
+      "question": "The difference between CI and SI on ₹8000 for 2 years at 5% p.a. is:",
+      "options": [
+        "₹20",
+        "₹25",
+        "₹40",
+        "₹16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diff for 2 yrs = P(r/100)^2 = 8000×0.0025=20."
+    },
+    {
+      "qid": "CGL554",
+      "subject": "Quantitative Aptitude",
+      "chapter": "SI CI",
+      "question": "A sum becomes ₹1331 in 3 years at 10% p.a. compounded annually. The principal is:",
+      "options": [
+        "₹1000",
+        "₹1100",
+        "₹1200",
+        "₹900"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1331 = P(1.1)^3 = P×1.331 ⇒ P=1000."
+    },
+    {
+      "qid": "CGL555",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "If A:B = 2:3 and B:C = 4:5, then A:B:C is:",
+      "options": [
+        "8:12:15",
+        "2:3:5",
+        "8:12:20",
+        "6:8:15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B=2:3=8:12; B:C=4:5=12:15 ⇒ 8:12:15."
+    },
+    {
+      "qid": "CGL556",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Partnership",
+      "question": "A and B invest ₹30,000 and ₹50,000 for a year. Profit is ₹16,000. A's share is:",
+      "options": [
+        "₹6,000",
+        "₹8,000",
+        "₹10,000",
+        "₹7,000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ratio 3:5. A gets 3/8 × 16000 = 6000."
+    },
+    {
+      "qid": "CGL557",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time Work",
+      "question": "A can do a work in 12 days, B in 18 days. They work together for 4 days. Remaining fraction of work is:",
+      "options": [
+        "4/9",
+        "5/9",
+        "1/3",
+        "2/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Together 1/12+1/18=5/36 per day. 4 days=20/36=5/9. Remaining=4/9."
+    },
+    {
+      "qid": "CGL558",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Pipes",
+      "question": "A pipe fills a tank in 6 hours and another empties it in 8 hours. If both are opened, time to fill is:",
+      "options": [
+        "24 h",
+        "20 h",
+        "14 h",
+        "12 h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6 - 1/8 = 4-3 /24 = 1/24 → 24 hours."
+    },
+    {
+      "qid": "CGL559",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time Distance",
+      "question": "A train 180 m long crosses a platform 120 m long in 18 seconds. Speed of the train is:",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "54 km/h",
+        "72 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Distance=300 m in 18 s ⇒ 300/18=50/3 m/s = 50/3×18/5=60 km/h."
+    },
+    {
+      "qid": "CGL560",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Boats",
+      "question": "Speed of a boat in still water is 15 km/h and current is 3 km/h. Time to go 36 km downstream and return is:",
+      "options": [
+        "5 h",
+        "4.5 h",
+        "6 h",
+        "4 h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Down=18 km/h → 2 h; up=12 km/h → 3 h; total 5 h."
+    },
+    {
+      "qid": "CGL561",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 20. If one number is excluded, average becomes 18. The excluded number is:",
+      "options": [
+        "28",
+        "26",
+        "30",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum=100; new sum=72; excluded=28."
+    },
+    {
+      "qid": "CGL562",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ages",
+      "question": "The present ages of A and B are in ratio 4:5. After 5 years the ratio will be 5:6. Present age of A is:",
+      "options": [
+        "20 years",
+        "24 years",
+        "16 years",
+        "28 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4x+5 / 5x+5 = 5/6 ⇒ 6(4x+5)=5(5x+5) ⇒ 24x+30=25x+25 ⇒ x=5. A=20."
+    },
+    {
+      "qid": "CGL563",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "The volume of a cube is 512 cm³. Its total surface area is:",
+      "options": [
+        "384 cm²",
+        "256 cm²",
+        "448 cm²",
+        "512 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Side=8; TSA=6×64=384."
+    },
+    {
+      "qid": "CGL564",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Area of an equilateral triangle of side 6 cm is:",
+      "options": [
+        "9√3",
+        "12√3",
+        "6√3",
+        "15√3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area=√3/4 × a² = √3/4 ×36 = 9√3."
+    },
+    {
+      "qid": "CGL565",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x² + 1/x² is:",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)²=9=x²+2+1/x² ⇒ x²+1/x²=7."
+    },
+    {
+      "qid": "CGL566",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "The quadratic equation whose roots are 3 and -2 is:",
+      "options": [
+        "x²-x-6=0",
+        "x²+x-6=0",
+        "x²-5x-6=0",
+        "x²-x+6=0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x²-(sum)x+prod=x²-(1)x+(-6)=x²-x-6=0."
+    },
+    {
+      "qid": "CGL567",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "The LCM of 12, 18 and 30 is:",
+      "options": [
+        "180",
+        "90",
+        "120",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "12=2²×3, 18=2×3², 30=2×3×5 ⇒ LCM=2²×3²×5=180."
+    },
+    {
+      "qid": "CGL568",
+      "subject": "Quantitative Aptitude",
+      "chapter": "HCF LCM",
+      "question": "HCF of two numbers is 12 and their LCM is 180. If one number is 36, the other is:",
+      "options": [
+        "60",
+        "48",
+        "72",
+        "90"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF×LCM=product ⇒ 12×180=36×other ⇒ other=60."
+    },
+    {
+      "qid": "CGL569",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simplification",
+      "question": "The value of 1/2 + 1/6 + 1/12 + 1/20 is:",
+      "options": [
+        "4/5",
+        "3/4",
+        "2/3",
+        "5/6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/(1×2)+1/(2×3)+1/(3×4)+1/(4×5)=1-1/2 + 1/2-1/3 + 1/3-1/4 + 1/4-1/5=1-1/5=4/5."
+    },
+    {
+      "qid": "CGL570",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "The sum of interior angles of a hexagon is:",
+      "options": [
+        "720°",
+        "540°",
+        "1080°",
+        "900°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(n-2)×180=(6-2)×180=720°."
+    },
+    {
+      "qid": "CGL571",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "If sin θ = 3/5, then tan θ is (acute θ):",
+      "options": [
+        "3/4",
+        "4/3",
+        "3/5",
+        "4/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cos θ=4/5; tan=3/4."
+    },
+    {
+      "qid": "CGL572",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "The value of sin²30° + cos²60° is:",
+      "options": [
+        "1/2",
+        "1",
+        "1/4",
+        "3/4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin30=1/2 so sq=1/4; cos60=1/2 so sq=1/4; sum=1/2."
+    },
+    {
+      "qid": "CGL573",
+      "subject": "Quantitative Aptitude",
+      "chapter": "DI/Percent mix",
+      "question": "A number is increased by 25% and then decreased by 20%. Net effect:",
+      "options": [
+        "No change",
+        "5% increase",
+        "5% decrease",
+        "2% increase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1.25×0.80=1.00 → no change."
+    },
+    {
+      "qid": "CGL574",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mixture",
+      "question": "Milk and water in a mixture are in ratio 5:3. If 8 litres water is added, ratio becomes 1:1. Original quantity of milk is:",
+      "options": [
+        "20 L",
+        "25 L",
+        "30 L",
+        "15 L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let 5x,3x. 5x/(3x+8)=1/1 ⇒ 5x=3x+8 ⇒ 2x=8 ⇒ x=4; milk=20 L."
+    },
+    {
+      "qid": "CGL575",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Data",
+      "question": "Mean of 10 observations is 15. If each is increased by 3, new mean is:",
+      "options": [
+        "18",
+        "15",
+        "12",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mean increases by the same amount 3 → 18."
+    },
+    {
+      "qid": "CGL576",
+      "subject": "English Language",
+      "chapter": "Error Spotting",
+      "question": "Identify the part with error: The committee / have decided / to postpone / the meeting.",
+      "options": [
+        "The committee",
+        "have decided",
+        "to postpone",
+        "the meeting."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Committee as a single body takes singular verb 'has decided'."
+    },
+    {
+      "qid": "CGL577",
+      "subject": "English Language",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: Neither of the two / candidates have / submitted their / documents yet.",
+      "options": [
+        "Neither of the two",
+        "candidates have",
+        "submitted their",
+        "documents yet."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Neither' is singular; use 'has'."
+    },
+    {
+      "qid": "CGL578",
+      "subject": "English Language",
+      "chapter": "Fillers",
+      "question": "He is senior _____ me by two years.",
+      "options": [
+        "than",
+        "to",
+        "from",
+        "over"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Senior/junior/superior take preposition 'to'."
+    },
+    {
+      "qid": "CGL579",
+      "subject": "English Language",
+      "chapter": "Fillers",
+      "question": "The teacher insisted _____ punctuality.",
+      "options": [
+        "on",
+        "at",
+        "for",
+        "to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Insist on something."
+    },
+    {
+      "qid": "CGL580",
+      "subject": "English Language",
+      "chapter": "Synonym",
+      "question": "Synonym of ABANDON:",
+      "options": [
+        "Forsake",
+        "Retain",
+        "Continue",
+        "Adopt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abandon means to leave/forsake."
+    },
+    {
+      "qid": "CGL581",
+      "subject": "English Language",
+      "chapter": "Synonym",
+      "question": "Synonym of METICULOUS:",
+      "options": [
+        "Careless",
+        "Thorough",
+        "Hasty",
+        "Casual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Meticulous = very careful and thorough."
+    },
+    {
+      "qid": "CGL582",
+      "subject": "English Language",
+      "chapter": "Antonym",
+      "question": "Antonym of SCARCE:",
+      "options": [
+        "Rare",
+        "Plentiful",
+        "Meagre",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Scarce × plentiful/abundant."
+    },
+    {
+      "qid": "CGL583",
+      "subject": "English Language",
+      "chapter": "Antonym",
+      "question": "Antonym of OPAQUE:",
+      "options": [
+        "Dark",
+        "Transparent",
+        "Dull",
+        "Thick"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Opaque × transparent/clear."
+    },
+    {
+      "qid": "CGL584",
+      "subject": "English Language",
+      "chapter": "Idiom",
+      "question": "To 'bury the hatchet' means:",
+      "options": [
+        "To hide a weapon",
+        "To make peace",
+        "To dig the ground",
+        "To start a fight"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bury the hatchet = end a quarrel; make peace."
+    },
+    {
+      "qid": "CGL585",
+      "subject": "English Language",
+      "chapter": "Idiom",
+      "question": "'Hit the nail on the head' means:",
+      "options": [
+        "To hurt someone",
+        "To do or say exactly the right thing",
+        "To miss the point",
+        "To work hard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to be precisely correct."
+    },
+    {
+      "qid": "CGL586",
+      "subject": "English Language",
+      "chapter": "One Word",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Cartographer",
+        "Calligrapher"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile = lover of books."
+    },
+    {
+      "qid": "CGL587",
+      "subject": "English Language",
+      "chapter": "One Word",
+      "question": "Government by the nobles is called:",
+      "options": [
+        "Democracy",
+        "Autocracy",
+        "Aristocracy",
+        "Plutocracy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aristocracy is rule by nobility."
+    },
+    {
+      "qid": "CGL588",
+      "subject": "English Language",
+      "chapter": "Voice",
+      "question": "Change to passive: They will complete the work tomorrow.",
+      "options": [
+        "The work will be completed by them tomorrow.",
+        "The work would be completed tomorrow.",
+        "The work is completed by them tomorrow.",
+        "The work will complete tomorrow."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future simple: will be + V3."
+    },
+    {
+      "qid": "CGL589",
+      "subject": "English Language",
+      "chapter": "Voice",
+      "question": "Change to active: The letter was written by her.",
+      "options": [
+        "She wrote the letter.",
+        "She was writing the letter.",
+        "She writes the letter.",
+        "She has written the letter."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past simple passive → past simple active."
+    },
+    {
+      "qid": "CGL590",
+      "subject": "English Language",
+      "chapter": "Narration",
+      "question": "He said, \"I am unwell.\"",
+      "options": [
+        "He said that he was unwell.",
+        "He said that I am unwell.",
+        "He said that he is unwell.",
+        "He told that he was unwell."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present → past in reported speech."
+    },
+    {
+      "qid": "CGL591",
+      "subject": "English Language",
+      "chapter": "Narration",
+      "question": "She said to me, \"Please wait here.\"",
+      "options": [
+        "She requested me to wait there.",
+        "She said me to wait here.",
+        "She asked me wait here.",
+        "She told me please wait there."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Please → requested; here → there."
+    },
+    {
+      "qid": "CGL592",
+      "subject": "English Language",
+      "chapter": "Cloze/Grammar",
+      "question": "Neither Ramesh nor his friends _____ present.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When subjects are joined by neither...nor, the verb agrees with the nearer subject (friends → were)."
+    },
+    {
+      "qid": "CGL593",
+      "subject": "English Language",
+      "chapter": "Preposition",
+      "question": "He congratulated me _____ my success.",
+      "options": [
+        "for",
+        "on",
+        "at",
+        "of"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Congratulate someone on something."
+    },
+    {
+      "qid": "CGL594",
+      "subject": "English Language",
+      "chapter": "Article",
+      "question": "He is _____ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Honest begins with vowel sound → an."
+    },
+    {
+      "qid": "CGL595",
+      "subject": "English Language",
+      "chapter": "Para jumble (first)",
+      "question": "Which sentence should come first? P: The rivers overflowed. Q: There was heavy rain. R: Many villages were flooded. S: Crops were destroyed.",
+      "options": [
+        "Q",
+        "P",
+        "R",
+        "S"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cause first: heavy rain, then overflow, flood, crop loss."
+    },
+    {
+      "qid": "CGL596",
+      "subject": "English Language",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "Acomodation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Accommodation has double c and double m."
+    },
+    {
+      "qid": "CGL597",
+      "subject": "English Language",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Millennium",
+        "Millenium",
+        "Milenium",
+        "Milleneum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Millennium: double l, double n."
+    },
+    {
+      "qid": "CGL598",
+      "subject": "English Language",
+      "chapter": "Improvement",
+      "question": "Improve: He is good in mathematics.",
+      "options": [
+        "good at mathematics",
+        "good on mathematics",
+        "good with mathematics",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at a subject."
+    },
+    {
+      "qid": "CGL599",
+      "subject": "English Language",
+      "chapter": "Sentence",
+      "question": "Choose the grammatically correct sentence:",
+      "options": [
+        "The news are true.",
+        "The news is true.",
+        "The news were true.",
+        "The news have true."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'News' is uncountable and takes singular verb."
+    },
+    {
+      "qid": "CGL5100",
+      "subject": "English Language",
+      "chapter": "Comprehension skill",
+      "question": "A 'red herring' in an argument is:",
+      "options": [
+        "A strong proof",
+        "A misleading distraction",
+        "A statistical fact",
+        "A legal precedent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Red herring is an irrelevant point used to divert attention."
+    }
+  ]
+}
