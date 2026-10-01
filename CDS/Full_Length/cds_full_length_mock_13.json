@@ -1,0 +1,1423 @@
+{
+  "testId": "cds_full_length_mock_13",
+  "exam": "CDS",
+  "testType": "fullLength",
+  "title": "CDS Full Length Mock Test 13 (Hard Level)",
+  "description": "Combined Defence Services Examination style full-length mock covering English, Elementary Mathematics and General Knowledge. Hard level, 100 questions.",
+  "durationMinutes": 120,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2.5,
+  "negativeMarks": 0.83,
+  "instructions": [
+    "Total questions: 100. Maximum marks: 250.",
+    "Time allowed: 120 minutes.",
+    "Each correct answer carries 2.5 marks.",
+    "There is a penalty of 0.83 marks for every wrong answer.",
+    "No marks will be deducted for unattempted questions.",
+    "Choose the most appropriate option among the four given choices.",
+    "The paper covers English, Elementary Mathematics and General Knowledge as in CDS.",
+    "Use of calculator or electronic device is not permitted."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: Neither of the two battalions / have received / the winter clothing / so far.",
+      "options": [
+        "Neither of the two battalions",
+        "have received",
+        "the winter clothing",
+        "so far."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neither is singular; use has received."
+    },
+    {
+      "qid": 2,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: The officer as well as / his men were / ready for the / night operation.",
+      "options": [
+        "The officer as well as",
+        "his men were",
+        "ready for the",
+        "night operation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "With as well as the verb agrees with the first subject: was ready."
+    },
+    {
+      "qid": 3,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: It is high time / that the government / take firm steps / against infiltration.",
+      "options": [
+        "It is high time",
+        "that the government",
+        "take firm steps",
+        "against infiltration."
+      ],
+      "correctAnswer": 3,
+      "explanation": "After it is high time the verb is in past: took firm steps."
+    },
+    {
+      "qid": 4,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: Scarcely had the convoy / left the base / than an IED / exploded on the road.",
+      "options": [
+        "Scarcely had the convoy",
+        "left the base",
+        "than an IED",
+        "exploded on the road."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Scarcely is followed by when, not than."
+    },
+    {
+      "qid": 5,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The general refused to _____ to pressure from the political leadership.",
+      "options": [
+        "accede",
+        "exceed",
+        "precede",
+        "recede"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Accede means to agree or yield."
+    },
+    {
+      "qid": 6,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "His speech was so _____ that even veterans found it hard to follow.",
+      "options": [
+        "lucid",
+        "verbose",
+        "succinct",
+        "pithy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Verbose means wordy and hard to follow."
+    },
+    {
+      "qid": 7,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The inquiry found that the unit had acted in _____ of standing orders.",
+      "options": [
+        "accordance",
+        "defiance",
+        "pursuance",
+        "compliance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In defiance of means contrary to."
+    },
+    {
+      "qid": 8,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of OBDURATE.",
+      "options": [
+        "Flexible",
+        "Stubborn",
+        "Humble",
+        "Candid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Obdurate means stubbornly refusing to change."
+    },
+    {
+      "qid": 9,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of PERNICIOUS.",
+      "options": [
+        "Harmless",
+        "Beneficial",
+        "Destructive",
+        "Temporary"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pernicious means causing great harm."
+    },
+    {
+      "qid": 10,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of SAGACIOUS.",
+      "options": [
+        "Foolish",
+        "Wise",
+        "Timid",
+        "Harsh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sagacious means having keen mental discernment."
+    },
+    {
+      "qid": 11,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of BENIGN.",
+      "options": [
+        "Kind",
+        "Gentle",
+        "Malignant",
+        "Mild"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Benign means harmless; malignant is the opposite."
+    },
+    {
+      "qid": 12,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of PAUCITY.",
+      "options": [
+        "Scarcity",
+        "Abundance",
+        "Poverty",
+        "Dearth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Paucity means scarcity; abundance is opposite."
+    },
+    {
+      "qid": 13,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of MITIGATE.",
+      "options": [
+        "Alleviate",
+        "Aggravate",
+        "Lessen",
+        "Soften"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitigate means to reduce; aggravate means to worsen."
+    },
+    {
+      "qid": 14,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "To throw down the gauntlet means:",
+      "options": [
+        "To surrender",
+        "To issue a challenge",
+        "To hide evidence",
+        "To delay a decision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Throwing down the gauntlet is issuing a challenge."
+    },
+    {
+      "qid": 15,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "To rest on one's oars means:",
+      "options": [
+        "To work harder",
+        "To stop making effort after success",
+        "To row against the tide",
+        "To seek help"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to relax after achieving something."
+    },
+    {
+      "qid": 16,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "A storm in a teacup means:",
+      "options": [
+        "A naval disaster",
+        "Great fuss over a trivial matter",
+        "Sudden rainfall",
+        "A diplomatic crisis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means excessive fuss about something unimportant."
+    },
+    {
+      "qid": 17,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "If I was the commanding officer, I would cancel the parade.",
+      "options": [
+        "If I was",
+        "If I were",
+        "If I am",
+        "No improvement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hypothetical condition takes were."
+    },
+    {
+      "qid": 18,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is senior than all other officers in the battalion.",
+      "options": [
+        "senior than",
+        "senior to",
+        "senior from",
+        "No improvement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Senior is followed by to, not than."
+    },
+    {
+      "qid": 19,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "The news are spreading rapidly across the cantonment.",
+      "options": [
+        "news are spreading",
+        "news is spreading",
+        "news were spreading",
+        "No improvement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "News is singular."
+    },
+    {
+      "qid": 20,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who is indifferent to pleasure and pain:",
+      "options": [
+        "Stoic",
+        "Cynic",
+        "Hedonist",
+        "Fatalist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A stoic endures hardship without showing feeling."
+    },
+    {
+      "qid": 21,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A speech delivered without any previous preparation:",
+      "options": [
+        "Dialogue",
+        "Extempore",
+        "Rhetoric",
+        "Soliloquy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Extempore is spoken without preparation."
+    },
+    {
+      "qid": 22,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "They have issued fresh movement orders. Choose the correct passive.",
+      "options": [
+        "Fresh movement orders have been issued.",
+        "Fresh movement orders has been issued.",
+        "Fresh movement orders were issued.",
+        "Fresh movement orders are issued."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present perfect passive: have been issued."
+    },
+    {
+      "qid": 23,
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "The CO said, \"Do not leave the post till further orders.\"",
+      "options": [
+        "The CO said not to leave the post till further orders.",
+        "The CO ordered them not to leave the post till further orders.",
+        "The CO said that do not leave the post.",
+        "The CO asked if they would leave the post."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Imperative in reported speech uses ordered/told + not to."
+    },
+    {
+      "qid": 24,
+      "subject": "English",
+      "chapter": "Cloze / Usage",
+      "question": "The treaty will come into _____ on the first of next month.",
+      "options": [
+        "force",
+        "power",
+        "action",
+        "play"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Idiom: come into force."
+    },
+    {
+      "qid": 25,
+      "subject": "English",
+      "chapter": "Comprehension Skill",
+      "question": "The tone of a passage that systematically lists flaws in a defence policy without offering alternatives is best described as:",
+      "options": [
+        "Laudatory",
+        "Analytical but critical",
+        "Narrative",
+        "Humorous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Listing flaws without praise is critical analysis."
+    },
+    {
+      "qid": 26,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The remainder when 7^2026 is divided by 4 is:",
+      "options": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "7 ≡ −1 (mod 4). 2026 is even, so 7^2026 ≡ 1 (mod 4)."
+    },
+    {
+      "qid": 27,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "If n = 2^4 × 3^2 × 5, the number of factors of n is:",
+      "options": [
+        "20",
+        "30",
+        "24",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(4+1)(2+1)(1+1)=5×3×2=30."
+    },
+    {
+      "qid": 28,
+      "subject": "Mathematics",
+      "chapter": "Simplification",
+      "question": "The value of (0.2 × 0.2 × 0.2 + 0.04 × 0.04 × 0.04)/(0.2 × 0.2 − 0.2×0.04 + 0.04×0.04) is:",
+      "options": [
+        "0.24",
+        "0.16",
+        "0.20",
+        "0.28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let a=0.2, b=0.04; (a^3+b^3)/(a^2−ab+b^2)=a+b=0.24."
+    },
+    {
+      "qid": 29,
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "The ratio of two numbers is 5:7 and their HCF is 13. Their LCM is:",
+      "options": [
+        "455",
+        "65",
+        "91",
+        "585"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Numbers 65 and 91; LCM=5×7×13=455."
+    },
+    {
+      "qid": 30,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiplier 1.2×0.8=0.96 → 4% decrease."
+    },
+    {
+      "qid": 31,
+      "subject": "Mathematics",
+      "chapter": "Profit Loss",
+      "question": "A dealer marks goods 40% above cost and allows 10% discount. His profit percent is:",
+      "options": [
+        "26%",
+        "30%",
+        "24%",
+        "28%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP=1.4C×0.9=1.26C → 26%."
+    },
+    {
+      "qid": 32,
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Simple interest on a sum for 3 years at 8% p.a. is Rs 960. The sum is:",
+      "options": [
+        "Rs 4000",
+        "Rs 3600",
+        "Rs 4200",
+        "Rs 4800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P= (960×100)/(3×8)=4000."
+    },
+    {
+      "qid": 33,
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "question": "The difference between CI and SI on Rs 8000 for 2 years at 5% p.a. is:",
+      "options": [
+        "Rs 20",
+        "Rs 40",
+        "Rs 25",
+        "Rs 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diff=P(r/100)^2=8000×0.0025=20."
+    },
+    {
+      "qid": 34,
+      "subject": "Mathematics",
+      "chapter": "Time Work",
+      "question": "A can do a work in 12 days and B in 18 days. Together they finish it in:",
+      "options": [
+        "7.2 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/12+1/18=5/36 → 36/5=7.2 days."
+    },
+    {
+      "qid": 35,
+      "subject": "Mathematics",
+      "chapter": "Pipes",
+      "question": "A pipe fills a tank in 6 hours and another empties it in 8 hours. If both are opened, the tank fills in:",
+      "options": [
+        "24 hours",
+        "20 hours",
+        "18 hours",
+        "14 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6−1/8=1/24 → 24 hours."
+    },
+    {
+      "qid": 36,
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of 5 consecutive even numbers is 24. The largest is:",
+      "options": [
+        "28",
+        "26",
+        "30",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Middle=24; numbers 20,22,24,26,28."
+    },
+    {
+      "qid": 37,
+      "subject": "Mathematics",
+      "chapter": "Time Distance",
+      "question": "A train 180 m long crosses a pole in 12 seconds. Its speed in km/h is:",
+      "options": [
+        "54",
+        "45",
+        "60",
+        "72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 m/s = 15×18/5=54 km/h."
+    },
+    {
+      "qid": 38,
+      "subject": "Mathematics",
+      "chapter": "Time Distance",
+      "question": "A man walks at 5 km/h and reaches 10 min late; at 6 km/h he is 10 min early. Distance is:",
+      "options": [
+        "10 km",
+        "12 km",
+        "8 km",
+        "15 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Difference 20 min=1/3 h; d(1/5−1/6)=1/3 → d/30=1/3 → d=10."
+    },
+    {
+      "qid": 39,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x^2 + 1/x^2 equals:",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)^2−2=9−2=7."
+    },
+    {
+      "qid": 40,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "The roots of x^2 − 5x + 6 = 0 are:",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "−2 and −3",
+        "2 and −3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x−2)(x−3)=0."
+    },
+    {
+      "qid": 41,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If 2^{x+3}=32, then x equals:",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2^{x+3}=2^5 ⇒ x+3=5 ⇒ x=2."
+    },
+    {
+      "qid": 42,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The 10th term of AP 3, 7, 11, ... is:",
+      "options": [
+        "39",
+        "43",
+        "35",
+        "41"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a=3,d=4; a10=3+9×4=39."
+    },
+    {
+      "qid": 43,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The sum of first 20 natural numbers is:",
+      "options": [
+        "210",
+        "200",
+        "190",
+        "220"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n+1)/2=20×21/2=210."
+    },
+    {
+      "qid": 44,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "The number of diagonals in a hexagon is:",
+      "options": [
+        "9",
+        "6",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(n−3)/2=6×3/2=9."
+    },
+    {
+      "qid": 45,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "Each interior angle of a regular octagon is:",
+      "options": [
+        "135°",
+        "120°",
+        "150°",
+        "108°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "[(8−2)×180]/8=135°."
+    },
+    {
+      "qid": 46,
+      "subject": "Mathematics",
+      "chapter": "Triangles",
+      "question": "In a right triangle, sides 6 and 8 enclose the right angle. The hypotenuse is:",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6-8-10 triangle."
+    },
+    {
+      "qid": 47,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "question": "The length of a tangent from a point 13 cm from the centre of a circle of radius 5 cm is:",
+      "options": [
+        "12 cm",
+        "8 cm",
+        "10 cm",
+        "6 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(13^2−5^2)=√144=12."
+    },
+    {
+      "qid": 48,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The volume of a cube of edge 6 cm is:",
+      "options": [
+        "216 cm³",
+        "36 cm³",
+        "108 cm³",
+        "256 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6^3=216."
+    },
+    {
+      "qid": 49,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The curved surface area of a cylinder of r=7 cm, h=10 cm is:",
+      "options": [
+        "440 cm²",
+        "220 cm²",
+        "1540 cm²",
+        "308 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2πrh=2×22/7×7×10=440."
+    },
+    {
+      "qid": 50,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The area of an equilateral triangle of side 6 cm is:",
+      "options": [
+        "9√3 cm²",
+        "6√3 cm²",
+        "12√3 cm²",
+        "18√3 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(√3/4)×36=9√3."
+    },
+    {
+      "qid": 51,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "sin 30° + cos 60° equals:",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "√3/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/2+1/2=1."
+    },
+    {
+      "qid": 52,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "If tan θ = 3/4 and θ is acute, sin θ equals:",
+      "options": [
+        "3/5",
+        "4/5",
+        "3/4",
+        "5/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opposite 3, adjacent 4, hyp 5."
+    },
+    {
+      "qid": 53,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "The value of 1 + tan^2 θ is:",
+      "options": [
+        "sec^2 θ",
+        "cosec^2 θ",
+        "cot^2 θ",
+        "sin^2 θ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard identity."
+    },
+    {
+      "qid": 54,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "cos 0° + sin 90° + tan 45° equals:",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1+1+1=3."
+    },
+    {
+      "qid": 55,
+      "subject": "Mathematics",
+      "chapter": "Heights Distances",
+      "question": "The angle of elevation of a 20 m tower from a point 20 m away is:",
+      "options": [
+        "45°",
+        "30°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tan θ=20/20=1 ⇒ θ=45°."
+    },
+    {
+      "qid": 56,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "The distance between (0,0) and (6,8) is:",
+      "options": [
+        "10",
+        "14",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√(36+64)=10."
+    },
+    {
+      "qid": 57,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "The midpoint of (2,4) and (6,8) is:",
+      "options": [
+        "(4,6)",
+        "(4,4)",
+        "(8,12)",
+        "(3,6)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "((2+6)/2,(4+8)/2)=(4,6)."
+    },
+    {
+      "qid": 58,
+      "subject": "Mathematics",
+      "chapter": "Logarithms",
+      "question": "If log10 2 = 0.3010, then log10 8 equals:",
+      "options": [
+        "0.9030",
+        "0.6020",
+        "0.3010",
+        "1.2040"
+      ],
+      "correctAnswer": 1,
+      "explanation": "log 8=log 2^3=3×0.3010=0.9030."
+    },
+    {
+      "qid": 59,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "The mean of 5, 7, 9, 11, 13 is:",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "45/5=9."
+    },
+    {
+      "qid": 60,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "A fair die is thrown. Probability of getting a prime number is:",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primes 2,3,5 → 3/6=1/2."
+    },
+    {
+      "qid": 61,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah in 1757."
+    },
+    {
+      "qid": 62,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who founded the Indian National Army (first time)?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mohan Singh",
+        "Rash Behari Bose",
+        "Captain Lakshmi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mohan Singh formed the first INA in 1942; Bose later revived it."
+    },
+    {
+      "qid": 63,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Cabinet Mission came to India in:",
+      "options": [
+        "1942",
+        "1946",
+        "1947",
+        "1945"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cabinet Mission arrived in 1946."
+    },
+    {
+      "qid": 64,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "C. Rajagopalachari",
+        "Lord Mountbatten",
+        "Rajendra Prasad",
+        "Wavell"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mountbatten was the first Governor-General of independent India; Rajaji was the first Indian GG."
+    },
+    {
+      "qid": 65,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Third Battle of Panipat was fought in:",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1764"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ahmad Shah Abdali vs Marathas, 1761."
+    },
+    {
+      "qid": 66,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Duncan Pass is located in:",
+      "options": [
+        "Andaman and Nicobar",
+        "Ladakh",
+        "Sikkim",
+        "Himachal Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Duncan Passage separates Little Andaman and South Andaman."
+    },
+    {
+      "qid": 67,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which river is called the 'Sorrow of Bihar'?",
+      "options": [
+        "Kosi",
+        "Gandak",
+        "Son",
+        "Ghaghara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kosi is known as the Sorrow of Bihar due to floods."
+    },
+    {
+      "qid": 68,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer does NOT pass through:",
+      "options": [
+        "Rajasthan",
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh"
+      ],
+      "correctAnswer": 3,
+      "explanation": "It does not pass through Odisha."
+    },
+    {
+      "qid": 69,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Nathu La pass connects India with:",
+      "options": [
+        "China",
+        "Nepal",
+        "Bhutan",
+        "Myanmar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nathu La in Sikkim connects India and Tibet (China)."
+    },
+    {
+      "qid": 70,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The largest mangrove forest in the world is:",
+      "options": [
+        "Sundarbans",
+        "Pichavaram",
+        "Bhitarkanika",
+        "Godavari delta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sundarbans is the largest mangrove forest."
+    },
+    {
+      "qid": 71,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Article 32 of the Indian Constitution deals with:",
+      "options": [
+        "Directive Principles",
+        "Right to Constitutional Remedies",
+        "President's rule",
+        "Finance Commission"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 32 is the right to move the Supreme Court for enforcement of FRs."
+    },
+    {
+      "qid": 72,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The tenure of a member of Rajya Sabha is:",
+      "options": [
+        "5 years",
+        "6 years",
+        "4 years",
+        "2 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rajya Sabha members have a 6-year term."
+    },
+    {
+      "qid": 73,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Who appoints the Chief Election Commissioner of India?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Justice",
+        "Parliament"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The President appoints the CEC."
+    },
+    {
+      "qid": 74,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The idea of a Concurrent List in the Indian Constitution is borrowed from:",
+      "options": [
+        "USA",
+        "Australia",
+        "Canada",
+        "Ireland"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Concurrent List is from the Australian Constitution."
+    },
+    {
+      "qid": 75,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The minimum age for a candidate to the Lok Sabha is:",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 84: 25 years for Lok Sabha."
+    },
+    {
+      "qid": 76,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "NITI Aayog replaced the Planning Commission in:",
+      "options": [
+        "2014",
+        "2015",
+        "2016",
+        "2013"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NITI Aayog was formed on 1 January 2015."
+    },
+    {
+      "qid": 77,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "The headquarters of the Reserve Bank of India is in:",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "RBI headquarters is in Mumbai."
+    },
+    {
+      "qid": 78,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST was implemented in India from:",
+      "options": [
+        "1 April 2017",
+        "1 July 2017",
+        "1 January 2018",
+        "1 July 2018"
+      ],
+      "correctAnswer": 2,
+      "explanation": "GST came into force on 1 July 2017."
+    },
+    {
+      "qid": 79,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Which of the following is NOT a component of India's forex reserves?",
+      "options": [
+        "Gold",
+        "SDR",
+        "Foreign currency assets",
+        "Fiscal deficit"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Fiscal deficit is not part of forex reserves."
+    },
+    {
+      "qid": 80,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The SI unit of luminous intensity is:",
+      "options": [
+        "Lux",
+        "Candela",
+        "Lumen",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Candela is the SI unit of luminous intensity."
+    },
+    {
+      "qid": 81,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which gas is used in the manufacture of bleaching powder?",
+      "options": [
+        "Oxygen",
+        "Chlorine",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bleaching powder is CaOCl2, made using chlorine."
+    },
+    {
+      "qid": 82,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The chemical name of baking soda is:",
+      "options": [
+        "Sodium carbonate",
+        "Sodium bicarbonate",
+        "Calcium carbonate",
+        "Potassium nitrate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Baking soda is NaHCO3."
+    },
+    {
+      "qid": 83,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "DNA fingerprinting was pioneered by:",
+      "options": [
+        "Watson and Crick",
+        "Alec Jeffreys",
+        "Gregor Mendel",
+        "Hargobind Khorana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sir Alec Jeffreys developed DNA fingerprinting in 1984."
+    },
+    {
+      "qid": 84,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Myopia is corrected by using:",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Cylindrical lens",
+        "Bifocal only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Short-sightedness is corrected by a concave lens."
+    },
+    {
+      "qid": 85,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The Indian Army's counter-insurgency school is located at:",
+      "options": [
+        "Vairengte",
+        "Mhow",
+        "Deolali",
+        "Secunderabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CIJW School is at Vairengte, Mizoram."
+    },
+    {
+      "qid": 86,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "INS Vikrant, India's indigenous aircraft carrier, was built at:",
+      "options": [
+        "Mazagon Dock",
+        "Cochin Shipyard",
+        "GRSE",
+        "Hindustan Shipyard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "IAC-1 INS Vikrant was built at Cochin Shipyard."
+    },
+    {
+      "qid": 87,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The rank equivalent of a Captain in the Army in the Indian Navy is:",
+      "options": [
+        "Commander",
+        "Lieutenant",
+        "Captain",
+        "Lieutenant Commander"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Indian Army Captain is equivalent to Indian Navy Lieutenant. Army Colonel equals Navy Captain."
+    },
+    {
+      "qid": 88,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Operation Vijay is associated with:",
+      "options": [
+        "Goa liberation",
+        "Kargil War",
+        "1965 war",
+        "IPKF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Vijay was the Indian operation in the Kargil War, 1999."
+    },
+    {
+      "qid": 89,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The first Field Marshal of India was:",
+      "options": [
+        "K.M. Cariappa",
+        "S.H.F.J. Manekshaw",
+        "K.S. Thimayya",
+        "Kodandera Subayya"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sam Manekshaw was the first Field Marshal (1973). Cariappa was later conferred in 1986."
+    },
+    {
+      "qid": 90,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The headquarters of the Eastern Naval Command is at:",
+      "options": [
+        "Mumbai",
+        "Visakhapatnam",
+        "Kochi",
+        "Port Blair"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ENC HQ is Visakhapatnam."
+    },
+    {
+      "qid": 91,
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "The Kyoto Protocol is related to:",
+      "options": [
+        "Ozone layer",
+        "Climate change / GHG",
+        "Wetlands",
+        "Desertification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kyoto Protocol deals with greenhouse gas emissions."
+    },
+    {
+      "qid": 92,
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "Project Tiger was launched in India in:",
+      "options": [
+        "1972",
+        "1973",
+        "1982",
+        "1986"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Project Tiger was launched in 1973."
+    },
+    {
+      "qid": 93,
+      "subject": "General Knowledge",
+      "chapter": "International",
+      "question": "The headquarters of the International Court of Justice is at:",
+      "options": [
+        "Geneva",
+        "The Hague",
+        "New York",
+        "Vienna"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ICJ sits at The Hague."
+    },
+    {
+      "qid": 94,
+      "subject": "General Knowledge",
+      "chapter": "International",
+      "question": "BRICS originally did not include:",
+      "options": [
+        "Brazil",
+        "South Africa",
+        "India",
+        "China"
+      ],
+      "correctAnswer": 2,
+      "explanation": "South Africa joined in 2010; original was BRIC."
+    },
+    {
+      "qid": 95,
+      "subject": "General Knowledge",
+      "chapter": "Culture",
+      "question": "The classical dance form Kathakali belongs to:",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kathakali is from Kerala."
+    },
+    {
+      "qid": 96,
+      "subject": "General Knowledge",
+      "chapter": "Culture",
+      "question": "Who wrote the book Discovery of India?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "S. Radhakrishnan",
+        "R.C. Majumdar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nehru wrote The Discovery of India."
+    },
+    {
+      "qid": 97,
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "The first Indian to win an individual Olympic gold medal was:",
+      "options": [
+        "Leander Paes",
+        "Abhinav Bindra",
+        "Rajyavardhan Rathore",
+        "Karnam Malleswari"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abhinav Bindra, Beijing 2008, 10 m air rifle."
+    },
+    {
+      "qid": 98,
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "The term 'Lona' is associated with:",
+      "options": [
+        "Kabaddi",
+        "Kho-kho",
+        "Hockey",
+        "Wrestling"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lona is an all-out in kabaddi."
+    },
+    {
+      "qid": 99,
+      "subject": "General Knowledge",
+      "chapter": "Misc GK",
+      "question": "Which of the following is a west-flowing river of peninsular India?",
+      "options": [
+        "Godavari",
+        "Mahanadi",
+        "Narmada",
+        "Krishna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Narmada flows west into the Arabian Sea."
+    },
+    {
+      "qid": 100,
+      "subject": "General Knowledge",
+      "chapter": "Misc GK",
+      "question": "The official language of the Union as per Article 343 is:",
+      "options": [
+        "Hindi in Devanagari script",
+        "English",
+        "Sanskrit",
+        "Hindi and English equally"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 343: Hindi in Devanagari script is the official language of the Union."
+    }
+  ]
+}

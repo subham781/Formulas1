@@ -1,0 +1,1423 @@
+{
+  "testId": "cds_full_length_mock_08",
+  "exam": "CDS",
+  "testType": "fullLength",
+  "title": "CDS Full Length Mock Test 08 (Hard Level)",
+  "description": "Combined Defence Services Examination style full-length mock covering English, Elementary Mathematics and General Knowledge. Hard level, 100 questions.",
+  "durationMinutes": 120,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2.5,
+  "negativeMarks": 0.83,
+  "instructions": [
+    "Total questions: 100. Maximum marks: 250.",
+    "Time allowed: 120 minutes.",
+    "Each correct answer carries 2.5 marks.",
+    "There is a penalty of 0.83 marks for every wrong answer.",
+    "No marks will be deducted for unattempted questions.",
+    "Choose the most appropriate option among the four given choices.",
+    "The paper covers English, Elementary Mathematics and General Knowledge as in CDS.",
+    "Use of calculator or electronic device is not permitted."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the part that contains an error: Each of the officers who / were detailed for the night patrol / have submitted / a separate after-action report.",
+      "options": [
+        "Each of the officers who",
+        "were detailed for the night patrol",
+        "have submitted",
+        "a separate after-action report."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The subject of the main clause is 'Each' (singular), so the verb must be 'has submitted'."
+    },
+    {
+      "qid": 2,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: No sooner the column entered / the defile than / small-arms fire / opened from both flanks.",
+      "options": [
+        "No sooner the column entered",
+        "the defile than",
+        "small-arms fire",
+        "opened from both flanks."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct construction requires inversion: 'No sooner had the column entered...'."
+    },
+    {
+      "qid": 3,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: The number of sorties flown / during the exercise / were far higher / than originally planned.",
+      "options": [
+        "The number of sorties flown",
+        "during the exercise",
+        "were far higher",
+        "than originally planned."
+      ],
+      "correctAnswer": 3,
+      "explanation": "'The number' is singular; use 'was far higher'."
+    },
+    {
+      "qid": 4,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: He suggested that the convoy / should be divided into / two packets so that / neither of them are an easy target.",
+      "options": [
+        "He suggested that the convoy",
+        "should be divided into",
+        "two packets so that",
+        "neither of them are an easy target."
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Neither' takes a singular verb: 'neither of them is an easy target'."
+    },
+    {
+      "qid": 5,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Choose the best improvement: The brigade was ordered to hold the ridgeline at all costs.",
+      "options": [
+        "No improvement",
+        "hold the ridgeline by all costs",
+        "hold the ridgeline on all costs",
+        "hold the ridgeline for all costs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom 'at all costs' is already correct."
+    },
+    {
+      "qid": 6,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "The patrol returned back to the harbour area at first light.",
+      "options": [
+        "returned to the harbour area",
+        "returned back into the harbour area",
+        "had returned back to the harbour area",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Returned back' is tautological; 'returned to' is sufficient."
+    },
+    {
+      "qid": 7,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "If the weather would have been clearer, the drop would have been executed as planned.",
+      "options": [
+        "If the weather had been clearer",
+        "If the weather would be clearer",
+        "If the weather was being clearer",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Third conditional requires 'If + past perfect': 'If the weather had been clearer'."
+    },
+    {
+      "qid": 8,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The commander insisted that the plan ______ before last light.",
+      "options": [
+        "is finalised",
+        "be finalised",
+        "was being finalised",
+        "has been finalised"
+      ],
+      "correctAnswer": 2,
+      "explanation": "After verbs of insistence the mandative subjunctive 'be finalised' is preferred."
+    },
+    {
+      "qid": 9,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The two versions of the after-action report were so ______ that they might have been written by different units.",
+      "options": [
+        "discreet",
+        "discrete",
+        "discrepant",
+        "discretionary"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Discrepant' means inconsistent or conflicting."
+    },
+    {
+      "qid": 10,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of INTRANSIGENT as used in: 'The opposing commander remained intransigent throughout the talks.'",
+      "options": [
+        "flexible",
+        "uncompromising",
+        "indecisive",
+        "courteous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intransigent means refusing to change one's position; uncompromising."
+    },
+    {
+      "qid": 11,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of REDOUND as used in: 'The success of the raid will redound to the credit of the whole battalion.'",
+      "options": [
+        "detract",
+        "contribute",
+        "conceal",
+        "postpone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To redound to means to contribute to or result in (credit or honour)."
+    },
+    {
+      "qid": 12,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of LACONIC.",
+      "options": [
+        "terse",
+        "verbose",
+        "curt",
+        "pithy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Laconic means using few words; verbose is wordy."
+    },
+    {
+      "qid": 13,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of SALUTARY.",
+      "options": [
+        "beneficial",
+        "harmful",
+        "wholesome",
+        "remedial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Salutary means producing a beneficial effect; harmful is the opposite."
+    },
+    {
+      "qid": 14,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'To throw down the gauntlet' means:",
+      "options": [
+        "to surrender unconditionally",
+        "to issue a challenge",
+        "to abandon a post",
+        "to conceal evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The phrase means to challenge someone to a contest."
+    },
+    {
+      "qid": 15,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'To rest on one's oars' means:",
+      "options": [
+        "to work with renewed vigour",
+        "to stop making effort after some success",
+        "to prepare for a long voyage",
+        "to change strategy suddenly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to relax after an achievement instead of continuing to work."
+    },
+    {
+      "qid": 16,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'A storm in a teacup' refers to:",
+      "options": [
+        "a sudden military setback",
+        "an exaggerated fuss over a trivial matter",
+        "a climatic disaster",
+        "an unexpected promotion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It denotes unnecessary agitation about something unimportant."
+    },
+    {
+      "qid": 17,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'To hold a brief for' someone means:",
+      "options": [
+        "to argue in support of",
+        "to keep a secret file on",
+        "to detain temporarily",
+        "to issue written orders to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means to speak or argue in favour of a person or cause."
+    },
+    {
+      "qid": 18,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who is indifferent to pleasure and pain is called a:",
+      "options": [
+        "stoic",
+        "cynic",
+        "sceptic",
+        "hedonist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A stoic remains unmoved by pleasure or pain."
+    },
+    {
+      "qid": 19,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A speech delivered without any previous preparation is:",
+      "options": [
+        "extempore",
+        "elocution",
+        "recitation",
+        "soliloquy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore means spoken without preparation."
+    },
+    {
+      "qid": 20,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Choose the correct passive: 'The engineers had already breached the obstacle.'",
+      "options": [
+        "The obstacle has already been breached by the engineers.",
+        "The obstacle had already been breached by the engineers.",
+        "The obstacle was already being breached by the engineers.",
+        "The obstacle is already breached by the engineers."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past perfect active becomes past perfect passive: had already been breached."
+    },
+    {
+      "qid": 21,
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "He said, 'I will brief the company at 0430 hours tomorrow.' Choose the correct reported speech.",
+      "options": [
+        "He said that he will brief the company at 0430 hours the next day.",
+        "He said that he would brief the company at 0430 hours the next day.",
+        "He said that he would brief the company at 0430 hours tomorrow.",
+        "He said that I would brief the company at 0430 hours the next day."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Will → would; tomorrow → the next day; pronoun I → he."
+    },
+    {
+      "qid": 22,
+      "subject": "English",
+      "chapter": "Ordering of Words",
+      "question": "Arrange P-Q-R-S to complete: The GOC directed that / P: before last light / Q: the minefield / R: be marked and recorded / S: on both sides of the axis",
+      "options": [
+        "QSRP",
+        "QRSP",
+        "QPRS",
+        "SRQP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Natural order: the minefield (Q) be marked and recorded (R) on both sides of the axis (S) before last light (P) → QRSP."
+    },
+    {
+      "qid": 23,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "The battalion was deployed ______ the river and the ridgeline.",
+      "options": [
+        "between",
+        "among",
+        "within",
+        "along with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Between' is used for two clearly identified limits."
+    },
+    {
+      "qid": 24,
+      "subject": "English",
+      "chapter": "Articles",
+      "question": "______ Himalayas form a natural barrier along India's northern frontier.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mountain ranges take the definite article: the Himalayas."
+    },
+    {
+      "qid": 25,
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "A 'defile' in military terrain language is best described as:",
+      "options": [
+        "an open plain suitable for armour",
+        "a narrow pass that constricts movement",
+        "a fortified camp",
+        "a river crossing site"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A defile is a narrow passage, typically between hills, that restricts manoeuvre."
+    },
+    {
+      "qid": 26,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The remainder when 7^2026 is divided by 4 is:",
+      "options": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "7 ≡ −1 (mod 4), so 7^n ≡ (−1)^n (mod 4). Since 2026 is even, remainder = 1."
+    },
+    {
+      "qid": 27,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "If n = 2^4 × 3^2 × 5, the number of even factors of n is:",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Total factors = (4+1)(2+1)(1+1) = 30. Odd factors = (2+1)(1+1) = 6. Even factors = 30 − 6 = 24."
+    },
+    {
+      "qid": 28,
+      "subject": "Mathematics",
+      "chapter": "HCF-LCM",
+      "question": "The HCF of two numbers is 18 and their LCM is 504. If one number is 72, the other is:",
+      "options": [
+        "108",
+        "126",
+        "144",
+        "162"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF × LCM = product of numbers ⇒ 18 × 504 = 72 × x ⇒ x = (18 × 504)/72 = 126."
+    },
+    {
+      "qid": 29,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A quantity is first increased by 25% and then decreased by 20%. The net change is:",
+      "options": [
+        "no change",
+        "increase of 5%",
+        "decrease of 5%",
+        "increase of 2.5%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiplier = 1.25 × 0.80 = 1.00; net change is zero."
+    },
+    {
+      "qid": 30,
+      "subject": "Mathematics",
+      "chapter": "Profit-Loss",
+      "question": "A dealer marks an article 40% above cost and allows a discount of 15%. His profit percent is:",
+      "options": [
+        "19%",
+        "21%",
+        "24%",
+        "25%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 1.40C × 0.85 = 1.19C ⇒ profit = 19%."
+    },
+    {
+      "qid": 31,
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Simple interest on a sum for 3 years at 8% p.a. is Rs 576. The sum is:",
+      "options": [
+        "Rs 2,200",
+        "Rs 2,400",
+        "Rs 2,500",
+        "Rs 2,800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = PRT/100 ⇒ 576 = P×8×3/100 ⇒ P = 57600/24 = 2400."
+    },
+    {
+      "qid": 32,
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "question": "The difference between CI and SI on Rs 8,000 for 2 years at 10% p.a. (annual compounding) is:",
+      "options": [
+        "Rs 80",
+        "Rs 100",
+        "Rs 160",
+        "Rs 800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Difference for 2 years = P(r/100)^2 = 8000 × 0.01 = Rs 80."
+    },
+    {
+      "qid": 33,
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "If A : B = 3 : 4 and B : C = 5 : 6, then A : B : C is:",
+      "options": [
+        "15 : 20 : 24",
+        "3 : 4 : 6",
+        "15 : 20 : 18",
+        "9 : 20 : 24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A : B = 3 : 4 = 15 : 20; B : C = 5 : 6 = 20 : 24; so A : B : C = 15 : 20 : 24."
+    },
+    {
+      "qid": 34,
+      "subject": "Mathematics",
+      "chapter": "Time-Work",
+      "question": "A can do a work in 12 days and B in 18 days. Together they finish it in:",
+      "options": [
+        "6 days",
+        "7.2 days",
+        "7.5 days",
+        "9 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Combined rate = 1/12 + 1/18 = 5/36. Time = 36/5 = 7.2 days."
+    },
+    {
+      "qid": 35,
+      "subject": "Mathematics",
+      "chapter": "Time-Distance",
+      "question": "A train 180 m long running at 54 km/h crosses a platform 120 m long in:",
+      "options": [
+        "16 s",
+        "18 s",
+        "20 s",
+        "24 s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Speed = 54 × 5/18 = 15 m/s. Distance = 300 m. Time = 300/15 = 20 s."
+    },
+    {
+      "qid": 36,
+      "subject": "Mathematics",
+      "chapter": "Time-Distance",
+      "question": "Two men start from the same point and walk in opposite directions at 4 km/h and 5 km/h. They will be 27 km apart after:",
+      "options": [
+        "2 h",
+        "3 h",
+        "3.5 h",
+        "4 h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Relative speed = 9 km/h. Time = 27/9 = 3 h."
+    },
+    {
+      "qid": 37,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x^2 + 1/x^2 equals:",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)^2 = x^2 + 2 + 1/x^2 ⇒ 9 = x^2 + 1/x^2 + 2 ⇒ x^2 + 1/x^2 = 7."
+    },
+    {
+      "qid": 38,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "The roots of 2x^2 − 5x + 2 = 0 are:",
+      "options": [
+        "1 and 2",
+        "1/2 and 2",
+        "2 and 5/2",
+        "−1/2 and −2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2x^2 − 5x + 2 = (2x − 1)(x − 2) = 0 ⇒ x = 1/2, 2."
+    },
+    {
+      "qid": 39,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If a + b + c = 0, then a^3 + b^3 + c^3 equals:",
+      "options": [
+        "0",
+        "abc",
+        "3abc",
+        "a^3b^3c^3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Identity: a^3 + b^3 + c^3 − 3abc = (a+b+c)(...). If a+b+c=0 then a^3+b^3+c^3 = 3abc."
+    },
+    {
+      "qid": 40,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The 15th term of the AP 7, 12, 17, ... is:",
+      "options": [
+        "72",
+        "77",
+        "82",
+        "87"
+      ],
+      "correctAnswer": 2,
+      "explanation": "a = 7, d = 5; T15 = 7 + 14×5 = 77."
+    },
+    {
+      "qid": 41,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The sum of the first 10 terms of the GP 3, 6, 12, ... is:",
+      "options": [
+        "1533",
+        "2046",
+        "3069",
+        "3072"
+      ],
+      "correctAnswer": 3,
+      "explanation": "S_n = a(r^n − 1)/(r − 1) = 3(2^10 − 1)/(2−1) = 3×1023 = 3069."
+    },
+    {
+      "qid": 42,
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "The AM of two numbers is 10 and their GM is 8. The numbers are:",
+      "options": [
+        "4 and 16",
+        "6 and 14",
+        "2 and 18",
+        "8 and 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x+y = 20, xy = 64. Roots of t^2 − 20t + 64 = 0 ⇒ (t−4)(t−16)=0."
+    },
+    {
+      "qid": 43,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "The number of sides of a regular polygon whose each interior angle is 156° is:",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Interior = [(n−2)/n]×180 = 156 ⇒ (n−2)/n = 156/180 = 13/15 ⇒ 15(n−2)=13n ⇒ 15n − 30 = 13n ⇒ 2n=30 ⇒ n=15."
+    },
+    {
+      "qid": 44,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "In a triangle, sides are 13, 14 and 15. The area is:",
+      "options": [
+        "84",
+        "90",
+        "96",
+        "104"
+      ],
+      "correctAnswer": 1,
+      "explanation": "s = 21. Area = √[21(21−13)(21−14)(21−15)] = √[21×8×7×6] = √7056 = 84."
+    },
+    {
+      "qid": 45,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The volume of a cube whose surface area is 384 cm² is:",
+      "options": [
+        "256 cm³",
+        "384 cm³",
+        "512 cm³",
+        "729 cm³"
+      ],
+      "correctAnswer": 3,
+      "explanation": "6a² = 384 ⇒ a² = 64 ⇒ a = 8. Volume = 512 cm³."
+    },
+    {
+      "qid": 46,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "A right circular cylinder has radius 7 cm and height 10 cm. Its curved surface area is:",
+      "options": [
+        "140π cm²",
+        "154π cm²",
+        "220π cm²",
+        "440π cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CSA = 2πrh = 2π×7×10 = 140π cm²."
+    },
+    {
+      "qid": 47,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The volume of a sphere of radius 3 cm is:",
+      "options": [
+        "12π cm³",
+        "18π cm³",
+        "36π cm³",
+        "108π cm³"
+      ],
+      "correctAnswer": 3,
+      "explanation": "V = (4/3)πr³ = (4/3)π×27 = 36π cm³."
+    },
+    {
+      "qid": 48,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "If sin θ = 3/5 and θ is acute, then tan θ equals:",
+      "options": [
+        "3/4",
+        "4/3",
+        "3/5",
+        "4/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cos θ = 4/5; tan θ = 3/4."
+    },
+    {
+      "qid": 49,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "The value of sin² 30° + cos² 60° + tan² 45° is:",
+      "options": [
+        "1",
+        "1.5",
+        "1.75",
+        "2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "sin 30° = 1/2, cos 60° = 1/2, tan 45° = 1. So (1/2)² + (1/2)² + 1 = 0.25 + 0.25 + 1 = 1.5."
+    },
+    {
+      "qid": 50,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "If 2 sin θ = √3, then θ (0° < θ < 90°) is:",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sin θ = √3/2 ⇒ θ = 60°."
+    },
+    {
+      "qid": 51,
+      "subject": "Mathematics",
+      "chapter": "Height-Distance",
+      "question": "The angle of elevation of the top of a 50 m tower from a point on the ground is 30°. The distance of the point from the foot of the tower is:",
+      "options": [
+        "25 m",
+        "25√3 m",
+        "50√3 m",
+        "100 m"
+      ],
+      "correctAnswer": 3,
+      "explanation": "tan 30° = 50/x ⇒ 1/√3 = 50/x ⇒ x = 50√3 m."
+    },
+    {
+      "qid": 52,
+      "subject": "Mathematics",
+      "chapter": "Coordinate",
+      "question": "The distance between the points (2, −3) and (−2, 0) is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correctAnswer": 3,
+      "explanation": "d = √[(2+2)² + (−3−0)²] = √(16+9) = 5."
+    },
+    {
+      "qid": 53,
+      "subject": "Mathematics",
+      "chapter": "Coordinate",
+      "question": "The midpoint of the segment joining (4, −2) and (−2, 6) is:",
+      "options": [
+        "(1, 2)",
+        "(1, 4)",
+        "(3, 2)",
+        "(2, 2)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Midpoint = ((4−2)/2, (−2+6)/2) = (1, 2)."
+    },
+    {
+      "qid": 54,
+      "subject": "Mathematics",
+      "chapter": "Coordinate",
+      "question": "The slope of the line passing through (1, 2) and (5, 10) is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "m = (10−2)/(5−1) = 8/4 = 2."
+    },
+    {
+      "qid": 55,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "The mean of 5, 7, 9, 11 and 13 is:",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = 45; mean = 45/5 = 9."
+    },
+    {
+      "qid": 56,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If the mean of 6, 8, x, 12 and 14 is 10, then x is:",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = 50. 6+8+x+12+14 = 40+x = 50 ⇒ x = 10."
+    },
+    {
+      "qid": 57,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "A fair die is thrown. Probability of getting a prime number is:",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "2/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primes on a die: 2, 3, 5 (three outcomes). P = 3/6 = 1/2."
+    },
+    {
+      "qid": 58,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "Two coins are tossed. Probability of getting at least one head is:",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Outcomes: HH, HT, TH, TT. At least one head = 3/4."
+    },
+    {
+      "qid": 59,
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A) = 20, n(B) = 28 and n(A ∩ B) = 12, then n(A ∪ B) is:",
+      "options": [
+        "36",
+        "40",
+        "48",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "n(A ∪ B) = 20 + 28 − 12 = 36."
+    },
+    {
+      "qid": 60,
+      "subject": "Mathematics",
+      "chapter": "Logarithms",
+      "question": "If log₁₀ 2 = 0.3010, then log₁₀ 8 equals:",
+      "options": [
+        "0.6020",
+        "0.9030",
+        "2.4080",
+        "0.2408"
+      ],
+      "correctAnswer": 2,
+      "explanation": "log 8 = log(2³) = 3 × 0.3010 = 0.9030."
+    },
+    {
+      "qid": 61,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Which Article of the Constitution of India deals with the amendment procedure?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 368",
+        "Article 370"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 368 lays down the power of Parliament to amend the Constitution and the procedure thereof."
+    },
+    {
+      "qid": 62,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The concept of 'Judicial Review' in India is borrowed from the Constitution of:",
+      "options": [
+        "UK",
+        "USA",
+        "Ireland",
+        "Canada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Judicial review as practised in India is primarily inspired by the US Constitution."
+    },
+    {
+      "qid": 63,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "President of India",
+        "Vice-President of India",
+        "Prime Minister",
+        "Speaker of the Lok Sabha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 64: the Vice-President is ex-officio Chairman of the Council of States."
+    },
+    {
+      "qid": 64,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The Finance Commission of India is constituted under which Article?",
+      "options": [
+        "Article 266",
+        "Article 275",
+        "Article 280",
+        "Article 300A"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 280 provides for a Finance Commission every five years."
+    },
+    {
+      "qid": 65,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Which of the following is a Fundamental Duty under Article 51A?",
+      "options": [
+        "To pay taxes honestly",
+        "To safeguard public property",
+        "To form trade unions",
+        "To receive free legal aid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 51A(i) requires every citizen to safeguard public property and to abjure violence."
+    },
+    {
+      "qid": 66,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Battle of Plassey was fought in the year:",
+      "options": [
+        "1757",
+        "1764",
+        "1761",
+        "1772"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Clive defeated Siraj-ud-Daulah at Plassey on 23 June 1757."
+    },
+    {
+      "qid": 67,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who among the following founded the Slave (Mamluk) dynasty in Delhi?",
+      "options": [
+        "Iltutmish",
+        "Balban",
+        "Qutb-ud-din Aibak",
+        "Razia Sultan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qutb-ud-din Aibak, a general of Muhammad Ghori, established the Slave dynasty in 1206."
+    },
+    {
+      "qid": 68,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Third Battle of Panipat (1761) was fought between the Marathas and:",
+      "options": [
+        "Ahmad Shah Abdali",
+        "Nadir Shah",
+        "Tipu Sultan",
+        "Lord Lake"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ahmad Shah Abdali (Durrani) defeated the Maratha confederacy at Panipat in 1761."
+    },
+    {
+      "qid": 69,
+      "subject": "General Knowledge",
+      "chapter": "Freedom Struggle",
+      "question": "The slogan 'Do or Die' was given by Mahatma Gandhi during:",
+      "options": [
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "Quit India Movement",
+        "Khilafat Movement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gandhi gave the 'Do or Die' call at the launch of the Quit India Movement in August 1942."
+    },
+    {
+      "qid": 70,
+      "subject": "General Knowledge",
+      "chapter": "Freedom Struggle",
+      "question": "Who presided over the Lahore Session of the Indian National Congress in 1929?",
+      "options": [
+        "Motilal Nehru",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru presided; the session adopted the Purna Swaraj resolution."
+    },
+    {
+      "qid": 71,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+      "options": [
+        "Rajasthan",
+        "Jharkhand",
+        "Odisha",
+        "Tripura"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Tropic of Cancer passes through Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram — not Odisha."
+    },
+    {
+      "qid": 72,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Gandak",
+        "Kosi",
+        "Son",
+        "Bagmati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kosi is notorious for frequent course changes and floods in north Bihar."
+    },
+    {
+      "qid": 73,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The highest peak in the Western Ghats is:",
+      "options": [
+        "Anamudi",
+        "Doddabetta",
+        "Mullayanagiri",
+        "Kalsubai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anamudi (2,695 m) in Kerala is the highest peak of the Western Ghats."
+    },
+    {
+      "qid": 74,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which of the following is a cold ocean current?",
+      "options": [
+        "Kuroshio",
+        "Gulf Stream",
+        "Benguela",
+        "Agulhas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Benguela Current off south-west Africa is a cold current."
+    },
+    {
+      "qid": 75,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Black cotton soils (regur) of the Deccan are mainly derived from:",
+      "options": [
+        "granite",
+        "basalt",
+        "limestone",
+        "sandstone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Regur develops on Deccan Trap basalt."
+    },
+    {
+      "qid": 76,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Which body in India is responsible for conducting the Census?",
+      "options": [
+        "NITI Aayog",
+        "Registrar General and Census Commissioner",
+        "NSSO",
+        "Election Commission"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Office of the Registrar General and Census Commissioner, under the Home Ministry, conducts the Census."
+    },
+    {
+      "qid": 77,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST in India is administered as a:",
+      "options": [
+        "central tax only",
+        "state tax only",
+        "dual tax (Centre and States)",
+        "municipal tax"
+      ],
+      "correctAnswer": 3,
+      "explanation": "India follows a dual GST model with CGST, SGST/UTGST and IGST."
+    },
+    {
+      "qid": 78,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "The repo rate is the rate at which:",
+      "options": [
+        "banks lend to RBI",
+        "RBI lends to commercial banks against securities",
+        "banks lend to each other overnight",
+        "government borrows from the public"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Repo is the rate at which the RBI injects liquidity by lending to banks against collateral."
+    },
+    {
+      "qid": 79,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The SI unit of luminous intensity is:",
+      "options": [
+        "lux",
+        "lumen",
+        "candela",
+        "watt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Candela (cd) is the SI base unit of luminous intensity."
+    },
+    {
+      "qid": 80,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Work",
+        "Power",
+        "Momentum",
+        "Energy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Momentum (p = mv) has both magnitude and direction."
+    },
+    {
+      "qid": 81,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The pH of a neutral aqueous solution at 25°C is:",
+      "options": [
+        "0",
+        "5",
+        "7",
+        "14"
+      ],
+      "correctAnswer": 3,
+      "explanation": "At 25°C, [H+] = 10⁻⁷ mol/L, so pH = 7."
+    },
+    {
+      "qid": 82,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which gas is the major constituent of biogas?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Hydrogen sulphide",
+        "Nitrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Biogas is typically 50–70% methane."
+    },
+    {
+      "qid": 83,
+      "subject": "General Knowledge",
+      "chapter": "Biology",
+      "question": "The functional unit of the kidney is the:",
+      "options": [
+        "neuron",
+        "nephron",
+        "alveolus",
+        "hepatocyte"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each kidney contains about a million nephrons that filter blood."
+    },
+    {
+      "qid": 84,
+      "subject": "General Knowledge",
+      "chapter": "Biology",
+      "question": "Vitamin D deficiency in children causes:",
+      "options": [
+        "scurvy",
+        "beriberi",
+        "rickets",
+        "pellagra"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rickets is the childhood manifestation of vitamin D deficiency."
+    },
+    {
+      "qid": 85,
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "The Montreal Protocol is associated with:",
+      "options": [
+        "greenhouse gas emission cuts",
+        "protection of the ozone layer",
+        "biodiversity conservation",
+        "desertification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 1987 Montreal Protocol phases out ozone-depleting substances."
+    },
+    {
+      "qid": 86,
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "Project Tiger was launched in India in the year:",
+      "options": [
+        "1972",
+        "1973",
+        "1982",
+        "1986"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Project Tiger was launched on 1 April 1973."
+    },
+    {
+      "qid": 87,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The headquarters of the Indian Army's Northern Command is located at:",
+      "options": [
+        "Lucknow",
+        "Pune",
+        "Udhampur",
+        "Kolkata"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Northern Command HQ is at Udhampur, Jammu and Kashmir."
+    },
+    {
+      "qid": 88,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "INS Vikrant, commissioned in 2022, is India's first:",
+      "options": [
+        "nuclear submarine",
+        "indigenously built aircraft carrier",
+        "stealth destroyer",
+        "fleet tanker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "IAC-1 INS Vikrant is India's first indigenously designed and built aircraft carrier."
+    },
+    {
+      "qid": 89,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The highest gallantry award in India during peacetime is:",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Kirti Chakra",
+        "Shaurya Chakra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ashoka Chakra is the peacetime equivalent of the Param Vir Chakra."
+    },
+    {
+      "qid": 90,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Siachen Glacier is part of which mountain range system?",
+      "options": [
+        "Pir Panjal",
+        "Karakoram",
+        "Zanskar",
+        "Ladakh Range"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Siachen lies in the eastern Karakoram."
+    },
+    {
+      "qid": 91,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The Indian Air Force celebrates its anniversary on:",
+      "options": [
+        "15 January",
+        "8 October",
+        "4 December",
+        "1 February"
+      ],
+      "correctAnswer": 2,
+      "explanation": "IAF Day is observed on 8 October, marking its raising in 1932."
+    },
+    {
+      "qid": 92,
+      "subject": "General Knowledge",
+      "chapter": "International",
+      "question": "The headquarters of the International Court of Justice is at:",
+      "options": [
+        "Geneva",
+        "New York",
+        "The Hague",
+        "Vienna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands."
+    },
+    {
+      "qid": 93,
+      "subject": "General Knowledge",
+      "chapter": "International",
+      "question": "Which country is NOT a permanent member of the UN Security Council?",
+      "options": [
+        "France",
+        "China",
+        "Germany",
+        "United Kingdom"
+      ],
+      "correctAnswer": 3,
+      "explanation": "P5: China, France, Russia, UK, USA. Germany is not a permanent member."
+    },
+    {
+      "qid": 94,
+      "subject": "General Knowledge",
+      "chapter": "International",
+      "question": "BIMSTEC brings together countries of:",
+      "options": [
+        "Bay of Bengal region",
+        "Pacific islands",
+        "Central Asia",
+        "West Africa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BIMSTEC is the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation."
+    },
+    {
+      "qid": 95,
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "The term 'Lona' is associated with which sport?",
+      "options": [
+        "Kabaddi",
+        "Kho-kho",
+        "Hockey",
+        "Wrestling"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In kabaddi, all-out of the opposing team is called a lona."
+    },
+    {
+      "qid": 96,
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "The Olympic motto 'Citius, Altius, Fortius' means:",
+      "options": [
+        "Peace, Unity, Strength",
+        "Faster, Higher, Stronger",
+        "Mind, Body, Spirit",
+        "One World, One Dream"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Latin for Faster, Higher, Stronger (now '... Together')."
+    },
+    {
+      "qid": 97,
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "The Bharat Ratna was instituted in the year:",
+      "options": [
+        "1952",
+        "1954",
+        "1956",
+        "1961"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bharat Ratna was instituted in 1954."
+    },
+    {
+      "qid": 98,
+      "subject": "General Knowledge",
+      "chapter": "Books-Authors",
+      "question": "'The Discovery of India' was written by:",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "S. Radhakrishnan",
+        "Rabindranath Tagore"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nehru wrote it during his imprisonment at Ahmednagar Fort (1942–46)."
+    },
+    {
+      "qid": 99,
+      "subject": "General Knowledge",
+      "chapter": "Culture",
+      "question": "Kathakali is a classical dance-drama form of:",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kathakali originated in Kerala."
+    },
+    {
+      "qid": 100,
+      "subject": "General Knowledge",
+      "chapter": "Current/Institutions",
+      "question": "NITI Aayog replaced which earlier body?",
+      "options": [
+        "Finance Commission",
+        "Planning Commission",
+        "National Development Council",
+        "Inter-State Council"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NITI Aayog replaced the Planning Commission in 2015."
+    }
+  ]
+}
