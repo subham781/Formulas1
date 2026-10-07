@@ -42,7 +42,6 @@ if (!getApps().length) {
 }
 const db = getDatabase();
 
-// GitHub folder → Firebase exam name under mockTests
 const EXAM_MAP = {
   SSC_CGL: 'SSC_CGL',
   SSC_MTS: 'SSC_MTS',
@@ -116,8 +115,6 @@ async function main() {
     const jsonUrl =
       `https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/${rel}`;
 
-    // User format:
-    // mockTests / Exam / fullLength / testSeries / Test N
     const meta = {
       duration,
       jsonUrl,
@@ -127,7 +124,8 @@ async function main() {
       title,
     };
 
-    const fbPath = `mockTests/${exam}/fullLength/testSeries/${testKey}`;
+    // Direct under fullLength: mockTests/Exam/fullLength/Test N
+    const fbPath = `mockTests/${exam}/fullLength/${testKey}`;
     try {
       await db.ref(fbPath).set(meta);
       console.log('OK', fbPath);
