@@ -32,6 +32,15 @@ function findPapers(dir, list = []) {
   return list;
 }
 
+function detectLevel(title) {
+  if (!title) return 'Hard';
+  const t = String(title).toLowerCase();
+  if (t.includes('easy')) return 'Easy';
+  if (t.includes('medium')) return 'Medium';
+  if (t.includes('hard')) return 'Hard';
+  return 'Hard';
+}
+
 async function main() {
   const root = process.cwd();
   const files = findPapers(root);
@@ -53,22 +62,58 @@ async function main() {
     const num = match[1].padStart(2, '0');
     const mockKey = `mock_${num}`;
 
-    const paper = JSON.parse(fs.readFileSync(file, 'utf8'));
+    let paper;
+    try {
+      paper = JSON.parse(fs.readFileSync(file, 'utf8'));
+    } catch (e) {
+      console.log('Skip invalid JSON:', rel);
+      continue;
+    }
+
+    const qCount = (paper.questions && paper.questions.length) || paper.totalQuestions || 0;
+    if (qCount < 10) {
+      console.log('Skip incomplete paper:', rel, 'questions=', qCount);
+      continue;
+    }
+
+    const title =
+      paper.title ||
+      `${exam} Full Length Mock Test ${num} (Hard Level)`;
+    const level = paper.level || detectLevel(title);
+    const duration = paper.durationMinutes || paper.duration || 60;
+    const marks = paper.marksPerQuestion || paper.marks || 2;
+    const negativeMarks =
+      paper.negativeMarks !== undefined && paper.negativeMarks !== null
+        ? paper.negativeMarks
+        : 0.5;
+    const questions = paper.totalQuestions || qCount;
+
     const rawUrl =
       `https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/${rel}`;
 
+    // Full Firebase meta — same style as before
     const meta = {
-      title: paper.title || `${exam} Full Length Mock ${num}`,
-      duration: paper.durationMinutes || 60,
-      marks: paper.marksPerQuestion || 2,
-      negativeMarks: paper.negativeMarks ?? 0.5,
-      questions: paper.totalQuestions || (paper.questions || []).length,
+      title: title,
+      level: level,
+      duration: duration,
+      time: duration,
+      marks: marks,
+      marksPerQuestion: marks,
+      negativeMarks: negativeMarks,
+      questions: questions,
+      totalQuestions: questions,
       jsonUrl: rawUrl,
+      exam: paper.exam || exam,
+      testType: paper.testType || 'fullLength',
+      testId: paper.testId || `${exam.toLowerCase()}_full_length_mock_${num}`,
     };
 
     const fbPath = `${exam}/fullLength/testSeries/${mockKey}`;
     await db.ref(fbPath).set(meta);
-    console.log('Synced', fbPath, '->', rawUrl);
+    console.log('Synced', fbPath);
+    console.log('  title:', meta.title);
+    console.log('  questions:', meta.questions, '| duration:', meta.duration, '| level:', meta.level);
+    console.log('  jsonUrl:', meta.jsonUrl);
     count++;
   }
 
