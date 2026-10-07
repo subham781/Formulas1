@@ -1,0 +1,29 @@
+name: Sync papers to Firebase
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/Full_Length/*.json'
+      - '**/fullLength/**/*.json'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install firebase-admin
+        run: npm install firebase-admin
+
+      - name: Sync to Firebase RTDB
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+        run: node scripts/sync-firebase.js
