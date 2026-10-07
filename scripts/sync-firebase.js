@@ -20,7 +20,6 @@ try {
   process.exit(1);
 }
 
-// GitHub secrets often store \n as literal text
 if (sa.private_key && typeof sa.private_key === 'string') {
   sa.private_key = sa.private_key.replace(/\\n/g, '\n');
 }
@@ -32,7 +31,6 @@ if (!sa.project_id || !sa.private_key || !sa.client_email) {
 }
 
 const databaseURL = mustEnv('FIREBASE_DATABASE_URL').replace(/\/$/, '');
-console.log('Database URL set: yes');
 console.log('Service account email:', sa.client_email);
 console.log('Project id:', sa.project_id);
 
@@ -44,6 +42,7 @@ if (!getApps().length) {
 }
 const db = getDatabase();
 
+// GitHub folder → Firebase exam name under mockTests
 const EXAM_MAP = {
   SSC_CGL: 'SSC_CGL',
   SSC_MTS: 'SSC_MTS',
@@ -117,6 +116,8 @@ async function main() {
     const jsonUrl =
       `https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/${rel}`;
 
+    // User format:
+    // mockTests / Exam / fullLength / testSeries / Test N
     const meta = {
       duration,
       jsonUrl,
@@ -126,7 +127,7 @@ async function main() {
       title,
     };
 
-    const fbPath = `${exam}/fullLength/testSeries/${testKey}`;
+    const fbPath = `mockTests/${exam}/fullLength/testSeries/${testKey}`;
     try {
       await db.ref(fbPath).set(meta);
       console.log('OK', fbPath);
