@@ -6,6 +6,7 @@ on:
     paths:
       - '**/Full_Length/*.json'
       - '**/fullLength/**/*.json'
+      - 'scripts/sync-firebase.js'
   workflow_dispatch:
 
 jobs:
@@ -17,7 +18,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Install firebase-admin
         run: npm install firebase-admin

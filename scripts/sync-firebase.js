@@ -2,29 +2,52 @@ const admin = require('firebase-admin');
 const fs = require('fs');
 const path = require('path');
 
-const sa = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+function mustEnv(name) {
+  const v = process.env[name];
+  if (!v || !String(v).trim()) {
+    console.error('MISSING SECRET:', name);
+    console.error('GitHub → Settings → Secrets → Actions me add karo:', name);
+    process.exit(1);
+  }
+  return v;
+}
+
+let sa;
+try {
+  sa = JSON.parse(mustEnv('FIREBASE_SERVICE_ACCOUNT'));
+} catch (e) {
+  console.error('FIREBASE_SERVICE_ACCOUNT invalid JSON. Poori service account file paste karo.');
+  console.error(e.message);
+  process.exit(1);
+}
+
+const databaseURL = mustEnv('FIREBASE_DATABASE_URL').replace(/\/$/, '');
+console.log('Database URL:', databaseURL);
+console.log('Service account email:', sa.client_email || '(missing)');
+
 admin.initializeApp({
   credential: admin.credential.cert(sa),
-  databaseURL: process.env.FIREBASE_DATABASE_URL,
+  databaseURL,
 });
 const db = admin.database();
 
 const EXAM_MAP = {
-  'SSC_CGL': 'SSC_CGL',
-  'SSC_MTS': 'SSC_MTS',
-  'SSC_CPO': 'SSC_CPO',
-  'SSC_CHSL': 'SSC_CHSL',
-  'SSC_GD': 'SSC_GD',
-  'NDA': 'NDA',
-  'CDS': 'CDS',
-  'Navy': 'Navy',
-  'Army': 'Army',
-  'Air_Force': 'Air_Force',
+  SSC_CGL: 'SSC_CGL',
+  SSC_MTS: 'SSC_MTS',
+  SSC_CPO: 'SSC_CPO',
+  SSC_CHSL: 'SSC_CHSL',
+  SSC_GD: 'SSC_GD',
+  NDA: 'NDA',
+  CDS: 'CDS',
+  Navy: 'Navy',
+  Army: 'Army',
+  Air_Force: 'Air_Force',
 };
 
 function findPapers(dir, list = []) {
   if (!fs.existsSync(dir)) return list;
   for (const name of fs.readdirSync(dir)) {
+    if (name === '.git' || name === 'node_modules' || name === 'scripts') continue;
     const full = path.join(dir, name);
     if (fs.statSync(full).isDirectory()) findPapers(full, list);
     else if (name.endsWith('.json') && !name.includes('firebase')) list.push(full);
@@ -32,18 +55,10 @@ function findPapers(dir, list = []) {
   return list;
 }
 
-function detectLevel(title) {
-  if (!title) return 'Hard';
-  const t = String(title).toLowerCase();
-  if (t.includes('easy')) return 'Easy';
-  if (t.includes('medium')) return 'Medium';
-  if (t.includes('hard')) return 'Hard';
-  return 'Hard';
-}
-
 async function main() {
   const root = process.cwd();
   const files = findPapers(root);
+  console.log('Found json files:', files.length);
   let count = 0;
 
   for (const file of files) {
@@ -51,16 +66,15 @@ async function main() {
     const parts = rel.split('/');
     if (parts.length < 3) continue;
 
-    const examFolder = parts[0];
-    const exam = EXAM_MAP[examFolder];
+    const exam = EXAM_MAP[parts[0]];
     if (!exam) continue;
 
     const fileName = parts[parts.length - 1];
     const match = fileName.match(/mock[_-]?(\d+)/i);
     if (!match) continue;
 
-    const num = match[1].padStart(2, '0');
-    const mockKey = `mock_${num}`;
+    const n = parseInt(match[1], 10);
+    const testKey = `Test ${n}`;
 
     let paper;
     try {
@@ -70,16 +84,16 @@ async function main() {
       continue;
     }
 
-    const qCount = (paper.questions && paper.questions.length) || paper.totalQuestions || 0;
+    const qCount =
+      (paper.questions && paper.questions.length) || paper.totalQuestions || 0;
     if (qCount < 10) {
-      console.log('Skip incomplete paper:', rel, 'questions=', qCount);
+      console.log('Skip incomplete:', rel, 'q=', qCount);
       continue;
     }
 
     const title =
       paper.title ||
-      `${exam} Full Length Mock Test ${num} (Hard Level)`;
-    const level = paper.level || detectLevel(title);
+      `${exam} Full Length Mock Test ${String(n).padStart(2, '0')} (Hard Level)`;
     const duration = paper.durationMinutes || paper.duration || 60;
     const marks = paper.marksPerQuestion || paper.marks || 2;
     const negativeMarks =
@@ -87,41 +101,41 @@ async function main() {
         ? paper.negativeMarks
         : 0.5;
     const questions = paper.totalQuestions || qCount;
-
-    const rawUrl =
+    const jsonUrl =
       `https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/${rel}`;
 
-    // Full Firebase meta — same style as before
+    // EXACT format user uses
     const meta = {
-      title: title,
-      level: level,
-      duration: duration,
-      time: duration,
-      marks: marks,
-      marksPerQuestion: marks,
-      negativeMarks: negativeMarks,
-      questions: questions,
-      totalQuestions: questions,
-      jsonUrl: rawUrl,
-      exam: paper.exam || exam,
-      testType: paper.testType || 'fullLength',
-      testId: paper.testId || `${exam.toLowerCase()}_full_length_mock_${num}`,
+      duration,
+      jsonUrl,
+      marks,
+      negativeMarks,
+      questions,
+      title,
     };
 
-    const fbPath = `${exam}/fullLength/testSeries/${mockKey}`;
-    await db.ref(fbPath).set(meta);
-    console.log('Synced', fbPath);
-    console.log('  title:', meta.title);
-    console.log('  questions:', meta.questions, '| duration:', meta.duration, '| level:', meta.level);
-    console.log('  jsonUrl:', meta.jsonUrl);
-    count++;
+    // Path: Air_Force/fullLength/testSeries/Test 2
+    const fbPath = `${exam}/fullLength/testSeries/${testKey}`;
+    try {
+      await db.ref(fbPath).set(meta);
+      console.log('OK', fbPath);
+      console.log(JSON.stringify(meta, null, 2));
+      count++;
+    } catch (e) {
+      console.error('FAIL write', fbPath, e.message);
+      throw e;
+    }
   }
 
   console.log('Done. Synced', count, 'papers');
+  if (count === 0) {
+    console.error('No complete papers found under Exam/Full_Length/*.json');
+    process.exit(1);
+  }
   process.exit(0);
 }
 
 main().catch((e) => {
-  console.error(e);
+  console.error('FATAL:', e.message || e);
   process.exit(1);
 });
