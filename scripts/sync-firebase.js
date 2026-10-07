@@ -1,4 +1,5 @@
-const admin = require('firebase-admin');
+const { initializeApp, cert, getApps } = require('firebase-admin/app');
+const { getDatabase } = require('firebase-admin/database');
 const fs = require('fs');
 const path = require('path');
 
@@ -6,7 +7,6 @@ function mustEnv(name) {
   const v = process.env[name];
   if (!v || !String(v).trim()) {
     console.error('MISSING SECRET:', name);
-    console.error('GitHub → Settings → Secrets → Actions me add karo:', name);
     process.exit(1);
   }
   return v;
@@ -16,20 +16,33 @@ let sa;
 try {
   sa = JSON.parse(mustEnv('FIREBASE_SERVICE_ACCOUNT'));
 } catch (e) {
-  console.error('FIREBASE_SERVICE_ACCOUNT invalid JSON. Poori service account file paste karo.');
-  console.error(e.message);
+  console.error('FIREBASE_SERVICE_ACCOUNT invalid JSON:', e.message);
+  process.exit(1);
+}
+
+// GitHub secrets often store \n as literal text
+if (sa.private_key && typeof sa.private_key === 'string') {
+  sa.private_key = sa.private_key.replace(/\\n/g, '\n');
+}
+
+if (!sa.project_id || !sa.private_key || !sa.client_email) {
+  console.error('Service account missing fields. Need: project_id, private_key, client_email');
+  console.error('Keys found:', Object.keys(sa).join(', '));
   process.exit(1);
 }
 
 const databaseURL = mustEnv('FIREBASE_DATABASE_URL').replace(/\/$/, '');
-console.log('Database URL:', databaseURL);
-console.log('Service account email:', sa.client_email || '(missing)');
+console.log('Database URL set: yes');
+console.log('Service account email:', sa.client_email);
+console.log('Project id:', sa.project_id);
 
-admin.initializeApp({
-  credential: admin.credential.cert(sa),
-  databaseURL,
-});
-const db = admin.database();
+if (!getApps().length) {
+  initializeApp({
+    credential: cert(sa),
+    databaseURL,
+  });
+}
+const db = getDatabase();
 
 const EXAM_MAP = {
   SSC_CGL: 'SSC_CGL',
@@ -104,7 +117,6 @@ async function main() {
     const jsonUrl =
       `https://raw.githubusercontent.com/subham781/Formulas1/refs/heads/main/${rel}`;
 
-    // EXACT format user uses
     const meta = {
       duration,
       jsonUrl,
@@ -114,12 +126,10 @@ async function main() {
       title,
     };
 
-    // Path: Air_Force/fullLength/testSeries/Test 2
     const fbPath = `${exam}/fullLength/testSeries/${testKey}`;
     try {
       await db.ref(fbPath).set(meta);
       console.log('OK', fbPath);
-      console.log(JSON.stringify(meta, null, 2));
       count++;
     } catch (e) {
       console.error('FAIL write', fbPath, e.message);
