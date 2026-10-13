@@ -1,1 +1,34 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "testId": "SSC_CGL_TIER1_MOCK_17",
+  "exam": "SSC CGL",
+  "testType": "Full Length",
+  "title": "SSC CGL Tier-1 Full Mock Test 17 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CGL Tier-1. 100 questions covering Reasoning, General Awareness, Quantitative Aptitude and English.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.",
+    "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CGL Tier-1 latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "CGL1701",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book : Author :: Song : ?",
+      "options": [
+        "Composer",
+        "Singer",
+        "Musician",
+        "Lyricist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A book is created by an author; a song is created by a composer."
+    }
+  ]
+}
