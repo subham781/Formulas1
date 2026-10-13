@@ -18,5 +18,1406 @@
     "The paper covers English, Elementary Mathematics and General Knowledge as in CDS.",
     "Use of calculator or electronic device is not permitted."
   ],
-  "questions": []
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: The committee / have decided / to postpone / the meeting.",
+      "options": [
+        "The committee",
+        "have decided",
+        "to postpone",
+        "the meeting."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Committee as a collective noun is singular here; use has decided."
+    },
+    {
+      "qid": 2,
+      "subject": "English",
+      "chapter": "Spotting Errors",
+      "question": "Identify the error: Each of the soldiers / were given / a medal / for bravery.",
+      "options": [
+        "Each of the soldiers",
+        "were given",
+        "a medal",
+        "for bravery."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each is singular; use was given."
+    },
+    {
+      "qid": 3,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The officer ______ the orders with utmost precision.",
+      "options": [
+        "carried out",
+        "carried on",
+        "carried off",
+        "carried away"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carried out means executed/performed."
+    },
+    {
+      "qid": 4,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "She is ______ of her achievements in the armed forces.",
+      "options": [
+        "proud",
+        "pride",
+        "prideful",
+        "proudly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proud is the correct adjective."
+    },
+    {
+      "qid": 5,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Candid':",
+      "options": [
+        "Frank",
+        "Secretive",
+        "Dishonest",
+        "Reserved"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candid means frank and open."
+    },
+    {
+      "qid": 6,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Mitigate':",
+      "options": [
+        "Aggravate",
+        "Alleviate",
+        "Intensify",
+        "Worsen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitigate means to make less severe; alleviate."
+    },
+    {
+      "qid": 7,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Benevolent':",
+      "options": [
+        "Kind",
+        "Malevolent",
+        "Generous",
+        "Charitable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benevolent means kind; malevolent is the opposite."
+    },
+    {
+      "qid": 8,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Obsolete':",
+      "options": [
+        "Outdated",
+        "Modern",
+        "Ancient",
+        "Useless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Obsolete means outdated; modern is opposite."
+    },
+    {
+      "qid": 9,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "Meaning of 'Bite the bullet':",
+      "options": [
+        "To eat quickly",
+        "To endure a painful situation",
+        "To fight bravely",
+        "To avoid responsibility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bite the bullet means to face a difficult situation bravely."
+    },
+    {
+      "qid": 10,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "Meaning of 'Hit the nail on the head':",
+      "options": [
+        "To hammer something",
+        "To be exactly correct",
+        "To injure someone",
+        "To finish a task"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Means to describe exactly what is causing a situation or problem."
+    },
+    {
+      "qid": 11,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Improve: The troops was marching in perfect order.",
+      "options": [
+        "The troops were marching in perfect order.",
+        "The troop was marching in perfect order.",
+        "The troops is marching in perfect order.",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Troops is plural; use were."
+    },
+    {
+      "qid": 12,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Improve: He is senior than me in service.",
+      "options": [
+        "He is senior to me in service.",
+        "He is senior from me in service.",
+        "He is more senior than me in service.",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senior takes 'to' not 'than'."
+    },
+    {
+      "qid": 13,
+      "subject": "English",
+      "chapter": "Reading Comprehension",
+      "question": "Passage: The Indian Armed Forces have always upheld the highest standards of discipline and valour. From the snowy heights of the Himalayas to the deserts of Rajasthan, the soldiers have displayed exemplary courage. Their commitment to the nation remains unwavering. Q: What quality of the soldiers is highlighted?",
+      "options": [
+        "Discipline and valour",
+        "Wealth and power",
+        "Technology and speed",
+        "Numbers and size"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The passage emphasizes discipline and valour."
+    },
+    {
+      "qid": 14,
+      "subject": "English",
+      "chapter": "Reading Comprehension",
+      "question": "From the same passage: The soldiers have displayed exemplary courage in:",
+      "options": [
+        "Only Himalayas",
+        "Only Rajasthan",
+        "From Himalayas to Rajasthan",
+        "Only plains"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mentioned from snowy heights to deserts of Rajasthan."
+    },
+    {
+      "qid": 15,
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "The general ______ the troops to advance cautiously.",
+      "options": [
+        "ordered",
+        "order",
+        "ordering",
+        "orders"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past tense ordered fits the context."
+    },
+    {
+      "qid": 16,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who is skilled in foreign languages is called:",
+      "options": [
+        "Linguist",
+        "Polyglot",
+        "Translator",
+        "Interpreter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Polyglot is one who knows several languages."
+    },
+    {
+      "qid": 17,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "Government by a few is called:",
+      "options": [
+        "Monarchy",
+        "Democracy",
+        "Oligarchy",
+        "Anarchy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Oligarchy is rule by a small group."
+    },
+    {
+      "qid": 18,
+      "subject": "English",
+      "chapter": "Spellings",
+      "question": "Correct spelling:",
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acomodation",
+        "Accomodaton"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Accommodation is the correct spelling."
+    },
+    {
+      "qid": 19,
+      "subject": "English",
+      "chapter": "Spellings",
+      "question": "Correct spelling:",
+      "options": [
+        "Occassion",
+        "Occasion",
+        "Ocassion",
+        "Occassion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Occasion is correct."
+    },
+    {
+      "qid": 20,
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Change to passive: The captain led the battalion.",
+      "options": [
+        "The battalion was led by the captain.",
+        "The battalion is led by the captain.",
+        "The battalion were led by the captain.",
+        "The captain was led by the battalion."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past active becomes was led."
+    },
+    {
+      "qid": 21,
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "He said, 'I am going to the front.'",
+      "options": [
+        "He said that he was going to the front.",
+        "He said that I am going to the front.",
+        "He said that he is going to the front.",
+        "He said that he went to the front."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous becomes past continuous in reported speech."
+    },
+    {
+      "qid": 22,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "He is adept ______ handling firearms.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adept at something."
+    },
+    {
+      "qid": 23,
+      "subject": "English",
+      "chapter": "Conjunctions",
+      "question": "______ he was injured, he continued fighting.",
+      "options": [
+        "Although",
+        "Because",
+        "So",
+        "If"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Although shows contrast."
+    },
+    {
+      "qid": 24,
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Meaning of 'Intransigent':",
+      "options": [
+        "Flexible",
+        "Uncompromising",
+        "Friendly",
+        "Weak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intransigent means unwilling to change one's views or to agree."
+    },
+    {
+      "qid": 25,
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Meaning of 'Pragmatic':",
+      "options": [
+        "Idealistic",
+        "Practical",
+        "Theoretical",
+        "Emotional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pragmatic means dealing with things sensibly and realistically."
+    },
+    {
+      "qid": 26,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The HCF of 36, 48 and 60 is:",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 36,48,60 is 12."
+    },
+    {
+      "qid": 27,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The LCM of 15, 20 and 25 is:",
+      "options": [
+        "150",
+        "300",
+        "75",
+        "100"
+      ],
+      "correctAnswer": 2,
+      "explanation": "LCM of 15,20,25 is 300."
+    },
+    {
+      "qid": 28,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": [
+        "0%",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Net effect is 4% decrease."
+    },
+    {
+      "qid": 29,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If 40% of a number is 80, the number is:",
+      "options": [
+        "160",
+        "200",
+        "240",
+        "320"
+      ],
+      "correctAnswer": 2,
+      "explanation": "0.4x=80 => x=200."
+    },
+    {
+      "qid": 30,
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "A man buys an article for ₹500 and sells it for ₹600. Profit % is:",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Profit=100 on 500 = 20%."
+    },
+    {
+      "qid": 31,
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "Cost price of an article is ₹800. If sold at 10% loss, selling price is:",
+      "options": [
+        "₹720",
+        "₹780",
+        "₹820",
+        "₹880"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 800 * 0.9 = 720."
+    },
+    {
+      "qid": 32,
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Simple interest on ₹5000 at 8% per annum for 3 years is:",
+      "options": [
+        "₹1000",
+        "₹1200",
+        "₹1400",
+        "₹1600"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI= PRT/100 = 5000*8*3/100=1200."
+    },
+    {
+      "qid": 33,
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "question": "Compound interest on ₹1000 at 10% for 2 years is:",
+      "options": [
+        "₹200",
+        "₹210",
+        "₹220",
+        "₹230"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CI=1000*(1.1)^2 -1000=210."
+    },
+    {
+      "qid": 34,
+      "subject": "Mathematics",
+      "chapter": "Ratio & Proportion",
+      "question": "The ratio of 3:5 is equal to:",
+      "options": [
+        "6:10",
+        "9:15",
+        "12:20",
+        "All of these"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All are equivalent ratios."
+    },
+    {
+      "qid": 35,
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "Average of 10, 20, 30, 40, 50 is:",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum=150, average=30."
+    },
+    {
+      "qid": 36,
+      "subject": "Mathematics",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days, B in 15 days. Together they can do it in:",
+      "options": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1/10+1/15=1/6 => 6 days."
+    },
+    {
+      "qid": 37,
+      "subject": "Mathematics",
+      "chapter": "Time & Distance",
+      "question": "A train 100 m long crosses a pole in 10 seconds. Speed is:",
+      "options": [
+        "10 m/s",
+        "36 km/h",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Speed=10 m/s=36 km/h."
+    },
+    {
+      "qid": 38,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x^2 + 1/x^2 = ?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)^2=x^2+2+1/x^2 => 9= x^2+1/x^2 +2 => 7."
+    },
+    {
+      "qid": 39,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "Roots of x^2 - 5x + 6 = 0 are:",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "-2 and -3",
+        "2 and -3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x-2)(x-3)=0."
+    },
+    {
+      "qid": 40,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "Sum of angles in a triangle is:",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard theorem: 180°."
+    },
+    {
+      "qid": 41,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "Area of a circle with radius 7 cm is (π=22/7):",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "22 cm²",
+        "88 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr²=22/7*49=154."
+    },
+    {
+      "qid": 42,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 5 cm is:",
+      "options": [
+        "25 cm³",
+        "75 cm³",
+        "125 cm³",
+        "150 cm³"
+      ],
+      "correctAnswer": 3,
+      "explanation": "5³=125."
+    },
+    {
+      "qid": 43,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Surface area of a sphere of radius 3 cm is:",
+      "options": [
+        "36π",
+        "12π",
+        "9π",
+        "27π"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4πr²=4π*9=36π."
+    },
+    {
+      "qid": 44,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "sin 30° is equal to:",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard value."
+    },
+    {
+      "qid": 45,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "tan 45° is equal to:",
+      "options": [
+        "0",
+        "1",
+        "√3",
+        "1/√3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tan 45°=1."
+    },
+    {
+      "qid": 46,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Mean of 2,4,6,8,10 is:",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum=30, mean=6."
+    },
+    {
+      "qid": 47,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "Probability of getting a head in a fair coin toss is:",
+      "options": [
+        "0",
+        "1/4",
+        "1/2",
+        "1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Equally likely outcomes."
+    },
+    {
+      "qid": 48,
+      "subject": "Mathematics",
+      "chapter": "Progression",
+      "question": "Sum of first 5 natural numbers is:",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "n(n+1)/2=15."
+    },
+    {
+      "qid": 49,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "What % of 80 is 20?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(20/80)*100=25%."
+    },
+    {
+      "qid": 50,
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "Divide ₹1200 in the ratio 2:3. Larger share is:",
+      "options": [
+        "₹480",
+        "₹720",
+        "₹600",
+        "₹800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "3/5*1200=720."
+    },
+    {
+      "qid": 51,
+      "subject": "Mathematics",
+      "chapter": "Speed",
+      "question": "A car travels 120 km in 2 hours. Speed is:",
+      "options": [
+        "50 km/h",
+        "60 km/h",
+        "70 km/h",
+        "80 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "120/2=60."
+    },
+    {
+      "qid": 52,
+      "subject": "Mathematics",
+      "chapter": "Age",
+      "question": "A is twice as old as B. If A is 40, B is:",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "40/2=20."
+    },
+    {
+      "qid": 53,
+      "subject": "Mathematics",
+      "chapter": "Partnership",
+      "question": "A and B invest in ratio 3:2. Profit ₹5000. A's share:",
+      "options": [
+        "₹2000",
+        "₹3000",
+        "₹2500",
+        "₹3500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "3/5*5000=3000."
+    },
+    {
+      "qid": 54,
+      "subject": "Mathematics",
+      "chapter": "Mixture",
+      "question": "In what ratio should water be mixed with milk costing ₹20/L to get mixture of ₹15/L? (water free)",
+      "options": [
+        "1:3",
+        "1:4",
+        "1:2",
+        "3:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By alligation: 20-15:15-0=5:15=1:3."
+    },
+    {
+      "qid": 55,
+      "subject": "Mathematics",
+      "chapter": "Clocks",
+      "question": "Angle between hands at 3 o'clock is:",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "30°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard 90°."
+    },
+    {
+      "qid": 56,
+      "subject": "Mathematics",
+      "chapter": "Calendar",
+      "question": "If today is Monday, after 10 days it will be:",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "10 mod 7=3, Monday+3=Thursday."
+    },
+    {
+      "qid": 57,
+      "subject": "Mathematics",
+      "chapter": "Logarithm",
+      "question": "log 100 to base 10 is:",
+      "options": [
+        "1",
+        "2",
+        "10",
+        "100"
+      ],
+      "correctAnswer": 2,
+      "explanation": "10^2=100."
+    },
+    {
+      "qid": 58,
+      "subject": "Mathematics",
+      "chapter": "Surds",
+      "question": "√144 is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 3,
+      "explanation": "12*12=144."
+    },
+    {
+      "qid": 59,
+      "subject": "Mathematics",
+      "chapter": "Indices",
+      "question": "2^5 * 2^3 = ?",
+      "options": [
+        "2^8",
+        "2^15",
+        "2^2",
+        "4^8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Same base add exponents."
+    },
+    {
+      "qid": 60,
+      "subject": "Mathematics",
+      "chapter": "Quadratic",
+      "question": "Discriminant of x^2 - 4x + 4 = 0 is:",
+      "options": [
+        "0",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "b²-4ac=16-16=0."
+    },
+    {
+      "qid": 61,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1757, between British and Siraj-ud-Daulah."
+    },
+    {
+      "qid": 62,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Sardar Patel",
+        "Dr. S. Radhakrishnan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. Rajendra Prasad."
+    },
+    {
+      "qid": 63,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in:",
+      "options": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 1942."
+    },
+    {
+      "qid": 64,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The longest river in India is:",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ganga is the longest."
+    },
+    {
+      "qid": 65,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer passes through how many states in India?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "It passes through 8 states."
+    },
+    {
+      "qid": 66,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Canberra."
+    },
+    {
+      "qid": 67,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The Constitution of India was adopted on:",
+      "options": [
+        "15 Aug 1947",
+        "26 Jan 1950",
+        "26 Nov 1949",
+        "2 Oct 1947"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Adopted on 26 Nov 1949, enforced 26 Jan 1950."
+    },
+    {
+      "qid": 68,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Originally 7, now 6 after removal of Right to Property."
+    },
+    {
+      "qid": 69,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The supreme commander of the Indian Armed Forces is:",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Defence Minister",
+        "Chief of Defence Staff"
+      ],
+      "correctAnswer": 2,
+      "explanation": "President of India."
+    },
+    {
+      "qid": 70,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST was introduced in India in:",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "correctAnswer": 3,
+      "explanation": "1 July 2017."
+    },
+    {
+      "qid": 71,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "RBI was established in:",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1969"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 April 1935."
+    },
+    {
+      "qid": 72,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The SI unit of force is:",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Newton."
+    },
+    {
+      "qid": 73,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The hardest natural substance is:",
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Platinum"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Diamond."
+    },
+    {
+      "qid": 74,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen ~78%."
+    },
+    {
+      "qid": 75,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The highest gallantry award in India in peacetime is:",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Vir Chakra",
+        "Kirti Chakra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ashoka Chakra."
+    },
+    {
+      "qid": 76,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "INS Vikrant is:",
+      "options": [
+        "A submarine",
+        "An aircraft carrier",
+        "A destroyer",
+        "A frigate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Indigenous aircraft carrier."
+    },
+    {
+      "qid": 77,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The motto of the Indian Army is:",
+      "options": [
+        "Service before self",
+        "Touch the sky with glory",
+        "Sham No Varunah",
+        "Seva Paramo Dharma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Service before self."
+    },
+    {
+      "qid": 78,
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs style",
+      "question": "The capital of Arunachal Pradesh is:",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Imphal",
+        "Aizawl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Itanagar."
+    },
+    {
+      "qid": 79,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who wrote the National Anthem of India?",
+      "options": [
+        "Bankim Chandra",
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rabindranath Tagore."
+    },
+    {
+      "qid": 80,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The largest desert in the world is:",
+      "options": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Arabian"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sahara (by area of hot desert)."
+    },
+    {
+      "qid": 81,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The minimum age to become President of India is:",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctAnswer": 3,
+      "explanation": "35 years."
+    },
+    {
+      "qid": 82,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Planning Commission was replaced by:",
+      "options": [
+        "NITI Aayog",
+        "Finance Commission",
+        "RBI",
+        "SEBI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NITI Aayog in 2015."
+    },
+    {
+      "qid": 83,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The planet known as the Red Planet is:",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mars."
+    },
+    {
+      "qid": 84,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The Indian Air Force was established in:",
+      "options": [
+        "1932",
+        "1947",
+        "1950",
+        "1962"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8 October 1932 (as Royal Indian Air Force)."
+    },
+    {
+      "qid": 85,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The first war of Indian Independence was in:",
+      "options": [
+        "1857",
+        "1947",
+        "1905",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sepoy Mutiny / First War of Independence 1857."
+    },
+    {
+      "qid": 86,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which is the highest mountain peak in India?",
+      "options": [
+        "K2",
+        "Kanchenjunga",
+        "Nanda Devi",
+        "Mount Everest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kanchenjunga is the highest peak entirely in India."
+    },
+    {
+      "qid": 87,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Article 370 was related to:",
+      "options": [
+        "Jammu & Kashmir",
+        "Fundamental Rights",
+        "Directive Principles",
+        "Emergency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Special status of J&K (now abrogated)."
+    },
+    {
+      "qid": 88,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Who is known as the Father of Indian Economics?",
+      "options": [
+        "Amartya Sen",
+        "Dadabhai Naoroji",
+        "Jawaharlal Nehru",
+        "Manmohan Singh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dadabhai Naoroji."
+    },
+    {
+      "qid": 89,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The process of photosynthesis occurs in:",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chloroplast."
+    },
+    {
+      "qid": 90,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The rank of the chief of the Indian Army is:",
+      "options": [
+        "General",
+        "Admiral",
+        "Air Chief Marshal",
+        "Field Marshal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chief of Army Staff holds the rank of General."
+    },
+    {
+      "qid": 91,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Kanishka"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chandragupta Maurya."
+    },
+    {
+      "qid": 92,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Suez Canal connects:",
+      "options": [
+        "Mediterranean and Red Sea",
+        "Atlantic and Pacific",
+        "Indian and Pacific",
+        "Black and Caspian"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mediterranean Sea to Red Sea."
+    },
+    {
+      "qid": 93,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The right to property is now a:",
+      "options": [
+        "Fundamental Right",
+        "Legal Right",
+        "Directive Principle",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Legal right under Article 300A."
+    },
+    {
+      "qid": 94,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "The full form of GDP is:",
+      "options": [
+        "Gross Domestic Product",
+        "Gross Development Product",
+        "General Domestic Product",
+        "Gross Domestic Price"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gross Domestic Product."
+    },
+    {
+      "qid": 95,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Which vitamin is produced in the body when exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Vitamin D."
+    },
+    {
+      "qid": 96,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Operation Vijay was related to:",
+      "options": [
+        "Kargil War",
+        "1971 War",
+        "1962 War",
+        "1965 War"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kargil conflict 1999."
+    },
+    {
+      "qid": 97,
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The capital of the Vijayanagara Empire was:",
+      "options": [
+        "Hampi",
+        "Delhi",
+        "Agra",
+        "Madurai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hampi."
+    },
+    {
+      "qid": 98,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The largest ocean in the world is:",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pacific Ocean."
+    },
+    {
+      "qid": 99,
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The election of the President of India is held by:",
+      "options": [
+        "Direct election",
+        "Electoral College",
+        "Parliament only",
+        "State Assemblies only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Electoral College consisting of elected MPs and MLAs."
+    },
+    {
+      "qid": 100,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The chemical symbol for Gold is:",
+      "options": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Pb"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Au (from Latin Aurum)."
+    }
+  ]
 }
