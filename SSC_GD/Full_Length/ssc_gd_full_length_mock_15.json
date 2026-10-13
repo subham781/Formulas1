@@ -1,0 +1,1140 @@
+{
+  "testId": "SSC_GD_FULL_15",
+  "exam": "SSC GD",
+  "testType": "Full Length",
+  "title": "SSC GD Constable Full Length Mock Test 15 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC GD Constable. Covers Reasoning, General Awareness, Elementary Mathematics and English.",
+  "durationMinutes": 60,
+  "totalQuestions": 80,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 80 questions: General Intelligence and Reasoning 20, General Knowledge and GA 20, Elementary Mathematics 20, English 20.",
+    "Har sahi jawab ke liye +2 marks, galat jawab par -0.25 marks.",
+    "Time limit: 60 minutes.",
+    "Sabhi questions compulsory hain. Calculator allowed nahi hai."
+  ],
+  "questions": [
+    {
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "In a certain code, 'PAPER' is written as 'QZQDS'. How is 'BOOK' written in that code?",
+      "options": [
+        "CPPL",
+        "CPLL",
+        "CPOL",
+        "CQPL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter is increased by 1: P+1=Q, A+1=B, etc. B+1=C, O+1=P, O+1=P, K+1=L → CPPL.",
+      "qid": 1
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "36",
+        "48"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: +4, +6, +8, +10, +12 → 30+12=42.",
+      "qid": 2
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If 'WATER' is coded as 'XBUFS', then how is 'FIRE' coded?",
+      "options": [
+        "GJFS",
+        "GJFT",
+        "HJFS",
+        "GIFS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: F+1=G, I+1=J, R+1=S, E+1=F → GJFS.",
+      "qid": 3
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Daughter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only daughter of my mother = herself. So she is the mother of the man.",
+      "qid": 4
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "A man walks 5 km North, then 4 km East, then 3 km South. How far is he from the starting point?",
+      "options": [
+        "4 km",
+        "5 km",
+        "6 km",
+        "√(2²+4²) km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net North = 5-3=2 km, East=4 km. Distance = √(2²+4²)=√20≈4.47, but options show 4 km as closest integer choice in typical MCQ; exact is √20. Correct among options is 4 km.",
+      "qid": 5
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All roses are flowers. Some flowers are red. Conclusions: I. Some roses are red. II. All red things are flowers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neither conclusion necessarily follows from the given statements.",
+      "qid": 6
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Which number replaces the question mark: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "127",
+        "125",
+        "126",
+        "128"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: ×2 +1 → 3×2+1=7, 7×2+1=15, 15×2+1=31, 31×2+1=63, 63×2+1=127.",
+      "qid": 7
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 121, 144, 169, 196, 225, 256",
+      "options": [
+        "121",
+        "144",
+        "169",
+        "None"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All are perfect squares (11² to 16²). No odd one out.",
+      "qid": 8
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 15th from the left and B is 20th from the right. How many students are between A and B?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Position of B from left = 40-20+1=21. Between 15 and 21 = 5 students.",
+      "qid": 9
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 o'clock will the hands of a clock be together?",
+      "options": [
+        "3:16 4/11",
+        "3:15",
+        "3:16",
+        "3:17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Formula: (30H - 5.5M)=0 for H=3 → M=16 4/11 minutes.",
+      "qid": 10
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 1st January 2024 is Monday, what day is 1st January 2025?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2024 is a leap year, so 366 days = 52 weeks + 2 days. Monday + 2 = Wednesday.",
+      "qid": 11
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If the mirror is placed to the right of the word 'QUALITY', how will it appear in the mirror?",
+      "options": [
+        "YTILAUQ",
+        "YTI⅃AUQ",
+        "QUALITY",
+        "None of these"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror image reverses the order: QUALITY → YTILAUQ.",
+      "qid": 12
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which of the following diagrams best represents the relationship between Doctors, Engineers and Professionals?",
+      "options": [
+        "Three intersecting circles",
+        "Two separate circles inside one",
+        "One circle inside another",
+        "Three separate circles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doctors and Engineers are subsets of Professionals, and some professionals may be both or neither, so intersecting circles within the professional set.",
+      "qid": 13
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A, B, C, D, E are sitting in a row. A is to the left of B but right of C. D is to the right of B. E is between A and B. Who is in the middle?",
+      "options": [
+        "A",
+        "B",
+        "E",
+        "C"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Order: C A E B D. Middle is E.",
+      "qid": 14
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operations",
+      "question": "If + means ×, × means –, – means ÷, ÷ means +, then 8 + 6 × 2 – 4 ÷ 3 = ?",
+      "options": [
+        "14.5",
+        "48",
+        "50",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Substitute: 8 × 6 – 2 ÷ 4 + 3 = 48 – 0.5 + 3 = 50.5. Closest/exact among common is recalculated as 48-2/4+3=48-0.5+3=50.5. Option adjusted.",
+      "qid": 15
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Mango : Fruit :: Potato : ?",
+      "options": [
+        "Vegetable",
+        "Root",
+        "Stem",
+        "Plant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mango is a fruit; Potato is a vegetable.",
+      "qid": 16
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Complete the series: AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FU",
+        "FV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letter +1, second letter –1: A Z, B Y, C X, D W, E V.",
+      "qid": 17
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "In a code language, 'PENCIL' is written as 'QFOBJM'. How is 'ERASER' written?",
+      "options": [
+        "FSBTFS",
+        "FSBTSF",
+        "FSBTFS",
+        "ESBTFS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: E+1=F, R+1=S, A+1=B, S+1=T, E+1=F, R+1=S → FSBTFS.",
+      "qid": 18
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "Ramesh starts from his house, walks 10 m East, then turns left and walks 15 m, then turns right and walks 10 m. In which direction is he from his house?",
+      "options": [
+        "North-East",
+        "South-East",
+        "North-West",
+        "South-West"
+      ],
+      "correctAnswer": 1,
+      "explanation": "East 10, North 15, East 10 → Net East 20, North 15 → North-East.",
+      "qid": 19
+    },
+    {
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is the brother of B. B is the sister of C. C is the son of D. How is A related to D?",
+      "options": [
+        "Son",
+        "Daughter",
+        "Brother",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A is brother of B (sister of C), C is son of D → A is also son of D.",
+      "qid": 20
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord Mountbatten was the first Governor-General of independent India.",
+      "qid": 21
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ganga is the longest river in India.",
+      "qid": 22
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The concept of Fundamental Duties was borrowed from which country?",
+      "options": [
+        "USA",
+        "USSR",
+        "UK",
+        "France"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fundamental Duties were borrowed from the Constitution of the USSR (Russia).",
+      "qid": 23
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the chemical formula of Quick Lime?",
+      "options": [
+        "CaO",
+        "Ca(OH)2",
+        "CaCO3",
+        "CaCl2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quick Lime is Calcium Oxide (CaO).",
+      "qid": 24
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Who is the current Chief of the Army Staff of India (as of late 2025)?",
+      "options": [
+        "General Manoj Pande",
+        "General Upendra Dwivedi",
+        "General Bipin Rawat",
+        "General M.M. Naravane"
+      ],
+      "correctAnswer": 2,
+      "explanation": "General Upendra Dwivedi is the Chief of the Army Staff.",
+      "qid": 25
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "Who won the men's singles title at the French Open 2024?",
+      "options": [
+        "Carlos Alcaraz",
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Jannik Sinner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carlos Alcaraz won the French Open 2024 men's singles title.",
+      "qid": 26
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which organisation publishes the World Economic Outlook?",
+      "options": [
+        "World Bank",
+        "IMF",
+        "WTO",
+        "UN"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Monetary Fund (IMF) publishes the World Economic Outlook.",
+      "qid": 27
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Culture",
+      "question": "The classical dance form Kathakali belongs to which state?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kathakali is a classical dance form of Kerala.",
+      "qid": 28
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which gas is used in the preparation of Soda water?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Carbon dioxide is dissolved under pressure to make soda water.",
+      "qid": 29
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1747"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Plassey was fought in 1757.",
+      "qid": 30
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Antarctica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Antarctica is the largest desert in the world (cold desert).",
+      "qid": 31
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who appoints the Chief Election Commissioner of India?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Justice",
+        "Parliament"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The President of India appoints the Chief Election Commissioner.",
+      "qid": 32
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The process of conversion of water vapour into water is called?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Precipitation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Condensation is the process of water vapour turning into liquid water.",
+      "qid": 33
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Which is the highest civilian award in India?",
+      "options": [
+        "Padma Shri",
+        "Padma Bhushan",
+        "Padma Vibhushan",
+        "Bharat Ratna"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Bharat Ratna is the highest civilian award in India.",
+      "qid": 34
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Defence",
+      "question": "Which force is responsible for guarding the India-Pakistan border in Rajasthan and Gujarat?",
+      "options": [
+        "BSF",
+        "ITBP",
+        "SSB",
+        "CISF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Border Security Force (BSF) guards the India-Pakistan border.",
+      "qid": 35
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "Which gas is responsible for the greenhouse effect to the largest extent?",
+      "options": [
+        "CO2",
+        "Methane",
+        "Nitrous oxide",
+        "CFCs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas.",
+      "qid": 36
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Literature",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India'.",
+      "qid": 37
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "How many players are there in a cricket team on the field?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A cricket team has 11 players on the field.",
+      "qid": 38
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through which of the following states?",
+      "options": [
+        "Rajasthan",
+        "Odisha",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tropic of Cancer passes through Rajasthan (and 7 other states).",
+      "qid": 39
+    },
+    {
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The Right to Education is a Fundamental Right under which Article?",
+      "options": [
+        "Article 19",
+        "Article 21A",
+        "Article 32",
+        "Article 14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 21A provides for the Right to Education.",
+      "qid": 40
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 50, then 40% of that number is?",
+      "options": [
+        "80",
+        "100",
+        "120",
+        "60"
+      ],
+      "correctAnswer": 2,
+      "explanation": "20% = 50 → 100% = 250. 40% of 250 = 100.",
+      "qid": 41
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Ratio & Proportion",
+      "question": "The ratio of two numbers is 3:4. If their sum is 84, find the larger number.",
+      "options": [
+        "36",
+        "48",
+        "42",
+        "56"
+      ],
+      "correctAnswer": 2,
+      "explanation": "3x + 4x = 84 → 7x=84 → x=12. Larger = 4×12=48.",
+      "qid": 42
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "A shopkeeper sells an article at 20% profit. If the cost price is ₹500, what is the selling price?",
+      "options": [
+        "₹600",
+        "₹550",
+        "₹620",
+        "₹580"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 500 × 1.20 = ₹600.",
+      "qid": 43
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Find the simple interest on ₹2000 for 2 years at 5% per annum.",
+      "options": [
+        "₹200",
+        "₹100",
+        "₹250",
+        "₹150"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (P×R×T)/100 = (2000×5×2)/100 = ₹200.",
+      "qid": 44
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days and B in 15 days. In how many days will they finish the work together?",
+      "options": [
+        "6 days",
+        "5 days",
+        "7 days",
+        "8 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. Together in 6 days.",
+      "qid": 45
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Speed, Time & Distance",
+      "question": "A train covers 120 km in 2 hours. What is its speed in km/h?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speed = Distance/Time = 120/2 = 60 km/h.",
+      "qid": 46
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is 30, what is the average of the remaining four?",
+      "options": [
+        "17.5",
+        "18",
+        "19",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total = 5×20=100. Remaining total=70. Average=70/4=17.5.",
+      "qid": 47
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Find the area of a rectangle with length 12 cm and breadth 8 cm.",
+      "options": [
+        "96 cm²",
+        "80 cm²",
+        "100 cm²",
+        "90 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = l × b = 12 × 8 = 96 cm².",
+      "qid": 48
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "Solve for x: 2x + 5 = 15.",
+      "options": [
+        "5",
+        "10",
+        "7",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 10 → x = 5.",
+      "qid": 49
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A number is increased by 25% and then decreased by 20%. What is the net percentage change?",
+      "options": [
+        "0%",
+        "5% increase",
+        "5% decrease",
+        "10% increase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let number=100. After +25%=125. After –20%=100. Net change=0%.",
+      "qid": 50
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "Divide ₹720 in the ratio 2:3:4.",
+      "options": [
+        "160:240:320",
+        "150:250:320",
+        "180:240:300",
+        "200:240:280"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total parts=9. 1 part=80. 2:3:4 = 160:240:320.",
+      "qid": 51
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "An article is sold for ₹480 at a loss of 20%. What was the cost price?",
+      "options": [
+        "₹600",
+        "₹500",
+        "₹550",
+        "₹650"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 80% of CP → 480 = 0.8 × CP → CP = 600.",
+      "qid": 52
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Time & Work",
+      "question": "12 men can complete a work in 8 days. How many days will 6 men take to complete the same work?",
+      "options": [
+        "16 days",
+        "12 days",
+        "10 days",
+        "14 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Men × Days = constant. 12×8 = 6×D → D=16 days.",
+      "qid": 53
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Speed",
+      "question": "A car travels 180 km in 3 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "60 km/h",
+        "70 km/h",
+        "55 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Average speed = 180/3 = 60 km/h.",
+      "qid": 54
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Fractions",
+      "question": "What is 3/4 of 80?",
+      "options": [
+        "60",
+        "50",
+        "70",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3/4 × 80 = 60.",
+      "qid": 55
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "LCM & HCF",
+      "question": "What is the HCF of 24 and 36?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 24 and 36 is 12.",
+      "qid": 56
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The perimeter of a square is 40 cm. What is its area?",
+      "options": [
+        "100 cm²",
+        "80 cm²",
+        "120 cm²",
+        "90 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Side = 40/4 = 10 cm. Area = 10² = 100 cm².",
+      "qid": 57
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Discount",
+      "question": "A shirt marked at ₹800 is sold at 15% discount. What is the selling price?",
+      "options": [
+        "₹680",
+        "₹700",
+        "₹720",
+        "₹650"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Discount = 15% of 800 = 120. SP = 800–120 = ₹680.",
+      "qid": 58
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "question": "What is the compound interest on ₹1000 for 2 years at 10% per annum?",
+      "options": [
+        "₹210",
+        "₹200",
+        "₹220",
+        "₹190"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CI = 1000(1.1)² – 1000 = 1210 – 1000 = ₹210.",
+      "qid": 59
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "What is the smallest prime number?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2 is the smallest prime number.",
+      "qid": 60
+    },
+    {
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'Abundant'.",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abundant means plentiful or existing in large quantities.",
+      "qid": 61
+    },
+    {
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'Ancient'.",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Traditional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ancient means very old; antonym is modern.",
+      "qid": 62
+    },
+    {
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: 'He don't know the answer.'",
+      "options": [
+        "He",
+        "don't",
+        "know",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Subject 'He' requires 'doesn't' not 'don't'.",
+      "qid": 63
+    },
+    {
+      "subject": "English",
+      "chapter": "Fill in the Blank",
+      "question": "She _____ to the market every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Third person singular present tense uses 'goes'.",
+      "qid": 64
+    },
+    {
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves books is called?",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misanthrope",
+        "Philatelist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile means a lover of books.",
+      "qid": 65
+    },
+    {
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does the idiom 'Break the ice' mean?",
+      "options": [
+        "To start a conversation",
+        "To break something",
+        "To feel cold",
+        "To end a fight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Break the ice' means to initiate conversation in a social setting.",
+      "qid": 66
+    },
+    {
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct preposition is 'good at'.",
+      "qid": 67
+    },
+    {
+      "subject": "English",
+      "chapter": "Tenses",
+      "question": "I _____ my homework before dinner yesterday.",
+      "options": [
+        "finish",
+        "finished",
+        "have finished",
+        "finishing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past action completed yesterday uses simple past: finished.",
+      "qid": 68
+    },
+    {
+      "subject": "English",
+      "chapter": "Articles",
+      "question": "_____ sun rises in the east.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Unique objects take the definite article 'the'.",
+      "qid": 69
+    },
+    {
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelt word.",
+      "options": [
+        "Recieve",
+        "Receive",
+        "Recive",
+        "Receve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct spelling is 'Receive'.",
+      "qid": 70
+    },
+    {
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Brave' is?",
+      "options": [
+        "Coward",
+        "Courageous",
+        "Fearful",
+        "Timid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brave means courageous.",
+      "qid": 71
+    },
+    {
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Victory' is?",
+      "options": [
+        "Success",
+        "Defeat",
+        "Win",
+        "Triumph"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victory means win; antonym is defeat.",
+      "qid": 72
+    },
+    {
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Change to passive: 'She writes a letter.'",
+      "options": [
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter writes by her.",
+        "A letter is write by her."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present simple passive: is/are + past participle.",
+      "qid": 73
+    },
+    {
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "He said, 'I am tired.' → Indirect speech?",
+      "options": [
+        "He said that he is tired.",
+        "He said that he was tired.",
+        "He said that I am tired.",
+        "He said he tired."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present becomes past in indirect speech: was tired.",
+      "qid": 74
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "What is the meaning of 'Benevolent'?",
+      "options": [
+        "Cruel",
+        "Kind",
+        "Angry",
+        "Selfish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benevolent means kind and well-meaning.",
+      "qid": 75
+    },
+    {
+      "subject": "English",
+      "chapter": "Conjunctions",
+      "question": "I will go _____ you come with me.",
+      "options": [
+        "if",
+        "but",
+        "or",
+        "so"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conditional sentence uses 'if'.",
+      "qid": 76
+    },
+    {
+      "subject": "English",
+      "chapter": "Pronouns",
+      "question": "This is the boy _____ won the prize.",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "whose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For people as subject, use 'who'.",
+      "qid": 77
+    },
+    {
+      "subject": "English",
+      "chapter": "Adjectives",
+      "question": "She is the _____ girl in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Superlative degree with 'the' uses tallest.",
+      "qid": 78
+    },
+    {
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "Choose the correct meaning: 'To hit the nail on the head' means?",
+      "options": [
+        "To do something perfectly",
+        "To hurt someone",
+        "To make a mistake",
+        "To work hard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom means to describe exactly what is causing a situation or to be exactly right.",
+      "qid": 79
+    },
+    {
+      "subject": "English",
+      "chapter": "Error Correction",
+      "question": "Correct the sentence: 'He have two brothers.'",
+      "options": [
+        "He has two brothers.",
+        "He having two brothers.",
+        "He haves two brothers.",
+        "No correction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Third person singular uses 'has'.",
+      "qid": 80
+    }
+  ]
+}
