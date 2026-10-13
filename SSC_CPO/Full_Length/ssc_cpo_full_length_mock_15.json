@@ -29,6 +29,1392 @@
       ],
       "correctAnswer": 1,
       "explanation": "A doctor works in a hospital. Similarly, a teacher works in a school."
+    },
+    {
+      "qid": "cpo15_q002",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Ocean : Water :: Glacier : ?",
+      "options": [
+        "Ice",
+        "Mountain",
+        "Snow",
+        "River"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ocean is made of water. Glacier is made of ice."
+    },
+    {
+      "qid": "cpo15_q003",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing number: 3, 8, 15, 24, 35, ?",
+      "options": [
+        "48",
+        "46",
+        "50",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: +5, +7, +9, +11, +13. So 35+13=48."
+    },
+    {
+      "qid": "cpo15_q004",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "What comes next in the series: 1, 4, 9, 16, 25, ?",
+      "options": [
+        "36",
+        "30",
+        "49",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Squares of natural numbers: 1², 2², 3², 4², 5², 6²=36."
+    },
+    {
+      "qid": "cpo15_q005",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If 'COMPUTER' is coded as 'DPNQVUFS', how is 'LAPTOP' coded?",
+      "options": [
+        "MBQUPQ",
+        "MBQVPQ",
+        "MBQOPQ",
+        "MAQUPQ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter is increased by 1: C→D, O→P, M→N, etc. So L→M, A→B, P→Q, T→U, O→P, P→Q → MBQUPQ."
+    },
+    {
+      "qid": "cpo15_q006",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a certain code, 'FRUIT' is written as 'HTWKV'. How is 'APPLE' written in that code?",
+      "options": [
+        "CRRNG",
+        "CQRNJ",
+        "CRRNJ",
+        "CQRMJ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +2: F→H, R→T, U→W, I→K, T→V. So A→C, P→R, P→R, L→N, E→G → CRRNG."
+    },
+    {
+      "qid": "cpo15_q007",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a lady, a man said, 'She is the daughter of my mother's only son.' How is the lady related to the man?",
+      "options": [
+        "Daughter",
+        "Sister",
+        "Niece",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "My mother's only son is myself. So she is my daughter."
+    },
+    {
+      "qid": "cpo15_q008",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Grandmother",
+        "Sister"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is father of C (mother of B and A). So A is granddaughter of D."
+    },
+    {
+      "qid": "cpo15_q009",
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "A person starts from point A, walks 10 km East, then turns right and walks 5 km, then turns right and walks 10 km. In which direction is he from the starting point?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "East"
+      ],
+      "correctAnswer": 1,
+      "explanation": "East 10, South 5, West 10. Net: 5 km South from start."
+    },
+    {
+      "qid": "cpo15_q010",
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "Rahul walks 20 m North, then turns left and walks 15 m, then turns left and walks 20 m. How far and in which direction is he from starting point?",
+      "options": [
+        "15 m West",
+        "15 m East",
+        "20 m South",
+        "15 m North"
+      ],
+      "correctAnswer": 1,
+      "explanation": "North 20, West 15, South 20. Net displacement 15 m West."
+    },
+    {
+      "qid": "cpo15_q011",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All cats are dogs. Some dogs are rats. Conclusions: I. Some cats are rats. II. Some rats are dogs.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 2,
+      "explanation": "II definitely follows. I does not necessarily follow."
+    },
+    {
+      "qid": "cpo15_q012",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: No bird is an animal. All animals are humans. Conclusions: I. No bird is human. II. Some humans are not birds.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 2,
+      "explanation": "From the statements, some humans (animals) are not birds. I does not follow."
+    },
+    {
+      "qid": "cpo15_q013",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 11, 13, 17, 19, 21",
+      "options": [
+        "11",
+        "13",
+        "19",
+        "21"
+      ],
+      "correctAnswer": 4,
+      "explanation": "11,13,17,19 are prime numbers. 21 is composite (3×7)."
+    },
+    {
+      "qid": "cpo15_q014",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Select the odd one: Square, Circle, Triangle, Rectangle",
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Circle has no straight sides; others are polygons with straight sides."
+    },
+    {
+      "qid": "cpo15_q015",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, Ravi is 15th from left. What is his position from right?",
+      "options": [
+        "26th",
+        "25th",
+        "24th",
+        "27th"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Position from right = Total - Position from left + 1 = 40 - 15 + 1 = 26."
+    },
+    {
+      "qid": "cpo15_q016",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "A is taller than B but shorter than C. D is taller than C. Who is the tallest?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Order: D > C > A > B. D is tallest."
+    },
+    {
+      "qid": "cpo15_q017",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A, B, C, D, E are sitting in a row. A is between B and C. D is to the right of C. E is at one end. Who is at the other end?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Possible arrangement: B A C D E or E D C A B. In both cases B is at one end."
+    },
+    {
+      "qid": "cpo15_q018",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which of the following diagrams correctly represents the relationship between Doctors, Males and Females?",
+      "options": [
+        "Two intersecting circles inside a big circle",
+        "Three separate circles",
+        "Two separate circles inside a big one",
+        "One circle inside another"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some doctors are male, some female; males and females are mutually exclusive."
+    },
+    {
+      "qid": "cpo15_q019",
+      "subject": "Reasoning",
+      "chapter": "Matrix",
+      "question": "In a certain matrix, rows follow a pattern. If first row is 2 4 8, second is 3 6 12, what is third row starting with 4?",
+      "options": [
+        "4 8 16",
+        "4 12 24",
+        "4 6 8",
+        "4 8 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each number is doubled: 2×2=4, 4×2=8; similarly for others."
+    },
+    {
+      "qid": "cpo15_q020",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 1st January 2024 is Monday, what day will be 1st January 2025?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2024 is a leap year, so 366 days = 52 weeks + 2 days. Monday + 2 = Wednesday."
+    },
+    {
+      "qid": "cpo15_q021",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 o'clock will the hands of the clock be together?",
+      "options": [
+        "3:16 4/11",
+        "3:15",
+        "3:16",
+        "3:17 4/11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Formula: (30H - 5.5M)=0 for coincide. At 3: 90 - 5.5M=0 → M=90/5.5=16 4/11."
+    },
+    {
+      "qid": "cpo15_q022",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Find the wrong number: 5, 10, 20, 40, 80, 150",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "150"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Each is double of previous: 5×2=10,10×2=20,...80×2=160, not 150."
+    },
+    {
+      "qid": "cpo15_q023",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "Complete the series: ACE, BDF, CEG, ?",
+      "options": [
+        "DFH",
+        "DFI",
+        "EFH",
+        "DEH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A+1=B, C+1=D, E+1=F; next D+1=E, F+1=G, H+1=I → DFH."
+    },
+    {
+      "qid": "cpo15_q024",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Pen : Write :: Knife : ?",
+      "options": [
+        "Cut",
+        "Sharp",
+        "Blade",
+        "Wood"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write. Knife is used to cut."
+    },
+    {
+      "qid": "cpo15_q025",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "Statement: All students passed the exam. Conclusion: Some students failed the exam.",
+      "options": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Data inadequate",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If all passed, none failed. Conclusion does not follow."
+    },
+    {
+      "qid": "cpo15_q026",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Rajendra Prasad was the first President of India (1950-1962)."
+    },
+    {
+      "qid": "cpo15_q027",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1748"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757 between British and Siraj-ud-Daulah."
+    },
+    {
+      "qid": "cpo15_q028",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Godavari",
+        "Brahmaputra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river in India (approx 2525 km)."
+    },
+    {
+      "qid": "cpo15_q029",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many states of India?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tropic of Cancer passes through 8 Indian states."
+    },
+    {
+      "qid": "cpo15_q030",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "There are 6 Fundamental Rights in the Indian Constitution."
+    },
+    {
+      "qid": "cpo15_q031",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Who is the current Chairman of Rajya Sabha?",
+      "options": [
+        "Vice President of India",
+        "President of India",
+        "Prime Minister",
+        "Speaker of Lok Sabha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Vice President of India is the ex-officio Chairman of Rajya Sabha."
+    },
+    {
+      "qid": "cpo15_q032",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "What is the chemical formula of Water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "H2O2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H2O."
+    },
+    {
+      "qid": "cpo15_q033",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mars is called the Red Planet due to iron oxide on its surface."
+    },
+    {
+      "qid": "cpo15_q034",
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "Who is known as the father of Indian Economy?",
+      "options": [
+        "Dadabhai Naoroji",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dadabhai Naoroji is known as the father of Indian Economics (Drain Theory)."
+    },
+    {
+      "qid": "cpo15_q035",
+      "subject": "GA",
+      "chapter": "Static GK",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Canberra is the capital of Australia."
+    },
+    {
+      "qid": "cpo15_q036",
+      "subject": "GA",
+      "chapter": "Static GK",
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara",
+        "Antarctic",
+        "Gobi",
+        "Arabian"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antarctic Desert is the largest desert in the world by area."
+    },
+    {
+      "qid": "cpo15_q037",
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Indonesia",
+        "Brazil",
+        "Italy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India hosted the G20 Summit in 2023 (New Delhi)."
+    },
+    {
+      "qid": "cpo15_q038",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1942",
+        "1940",
+        "1930",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement was launched by Mahatma Gandhi in 1942."
+    },
+    {
+      "qid": "cpo15_q039",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the highest mountain peak in India?",
+      "options": [
+        "Kangchenjunga",
+        "Mount Everest",
+        "Nanda Devi",
+        "K2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga is the highest peak in India (Everest is in Nepal)."
+    },
+    {
+      "qid": "cpo15_q040",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Article 21 of the Indian Constitution deals with?",
+      "options": [
+        "Right to Life and Personal Liberty",
+        "Right to Equality",
+        "Right to Freedom of Speech",
+        "Right to Education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 21 guarantees the Right to Life and Personal Liberty."
+    },
+    {
+      "qid": "cpo15_q041",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "What is the unit of electric current?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ampere (A) is the SI unit of electric current."
+    },
+    {
+      "qid": "cpo15_q042",
+      "subject": "GA",
+      "chapter": "Static GK",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India'."
+    },
+    {
+      "qid": "cpo15_q043",
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "Who is the first Indian to win an individual Olympic gold medal?",
+      "options": [
+        "Abhinav Bindra",
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Mary Kom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abhinav Bindra won the first individual Olympic gold for India in 2008 (10m Air Rifle)."
+    },
+    {
+      "qid": "cpo15_q044",
+      "subject": "GA",
+      "chapter": "Environment",
+      "question": "Which gas is most responsible for global warming?",
+      "options": [
+        "Carbon Dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas responsible for global warming."
+    },
+    {
+      "qid": "cpo15_q045",
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire with the help of Chanakya."
+    },
+    {
+      "qid": "cpo15_q046",
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Sundarbans is located in which state?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Assam",
+        "Kerala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sundarbans (largest mangrove forest) is mainly in West Bengal."
+    },
+    {
+      "qid": "cpo15_q047",
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The minimum age to become President of India is?",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "40 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Minimum age for President of India is 35 years."
+    },
+    {
+      "qid": "cpo15_q048",
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+    },
+    {
+      "qid": "cpo15_q049",
+      "subject": "GA",
+      "chapter": "Static GK",
+      "question": "What is the national animal of India?",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bengal Tiger is the national animal of India."
+    },
+    {
+      "qid": "cpo15_q050",
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Which is the highest civilian award in India?",
+      "options": [
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bharat Ratna is the highest civilian award in India."
+    },
+    {
+      "qid": "cpo15_q051",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "What is 25% of 480?",
+      "options": [
+        "120",
+        "100",
+        "140",
+        "160"
+      ],
+      "correctAnswer": 1,
+      "explanation": "25% of 480 = (25/100)×480 = 120."
+    },
+    {
+      "qid": "cpo15_q052",
+      "subject": "Quant",
+      "chapter": "Profit & Loss",
+      "question": "A shopkeeper buys an article for ₹800 and sells it for ₹1000. What is the profit percentage?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profit = 200. Profit% = (200/800)×100 = 25%."
+    },
+    {
+      "qid": "cpo15_q053",
+      "subject": "Quant",
+      "chapter": "Simple Interest",
+      "question": "Find the simple interest on ₹5000 at 8% per annum for 3 years.",
+      "options": [
+        "₹1200",
+        "₹1000",
+        "₹1400",
+        "₹1500"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (P×R×T)/100 = (5000×8×3)/100 = 1200."
+    },
+    {
+      "qid": "cpo15_q054",
+      "subject": "Quant",
+      "chapter": "Compound Interest",
+      "question": "What will be the compound interest on ₹10000 at 10% per annum for 2 years?",
+      "options": [
+        "₹2100",
+        "₹2000",
+        "₹2200",
+        "₹1100"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amount = 10000×(1.1)² = 12100. CI = 2100."
+    },
+    {
+      "qid": "cpo15_q055",
+      "subject": "Quant",
+      "chapter": "Ratio",
+      "question": "Divide ₹1200 in the ratio 2:3. What is the larger share?",
+      "options": [
+        "₹720",
+        "₹480",
+        "₹600",
+        "₹800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total parts = 5. Larger = (3/5)×1200 = 720."
+    },
+    {
+      "qid": "cpo15_q056",
+      "subject": "Quant",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+      "options": [
+        "28",
+        "30",
+        "25",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total of 5 = 100. Total of 4 = 72. Excluded = 100-72=28."
+    },
+    {
+      "qid": "cpo15_q057",
+      "subject": "Quant",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days and B in 15 days. In how many days will they complete the work together?",
+      "options": [
+        "6 days",
+        "5 days",
+        "7 days",
+        "8 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 5/30 = 1/6. Together in 6 days."
+    },
+    {
+      "qid": "cpo15_q058",
+      "subject": "Quant",
+      "chapter": "Speed Distance Time",
+      "question": "A train travels 240 km in 4 hours. What is its speed?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "70 km/h",
+        "80 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = Distance/Time = 240/4 = 60 km/h."
+    },
+    {
+      "qid": "cpo15_q059",
+      "subject": "Quant",
+      "chapter": "Number System",
+      "question": "What is the LCM of 12 and 18?",
+      "options": [
+        "36",
+        "6",
+        "24",
+        "48"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12 and 18 is 36."
+    },
+    {
+      "qid": "cpo15_q060",
+      "subject": "Quant",
+      "chapter": "Number System",
+      "question": "What is the HCF of 24 and 36?",
+      "options": [
+        "12",
+        "6",
+        "8",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF of 24 and 36 is 12."
+    },
+    {
+      "qid": "cpo15_q061",
+      "subject": "Quant",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 5, then x² + 1/x² = ?",
+      "options": [
+        "23",
+        "25",
+        "21",
+        "27"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)² = x² + 2 + 1/x² = 25 → x² + 1/x² = 23."
+    },
+    {
+      "qid": "cpo15_q062",
+      "subject": "Quant",
+      "chapter": "Geometry",
+      "question": "The sum of interior angles of a pentagon is?",
+      "options": [
+        "540°",
+        "360°",
+        "720°",
+        "180°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = (n-2)×180 = 3×180 = 540° for pentagon."
+    },
+    {
+      "qid": "cpo15_q063",
+      "subject": "Quant",
+      "chapter": "Mensuration",
+      "question": "Find the area of a rectangle with length 12 cm and breadth 8 cm.",
+      "options": [
+        "96 cm²",
+        "80 cm²",
+        "100 cm²",
+        "40 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = l × b = 12 × 8 = 96 cm²."
+    },
+    {
+      "qid": "cpo15_q064",
+      "subject": "Quant",
+      "chapter": "Mensuration",
+      "question": "The circumference of a circle is 44 cm. Find its radius (π=22/7).",
+      "options": [
+        "7 cm",
+        "14 cm",
+        "21 cm",
+        "28 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2πr = 44 → 2×(22/7)×r = 44 → r = 7 cm."
+    },
+    {
+      "qid": "cpo15_q065",
+      "subject": "Quant",
+      "chapter": "Percentage",
+      "question": "If the price of a commodity increases by 20% and then decreases by 20%, the net change is?",
+      "options": [
+        "4% decrease",
+        "4% increase",
+        "No change",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net effect = -4% (successive percentage change)."
+    },
+    {
+      "qid": "cpo15_q066",
+      "subject": "Quant",
+      "chapter": "Profit & Loss",
+      "question": "A man sells two articles for ₹500 each. On one he gains 20% and on the other he loses 20%. Overall profit/loss is?",
+      "options": [
+        "4% loss",
+        "4% gain",
+        "No profit no loss",
+        "2% loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Always loss of (x²/100)% = 4% loss when equal SP and equal % gain/loss."
+    },
+    {
+      "qid": "cpo15_q067",
+      "subject": "Quant",
+      "chapter": "Time & Distance",
+      "question": "A car covers 150 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "70 km/h",
+        "55 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 150 / 2.5 = 60 km/h."
+    },
+    {
+      "qid": "cpo15_q068",
+      "subject": "Quant",
+      "chapter": "Algebra",
+      "question": "Solve for x: 2x + 5 = 15",
+      "options": [
+        "5",
+        "10",
+        "7.5",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 10 → x = 5."
+    },
+    {
+      "qid": "cpo15_q069",
+      "subject": "Quant",
+      "chapter": "Data Interpretation",
+      "question": "If a pie chart shows 40% for one sector, what is the central angle for that sector?",
+      "options": [
+        "144°",
+        "120°",
+        "160°",
+        "100°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Central angle = (40/100)×360 = 144°."
+    },
+    {
+      "qid": "cpo15_q070",
+      "subject": "Quant",
+      "chapter": "Mixture",
+      "question": "In what ratio should water be mixed with milk costing ₹20/litre so that the mixture costs ₹15/litre?",
+      "options": [
+        "1:3",
+        "1:2",
+        "2:3",
+        "3:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By alligation: (20-15):(15-0) = 5:15 = 1:3."
+    },
+    {
+      "qid": "cpo15_q071",
+      "subject": "Quant",
+      "chapter": "Partnership",
+      "question": "A and B invest ₹5000 and ₹8000 respectively. After 1 year, profit is ₹1300. What is A's share?",
+      "options": [
+        "₹500",
+        "₹800",
+        "₹650",
+        "₹400"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ratio 5:8. Total 13 parts. A gets (5/13)×1300 = 500."
+    },
+    {
+      "qid": "cpo15_q072",
+      "subject": "Quant",
+      "chapter": "Ages",
+      "question": "The present age of father is 3 times that of son. After 10 years, father will be twice as old as son. Present age of son is?",
+      "options": [
+        "10 years",
+        "15 years",
+        "20 years",
+        "12 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let son = x, father = 3x. After 10: 3x+10 = 2(x+10) → 3x+10=2x+20 → x=10."
+    },
+    {
+      "qid": "cpo15_q073",
+      "subject": "Quant",
+      "chapter": "Pipes & Cistern",
+      "question": "A pipe can fill a tank in 6 hours. Another pipe can empty it in 8 hours. If both are opened together, in how many hours will the tank be filled?",
+      "options": [
+        "24 hours",
+        "14 hours",
+        "12 hours",
+        "48 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6 - 1/8 = 4/48 - 3/48 = 1/24. Filled in 24 hours."
+    },
+    {
+      "qid": "cpo15_q074",
+      "subject": "Quant",
+      "chapter": "Trigonometry",
+      "question": "Value of sin 30° is?",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin 30° = 1/2."
+    },
+    {
+      "qid": "cpo15_q075",
+      "subject": "Quant",
+      "chapter": "Statistics",
+      "question": "The mean of 5, 7, 9, 11, 13 is?",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = 45. Mean = 45/5 = 9."
+    },
+    {
+      "qid": "cpo15_q076",
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'Abundant':",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abundant means plentiful or existing in large quantities."
+    },
+    {
+      "qid": "cpo15_q077",
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'Ancient':",
+      "options": [
+        "Modern",
+        "Old",
+        "Historic",
+        "Traditional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ancient means very old; antonym is modern."
+    },
+    {
+      "qid": "cpo15_q078",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does the idiom 'Break the ice' mean?",
+      "options": [
+        "To initiate conversation",
+        "To break something",
+        "To feel cold",
+        "To stop talking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Break the ice' means to initiate a conversation or make a situation less formal."
+    },
+    {
+      "qid": "cpo15_q079",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct preposition is 'good at' something."
+    },
+    {
+      "qid": "cpo15_q080",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: 'She don't like coffee.'",
+      "options": [
+        "She don't",
+        "like",
+        "coffee",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Should be 'She doesn't like coffee.' (subject-verb agreement)."
+    },
+    {
+      "qid": "cpo15_q081",
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philatelist",
+        "Philanthropist",
+        "Bibliophobe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": "cpo15_q082",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Which is the correct spelling?",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct spelling is Accommodate (double c, double m)."
+    },
+    {
+      "qid": "cpo15_q083",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Improve: 'I am looking forward to meet you.'",
+      "options": [
+        "to meeting you",
+        "to meet you",
+        "for meeting you",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After 'looking forward to', use gerund: to meeting you."
+    },
+    {
+      "qid": "cpo15_q084",
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Change to passive: 'The teacher taught the students.'",
+      "options": [
+        "The students were taught by the teacher.",
+        "The students are taught by the teacher.",
+        "The students have been taught by the teacher.",
+        "The teacher was taught the students."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past active becomes simple past passive: were taught."
+    },
+    {
+      "qid": "cpo15_q085",
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "Change to indirect: He said, 'I am tired.'",
+      "options": [
+        "He said that he was tired.",
+        "He said that he is tired.",
+        "He said that I am tired.",
+        "He said he tired."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present becomes past in reported speech: was tired."
+    },
+    {
+      "qid": "cpo15_q086",
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Brave':",
+      "options": [
+        "Courageous",
+        "Cowardly",
+        "Weak",
+        "Timid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brave means courageous."
+    },
+    {
+      "qid": "cpo15_q087",
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Generous':",
+      "options": [
+        "Stingy",
+        "Kind",
+        "Liberal",
+        "Charitable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Generous means giving; antonym is stingy."
+    },
+    {
+      "qid": "cpo15_q088",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "Meaning of 'Once in a blue moon':",
+      "options": [
+        "Very rarely",
+        "Every month",
+        "Frequently",
+        "Never"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Once in a blue moon' means very rarely."
+    },
+    {
+      "qid": "cpo15_q089",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "Neither of the boys _____ present.",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Neither' takes singular verb: was."
+    },
+    {
+      "qid": "cpo15_q090",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Find the error: 'Each of the students have a book.'",
+      "options": [
+        "have",
+        "Each of",
+        "the students",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Should be 'has' because 'each' is singular."
+    },
+    {
+      "qid": "cpo15_q091",
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A place where birds are kept:",
+      "options": [
+        "Aviary",
+        "Aquarium",
+        "Apiary",
+        "Sanctuary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aviary is a large cage or building for keeping birds."
+    },
+    {
+      "qid": "cpo15_q092",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "What is the meaning of 'Ephemeral'?",
+      "options": [
+        "Lasting for a very short time",
+        "Permanent",
+        "Beautiful",
+        "Dangerous"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ephemeral means lasting for a very short time."
+    },
+    {
+      "qid": "cpo15_q093",
+      "subject": "English",
+      "chapter": "Sentence Correction",
+      "question": "Correct the sentence: 'He has been working here since five years.'",
+      "options": [
+        "for five years",
+        "since five years",
+        "from five years",
+        "No correction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Use 'for' with duration: for five years. 'Since' is for point of time."
+    },
+    {
+      "qid": "cpo15_q094",
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "Read: 'The sun rises in the east.' This is an example of:",
+      "options": [
+        "Fact",
+        "Opinion",
+        "Fiction",
+        "Hypothesis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It is a universally accepted fact."
+    },
+    {
+      "qid": "cpo15_q095",
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "She is interested _____ learning French.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct collocation: interested in."
+    },
+    {
+      "qid": "cpo15_q096",
+      "subject": "English",
+      "chapter": "Conjunctions",
+      "question": "I will go _____ you come with me.",
+      "options": [
+        "if",
+        "unless",
+        "although",
+        "because"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conditional: if you come with me."
+    },
+    {
+      "qid": "cpo15_q097",
+      "subject": "English",
+      "chapter": "Tenses",
+      "question": "By next year, I _____ my degree.",
+      "options": [
+        "will have completed",
+        "will complete",
+        "have completed",
+        "completed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect tense for action completed before a future point."
+    },
+    {
+      "qid": "cpo15_q098",
+      "subject": "English",
+      "chapter": "Articles",
+      "question": "_____ honest man is always respected.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Honest starts with vowel sound, so 'An'."
+    },
+    {
+      "qid": "cpo15_q099",
+      "subject": "English",
+      "chapter": "Phrasal Verbs",
+      "question": "Meaning of 'Give up':",
+      "options": [
+        "Surrender",
+        "Continue",
+        "Start",
+        "Increase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Give up' means to surrender or stop trying."
+    },
+    {
+      "qid": "cpo15_q100",
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "The _____ of the mountain was breathtaking.",
+      "options": [
+        "view",
+        "sight",
+        "scene",
+        "All of these"
+      ],
+      "correctAnswer": 4,
+      "explanation": "View, sight, and scene can all fit in this context appropriately."
     }
   ]
 }
