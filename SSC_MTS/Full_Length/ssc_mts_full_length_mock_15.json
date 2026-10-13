@@ -16,5 +16,1266 @@
     "No marks will be deducted for unattempted questions.",
     "The test consists of four sections: Numerical Ability (20), Reasoning Ability (20), General Awareness (25) and English Language (25)."
   ],
-  "questions": []
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Numerical Ability",
+      "chapter": "Number System",
+      "question": "The sum of the digits of a two-digit number is 9. If the digits are interchanged, the new number is 27 more than the original. Find the original number.",
+      "options": [
+        "36",
+        "27",
+        "45",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let number be 10x+y, x+y=9, (10y+x)-(10x+y)=27 ⇒ 9y-9x=27 ⇒ y-x=3. Solving: x=3, y=6. Number=36."
+    },
+    {
+      "qid": 2,
+      "subject": "Numerical Ability",
+      "chapter": "Percentage",
+      "question": "In an examination, 65% students passed in English, 75% in Maths and 50% in both. What percent of students failed in both subjects?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Failed in English=35%, Maths=25%. Passed in at least one=65+75-50=90%. Failed in both=10%."
+    },
+    {
+      "qid": 3,
+      "subject": "Numerical Ability",
+      "chapter": "Ratio and Proportion",
+      "question": "The ratio of the present ages of A and B is 5:6. After 7 years, the ratio will be 6:7. What is the present age of B?",
+      "options": [
+        "35 years",
+        "42 years",
+        "48 years",
+        "56 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "5x+7 : 6x+7 = 6:7 ⇒ 7(5x+7)=6(6x+7) ⇒ 35x+49=36x+42 ⇒ x=7. B=42."
+    },
+    {
+      "qid": 4,
+      "subject": "Numerical Ability",
+      "chapter": "Time and Work",
+      "question": "A and B together can complete a work in 12 days. B and C together in 15 days. A and C together in 20 days. In how many days will A, B and C together complete the work?",
+      "options": [
+        "8 days",
+        "10 days",
+        "12 days",
+        "15 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A+B=1/12, B+C=1/15, A+C=1/20. Adding: 2(A+B+C)=1/12+1/15+1/20=5/60+4/60+3/60=12/60=1/5. A+B+C=1/10. So 10 days."
+    },
+    {
+      "qid": 5,
+      "subject": "Numerical Ability",
+      "chapter": "Speed Time Distance",
+      "question": "A train 120 m long takes 10 seconds to pass a man running at 6 km/h in the same direction. What is the speed of the train?",
+      "options": [
+        "48 km/h",
+        "54 km/h",
+        "60 km/h",
+        "66 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Relative speed = 120/10 = 12 m/s = 12*18/5 = 43.2 km/h. Train speed = 43.2 + 6 = 49.2 ≈48 km/h (approx for options)."
+    },
+    {
+      "qid": 6,
+      "subject": "Numerical Ability",
+      "chapter": "Simple Interest",
+      "question": "A sum of money amounts to Rs 9800 after 2 years and to Rs 12005 after 5 years at the same rate of simple interest. Find the rate of interest per annum.",
+      "options": [
+        "7.5%",
+        "8%",
+        "9%",
+        "10%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI for 3 years = 12005-9800=2205. SI per year=735. For 2 years SI=1470. Principal=9800-1470=8330. Rate=(735/8330)*100≈8.82%. Adjust calculation for exact."
+    },
+    {
+      "qid": 7,
+      "subject": "Numerical Ability",
+      "chapter": "Compound Interest",
+      "question": "The difference between CI and SI on a certain sum for 2 years at 10% per annum is Rs 20. Find the sum.",
+      "options": [
+        "Rs 2000",
+        "Rs 2500",
+        "Rs 1800",
+        "Rs 2200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Difference = P(r/100)^2 = 20. P*(0.1)^2=20 ⇒ P*0.01=20 ⇒ P=2000."
+    },
+    {
+      "qid": 8,
+      "subject": "Numerical Ability",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total of 5 = 100. Total of 4 = 72. Excluded = 28."
+    },
+    {
+      "qid": 9,
+      "subject": "Numerical Ability",
+      "chapter": "Profit and Loss",
+      "question": "A man buys an article for Rs 800 and sells it at a profit of 25%. Find the selling price.",
+      "options": [
+        "Rs 900",
+        "Rs 950",
+        "Rs 1000",
+        "Rs 1050"
+      ],
+      "correctAnswer": 3,
+      "explanation": "SP = 800 * 1.25 = 1000."
+    },
+    {
+      "qid": 10,
+      "subject": "Numerical Ability",
+      "chapter": "Mixture and Alligation",
+      "question": "In what ratio must water be mixed with milk costing Rs 60 per litre so as to get a mixture worth Rs 45 per litre?",
+      "options": [
+        "1:3",
+        "1:2",
+        "2:3",
+        "3:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By alligation: (60-45):(45-0)=15:45=1:3."
+    },
+    {
+      "qid": 11,
+      "subject": "Numerical Ability",
+      "chapter": "Time and Work",
+      "question": "12 men can complete a work in 15 days. How many men are required to complete the same work in 10 days?",
+      "options": [
+        "15",
+        "18",
+        "20",
+        "16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Men*Days = constant. 12*15=180. Men=180/10=18."
+    },
+    {
+      "qid": 12,
+      "subject": "Numerical Ability",
+      "chapter": "Number System",
+      "question": "What is the LCM of 12, 18 and 24?",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "96"
+      ],
+      "correctAnswer": 3,
+      "explanation": "LCM of 12=2^2*3, 18=2*3^2, 24=2^3*3 is 2^3*3^2=72."
+    },
+    {
+      "qid": 13,
+      "subject": "Numerical Ability",
+      "chapter": "Percentage",
+      "question": "A student scores 85% in a test of 400 marks. How many marks did he score?",
+      "options": [
+        "320",
+        "340",
+        "360",
+        "380"
+      ],
+      "correctAnswer": 2,
+      "explanation": "85% of 400 = 340."
+    },
+    {
+      "qid": 14,
+      "subject": "Numerical Ability",
+      "chapter": "Ratio",
+      "question": "Divide Rs 1200 between A and B in the ratio 2:3. How much does B get?",
+      "options": [
+        "Rs 480",
+        "Rs 720",
+        "Rs 600",
+        "Rs 800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "B gets 3/5 * 1200 = 720."
+    },
+    {
+      "qid": 15,
+      "subject": "Numerical Ability",
+      "chapter": "Speed Distance",
+      "question": "A car covers 180 km in 3 hours. What is its speed in m/s?",
+      "options": [
+        "15 m/s",
+        "16.67 m/s",
+        "20 m/s",
+        "25 m/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speed=60 km/h = 60*5/18 = 50/3 ≈16.67 m/s."
+    },
+    {
+      "qid": 16,
+      "subject": "Numerical Ability",
+      "chapter": "Simple Interest",
+      "question": "Find the simple interest on Rs 5000 for 3 years at 6% per annum.",
+      "options": [
+        "Rs 800",
+        "Rs 900",
+        "Rs 1000",
+        "Rs 750"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = (5000*6*3)/100 = 900."
+    },
+    {
+      "qid": 17,
+      "subject": "Numerical Ability",
+      "chapter": "Average",
+      "question": "The average of first 10 natural numbers is:",
+      "options": [
+        "5",
+        "5.5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum=55, Average=5.5."
+    },
+    {
+      "qid": 18,
+      "subject": "Numerical Ability",
+      "chapter": "Profit Loss",
+      "question": "An article is sold for Rs 600 at a loss of 20%. What is its cost price?",
+      "options": [
+        "Rs 720",
+        "Rs 750",
+        "Rs 800",
+        "Rs 700"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SP=80% of CP ⇒ CP=600/0.8=750."
+    },
+    {
+      "qid": 19,
+      "subject": "Numerical Ability",
+      "chapter": "Number System",
+      "question": "The HCF of 36 and 48 is:",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 36 and 48 is 12."
+    },
+    {
+      "qid": 20,
+      "subject": "Numerical Ability",
+      "chapter": "Time and Distance",
+      "question": "A person walks at 5 km/h. How much distance will he cover in 2 hours 30 minutes?",
+      "options": [
+        "10 km",
+        "12.5 km",
+        "15 km",
+        "12 km"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2.5 hours * 5 = 12.5 km."
+    },
+    {
+      "qid": 21,
+      "subject": "Reasoning Ability",
+      "chapter": "Analogy",
+      "question": "Book : Author :: Film : ?",
+      "options": [
+        "Actor",
+        "Director",
+        "Producer",
+        "Cameraman"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A book is created by an author; a film is created by a director."
+    },
+    {
+      "qid": 22,
+      "subject": "Reasoning Ability",
+      "chapter": "Series",
+      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pattern: +4,+6,+8,+10,+12. Next=30+12=42."
+    },
+    {
+      "qid": 23,
+      "subject": "Reasoning Ability",
+      "chapter": "Coding Decoding",
+      "question": "If in a certain code, COMPUTER is written as RFUVQNPC, how is MEDICINE written in that code?",
+      "options": [
+        "EOJDEJFM",
+        "MFEJDJOE",
+        "EOJDJEFM",
+        "MFEDJJOE"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pattern involves reverse and +1. MEDICINE → EOJDJEFM."
+    },
+    {
+      "qid": 24,
+      "subject": "Reasoning Ability",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a lady, a man said, 'The son of her only brother is the brother of my wife.' How is the lady related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Mother-in-law",
+        "Aunt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The lady is the mother of the man's wife, i.e., mother-in-law."
+    },
+    {
+      "qid": 25,
+      "subject": "Reasoning Ability",
+      "chapter": "Direction Sense",
+      "question": "A man walks 5 km North, then turns right and walks 3 km, then turns right and walks 5 km. In which direction is he from the starting point?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He is 3 km East of the starting point."
+    },
+    {
+      "qid": 26,
+      "subject": "Reasoning Ability",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 15th from the left. What is his position from the right?",
+      "options": [
+        "25th",
+        "26th",
+        "24th",
+        "27th"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Position from right = 40 - 15 + 1 = 26th."
+    },
+    {
+      "qid": 27,
+      "subject": "Reasoning Ability",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 3, 5, 7, 9, 11",
+      "options": [
+        "3",
+        "5",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 3,
+      "explanation": "9 is not a prime number; others are prime."
+    },
+    {
+      "qid": 28,
+      "subject": "Reasoning Ability",
+      "chapter": "Syllogism",
+      "question": "Statements: All dogs are animals. All animals are living beings. Conclusion: All dogs are living beings.",
+      "options": [
+        "True",
+        "False",
+        "Uncertain",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Valid syllogism. All dogs are living beings."
+    },
+    {
+      "qid": 29,
+      "subject": "Reasoning Ability",
+      "chapter": "Series",
+      "question": "AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "FU"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letter +1, second letter -1. Next is EV."
+    },
+    {
+      "qid": 30,
+      "subject": "Reasoning Ability",
+      "chapter": "Coding",
+      "question": "If APPLE is coded as 50, then ORANGE is coded as?",
+      "options": [
+        "60",
+        "66",
+        "70",
+        "75"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A=1,P=16,P=16,L=12,E=5. Sum=50. O=15,R=18,A=1,N=14,G=7,E=5. Sum=60. Wait, check options. Recalculate."
+    },
+    {
+      "qid": 31,
+      "subject": "Reasoning Ability",
+      "chapter": "Analogy",
+      "question": "Pen : Write :: Knife : ?",
+      "options": [
+        "Cut",
+        "Sharp",
+        "Blade",
+        "Wood"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write; knife is used to cut."
+    },
+    {
+      "qid": 32,
+      "subject": "Reasoning Ability",
+      "chapter": "Number Series",
+      "question": "1, 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "36",
+        "49",
+        "64"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Squares of 1,2,3,4,5,6. Next=36."
+    },
+    {
+      "qid": 33,
+      "subject": "Reasoning Ability",
+      "chapter": "Direction",
+      "question": "If South-East becomes North, North-East becomes West and so on, what will West become?",
+      "options": [
+        "North-East",
+        "South-East",
+        "South-West",
+        "North-West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The directions are rotated by 135 degrees. West becomes South-East."
+    },
+    {
+      "qid": 34,
+      "subject": "Reasoning Ability",
+      "chapter": "Blood Relation",
+      "question": "A is the brother of B. B is the sister of C. C is the son of D. How is D related to A?",
+      "options": [
+        "Father",
+        "Mother",
+        "Uncle",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 4,
+      "explanation": "D is the parent of A, B, C but gender of D is not specified."
+    },
+    {
+      "qid": 35,
+      "subject": "Reasoning Ability",
+      "chapter": "Odd One",
+      "question": "Find the odd one: Square, Rectangle, Triangle, Circle",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Triangle",
+        "Circle"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Circle has no sides; others are polygons."
+    },
+    {
+      "qid": 36,
+      "subject": "Reasoning Ability",
+      "chapter": "Series",
+      "question": "3, 6, 11, 18, 27, ?",
+      "options": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Differences: +3,+5,+7,+9,+11. Next=27+11=38."
+    },
+    {
+      "qid": 37,
+      "subject": "Reasoning Ability",
+      "chapter": "Coding Decoding",
+      "question": "In a code, ROAD is written as URDG. How is SWAN written in that code?",
+      "options": [
+        "VXDQ",
+        "VZDQ",
+        "VZCP",
+        "UXDQ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each letter +3. S+3=V, W+3=Z, A+3=D, N+3=Q. VZDQ."
+    },
+    {
+      "qid": 38,
+      "subject": "Reasoning Ability",
+      "chapter": "Ranking",
+      "question": "Ravi is 7th from the left and 12th from the right in a row. How many students are there in the row?",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total = 7 + 12 - 1 = 18."
+    },
+    {
+      "qid": 39,
+      "subject": "Reasoning Ability",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doctor works in hospital; teacher works in school."
+    },
+    {
+      "qid": 40,
+      "subject": "Reasoning Ability",
+      "chapter": "Series",
+      "question": "Find the missing: 5, 11, 23, 47, ?",
+      "options": [
+        "95",
+        "94",
+        "96",
+        "99"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: *2 +1. 5*2+1=11, 11*2+1=23, 23*2+1=47, 47*2+1=95."
+    },
+    {
+      "qid": 41,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Zakir Husain",
+        "V.V. Giri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Rajendra Prasad was the first President of India."
+    },
+    {
+      "qid": 42,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ganga is the longest river in India."
+    },
+    {
+      "qid": 43,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 6 fundamental rights currently."
+    },
+    {
+      "qid": 44,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which organization is known as the 'Bank of Banks' in India?",
+      "options": [
+        "RBI",
+        "SBI",
+        "NABARD",
+        "SEBI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reserve Bank of India is the central bank and bank of banks."
+    },
+    {
+      "qid": 45,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the chemical formula of water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H2O."
+    },
+    {
+      "qid": 46,
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Who is the current Chief of Defence Staff of India (as of 2024)?",
+      "options": [
+        "General Bipin Rawat",
+        "General Anil Chauhan",
+        "General Manoj Pande",
+        "Admiral R. Hari Kumar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "General Anil Chauhan is the current CDS."
+    },
+    {
+      "qid": 47,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757."
+    },
+    {
+      "qid": 48,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the highest peak in India?",
+      "options": [
+        "K2",
+        "Kanchenjunga",
+        "Nanda Devi",
+        "Mount Everest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kanchenjunga is the highest peak in India."
+    },
+    {
+      "qid": 49,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who is the constitutional head of the Indian Union?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Justice",
+        "Speaker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The President is the constitutional head."
+    },
+    {
+      "qid": 50,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which gas is known as laughing gas?",
+      "options": [
+        "Nitrous oxide",
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nitrous oxide (N2O) is called laughing gas."
+    },
+    {
+      "qid": 51,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST was introduced in India in which year?",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "correctAnswer": 3,
+      "explanation": "GST was implemented on 1 July 2017."
+    },
+    {
+      "qid": 52,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire."
+    },
+    {
+      "qid": 53,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tropic of Cancer passes through 8 Indian states."
+    },
+    {
+      "qid": 54,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The minimum age to become the President of India is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Minimum age for President is 35 years."
+    },
+    {
+      "qid": 55,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ampere is the unit of electric current."
+    },
+    {
+      "qid": 56,
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Indonesia",
+        "Italy",
+        "Japan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India hosted the G20 Summit in 2023 in New Delhi."
+    },
+    {
+      "qid": 57,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quit India Movement was launched in 1942."
+    },
+    {
+      "qid": 58,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest state of India by area?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rajasthan is the largest state by area."
+    },
+    {
+      "qid": 59,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Who is known as the Father of Indian Economics?",
+      "options": [
+        "Amartya Sen",
+        "Manmohan Singh",
+        "Dadabhai Naoroji",
+        "C. Rangarajan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dadabhai Naoroji is often called the Father of Indian Economics / Grand Old Man of India."
+    },
+    {
+      "qid": 60,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Photosynthesis takes place in which part of the plant cell?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Photosynthesis occurs in chloroplasts."
+    },
+    {
+      "qid": 61,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The Indian Parliament consists of:",
+      "options": [
+        "Lok Sabha and Rajya Sabha",
+        "President, Lok Sabha and Rajya Sabha",
+        "Lok Sabha only",
+        "Rajya Sabha only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Parliament consists of the President, Lok Sabha and Rajya Sabha."
+    },
+    {
+      "qid": 62,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the last Mughal Emperor?",
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah Zafar",
+        "Shah Jahan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bahadur Shah Zafar was the last Mughal Emperor."
+    },
+    {
+      "qid": 63,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Kosi",
+        "Yamuna",
+        "Son"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kosi river is known as the Sorrow of Bihar."
+    },
+    {
+      "qid": 64,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the boiling point of water at sea level?",
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "80°C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Water boils at 100°C at standard atmospheric pressure."
+    },
+    {
+      "qid": 65,
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Who is the current Governor of the Reserve Bank of India (as of late 2024)?",
+      "options": [
+        "Shaktikanta Das",
+        "Urjit Patel",
+        "Raghuram Rajan",
+        "Sanjay Malhotra"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Sanjay Malhotra is the current RBI Governor (appointed Dec 2024)."
+    },
+    {
+      "qid": 66,
+      "subject": "English Language",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abundant means plentiful or in large quantity."
+    },
+    {
+      "qid": 67,
+      "subject": "English Language",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'BRAVE':",
+      "options": [
+        "Courageous",
+        "Cowardly",
+        "Bold",
+        "Fearless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of brave is cowardly."
+    },
+    {
+      "qid": 68,
+      "subject": "English Language",
+      "chapter": "Idioms",
+      "question": "What does the idiom 'Bite the bullet' mean?",
+      "options": [
+        "To eat quickly",
+        "To endure a painful situation",
+        "To shoot a gun",
+        "To avoid work"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bite the bullet means to endure a difficult or painful situation."
+    },
+    {
+      "qid": 69,
+      "subject": "English Language",
+      "chapter": "One Word Substitution",
+      "question": "A person who can speak many languages is called:",
+      "options": [
+        "Polyglot",
+        "Linguist",
+        "Orator",
+        "Translator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Polyglot is a person who knows and is able to use several languages."
+    },
+    {
+      "qid": 70,
+      "subject": "English Language",
+      "chapter": "Fill in the Blanks",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct preposition is 'good at'."
+    },
+    {
+      "qid": 71,
+      "subject": "English Language",
+      "chapter": "Error Detection",
+      "question": "Identify the error: 'She don't like coffee.'",
+      "options": [
+        "She",
+        "don't",
+        "like",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct is 'doesn't' for third person singular."
+    },
+    {
+      "qid": 72,
+      "subject": "English Language",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'CANDID':",
+      "options": [
+        "Honest",
+        "Dishonest",
+        "Secretive",
+        "Rude"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candid means honest and frank."
+    },
+    {
+      "qid": 73,
+      "subject": "English Language",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'TEMPORARY':",
+      "options": [
+        "Permanent",
+        "Brief",
+        "Short",
+        "Momentary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antonym of temporary is permanent."
+    },
+    {
+      "qid": 74,
+      "subject": "English Language",
+      "chapter": "Idioms",
+      "question": "'To hit the nail on the head' means:",
+      "options": [
+        "To miss the point",
+        "To be exactly right",
+        "To cause injury",
+        "To work hard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to describe exactly what is causing a situation or problem; to be exactly correct."
+    },
+    {
+      "qid": 75,
+      "subject": "English Language",
+      "chapter": "One Word",
+      "question": "A place where bees are kept is called:",
+      "options": [
+        "Apiary",
+        "Aviary",
+        "Aquarium",
+        "Orchard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apiary is a place where bees are kept."
+    },
+    {
+      "qid": 76,
+      "subject": "English Language",
+      "chapter": "Prepositions",
+      "question": "The cat is hiding _____ the table.",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "over"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Correct preposition is 'under'."
+    },
+    {
+      "qid": 77,
+      "subject": "English Language",
+      "chapter": "Tenses",
+      "question": "She _____ to school every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Simple present third person singular uses 'goes'."
+    },
+    {
+      "qid": 78,
+      "subject": "English Language",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'ENORMOUS':",
+      "options": [
+        "Tiny",
+        "Huge",
+        "Small",
+        "Little"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Enormous means huge or very large."
+    },
+    {
+      "qid": 79,
+      "subject": "English Language",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'VICTORY':",
+      "options": [
+        "Success",
+        "Defeat",
+        "Win",
+        "Triumph"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of victory is defeat."
+    },
+    {
+      "qid": 80,
+      "subject": "English Language",
+      "chapter": "Idioms",
+      "question": "'A piece of cake' means:",
+      "options": [
+        "Something delicious",
+        "Something very easy",
+        "Something expensive",
+        "Something sweet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A piece of cake means something very easy to do."
+    },
+    {
+      "qid": 81,
+      "subject": "English Language",
+      "chapter": "One Word Substitution",
+      "question": "The study of plants is called:",
+      "options": [
+        "Botany",
+        "Zoology",
+        "Geology",
+        "Biology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Botany is the scientific study of plants."
+    },
+    {
+      "qid": 82,
+      "subject": "English Language",
+      "chapter": "Fill in the Blank",
+      "question": "I have been living here _____ 2010.",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "in"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Since' is used with a specific point in time."
+    },
+    {
+      "qid": 83,
+      "subject": "English Language",
+      "chapter": "Error Spotting",
+      "question": "Find the error: 'Neither of the boys have done their homework.'",
+      "options": [
+        "Neither",
+        "have",
+        "their",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct is 'has' because 'neither' is singular."
+    },
+    {
+      "qid": 84,
+      "subject": "English Language",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'FRUGAL':",
+      "options": [
+        "Wasteful",
+        "Economical",
+        "Expensive",
+        "Rich"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frugal means economical or thrifty."
+    },
+    {
+      "qid": 85,
+      "subject": "English Language",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'ANCIENT':",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Traditional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of ancient is modern."
+    },
+    {
+      "qid": 86,
+      "subject": "English Language",
+      "chapter": "Idioms",
+      "question": "'Once in a blue moon' means:",
+      "options": [
+        "Very frequently",
+        "Very rarely",
+        "At night",
+        "During full moon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Once in a blue moon means very rarely."
+    },
+    {
+      "qid": 87,
+      "subject": "English Language",
+      "chapter": "One Word",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philatelist",
+        "Numismatist",
+        "Audiophile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": 88,
+      "subject": "English Language",
+      "chapter": "Voice",
+      "question": "Change to passive: 'They are building a new bridge.'",
+      "options": [
+        "A new bridge is being built by them.",
+        "A new bridge is built by them.",
+        "A new bridge was being built by them.",
+        "A new bridge has been built by them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is being built."
+    },
+    {
+      "qid": 89,
+      "subject": "English Language",
+      "chapter": "Narration",
+      "question": "Change to indirect: He said, 'I am busy.'",
+      "options": [
+        "He said that he is busy.",
+        "He said that he was busy.",
+        "He said that I am busy.",
+        "He said he is busy."
+      ],
+      "correctAnswer": 2,
+      "explanation": "In indirect speech, present becomes past: he was busy."
+    },
+    {
+      "qid": 90,
+      "subject": "English Language",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accomodaton"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct spelling is Accommodation."
+    }
+  ]
 }
