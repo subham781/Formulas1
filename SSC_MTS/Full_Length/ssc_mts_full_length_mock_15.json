@@ -1,1 +1,20 @@
-PLACEHOLDER_FOR_CONTENT
+{
+  "testId": "ssc_mts_full_length_mock_15",
+  "exam": "SSC MTS",
+  "testType": "fullLength",
+  "title": "SSC MTS Full Length Mock Test 15 (Hard Level)",
+  "description": "Full length mock test for SSC MTS with 90 questions covering Numerical Ability, Reasoning Ability, General Awareness and English Language. Hard level difficulty.",
+  "durationMinutes": 90,
+  "totalQuestions": 90,
+  "marksPerQuestion": 3,
+  "negativeMarks": 1,
+  "instructions": [
+    "Total duration of the test is 90 minutes.",
+    "There are 90 questions in total.",
+    "Each correct answer carries 3 marks.",
+    "There is a negative marking of 1 mark for each wrong answer.",
+    "No marks will be deducted for unattempted questions.",
+    "The test consists of four sections: Numerical Ability (20), Reasoning Ability (20), General Awareness (25) and English Language (25)."
+  ],
+  "questions": []
+}
