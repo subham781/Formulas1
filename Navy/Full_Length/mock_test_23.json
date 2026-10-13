@@ -1,1 +1,1420 @@
-PLACEHOLDER_WILL_BE_REPLACED
+{
+  "testId": "navy_full_length_mock_23",
+  "exam": "Navy",
+  "testType": "fullLength",
+  "title": "Indian Navy Agniveer SSR Full Length Mock Test 23 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Navy Agniveer SSR. 100 Questions | 60 Minutes | Advanced challenging questions covering English, Science, Maths and General Awareness.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (English 25, Science 25, Maths 25, GA 25).",
+    "Each correct answer carries 1 mark. Negative marking of 0.25 marks for each wrong answer.",
+    "Duration: 60 minutes. Manage your time wisely.",
+    "There is no sectional time limit. Attempt all questions."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part which has an error: The captain along with his sailors were awarded for their bravery during the rescue operation.",
+      "options": [
+        "The captain along with his sailors",
+        "were awarded for their bravery",
+        "during the rescue operation",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When 'along with' is used, the verb agrees with the first subject 'The captain' which is singular, so 'was awarded' is correct."
+    },
+    {
+      "qid": 2,
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "The naval officer _____ the situation carefully before giving orders.",
+      "options": [
+        "assessed",
+        "assessing",
+        "has assess",
+        "was assess"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past tense 'assessed' is appropriate for a completed action."
+    },
+    {
+      "qid": 3,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'Audacious':",
+      "options": [
+        "Timid",
+        "Bold",
+        "Cautious",
+        "Fearful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Audacious means bold or daring."
+    },
+    {
+      "qid": 4,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'Benevolent':",
+      "options": [
+        "Kind",
+        "Generous",
+        "Malevolent",
+        "Charitable"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Benevolent means well-meaning and kindly; antonym is malevolent."
+    },
+    {
+      "qid": 5,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does the idiom 'Bite the bullet' mean?",
+      "options": [
+        "To eat quickly",
+        "To face a difficult situation bravely",
+        "To shoot accurately",
+        "To avoid danger"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bite the bullet means to endure a painful or difficult situation."
+    },
+    {
+      "qid": 6,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who is expert in navigation and sailing is called:",
+      "options": [
+        "Navigator",
+        "Mariner",
+        "Pilot",
+        "All of the above"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All terms can relate to experts in sailing/navigation in different contexts."
+    },
+    {
+      "qid": 7,
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Change to passive: The sailors cleaned the deck thoroughly.",
+      "options": [
+        "The deck was cleaned thoroughly by the sailors.",
+        "The deck is cleaned thoroughly by the sailors.",
+        "The deck has been cleaned thoroughly by the sailors.",
+        "The deck cleaned thoroughly by the sailors."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past active becomes simple past passive: was cleaned."
+    },
+    {
+      "qid": 8,
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "Change to indirect: The admiral said, 'We will sail at dawn.'",
+      "options": [
+        "The admiral said that they would sail at dawn.",
+        "The admiral said that we will sail at dawn.",
+        "The admiral said that they will sail at dawn.",
+        "The admiral said they sail at dawn."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Will changes to would, we to they in reported speech."
+    },
+    {
+      "qid": 9,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "The ship is anchored _____ the harbor.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anchored at the harbor is the correct preposition usage."
+    },
+    {
+      "qid": 10,
+      "subject": "English",
+      "chapter": "Articles",
+      "question": "_____ Pacific Ocean is the largest ocean.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Definite article 'The' is used before unique geographical names like oceans."
+    },
+    {
+      "qid": 11,
+      "subject": "English",
+      "chapter": "Tenses",
+      "question": "By the time the fleet arrived, the storm _____.",
+      "options": [
+        "has subsided",
+        "had subsided",
+        "subsided",
+        "will subside"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past perfect 'had subsided' for an action completed before another past action."
+    },
+    {
+      "qid": 12,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: Neither of the two ships were damaged in the storm.",
+      "options": [
+        "Neither of the two ships",
+        "were damaged",
+        "in the storm",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neither takes singular verb: was damaged."
+    },
+    {
+      "qid": 13,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Perilous':",
+      "options": [
+        "Safe",
+        "Dangerous",
+        "Easy",
+        "Calm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Perilous means full of danger."
+    },
+    {
+      "qid": 14,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Obsolete':",
+      "options": [
+        "Outdated",
+        "Modern",
+        "Ancient",
+        "Old"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Obsolete means no longer in use; antonym is modern or current."
+    },
+    {
+      "qid": 15,
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "The submarine _____ undetected for hours.",
+      "options": [
+        "remain",
+        "remained",
+        "remaining",
+        "has remain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past tense 'remained' fits the narrative."
+    },
+    {
+      "qid": 16,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "Meaning of 'All hands on deck':",
+      "options": [
+        "Everyone must help",
+        "Only officers needed",
+        "Ship is sinking",
+        "Party time"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All hands on deck means everyone is needed to help."
+    },
+    {
+      "qid": 17,
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A place where ships are built or repaired is called:",
+      "options": [
+        "Harbor",
+        "Dockyard",
+        "Port",
+        "Anchorage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dockyard or shipyard is where ships are built/repaired."
+    },
+    {
+      "qid": 18,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Choose the correct: He is senior than me in rank.",
+      "options": [
+        "senior than",
+        "senior to",
+        "seniorer than",
+        "more senior than"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Senior is followed by 'to', not 'than'."
+    },
+    {
+      "qid": 19,
+      "subject": "English",
+      "chapter": "Comprehension style",
+      "question": "The phrase 'rule the waves' refers to:",
+      "options": [
+        "Controlling the seas",
+        "Swimming skills",
+        "Weather forecasting",
+        "Music"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Historically associated with naval supremacy, like Britannia rules the waves."
+    },
+    {
+      "qid": 20,
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Navigashun",
+        "Navigation",
+        "Navigetion",
+        "Navigasion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Navigation is the correct spelling."
+    },
+    {
+      "qid": 21,
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Passive of: The crew is repairing the engine.",
+      "options": [
+        "The engine is being repaired by the crew.",
+        "The engine was repaired by the crew.",
+        "The engine has been repaired by the crew.",
+        "The engine is repaired by the crew."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is being repaired."
+    },
+    {
+      "qid": 22,
+      "subject": "English",
+      "chapter": "Conjunctions",
+      "question": "He will join the navy _____ he completes his training.",
+      "options": [
+        "if",
+        "unless",
+        "although",
+        "because"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'If' is the appropriate conditional conjunction."
+    },
+    {
+      "qid": 23,
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "What is the meaning of 'Buoy'?",
+      "options": [
+        "A floating marker",
+        "A type of ship",
+        "An anchor",
+        "A sail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A buoy is a floating device used as a marker."
+    },
+    {
+      "qid": 24,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify error: The officer ordered that the ship was to be inspected immediately.",
+      "options": [
+        "The officer ordered that",
+        "the ship was to be inspected",
+        "immediately",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In subjunctive after ordered that, it should be 'be inspected' or 'should be inspected'."
+    },
+    {
+      "qid": 25,
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "Despite the rough seas, the captain _____ calm.",
+      "options": [
+        "remain",
+        "remained",
+        "remaining",
+        "remains"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past tense for narrative consistency."
+    },
+    {
+      "qid": 26,
+      "subject": "Science",
+      "chapter": "Physics - Optics",
+      "question": "The refractive index of a medium is 1.5. The speed of light in that medium is (c = 3×10^8 m/s):",
+      "options": [
+        "2×10^8 m/s",
+        "1.5×10^8 m/s",
+        "4.5×10^8 m/s",
+        "3×10^8 m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "v = c / μ = 3e8 / 1.5 = 2×10^8 m/s."
+    },
+    {
+      "qid": 27,
+      "subject": "Science",
+      "chapter": "Physics - Electricity",
+      "question": "Two resistors of 4Ω and 6Ω are connected in parallel. The equivalent resistance is:",
+      "options": [
+        "2.4Ω",
+        "10Ω",
+        "1.5Ω",
+        "5Ω"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/Req = 1/4 + 1/6 = 5/12, Req = 12/5 = 2.4Ω."
+    },
+    {
+      "qid": 28,
+      "subject": "Science",
+      "chapter": "Chemistry - Periodic Table",
+      "question": "Which element has the highest electronegativity?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Chlorine",
+        "Nitrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fluorine is the most electronegative element."
+    },
+    {
+      "qid": 29,
+      "subject": "Science",
+      "chapter": "Biology - Human Body",
+      "question": "The functional unit of the kidney is:",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "Villus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nephron is the structural and functional unit of the kidney."
+    },
+    {
+      "qid": 30,
+      "subject": "Science",
+      "chapter": "Physics - Mechanics",
+      "question": "A body of mass 5 kg is moving with velocity 4 m/s. Its kinetic energy is:",
+      "options": [
+        "40 J",
+        "20 J",
+        "10 J",
+        "80 J"
+      ],
+      "correctAnswer": 1,
+      "explanation": "KE = (1/2)mv² = 0.5 × 5 × 16 = 40 J."
+    },
+    {
+      "qid": 31,
+      "subject": "Science",
+      "chapter": "Physics - Waves",
+      "question": "The frequency of a sound wave is 500 Hz and wavelength is 0.68 m. The speed of sound is:",
+      "options": [
+        "340 m/s",
+        "250 m/s",
+        "500 m/s",
+        "170 m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "v = fλ = 500 × 0.68 = 340 m/s."
+    },
+    {
+      "qid": 32,
+      "subject": "Science",
+      "chapter": "Chemistry - Acids Bases",
+      "question": "The pH of pure water at 25°C is:",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pure water is neutral with pH 7."
+    },
+    {
+      "qid": 33,
+      "subject": "Science",
+      "chapter": "Biology - Cell",
+      "question": "Mitochondria are known as the:",
+      "options": [
+        "Powerhouse of the cell",
+        "Kitchen of the cell",
+        "Brain of the cell",
+        "Skeleton of the cell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria produce ATP, hence powerhouse."
+    },
+    {
+      "qid": 34,
+      "subject": "Science",
+      "chapter": "Physics - Heat",
+      "question": "The SI unit of heat is:",
+      "options": [
+        "Joule",
+        "Calorie",
+        "Watt",
+        "Kelvin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Joule is the SI unit of energy/heat."
+    },
+    {
+      "qid": 35,
+      "subject": "Science",
+      "chapter": "Chemistry - Organic",
+      "question": "The general formula of alkanes is:",
+      "options": [
+        "CnH2n+2",
+        "CnH2n",
+        "CnH2n-2",
+        "CnHn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alkanes are saturated hydrocarbons with formula CnH2n+2."
+    },
+    {
+      "qid": 36,
+      "subject": "Science",
+      "chapter": "Physics - Magnetism",
+      "question": "The magnetic field inside a long solenoid is:",
+      "options": [
+        "Uniform",
+        "Zero",
+        "Non-uniform",
+        "Maximum at ends"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Magnetic field inside a long solenoid is uniform and parallel to the axis."
+    },
+    {
+      "qid": 37,
+      "subject": "Science",
+      "chapter": "Biology - Nutrition",
+      "question": "Vitamin C deficiency causes:",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Night blindness",
+        "Beriberi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scurvy is caused by lack of Vitamin C."
+    },
+    {
+      "qid": 38,
+      "subject": "Science",
+      "chapter": "Physics - Gravitation",
+      "question": "The value of g on the surface of Earth is approximately:",
+      "options": [
+        "9.8 m/s²",
+        "10 m/s²",
+        "8 m/s²",
+        "12 m/s²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard acceleration due to gravity is 9.8 m/s²."
+    },
+    {
+      "qid": 39,
+      "subject": "Science",
+      "chapter": "Chemistry - Metals",
+      "question": "The most reactive metal among the following is:",
+      "options": [
+        "Gold",
+        "Sodium",
+        "Iron",
+        "Copper"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sodium is highly reactive alkali metal."
+    },
+    {
+      "qid": 40,
+      "subject": "Science",
+      "chapter": "Physics - Sound",
+      "question": "Ultrasonic waves are used in:",
+      "options": [
+        "SONAR",
+        "Radio",
+        "Television",
+        "Telephone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SONAR uses ultrasonic waves for underwater detection."
+    },
+    {
+      "qid": 41,
+      "subject": "Science",
+      "chapter": "Biology - Diseases",
+      "question": "Malaria is caused by:",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Fungus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Malaria is caused by Plasmodium protozoa."
+    },
+    {
+      "qid": 42,
+      "subject": "Science",
+      "chapter": "Physics - Light",
+      "question": "The phenomenon of splitting of white light into seven colours is called:",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dispersion of light causes rainbow formation."
+    },
+    {
+      "qid": 43,
+      "subject": "Science",
+      "chapter": "Chemistry - Water",
+      "question": "Hardness of water is due to the presence of:",
+      "options": [
+        "Ca and Mg salts",
+        "NaCl",
+        "Sugar",
+        "Alcohol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcium and magnesium salts cause hardness."
+    },
+    {
+      "qid": 44,
+      "subject": "Science",
+      "chapter": "Physics - Work Energy",
+      "question": "Power is defined as:",
+      "options": [
+        "Work done per unit time",
+        "Force × velocity",
+        "Energy × time",
+        "Both 1 and 2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Power = Work/time = Force × velocity."
+    },
+    {
+      "qid": 45,
+      "subject": "Science",
+      "chapter": "Biology - Plants",
+      "question": "Photosynthesis occurs in:",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chloroplasts contain chlorophyll for photosynthesis."
+    },
+    {
+      "qid": 46,
+      "subject": "Science",
+      "chapter": "Physics - Current",
+      "question": "Ohm's law states that V = :",
+      "options": [
+        "IR",
+        "I/R",
+        "R/I",
+        "I²R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "V = IR is Ohm's law."
+    },
+    {
+      "qid": 47,
+      "subject": "Science",
+      "chapter": "Chemistry - Gases",
+      "question": "The gas used in fire extinguishers is:",
+      "options": [
+        "CO2",
+        "O2",
+        "N2",
+        "H2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon dioxide is commonly used in fire extinguishers."
+    },
+    {
+      "qid": 48,
+      "subject": "Science",
+      "chapter": "Physics - Nuclear",
+      "question": "The process of splitting of a heavy nucleus is called:",
+      "options": [
+        "Fusion",
+        "Fission",
+        "Radioactivity",
+        "Ionization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nuclear fission is the splitting of heavy nucleus."
+    },
+    {
+      "qid": 49,
+      "subject": "Science",
+      "chapter": "Biology - Blood",
+      "question": "The blood group known as universal donor is:",
+      "options": [
+        "O",
+        "AB",
+        "A",
+        "B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O negative is universal donor."
+    },
+    {
+      "qid": 50,
+      "subject": "Science",
+      "chapter": "Physics - Units",
+      "question": "The SI unit of pressure is:",
+      "options": [
+        "Pascal",
+        "Bar",
+        "Atmosphere",
+        "Torr"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pascal (N/m²) is the SI unit of pressure."
+    },
+    {
+      "qid": 51,
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The HCF of 36 and 48 is:",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "36=2²×3², 48=2⁴×3, HCF=2²×3=12."
+    },
+    {
+      "qid": 52,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "Solve for x: 2x + 5 = 15",
+      "options": [
+        "5",
+        "10",
+        "7.5",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 10, x = 5."
+    },
+    {
+      "qid": 53,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "What is 15% of 200?",
+      "options": [
+        "30",
+        "25",
+        "35",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15/100 × 200 = 30."
+    },
+    {
+      "qid": 54,
+      "subject": "Maths",
+      "chapter": "Profit Loss",
+      "question": "A man buys an article for ₹100 and sells it for ₹120. The profit percentage is:",
+      "options": [
+        "20%",
+        "15%",
+        "25%",
+        "10%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profit = 20, % = 20/100 × 100 = 20%."
+    },
+    {
+      "qid": 55,
+      "subject": "Maths",
+      "chapter": "Ratio",
+      "question": "The ratio of 3:4 is equivalent to:",
+      "options": [
+        "6:8",
+        "9:12",
+        "12:16",
+        "All of the above"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All are multiples of 3:4."
+    },
+    {
+      "qid": 56,
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "The average of 10, 20, 30, 40 is:",
+      "options": [
+        "25",
+        "20",
+        "30",
+        "22.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum=100, average=100/4=25."
+    },
+    {
+      "qid": 57,
+      "subject": "Maths",
+      "chapter": "Time and Work",
+      "question": "A can do a work in 10 days, B in 15 days. Together they can do it in:",
+      "options": [
+        "6 days",
+        "5 days",
+        "7.5 days",
+        "8 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 5/30 = 1/6, so 6 days."
+    },
+    {
+      "qid": 58,
+      "subject": "Maths",
+      "chapter": "Speed Distance",
+      "question": "A ship travels 120 km in 4 hours. Its speed is:",
+      "options": [
+        "30 km/h",
+        "25 km/h",
+        "40 km/h",
+        "20 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 120/4 = 30 km/h."
+    },
+    {
+      "qid": 59,
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "The sum of angles in a triangle is:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Angle sum property of triangle is 180°."
+    },
+    {
+      "qid": 60,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "Area of a circle with radius 7 cm is (π=22/7):",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "88 cm²",
+        "308 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr² = 22/7 × 49 = 154."
+    },
+    {
+      "qid": 61,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "Sin 30° is equal to:",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard value sin 30° = 1/2."
+    },
+    {
+      "qid": 62,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "(a+b)² = ?",
+      "options": [
+        "a² + b² + 2ab",
+        "a² + b² - 2ab",
+        "a² - b²",
+        "a² + b²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Identity: (a+b)² = a² + 2ab + b²."
+    },
+    {
+      "qid": 63,
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The LCM of 8 and 12 is:",
+      "options": [
+        "24",
+        "48",
+        "4",
+        "96"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 8 and 12 is 24."
+    },
+    {
+      "qid": 64,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "If the price of an item increases by 20% and then decreases by 20%, the net change is:",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Successive change: -4%."
+    },
+    {
+      "qid": 65,
+      "subject": "Maths",
+      "chapter": "Ratio Proportion",
+      "question": "If 3:5 = x:15, then x is:",
+      "options": [
+        "9",
+        "5",
+        "6",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3/5 = x/15, x = 9."
+    },
+    {
+      "qid": 66,
+      "subject": "Maths",
+      "chapter": "Simple Interest",
+      "question": "SI on ₹1000 at 5% for 2 years is:",
+      "options": [
+        "₹100",
+        "₹50",
+        "₹200",
+        "₹150"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (1000×5×2)/100 = 100."
+    },
+    {
+      "qid": 67,
+      "subject": "Maths",
+      "chapter": "Time Distance",
+      "question": "A boat covers 30 km upstream in 3 hours and 40 km downstream in 2 hours. The speed of the boat in still water is:",
+      "options": [
+        "15 km/h",
+        "10 km/h",
+        "12.5 km/h",
+        "20 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Upstream 10 km/h, downstream 20 km/h, still water (10+20)/2 = 15 km/h."
+    },
+    {
+      "qid": 68,
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "The diagonal of a square of side 5 cm is:",
+      "options": [
+        "5√2 cm",
+        "10 cm",
+        "25 cm",
+        "5 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diagonal = side√2 = 5√2."
+    },
+    {
+      "qid": 69,
+      "subject": "Maths",
+      "chapter": "Probability",
+      "question": "Probability of getting a head in a single toss of a fair coin is:",
+      "options": [
+        "1/2",
+        "1/4",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two outcomes, one favorable."
+    },
+    {
+      "qid": 70,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "If x² - 5x + 6 = 0, the roots are:",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "-2 and -3",
+        "5 and 1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x-2)(x-3)=0, roots 2,3."
+    },
+    {
+      "qid": 71,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 3 cm is:",
+      "options": [
+        "27 cm³",
+        "9 cm³",
+        "18 cm³",
+        "81 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "V = a³ = 27."
+    },
+    {
+      "qid": 72,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "Tan 45° is:",
+      "options": [
+        "1",
+        "0",
+        "√3",
+        "1/√3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tan 45° = 1."
+    },
+    {
+      "qid": 73,
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The smallest prime number is:",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2 is the smallest and only even prime."
+    },
+    {
+      "qid": 74,
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "If the average of 5 numbers is 20, their sum is:",
+      "options": [
+        "100",
+        "25",
+        "4",
+        "80"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = average × n = 100."
+    },
+    {
+      "qid": 75,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "A number is increased by 10% and then decreased by 10%. The final number is ___ of the original.",
+      "options": [
+        "99%",
+        "100%",
+        "90%",
+        "110%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net change is 1% decrease, so 99%."
+    },
+    {
+      "qid": 76,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "The motto of the Indian Navy is:",
+      "options": [
+        "Shaano Varuna",
+        "Satyameva Jayate",
+        "Jai Hind",
+        "Vande Mataram"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shaano Varuna means 'May the ocean be peaceful' or similar; official motto is 'Shaṁ No Varunah'."
+    },
+    {
+      "qid": 77,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the largest ocean?",
+      "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pacific Ocean is the largest."
+    },
+    {
+      "qid": 78,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who was the first Chief of Naval Staff of independent India?",
+      "options": [
+        "Admiral RD Katari",
+        "Admiral AK Chatterji",
+        "Admiral SN Kohli",
+        "Admiral OS Dawson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rear Admiral RD Katari was the first Indian CNS."
+    },
+    {
+      "qid": 79,
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The President of India is the Supreme Commander of the:",
+      "options": [
+        "Armed Forces",
+        "Navy only",
+        "Army only",
+        "Air Force only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "President is the Supreme Commander of all Armed Forces."
+    },
+    {
+      "qid": 80,
+      "subject": "GA",
+      "chapter": "Current Affairs / Defence",
+      "question": "INS Vikrant is:",
+      "options": [
+        "Aircraft Carrier",
+        "Submarine",
+        "Destroyer",
+        "Frigate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Vikrant is India's indigenous aircraft carrier."
+    },
+    {
+      "qid": 81,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Strait of Malacca connects:",
+      "options": [
+        "Indian Ocean and Pacific Ocean",
+        "Atlantic and Pacific",
+        "Mediterranean and Red Sea",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It connects Indian Ocean to South China Sea/Pacific."
+    },
+    {
+      "qid": 82,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Operation Trident was related to:",
+      "options": [
+        "1971 Indo-Pak War (Navy)",
+        "Kargil War",
+        "1965 War",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indian Navy's attack on Karachi harbor in 1971."
+    },
+    {
+      "qid": 83,
+      "subject": "GA",
+      "chapter": "Science & Tech / Navy",
+      "question": "The nuclear submarine of India is:",
+      "options": [
+        "INS Arihant",
+        "INS Chakra",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 3,
+      "explanation": "INS Arihant is indigenous SSBN; Chakra was leased."
+    },
+    {
+      "qid": 84,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Andaman and Nicobar Islands are under the command of:",
+      "options": [
+        "Andaman & Nicobar Command (ANC)",
+        "Western Naval Command",
+        "Eastern Naval Command",
+        "Southern Naval Command"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ANC is the unified tri-service command."
+    },
+    {
+      "qid": 85,
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "The highest gallantry award in India is:",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PVC is the highest wartime gallantry award."
+    },
+    {
+      "qid": 86,
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "Article 352 of the Indian Constitution deals with:",
+      "options": [
+        "National Emergency",
+        "State Emergency",
+        "Financial Emergency",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 352 is for National Emergency."
+    },
+    {
+      "qid": 87,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The capital of Maharashtra is:",
+      "options": [
+        "Mumbai",
+        "Pune",
+        "Nagpur",
+        "Aurangabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mumbai is the capital of Maharashtra."
+    },
+    {
+      "qid": 88,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The first war of independence was fought in:",
+      "options": [
+        "1857",
+        "1947",
+        "1858",
+        "1919"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1857 Revolt is considered the first war of independence."
+    },
+    {
+      "qid": 89,
+      "subject": "GA",
+      "chapter": "Sports / Navy related",
+      "question": "Navy Day in India is celebrated on:",
+      "options": [
+        "4 December",
+        "15 August",
+        "26 January",
+        "1 December"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Navy Day commemorates the 1971 war success on 4 December."
+    },
+    {
+      "qid": 90,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The rank of the head of Indian Navy is:",
+      "options": [
+        "Admiral",
+        "General",
+        "Air Chief Marshal",
+        "Marshal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chief of Naval Staff holds the rank of Admiral."
+    },
+    {
+      "qid": 91,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which river is known as the 'Sorrow of Bengal'?",
+      "options": [
+        "Damodar",
+        "Ganga",
+        "Brahmaputra",
+        "Kosi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Damodar was known as Sorrow of Bengal due to floods."
+    },
+    {
+      "qid": 92,
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The Parliament of India consists of:",
+      "options": [
+        "President, Lok Sabha, Rajya Sabha",
+        "Lok Sabha and Rajya Sabha only",
+        "President and Lok Sabha",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parliament includes President and both houses."
+    },
+    {
+      "qid": 93,
+      "subject": "GA",
+      "chapter": "Current / Ports",
+      "question": "The largest port in India is:",
+      "options": [
+        "Mumbai",
+        "Kandla",
+        "Chennai",
+        "Visakhapatnam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mumbai (Nhava Sheva/JNPT area) is among the largest; traditionally Mumbai is major."
+    },
+    {
+      "qid": 94,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who founded the Indian National Congress?",
+      "options": [
+        "A.O. Hume",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Allan Octavian Hume founded INC in 1885."
+    },
+    {
+      "qid": 95,
+      "subject": "GA",
+      "chapter": "Science in Daily Life",
+      "question": "The chemical formula of water is:",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H2O."
+    },
+    {
+      "qid": 96,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states approximately?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram."
+    },
+    {
+      "qid": 97,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The Western Naval Command is headquartered at:",
+      "options": [
+        "Mumbai",
+        "Kochi",
+        "Visakhapatnam",
+        "Port Blair"
+      ],
+      "correctAnswer": 1,
+      "explanation": "WNC is at Mumbai."
+    },
+    {
+      "qid": 98,
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Bharat Ratna is the highest:",
+      "options": [
+        "Civilian award",
+        "Military award",
+        "Sports award",
+        "Literary award"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Highest civilian honor of India."
+    },
+    {
+      "qid": 99,
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "The right to vote in India is given to citizens above the age of:",
+      "options": [
+        "18 years",
+        "21 years",
+        "16 years",
+        "25 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Voting age is 18 years."
+    },
+    {
+      "qid": 100,
+      "subject": "GA",
+      "chapter": "Navy Ships",
+      "question": "Which of the following is a destroyer class ship of Indian Navy?",
+      "options": [
+        "INS Kolkata",
+        "INS Vikrant",
+        "INS Arihant",
+        "INS Kalvari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Kolkata is a Kolkata-class destroyer."
+    }
+  ]
+}
