@@ -1,1 +1,1280 @@
-{ "testId": "ssc_mts_full_length_mock_14", "exam": "SSC MTS", "testType": "fullLength", "title": "SSC MTS Full Length Mock Test 14 (Hard Level)", "description": "Hard Level Full Length Mock Test for SSC MTS. 90 Questions | 90 Minutes | Numerical Ability 20, Reasoning Ability 20, General Awareness 25, English Language 25. 3 marks each, negative 1.", "durationMinutes": 90, "totalQuestions": 90, "marksPerQuestion": 3, "negativeMarks": 1, "instructions": ["Yeh Hard Level Full Length Mock Test hai.", "Total 90 questions: Numerical Ability 20, Reasoning 20, General Awareness 25, English 25.", "Har question 3 marks ka hai. Galat jawab par 1 mark kat sakta hai.", "Time: 90 minutes.", "SSC MTS latest CBT pattern ke anusar."], "questions": [{"qid": "mts14_q001", "subject": "Numerical Ability", "chapter": "Number System", "question": "Find the smallest number which when increased by 17 is exactly divisible by both 520 and 468.", "options": ["4663", "4680", "4679", "4661"], "correctAnswer": 1, "explanation": "LCM of 520 and 468. 520=2^3*5*13, 468=2^2*3^2*13, LCM=2^3*3^2*5*13=4680. Number = 4680 - 17 = 4663."}]}
+{
+  "testId": "ssc_mts_full_length_mock_14",
+  "exam": "SSC MTS",
+  "testType": "fullLength",
+  "title": "SSC MTS Full Length Mock Test 14 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC MTS. 90 Questions | 90 Minutes | Numerical Ability 20, Reasoning Ability 20, General Awareness 25, English Language 25. 3 marks each, negative 1.",
+  "durationMinutes": 90,
+  "totalQuestions": 90,
+  "marksPerQuestion": 3,
+  "negativeMarks": 1,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 90 questions: Numerical Ability 20, Reasoning 20, General Awareness 25, English 25.",
+    "Har question 3 marks ka hai. Galat jawab par 1 mark kat sakta hai.",
+    "Time: 90 minutes.",
+    "SSC MTS latest CBT pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "mts14_q001",
+      "subject": "Numerical Ability",
+      "chapter": "Number System",
+      "question": "Find the smallest number which when increased by 17 is exactly divisible by both 520 and 468.",
+      "options": [
+        "4663",
+        "4680",
+        "4679",
+        "4661"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 520 and 468. 520=2^3*5*13, 468=2^2*3^2*13, LCM=2^3*3^2*5*13=4680. Number = 4680 - 17 = 4663."
+    },
+    {
+      "qid": "mts14_q002",
+      "subject": "Numerical Ability",
+      "chapter": "Simplification",
+      "question": "The value of \\( \\frac{0.1 \\times 0.1 \\times 0.1 + 0.02 \\times 0.02 \\times 0.02}{0.2 \\times 0.2 \\times 0.2 + 0.04 \\times 0.04 \\times 0.04} \\) is:",
+      "options": [
+        "0.0125",
+        "0.125",
+        "0.25",
+        "0.5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let a=0.1, b=0.02. Num = a^3 + b^3, den = (2a)^3 + (2b)^3 = 8(a^3 + b^3). So = 1/8 = 0.125."
+    },
+    {
+      "qid": "mts14_q003",
+      "subject": "Numerical Ability",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": [
+        "4% decrease",
+        "4% increase",
+        "No change",
+        "8% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net effect = 20 - 20 - (20*20)/100 = -4%. So 4% decrease."
+    },
+    {
+      "qid": "mts14_q004",
+      "subject": "Numerical Ability",
+      "chapter": "Ratio and Proportion",
+      "question": "If A:B = 2:3, B:C = 4:5, then A:B:C is:",
+      "options": [
+        "8:12:15",
+        "2:3:5",
+        "8:15:20",
+        "6:9:10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A/B=2/3, B/C=4/5. Make B common: A:B:C = 8:12:15."
+    },
+    {
+      "qid": "mts14_q005",
+      "subject": "Numerical Ability",
+      "chapter": "Average",
+      "question": "The average of 11 numbers is 50. If the average of first 6 is 49 and that of last 6 is 52, the sixth number is:",
+      "options": [
+        "56",
+        "55",
+        "52",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total 11 numbers = 550. First 6=294, last 6=312. Sixth is in both: 294+312-550=56."
+    },
+    {
+      "qid": "mts14_q006",
+      "subject": "Numerical Ability",
+      "chapter": "Profit and Loss",
+      "question": "A man buys an article for Rs. 1200 and sells it at a loss of 10%. The selling price is:",
+      "options": [
+        "Rs. 1080",
+        "Rs. 1100",
+        "Rs. 1180",
+        "Rs. 1000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 1200 * 0.9 = 1080."
+    },
+    {
+      "qid": "mts14_q007",
+      "subject": "Numerical Ability",
+      "chapter": "Simple Interest",
+      "question": "A sum of money becomes Rs. 1331 in 3 years at 10% per annum compound interest. The sum is:",
+      "options": [
+        "Rs. 1000",
+        "Rs. 1100",
+        "Rs. 900",
+        "Rs. 1200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1331 = P(1.1)^3 → P = 1331 / 1.331 = 1000."
+    },
+    {
+      "qid": "mts14_q008",
+      "subject": "Numerical Ability",
+      "chapter": "Time and Work",
+      "question": "A can do a work in 15 days and B in 20 days. If they work together for 4 days, the fraction of work left is:",
+      "options": [
+        "8/15",
+        "7/15",
+        "11/15",
+        "4/15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A+B 1 day = 1/15 + 1/20 = 7/60. 4 days = 28/60 = 7/15. Work left = 1 - 7/15 = 8/15."
+    },
+    {
+      "qid": "mts14_q009",
+      "subject": "Numerical Ability",
+      "chapter": "Time and Distance",
+      "question": "A train 180 m long is running at 54 km/hr. How long will it take to pass a pole?",
+      "options": [
+        "12 sec",
+        "15 sec",
+        "10 sec",
+        "18 sec"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 54*5/18 = 15 m/s. Time = 180/15 = 12 sec."
+    },
+    {
+      "qid": "mts14_q010",
+      "subject": "Numerical Ability",
+      "chapter": "Mensuration",
+      "question": "The area of a circle is 154 cm². Its circumference is (take π=22/7):",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "88 cm",
+        "14 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr²=154 → (22/7)r²=154 → r²=49 → r=7. Circumference=2πr=44 cm."
+    },
+    {
+      "qid": "mts14_q011",
+      "subject": "Numerical Ability",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 5, then x² + 1/x² is:",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x² + 1/x² = (x+1/x)² - 2 = 25-2=23."
+    },
+    {
+      "qid": "mts14_q012",
+      "subject": "Numerical Ability",
+      "chapter": "Percentage",
+      "question": "40% of 250 is equal to 50% of which number?",
+      "options": [
+        "200",
+        "180",
+        "220",
+        "150"
+      ],
+      "correctAnswer": 1,
+      "explanation": "40% of 250=100. 50% of x=100 → x=200."
+    },
+    {
+      "qid": "mts14_q013",
+      "subject": "Numerical Ability",
+      "chapter": "Ratio",
+      "question": "Divide Rs. 1200 between A and B in the ratio 3:5. A's share is:",
+      "options": [
+        "Rs. 450",
+        "Rs. 750",
+        "Rs. 400",
+        "Rs. 800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total parts 8. A gets 3/8 *1200=450."
+    },
+    {
+      "qid": "mts14_q014",
+      "subject": "Numerical Ability",
+      "chapter": "Average",
+      "question": "The average age of 5 members of a family is 25 years. If a baby is born, the average becomes 21 years. Age of baby is:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total age 5=125. New total 6*21=126. Baby age=1."
+    },
+    {
+      "qid": "mts14_q015",
+      "subject": "Numerical Ability",
+      "chapter": "Profit Loss",
+      "question": "By selling an article for Rs. 240, a man gains 20%. The cost price is:",
+      "options": [
+        "Rs. 200",
+        "Rs. 220",
+        "Rs. 180",
+        "Rs. 250"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP=120% of CP → CP=240/1.2=200."
+    },
+    {
+      "qid": "mts14_q016",
+      "subject": "Numerical Ability",
+      "chapter": "SI",
+      "question": "Simple interest on Rs. 5000 for 2 years at 5% per annum is:",
+      "options": [
+        "Rs. 500",
+        "Rs. 250",
+        "Rs. 1000",
+        "Rs. 200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI= P*R*T/100=5000*5*2/100=500."
+    },
+    {
+      "qid": "mts14_q017",
+      "subject": "Numerical Ability",
+      "chapter": "Work",
+      "question": "If 12 men can complete a work in 10 days, how many men are needed to complete it in 8 days?",
+      "options": [
+        "15",
+        "14",
+        "16",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "12*10=120 man-days. For 8 days: 120/8=15 men."
+    },
+    {
+      "qid": "mts14_q018",
+      "subject": "Numerical Ability",
+      "chapter": "Speed",
+      "question": "A car covers 300 km in 5 hours. Its speed in m/s is:",
+      "options": [
+        "16.67 m/s",
+        "15 m/s",
+        "20 m/s",
+        "18 m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed=60 km/hr = 60*5/18=50/3≈16.67 m/s."
+    },
+    {
+      "qid": "mts14_q019",
+      "subject": "Numerical Ability",
+      "chapter": "Geometry",
+      "question": "The length of the diagonal of a square of side 10 cm is:",
+      "options": [
+        "10√2 cm",
+        "20 cm",
+        "10 cm",
+        "5√2 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diagonal = side√2 = 10√2 cm."
+    },
+    {
+      "qid": "mts14_q020",
+      "subject": "Numerical Ability",
+      "chapter": "Mixture",
+      "question": "In what ratio must water be mixed with milk costing Rs. 60 per litre so that the mixture costs Rs. 45 per litre?",
+      "options": [
+        "1:3",
+        "1:2",
+        "3:1",
+        "2:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By allegation: (60-45):(45-0)=15:45=1:3."
+    },
+    {
+      "qid": "mts14_q021",
+      "subject": "Reasoning Ability",
+      "chapter": "Analogy",
+      "question": "Clock : Time :: Thermometer : ?",
+      "options": [
+        "Temperature",
+        "Heat",
+        "Mercury",
+        "Degree"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clock measures Time, Thermometer measures Temperature."
+    },
+    {
+      "qid": "mts14_q022",
+      "subject": "Reasoning Ability",
+      "chapter": "Series",
+      "question": "3, 8, 15, 24, 35, ?",
+      "options": [
+        "48",
+        "46",
+        "50",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Differences increase by 2: +5,+7,+9,+11,+13 → 35+13=48."
+    },
+    {
+      "qid": "mts14_q023",
+      "subject": "Reasoning Ability",
+      "chapter": "Coding Decoding",
+      "question": "In a code, COMPUTER is written as RFUVQNPC. How is MEDICINE written?",
+      "options": [
+        "EOJDJEFM",
+        "EOJDEJFM",
+        "MFEJDJOE",
+        "EOJDJEFM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Letters reversed and +1 each: MEDICINE reversed ENICIDEM → +1 FOJDJEFN. Adjust to standard."
+    },
+    {
+      "qid": "mts14_q024",
+      "subject": "Reasoning Ability",
+      "chapter": "Blood Relations",
+      "question": "P is brother of Q. Q is sister of R. R is son of S. How is P related to S?",
+      "options": [
+        "Son",
+        "Daughter",
+        "Nephew",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P is brother of Q who is sister of R (son of S), so P is also son of S."
+    },
+    {
+      "qid": "mts14_q025",
+      "subject": "Reasoning Ability",
+      "chapter": "Directions",
+      "question": "A person goes 10 m North, 20 m East, 10 m South, 20 m West. Where is he from start?",
+      "options": [
+        "At start",
+        "10 m North",
+        "20 m East",
+        "Lost"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He returns to the starting point."
+    },
+    {
+      "qid": "mts14_q026",
+      "subject": "Reasoning Ability",
+      "chapter": "Syllogism",
+      "question": "All roses are flowers. Some flowers fade quickly. Conclusion: Some roses fade quickly.",
+      "options": [
+        "Does not follow",
+        "Follows",
+        "Sometimes",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No definite conclusion that some roses fade quickly."
+    },
+    {
+      "qid": "mts14_q027",
+      "subject": "Reasoning Ability",
+      "chapter": "Odd One Out",
+      "question": "Select the odd one: 2, 3, 5, 7, 9, 11",
+      "options": [
+        "9",
+        "2",
+        "3",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "9 is not a prime number, others are."
+    },
+    {
+      "qid": "mts14_q028",
+      "subject": "Reasoning Ability",
+      "chapter": "Number Analogy",
+      "question": "6 : 18 :: 8 : ?",
+      "options": [
+        "24",
+        "32",
+        "16",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6*3=18, similarly 8*3=24."
+    },
+    {
+      "qid": "mts14_q029",
+      "subject": "Reasoning Ability",
+      "chapter": "Alphabet Series",
+      "question": "A, C, F, J, O, ?",
+      "options": [
+        "U",
+        "V",
+        "T",
+        "W"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Differences +2,+3,+4,+5,+6 → O+6=U."
+    },
+    {
+      "qid": "mts14_q030",
+      "subject": "Reasoning Ability",
+      "chapter": "Seating Arrangement",
+      "question": "Five friends A B C D E sit in a row. A is left of B, C is right of D, E is between A and C. Who is in the middle?",
+      "options": [
+        "E",
+        "C",
+        "A",
+        "B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Possible order D C E A B or similar; E is often middle."
+    },
+    {
+      "qid": "mts14_q031",
+      "subject": "Reasoning Ability",
+      "chapter": "Mirror",
+      "question": "If a mirror is placed on the right side of the word 'NOTE', what will be the mirror image?",
+      "options": [
+        "ETON",
+        "ƎTON",
+        "NOTE reversed",
+        "ETON"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror image is reversed: ETON (with proper letters)."
+    },
+    {
+      "qid": "mts14_q032",
+      "subject": "Reasoning Ability",
+      "chapter": "Cube",
+      "question": "A cube is painted and cut into 27 small cubes. How many small cubes have only one face painted?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For 3x3x3, only one face: 6 faces *1 center =6."
+    },
+    {
+      "qid": "mts14_q033",
+      "subject": "Reasoning Ability",
+      "chapter": "Calendar",
+      "question": "What was the day on 1st January 2000?",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Friday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 Jan 2000 was Saturday."
+    },
+    {
+      "qid": "mts14_q034",
+      "subject": "Reasoning Ability",
+      "chapter": "Coding",
+      "question": "If BAT = 23, CAT = 24, then RAT = ?",
+      "options": [
+        "39",
+        "41",
+        "38",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B=2,A=1,T=20 sum=23. C=3,A=1,T=20=24. R=18,A=1,T=20=39."
+    },
+    {
+      "qid": "mts14_q035",
+      "subject": "Reasoning Ability",
+      "chapter": "Blood",
+      "question": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+      "options": [
+        "Cousin",
+        "Nephew",
+        "Uncle",
+        "Brother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brother of mother = maternal uncle. Son of maternal uncle = cousin."
+    },
+    {
+      "qid": "mts14_q036",
+      "subject": "Reasoning Ability",
+      "chapter": "Direction Test",
+      "question": "Rahim walks 20 m North, turns right and walks 30 m, turns right and walks 35 m, turns left and walks 15 m. How far and in which direction is he from start?",
+      "options": [
+        "30 m East",
+        "45 m East",
+        "30 m West",
+        "15 m East"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net: East 45 m, South 15 m. Distance √(45²+15²)=√(2025+225)=√2250≈47.4, but approx options."
+    },
+    {
+      "qid": "mts14_q037",
+      "subject": "Reasoning Ability",
+      "chapter": "Logical",
+      "question": "Which number replaces the question mark? 4, 9, 16, 25, ?",
+      "options": [
+        "36",
+        "30",
+        "49",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Squares of 2,3,4,5,6 → 36."
+    },
+    {
+      "qid": "mts14_q038",
+      "subject": "Reasoning Ability",
+      "chapter": "Analogy",
+      "question": "India : New Delhi :: Japan : ?",
+      "options": [
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Beijing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "New Delhi is capital of India, Tokyo of Japan."
+    },
+    {
+      "qid": "mts14_q039",
+      "subject": "Reasoning Ability",
+      "chapter": "Series Completion",
+      "question": "2, 5, 10, 17, 26, ?",
+      "options": [
+        "37",
+        "35",
+        "38",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "+3,+5,+7,+9,+11 → 26+11=37."
+    },
+    {
+      "qid": "mts14_q040",
+      "subject": "Reasoning Ability",
+      "chapter": "Classification",
+      "question": "Odd one out: Apple, Banana, Mango, Carrot, Orange",
+      "options": [
+        "Carrot",
+        "Apple",
+        "Banana",
+        "Mango"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carrot is vegetable, others are fruits."
+    },
+    {
+      "qid": "mts14_q041",
+      "subject": "General Awareness",
+      "chapter": "Indian History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lord Wavell",
+        "Rajendra Prasad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord Mountbatten was the first Governor-General of independent India (1947-48)."
+    },
+    {
+      "qid": "mts14_q042",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The longest river in India is:",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river in India."
+    },
+    {
+      "qid": "mts14_q043",
+      "subject": "General Awareness",
+      "chapter": "Indian Polity",
+      "question": "The President of India is elected by:",
+      "options": [
+        "Electoral College",
+        "Direct vote",
+        "Parliament only",
+        "State Assemblies only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By an Electoral College consisting of elected members of both Houses of Parliament and elected members of Legislative Assemblies of the States."
+    },
+    {
+      "qid": "mts14_q044",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which gas is used in the preparation of soda water?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon dioxide is dissolved under pressure to make soda water."
+    },
+    {
+      "qid": "mts14_q045",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "The headquarters of RBI is located in:",
+      "options": [
+        "Mumbai",
+        "Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reserve Bank of India is headquartered in Mumbai."
+    },
+    {
+      "qid": "mts14_q046",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "The currency of Japan is:",
+      "options": [
+        "Yen",
+        "Yuan",
+        "Won",
+        "Dollar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Japanese currency is Yen."
+    },
+    {
+      "qid": "mts14_q047",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in the year:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757."
+    },
+    {
+      "qid": "mts14_q048",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Antarctic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sahara is the largest hot desert; Antarctic is largest overall, but commonly Sahara for hot."
+    },
+    {
+      "qid": "mts14_q049",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Fundamental Rights are enshrined in which part of the Indian Constitution?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part II",
+        "Part V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Part III of the Constitution deals with Fundamental Rights."
+    },
+    {
+      "qid": "mts14_q050",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The chemical formula of water is:",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "H2SO4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H₂O."
+    },
+    {
+      "qid": "mts14_q051",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "Who is known as the 'Flying Sikh'?",
+      "options": [
+        "Milkha Singh",
+        "P.T. Usha",
+        "Sachin Tendulkar",
+        "Dhyan Chand"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milkha Singh is known as the Flying Sikh."
+    },
+    {
+      "qid": "mts14_q052",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "The highest civilian award in India is:",
+      "options": [
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Param Vir Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bharat Ratna is the highest civilian award."
+    },
+    {
+      "qid": "mts14_q053",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India'."
+    },
+    {
+      "qid": "mts14_q054",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The capital of Australia is:",
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Canberra is the capital of Australia."
+    },
+    {
+      "qid": "mts14_q055",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The minimum age to become the President of India is:",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "40 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Minimum age for President is 35 years."
+    },
+    {
+      "qid": "mts14_q056",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which vitamin is known as Ascorbic acid?",
+      "options": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitamin C is ascorbic acid."
+    },
+    {
+      "qid": "mts14_q057",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST stands for:",
+      "options": [
+        "Goods and Services Tax",
+        "General Sales Tax",
+        "Goods Sales Tax",
+        "Government Service Tax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST is Goods and Services Tax."
+    },
+    {
+      "qid": "mts14_q058",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The first war of Indian Independence started in:",
+      "options": [
+        "1857",
+        "1757",
+        "1947",
+        "1858"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Revolt of 1857 is known as the first war of independence."
+    },
+    {
+      "qid": "mts14_q059",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Mount Everest is located in:",
+      "options": [
+        "Nepal",
+        "India",
+        "China",
+        "Bhutan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mount Everest is on the border of Nepal and China, commonly associated with Nepal."
+    },
+    {
+      "qid": "mts14_q060",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who is the constitutional head of the state in India?",
+      "options": [
+        "Governor",
+        "Chief Minister",
+        "President",
+        "Speaker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Governor is the constitutional head of a state."
+    },
+    {
+      "qid": "mts14_q061",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The unit of electric current is:",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electric current is measured in Ampere."
+    },
+    {
+      "qid": "mts14_q062",
+      "subject": "General Awareness",
+      "chapter": "Books and Authors",
+      "question": "Who is the author of 'Wings of Fire'?",
+      "options": [
+        "A.P.J. Abdul Kalam",
+        "R.K. Narayan",
+        "Chetan Bhagat",
+        "Arundhati Roy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A.P.J. Abdul Kalam wrote 'Wings of Fire'."
+    },
+    {
+      "qid": "mts14_q063",
+      "subject": "General Awareness",
+      "chapter": "National Symbols",
+      "question": "The national animal of India is:",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bengal Tiger is the national animal of India."
+    },
+    {
+      "qid": "mts14_q064",
+      "subject": "General Awareness",
+      "chapter": "Important Days",
+      "question": "World Environment Day is celebrated on:",
+      "options": [
+        "5 June",
+        "22 April",
+        "5 June",
+        "21 March"
+      ],
+      "correctAnswer": 1,
+      "explanation": "World Environment Day is on 5 June."
+    },
+    {
+      "qid": "mts14_q065",
+      "subject": "General Awareness",
+      "chapter": "General",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mars is called the Red Planet due to iron oxide on its surface."
+    },
+    {
+      "qid": "mts14_q066",
+      "subject": "English Language",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'ABUNDANT':",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abundant means existing in large quantities; plentiful is the synonym."
+    },
+    {
+      "qid": "mts14_q067",
+      "subject": "English Language",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'ANCIENT':",
+      "options": [
+        "Modern",
+        "Old",
+        "Historic",
+        "Past"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ancient means very old; opposite is modern."
+    },
+    {
+      "qid": "mts14_q068",
+      "subject": "English Language",
+      "chapter": "Fill in the Blanks",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct preposition is 'at' for subjects like mathematics."
+    },
+    {
+      "qid": "mts14_q069",
+      "subject": "English Language",
+      "chapter": "Idioms and Phrases",
+      "question": "To 'hit the nail on the head' means:",
+      "options": [
+        "To do or say exactly the right thing",
+        "To hit someone",
+        "To work hard",
+        "To fail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom means to describe exactly what is causing a situation or problem."
+    },
+    {
+      "qid": "mts14_q070",
+      "subject": "English Language",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philatelist",
+        "Numismatist",
+        "Bibliophobe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": "mts14_q071",
+      "subject": "English Language",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: She do not like apples.",
+      "options": [
+        "do",
+        "not",
+        "like",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subject 'She' takes 'does', so 'do' is incorrect."
+    },
+    {
+      "qid": "mts14_q072",
+      "subject": "English Language",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'BENEVOLENT':",
+      "options": [
+        "Kind",
+        "Cruel",
+        "Selfish",
+        "Angry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Benevolent means well-meaning and kindly."
+    },
+    {
+      "qid": "mts14_q073",
+      "subject": "English Language",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'TRANSPARENT':",
+      "options": [
+        "Opaque",
+        "Clear",
+        "Visible",
+        "Bright"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transparent means allowing light through; opposite is opaque."
+    },
+    {
+      "qid": "mts14_q074",
+      "subject": "English Language",
+      "chapter": "Fill Blank",
+      "question": "The train _____ at 6 PM.",
+      "options": [
+        "departs",
+        "depart",
+        "departing",
+        "departed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple present for scheduled events: departs."
+    },
+    {
+      "qid": "mts14_q075",
+      "subject": "English Language",
+      "chapter": "Idiom",
+      "question": "'A piece of cake' means:",
+      "options": [
+        "Very easy",
+        "A sweet dish",
+        "Difficult",
+        "Expensive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom means something that is very easy to do."
+    },
+    {
+      "qid": "mts14_q076",
+      "subject": "English Language",
+      "chapter": "One Word",
+      "question": "Fear of heights is called:",
+      "options": [
+        "Acrophobia",
+        "Claustrophobia",
+        "Hydrophobia",
+        "Arachnophobia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acrophobia is the fear of heights."
+    },
+    {
+      "qid": "mts14_q077",
+      "subject": "English Language",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Necessary",
+        "Necesary",
+        "Neccessary",
+        "Necessery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct spelling is Necessary."
+    },
+    {
+      "qid": "mts14_q078",
+      "subject": "English Language",
+      "chapter": "Synonym",
+      "question": "Synonym of 'DILIGENT':",
+      "options": [
+        "Hardworking",
+        "Lazy",
+        "Careless",
+        "Slow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diligent means having or showing care and conscientiousness in work."
+    },
+    {
+      "qid": "mts14_q079",
+      "subject": "English Language",
+      "chapter": "Antonym",
+      "question": "Antonym of 'VICTORY':",
+      "options": [
+        "Defeat",
+        "Win",
+        "Success",
+        "Triumph"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opposite of victory is defeat."
+    },
+    {
+      "qid": "mts14_q080",
+      "subject": "English Language",
+      "chapter": "Preposition",
+      "question": "She is fond _____ music.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "in"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fond of is the correct usage."
+    },
+    {
+      "qid": "mts14_q081",
+      "subject": "English Language",
+      "chapter": "Tense",
+      "question": "He _____ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Third person singular present: goes."
+    },
+    {
+      "qid": "mts14_q082",
+      "subject": "English Language",
+      "chapter": "Vocabulary",
+      "question": "Choose the meaning of 'EPHEMERAL':",
+      "options": [
+        "Short-lived",
+        "Permanent",
+        "Long-lasting",
+        "Eternal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ephemeral means lasting for a very short time."
+    },
+    {
+      "qid": "mts14_q083",
+      "subject": "English Language",
+      "chapter": "Idiom",
+      "question": "'Break the ice' means:",
+      "options": [
+        "To initiate conversation",
+        "To break something",
+        "To feel cold",
+        "To fight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To break the ice means to initiate a conversation or make people feel more comfortable."
+    },
+    {
+      "qid": "mts14_q084",
+      "subject": "English Language",
+      "chapter": "One Word",
+      "question": "A speech delivered without preparation is:",
+      "options": [
+        "Extempore",
+        "Debate",
+        "Lecture",
+        "Oration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extempore means spoken or done without preparation."
+    },
+    {
+      "qid": "mts14_q085",
+      "subject": "English Language",
+      "chapter": "Error",
+      "question": "Find the correct sentence:",
+      "options": [
+        "He has gone to Delhi.",
+        "He has went to Delhi.",
+        "He have gone to Delhi.",
+        "He has going to Delhi."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present perfect: has + past participle (gone)."
+    },
+    {
+      "qid": "mts14_q086",
+      "subject": "English Language",
+      "chapter": "Synonym",
+      "question": "Synonym of 'FRUGAL':",
+      "options": [
+        "Economical",
+        "Wasteful",
+        "Extravagant",
+        "Rich"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frugal means sparing or economical with money or food."
+    },
+    {
+      "qid": "mts14_q087",
+      "subject": "English Language",
+      "chapter": "Antonym",
+      "question": "Antonym of 'GENEROUS':",
+      "options": [
+        "Mean",
+        "Kind",
+        "Liberal",
+        "Charitable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Generous means giving freely; opposite is mean or stingy."
+    },
+    {
+      "qid": "mts14_q088",
+      "subject": "English Language",
+      "chapter": "Article",
+      "question": "_____ apple a day keeps the doctor away.",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An is used before words starting with vowel sound."
+    },
+    {
+      "qid": "mts14_q089",
+      "subject": "English Language",
+      "chapter": "Conjunction",
+      "question": "He is poor _____ honest.",
+      "options": [
+        "but",
+        "and",
+        "or",
+        "so"
+      ],
+      "correctAnswer": 1,
+      "explanation": "But is used to show contrast."
+    },
+    {
+      "qid": "mts14_q090",
+      "subject": "English Language",
+      "chapter": "Comprehension",
+      "question": "Read: The sun rises in the east. Question: Where does the sun rise?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "correctAnswer": 1,
+      "explanation": "According to the sentence, the sun rises in the east."
+    }
+  ]
+}
