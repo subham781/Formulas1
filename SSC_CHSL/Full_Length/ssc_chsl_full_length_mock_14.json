@@ -1,1 +1,21 @@
-PLACEHOLDER_CONTENT_TO_BE_REPLACED
+{
+  "testId": "ssc_chsl_full_length_mock_14",
+  "exam": "SSC CHSL",
+  "testType": "fullLength",
+  "title": "SSC CHSL Tier-1 Full Length Mock Test 14 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CHSL Tier-1. 100 Questions | 60 Minutes | Reasoning 25, GA 25, Quant 25, English 25.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.",
+    "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CHSL Tier-1 latest pattern ke anusar."
+  ],
+  "questions": [
+    {"qid": "CHSL1401", "subject": "Reasoning", "chapter": "Analogy", "question": "Book : Author :: Painting : ?", "options": ["Canvas", "Painter", "Colour", "Frame"], "correctAnswer": 2, "explanation": "A book is created by an author; a painting is created by a painter."}
+  ]
+}
