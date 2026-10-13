@@ -1,1 +1,34 @@
-{full content here - will be replaced by system if possible, but let's load it}
+{
+  "testId": "ssc_gd_fl_mock_14",
+  "exam": "SSC GD",
+  "testType": "fullLength",
+  "title": "SSC GD Constable Full Length Mock Test 14 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC GD Constable. 80 Questions | 60 Minutes | Reasoning 20, GA 20, Maths 20, English 20.",
+  "durationMinutes": 60,
+  "totalQuestions": 80,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 80 questions: General Intelligence and Reasoning 20, General Knowledge and GA 20, Elementary Mathematics 20, English 20.",
+    "Har question 2 marks ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC GD Constable latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "College",
+        "Classroom",
+        "Student"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A doctor works in a hospital; a teacher works in a school."
+    }
+  ]
+}
