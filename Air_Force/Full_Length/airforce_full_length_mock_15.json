@@ -22,9 +22,1400 @@
       "subject": "Physics",
       "chapter": "Units and Measurements",
       "question": "The dimensional formula of Planck's constant is the same as that of:",
-      "options": ["Force × time", "Energy × time", "Momentum × time", "Power × time"],
+      "options": [
+        "Force × time",
+        "Energy × time",
+        "Momentum × time",
+        "Power × time"
+      ],
       "correctAnswer": 3,
       "explanation": "Planck's constant h has dimensions of angular momentum (ML²T⁻¹), which is equivalent to momentum × length, or energy × time."
+    },
+    {
+      "qid": "AF1502",
+      "subject": "Physics",
+      "chapter": "Kinematics",
+      "question": "A particle starts from rest and moves with constant acceleration. The ratio of distances covered in successive equal time intervals is:",
+      "options": [
+        "1:3:5:7",
+        "1:2:3:4",
+        "1:4:9:16",
+        "1:1:1:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For constant acceleration from rest, s ∝ t², so distances in equal intervals follow odd numbers: 1:3:5:7."
+    },
+    {
+      "qid": "AF1503",
+      "subject": "Physics",
+      "chapter": "Laws of Motion",
+      "question": "A body of mass m is moving with velocity v on a rough horizontal surface. The coefficient of friction is μ. The distance it travels before stopping is:",
+      "options": [
+        "v²/(2μg)",
+        "v²/(μg)",
+        "2v²/(μg)",
+        "v²/(4μg)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retardation a = μg. Using v² = u² - 2as, s = v²/(2μg)."
+    },
+    {
+      "qid": "AF1504",
+      "subject": "Physics",
+      "chapter": "Work, Energy and Power",
+      "question": "A force F = (3i + 4j) N acts on a particle which moves from (2,3) m to (3,4) m. The work done is:",
+      "options": [
+        "7 J",
+        "10 J",
+        "5 J",
+        "12 J"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Displacement = i + j. Work = F·d = 3×1 + 4×1 = 7 J."
+    },
+    {
+      "qid": "AF1505",
+      "subject": "Physics",
+      "chapter": "Rotational Motion",
+      "question": "The moment of inertia of a thin circular ring of mass M and radius R about its diameter is:",
+      "options": [
+        "MR²",
+        "MR²/2",
+        "2MR²",
+        "MR²/4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "By perpendicular axis theorem, I_z = MR² = I_x + I_y. For diameter, I_x = I_y, so I_diameter = MR²/2."
+    },
+    {
+      "qid": "AF1506",
+      "subject": "Physics",
+      "chapter": "Gravitation",
+      "question": "The escape velocity from the surface of earth is 11.2 km/s. The escape velocity from a planet of same mass but radius 1/4th of earth is:",
+      "options": [
+        "5.6 km/s",
+        "11.2 km/s",
+        "22.4 km/s",
+        "44.8 km/s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "v_e = √(2GM/R). If R' = R/4, v_e' = √4 × v_e = 2 × 11.2 = 22.4 km/s."
+    },
+    {
+      "qid": "AF1507",
+      "subject": "Physics",
+      "chapter": "Properties of Matter",
+      "question": "The Young's modulus of a wire is Y. If the length is doubled and radius is halved, the new Young's modulus will be:",
+      "options": [
+        "Y/2",
+        "2Y",
+        "Y",
+        "4Y"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Young's modulus is a material property, independent of dimensions. It remains Y."
+    },
+    {
+      "qid": "AF1508",
+      "subject": "Physics",
+      "chapter": "Thermodynamics",
+      "question": "In an adiabatic process, the quantity which remains constant is:",
+      "options": [
+        "Temperature",
+        "Pressure",
+        "Volume",
+        "Entropy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Adiabatic process is reversible and no heat exchange, so entropy remains constant."
+    },
+    {
+      "qid": "AF1509",
+      "subject": "Physics",
+      "chapter": "Kinetic Theory of Gases",
+      "question": "The average kinetic energy of a molecule of an ideal gas at temperature T is:",
+      "options": [
+        "(3/2)kT",
+        "(1/2)kT",
+        "kT",
+        "(5/2)kT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Average KE per molecule = (3/2)kT for ideal gas (3 translational degrees of freedom)."
+    },
+    {
+      "qid": "AF1510",
+      "subject": "Physics",
+      "chapter": "Oscillations",
+      "question": "The time period of a simple pendulum of length L on the surface of earth is T. On a planet where g is 1/4th, the time period will be:",
+      "options": [
+        "T/2",
+        "2T",
+        "4T",
+        "T/4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "T = 2π√(L/g). If g' = g/4, T' = 2T."
+    },
+    {
+      "qid": "AF1511",
+      "subject": "Physics",
+      "chapter": "Waves",
+      "question": "The velocity of sound in air at 0°C is 332 m/s. The velocity at 20°C will be approximately:",
+      "options": [
+        "340 m/s",
+        "344 m/s",
+        "350 m/s",
+        "360 m/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "v ∝ √T. T1=273K, T2=293K. v2 = 332 × √(293/273) ≈ 332 × 1.036 ≈ 344 m/s."
+    },
+    {
+      "qid": "AF1512",
+      "subject": "Physics",
+      "chapter": "Electrostatics",
+      "question": "Two charges +q and +4q are placed 6 cm apart. The point where electric field is zero is:",
+      "options": [
+        "2 cm from +q",
+        "2 cm from +4q",
+        "4 cm from +q",
+        "Outside on the side of +q"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Null point is closer to smaller charge, at 2 cm from +q (towards +4q side, as both positive)."
+    },
+    {
+      "qid": "AF1513",
+      "subject": "Physics",
+      "chapter": "Current Electricity",
+      "question": "The resistance of a wire is R. If its length is doubled and area of cross-section is halved, the new resistance will be:",
+      "options": [
+        "2R",
+        "4R",
+        "R/2",
+        "8R"
+      ],
+      "correctAnswer": 2,
+      "explanation": "R = ρL/A. New R' = ρ(2L)/(A/2) = 4R."
+    },
+    {
+      "qid": "AF1514",
+      "subject": "Physics",
+      "chapter": "Magnetism",
+      "question": "The magnetic field at the centre of a circular coil of n turns, radius r carrying current I is:",
+      "options": [
+        "μ₀nI/2r",
+        "μ₀nI/4r",
+        "μ₀I/2r",
+        "μ₀nI/r"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B = μ₀nI/(2r) at the centre of a circular coil."
+    },
+    {
+      "qid": "AF1515",
+      "subject": "Physics",
+      "chapter": "Electromagnetic Induction",
+      "question": "A coil of 100 turns and area 0.1 m² is rotated at 50 rev/s in a magnetic field of 0.1 T. The maximum induced emf is:",
+      "options": [
+        "314 V",
+        "100 V",
+        "50 V",
+        "628 V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ε_max = NBAω = 100 × 0.1 × 0.1 × (2π×50) = 1 × 314 ≈ 314 V."
+    },
+    {
+      "qid": "AF1516",
+      "subject": "Physics",
+      "chapter": "Alternating Current",
+      "question": "In an AC circuit, the power factor is 0.5. The phase difference between voltage and current is:",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Power factor cosφ = 0.5 ⇒ φ = 60°."
+    },
+    {
+      "qid": "AF1517",
+      "subject": "Physics",
+      "chapter": "Ray Optics",
+      "question": "A convex lens of focal length 20 cm is placed in contact with a concave lens of focal length 10 cm. The combination acts as:",
+      "options": [
+        "Concave lens of f=20 cm",
+        "Convex lens of f=20 cm",
+        "Concave lens of f=10 cm",
+        "Plane glass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/F = 1/f1 + 1/f2 = 1/20 - 1/10 = -1/20. F = -20 cm (concave)."
+    },
+    {
+      "qid": "AF1518",
+      "subject": "Physics",
+      "chapter": "Wave Optics",
+      "question": "In Young's double slit experiment, the fringe width is β. If the entire apparatus is immersed in water (μ=4/3), the new fringe width becomes:",
+      "options": [
+        "β",
+        "4β/3",
+        "3β/4",
+        "2β"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fringe width β = λD/d. In water λ' = λ/μ, so β' = β/μ = 3β/4."
+    },
+    {
+      "qid": "AF1519",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "question": "The de Broglie wavelength of an electron accelerated through a potential difference of V volts is:",
+      "options": [
+        "12.27/√V Å",
+        "1.227/√V Å",
+        "12.27/V Å",
+        "1.227/V Å"
+      ],
+      "correctAnswer": 1,
+      "explanation": "λ = h/√(2meV) = 12.27/√V Å for electrons."
+    },
+    {
+      "qid": "AF1520",
+      "subject": "Physics",
+      "chapter": "Nuclear Physics",
+      "question": "The half-life of a radioactive substance is 30 days. The fraction of the substance remaining after 90 days is:",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Number of half-lives = 90/30 = 3. Fraction remaining = (1/2)³ = 1/8."
+    },
+    {
+      "qid": "AF1521",
+      "subject": "Physics",
+      "chapter": "Semiconductor Devices",
+      "question": "In a p-n junction diode, the reverse saturation current is due to:",
+      "options": [
+        "Majority carriers",
+        "Minority carriers",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reverse current is due to minority carriers which are thermally generated."
+    },
+    {
+      "qid": "AF1522",
+      "subject": "Physics",
+      "chapter": "Communication Systems",
+      "question": "The modulation index in amplitude modulation is defined as:",
+      "options": [
+        "A_m/A_c",
+        "A_c/A_m",
+        "A_m × A_c",
+        "A_m + A_c"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modulation index μ = A_m / A_c."
+    },
+    {
+      "qid": "AF1523",
+      "subject": "Physics",
+      "chapter": "Fluid Mechanics",
+      "question": "According to Bernoulli's theorem, the sum of pressure energy, kinetic energy and potential energy per unit volume is:",
+      "options": [
+        "Constant",
+        "Zero",
+        "Maximum",
+        "Minimum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bernoulli's theorem states that P + ½ρv² + ρgh = constant along a streamline."
+    },
+    {
+      "qid": "AF1524",
+      "subject": "Physics",
+      "chapter": "Heat Transfer",
+      "question": "The rate of heat flow through a rod is proportional to:",
+      "options": [
+        "Temperature difference only",
+        "Area of cross-section only",
+        "Both temperature difference and area",
+        "Neither"
+      ],
+      "correctAnswer": 3,
+      "explanation": "dQ/dt = KA(ΔT)/L, so proportional to both area and temperature difference."
+    },
+    {
+      "qid": "AF1525",
+      "subject": "Physics",
+      "chapter": "Electromagnetic Waves",
+      "question": "The speed of electromagnetic waves in vacuum is:",
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed of light/EM waves in vacuum c = 3×10⁸ m/s."
+    },
+    {
+      "qid": "AF1526",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If α and β are the roots of x² - 5x + 6 = 0, then α² + β² is:",
+      "options": [
+        "13",
+        "25",
+        "17",
+        "19"
+      ],
+      "correctAnswer": 1,
+      "explanation": "α+β=5, αβ=6. α²+β² = (α+β)² - 2αβ = 25 - 12 = 13."
+    },
+    {
+      "qid": "AF1527",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "The roots of the equation 2x² - 7x + 6 = 0 are:",
+      "options": [
+        "2 and 3/2",
+        "3 and 1",
+        "2 and 1",
+        "3/2 and 2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x² - 7x + 6 = (2x-3)(x-2)=0. Roots: 3/2 and 2."
+    },
+    {
+      "qid": "AF1528",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "If sinθ + cosθ = √2, then tanθ + cotθ is:",
+      "options": [
+        "1",
+        "2",
+        "√2",
+        "0"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(sinθ + cosθ)² = 2 ⇒ sin²+cos² + 2sin cos = 2 ⇒ 1 + sin2θ = 2 ⇒ sin2θ=1. tanθ+cotθ = (sin²+cos²)/sin cos = 2/sin2θ = 2."
+    },
+    {
+      "qid": "AF1529",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "The value of sin15° is:",
+      "options": [
+        "(√6 - √2)/4",
+        "(√6 + √2)/4",
+        "(√3 - 1)/2√2",
+        "Both 1 and 3"
+      ],
+      "correctAnswer": 4,
+      "explanation": "sin15° = sin(45-30) = (√6 - √2)/4 which is equal to (√3 - 1)/(2√2)."
+    },
+    {
+      "qid": "AF1530",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "The distance between the points (3,4) and (6,8) is:",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "d = √[(6-3)² + (8-4)²] = √[9+16] = √25 = 5."
+    },
+    {
+      "qid": "AF1531",
+      "subject": "Mathematics",
+      "chapter": "Straight Lines",
+      "question": "The slope of the line joining (2,3) and (4,7) is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "m = (7-3)/(4-2) = 4/2 = 2."
+    },
+    {
+      "qid": "AF1532",
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "question": "The equation of a circle with centre (0,0) and radius 5 is:",
+      "options": [
+        "x² + y² = 25",
+        "x² + y² = 5",
+        "x + y = 5",
+        "x² - y² = 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard form: x² + y² = r² ⇒ x² + y² = 25."
+    },
+    {
+      "qid": "AF1533",
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "question": "The derivative of sin²x with respect to x is:",
+      "options": [
+        "sin2x",
+        "2sinx cosx",
+        "Both 1 and 2",
+        "cos2x"
+      ],
+      "correctAnswer": 3,
+      "explanation": "d/dx(sin²x) = 2 sinx cosx = sin2x."
+    },
+    {
+      "qid": "AF1534",
+      "subject": "Mathematics",
+      "chapter": "Integration",
+      "question": "∫(1/x) dx is equal to:",
+      "options": [
+        "log|x| + C",
+        "1/x² + C",
+        "x + C",
+        "log x + C (no absolute)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "∫(1/x) dx = log|x| + C."
+    },
+    {
+      "qid": "AF1535",
+      "subject": "Mathematics",
+      "chapter": "Differential Equations",
+      "question": "The order of the differential equation d²y/dx² + (dy/dx)³ = 0 is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Highest order derivative is d²y/dx², so order is 2."
+    },
+    {
+      "qid": "AF1536",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "Two dice are thrown. The probability of getting a sum of 7 is:",
+      "options": [
+        "1/6",
+        "1/12",
+        "5/36",
+        "1/9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Favourable: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6. Total = 36. P=6/36=1/6."
+    },
+    {
+      "qid": "AF1537",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "The mean of first n natural numbers is:",
+      "options": [
+        "n/2",
+        "(n+1)/2",
+        "n(n+1)/2",
+        "n"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = n(n+1)/2, Mean = [n(n+1)/2]/n = (n+1)/2."
+    },
+    {
+      "qid": "AF1538",
+      "subject": "Mathematics",
+      "chapter": "Matrices",
+      "question": "If A is a square matrix such that A² = A, then (I + A)³ - 7A is equal to:",
+      "options": [
+        "A",
+        "I - A",
+        "I",
+        "I + A"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A²=A (idempotent). (I+A)³ = I + 3A + 3A² + A³ = I + 3A + 3A + A = I + 7A. So (I+A)³ - 7A = I."
+    },
+    {
+      "qid": "AF1539",
+      "subject": "Mathematics",
+      "chapter": "Determinants",
+      "question": "The value of determinant |1 2; 3 4| is:",
+      "options": [
+        "-2",
+        "2",
+        "10",
+        "-10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|1 2; 3 4| = 1×4 - 2×3 = 4 - 6 = -2."
+    },
+    {
+      "qid": "AF1540",
+      "subject": "Mathematics",
+      "chapter": "Complex Numbers",
+      "question": "The modulus of complex number 3 + 4i is:",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "√7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|z| = √(3² + 4²) = √(9+16) = √25 = 5."
+    },
+    {
+      "qid": "AF1541",
+      "subject": "Mathematics",
+      "chapter": "Sequences and Series",
+      "question": "The sum of first 10 terms of an AP with first term 2 and common difference 3 is:",
+      "options": [
+        "155",
+        "160",
+        "145",
+        "170"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S_n = n/2 [2a + (n-1)d] = 10/2 [4 + 27] = 5×31 = 155."
+    },
+    {
+      "qid": "AF1542",
+      "subject": "Mathematics",
+      "chapter": "Binomial Theorem",
+      "question": "The coefficient of x² in the expansion of (1 + x)⁵ is:",
+      "options": [
+        "10",
+        "5",
+        "20",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C(5,2) = 10."
+    },
+    {
+      "qid": "AF1543",
+      "subject": "Mathematics",
+      "chapter": "Permutations and Combinations",
+      "question": "The number of ways to arrange 5 different books on a shelf is:",
+      "options": [
+        "120",
+        "60",
+        "24",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5! = 120."
+    },
+    {
+      "qid": "AF1544",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A = {1,2,3} and B = {2,3,4}, then A ∪ B is:",
+      "options": [
+        "{1,2,3,4}",
+        "{2,3}",
+        "{1,4}",
+        "{1,2,3,4,5}"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Union contains all elements from both sets: {1,2,3,4}."
+    },
+    {
+      "qid": "AF1545",
+      "subject": "Mathematics",
+      "chapter": "Relations and Functions",
+      "question": "A function f: R → R defined by f(x) = x² is:",
+      "options": [
+        "One-one",
+        "Onto",
+        "Neither one-one nor onto",
+        "Both"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Not one-one (f(1)=f(-1)), not onto (negative numbers not in range)."
+    },
+    {
+      "qid": "AF1546",
+      "subject": "Mathematics",
+      "chapter": "Limits",
+      "question": "lim(x→0) (sin x)/x is equal to:",
+      "options": [
+        "0",
+        "1",
+        "∞",
+        "Does not exist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard limit: lim(x→0) sinx/x = 1."
+    },
+    {
+      "qid": "AF1547",
+      "subject": "Mathematics",
+      "chapter": "Continuity",
+      "question": "The function f(x) = |x| is continuous at x=0 but not differentiable. This statement is:",
+      "options": [
+        "True",
+        "False",
+        "Partially true",
+        "Cannot say"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|x| is continuous everywhere but not differentiable at x=0 (sharp corner)."
+    },
+    {
+      "qid": "AF1548",
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "question": "The magnitude of vector i + j + k is:",
+      "options": [
+        "√3",
+        "3",
+        "1",
+        "√2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "|a| = √(1²+1²+1²) = √3."
+    },
+    {
+      "qid": "AF1549",
+      "subject": "Mathematics",
+      "chapter": "3D Geometry",
+      "question": "The direction cosines of a line making equal angles with axes satisfy:",
+      "options": [
+        "l² + m² + n² = 1",
+        "l + m + n = 1",
+        "l = m = n",
+        "Both 1 and 3"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Always l²+m²+n²=1. If equal angles, l=m=n, so 3l²=1, l=1/√3."
+    },
+    {
+      "qid": "AF1550",
+      "subject": "Mathematics",
+      "chapter": "Linear Programming",
+      "question": "The feasible region in LPP is always a:",
+      "options": [
+        "Convex set",
+        "Concave set",
+        "Open set",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The feasible region defined by linear inequalities is a convex set."
+    },
+    {
+      "qid": "AF1551",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Choose the synonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abundant means existing in large quantities; plentiful."
+    },
+    {
+      "qid": "AF1552",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Choose the antonym of 'BRAVE':",
+      "options": [
+        "Courageous",
+        "Cowardly",
+        "Bold",
+        "Fearless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of brave is cowardly."
+    },
+    {
+      "qid": "AF1553",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "The idiom 'to burn the midnight oil' means:",
+      "options": [
+        "To waste oil",
+        "To work late into the night",
+        "To light a lamp",
+        "To destroy something"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to work or study late at night."
+    },
+    {
+      "qid": "AF1554",
+      "subject": "English",
+      "chapter": "Grammar",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "He don't know the answer.",
+        "He doesn't knows the answer.",
+        "He doesn't know the answer.",
+        "He not know the answer."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Correct form: He doesn't know the answer."
+    },
+    {
+      "qid": "AF1555",
+      "subject": "English",
+      "chapter": "Tenses",
+      "question": "She _____ to the market every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present simple for habitual action: She goes."
+    },
+    {
+      "qid": "AF1556",
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct preposition: good at mathematics."
+    },
+    {
+      "qid": "AF1557",
+      "subject": "English",
+      "chapter": "Articles",
+      "question": "_____ Taj Mahal is a beautiful monument.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Proper nouns of unique places take 'The'."
+    },
+    {
+      "qid": "AF1558",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Change to passive: 'They are building a house.'",
+      "options": [
+        "A house is being built by them.",
+        "A house was built by them.",
+        "A house is built by them.",
+        "A house has been built by them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is being built."
+    },
+    {
+      "qid": "AF1559",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, 'I am busy.' Indirect speech:",
+      "options": [
+        "He said that he is busy.",
+        "He said that he was busy.",
+        "He said that I am busy.",
+        "He said he busy."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present simple becomes past simple in indirect speech."
+    },
+    {
+      "qid": "AF1560",
+      "subject": "English",
+      "chapter": "Error Detection",
+      "question": "Find the error: 'Each of the boys have a pen.'",
+      "options": [
+        "Each of",
+        "the boys",
+        "have a pen",
+        "No error"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Each' is singular, so 'has' should be used instead of 'have'."
+    },
+    {
+      "qid": "AF1561",
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves mankind is called:",
+      "options": [
+        "Misanthrope",
+        "Philanthropist",
+        "Atheist",
+        "Optimist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Philanthropist is one who loves and helps mankind."
+    },
+    {
+      "qid": "AF1562",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Accomodatte"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct spelling is Accommodate."
+    },
+    {
+      "qid": "AF1563",
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'EPHEMERAL':",
+      "options": [
+        "Permanent",
+        "Temporary",
+        "Eternal",
+        "Lasting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ephemeral means lasting for a very short time; temporary."
+    },
+    {
+      "qid": "AF1564",
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'OPTIMISTIC':",
+      "options": [
+        "Hopeful",
+        "Pessimistic",
+        "Positive",
+        "Cheerful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Opposite of optimistic is pessimistic."
+    },
+    {
+      "qid": "AF1565",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "The committee _____ its decision yesterday.",
+      "options": [
+        "announce",
+        "announced",
+        "announcing",
+        "has announce"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past tense for yesterday: announced."
+    },
+    {
+      "qid": "AF1566",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Choose the improved form: 'He is more taller than me.'",
+      "options": [
+        "He is taller than me.",
+        "He is more tall than me.",
+        "He is taller than I.",
+        "Both 1 and 3"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Remove 'more' (double comparative). 'Than I' is more formal, but both are acceptable in modern usage."
+    },
+    {
+      "qid": "AF1567",
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "In the sentence 'The aircraft soared into the sky', 'soared' means:",
+      "options": [
+        "Fell",
+        "Rose high",
+        "Stopped",
+        "Landed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Soared means to fly or rise high in the air."
+    },
+    {
+      "qid": "AF1568",
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "The pilot _____ the plane safely.",
+      "options": [
+        "land",
+        "landed",
+        "landing",
+        "lands"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past tense fits the completed action: landed."
+    },
+    {
+      "qid": "AF1569",
+      "subject": "English",
+      "chapter": "Phrasal Verbs",
+      "question": "'Take off' in aviation means:",
+      "options": [
+        "To land",
+        "To leave the ground",
+        "To stop",
+        "To crash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Take off means the aircraft leaves the ground and becomes airborne."
+    },
+    {
+      "qid": "AF1570",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "The word 'AVIATION' is related to:",
+      "options": [
+        "Ships",
+        "Aircraft",
+        "Trains",
+        "Cars"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aviation refers to the operation of aircraft."
+    },
+    {
+      "qid": "AF1571",
+      "subject": "General Knowledge",
+      "chapter": "Indian Air Force",
+      "question": "The motto of the Indian Air Force is:",
+      "options": [
+        "Service Before Self",
+        "Nabha Sparsham Deeptam",
+        "Touch the Sky with Glory",
+        "Both 2 and 3"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Motto is 'Nabha Sparsham Deeptam' which means 'Touch the Sky with Glory'."
+    },
+    {
+      "qid": "AF1572",
+      "subject": "General Knowledge",
+      "chapter": "Indian Air Force",
+      "question": "The Indian Air Force was established in the year:",
+      "options": [
+        "1932",
+        "1947",
+        "1950",
+        "1962"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IAF was established on 8 October 1932 as Royal Indian Air Force."
+    },
+    {
+      "qid": "AF1573",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The highest gallantry award in India is:",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Vir Chakra",
+        "Mahavir Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Param Vir Chakra is the highest military gallantry award."
+    },
+    {
+      "qid": "AF1574",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The headquarters of Indian Air Force is located at:",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IAF Headquarters is in New Delhi."
+    },
+    {
+      "qid": "AF1575",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who was the first Indian Chief of Air Staff?",
+      "options": [
+        "Subroto Mukerjee",
+        "Arjan Singh",
+        "P.C. Lal",
+        "I.H. Latif"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Air Marshal Subroto Mukerjee was the first Indian Chief of Air Staff."
+    },
+    {
+      "qid": "AF1576",
+      "subject": "General Knowledge",
+      "chapter": "Science & Technology",
+      "question": "Which aircraft is known as the backbone of IAF fighter fleet?",
+      "options": [
+        "Sukhoi Su-30MKI",
+        "Tejas",
+        "Mirage 2000",
+        "Rafale"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Su-30MKI is the primary multi-role fighter of the Indian Air Force."
+    },
+    {
+      "qid": "AF1577",
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "The indigenous light combat aircraft of India is:",
+      "options": [
+        "Tejas",
+        "AMCA",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HAL Tejas is the indigenous LCA of India."
+    },
+    {
+      "qid": "AF1578",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The Supreme Commander of the Indian Armed Forces is:",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Defence Minister",
+        "Chief of Defence Staff"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The President of India is the Supreme Commander of the Armed Forces."
+    },
+    {
+      "qid": "AF1579",
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "Air Force Day is celebrated on:",
+      "options": [
+        "8 October",
+        "15 January",
+        "4 December",
+        "26 January"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indian Air Force Day is celebrated on 8th October."
+    },
+    {
+      "qid": "AF1580",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The longest river in India is:",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river in India."
+    },
+    {
+      "qid": "AF1581",
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "The first Indian to win an individual Olympic gold medal is:",
+      "options": [
+        "Abhinav Bindra",
+        "Rajyavardhan Rathore",
+        "Leander Paes",
+        "Karnam Malleswari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abhinav Bindra won the first individual Olympic gold in shooting (2008)."
+    },
+    {
+      "qid": "AF1582",
+      "subject": "General Knowledge",
+      "chapter": "Books and Authors",
+      "question": "Who wrote the book 'Wings of Fire'?",
+      "options": [
+        "A.P.J. Abdul Kalam",
+        "R.K. Narayan",
+        "Chetan Bhagat",
+        "Arundhati Roy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wings of Fire is the autobiography of Dr. A.P.J. Abdul Kalam."
+    },
+    {
+      "qid": "AF1583",
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "The currency of India is:",
+      "options": [
+        "Dollar",
+        "Rupee",
+        "Pound",
+        "Euro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Indian currency is the Indian Rupee (INR)."
+    },
+    {
+      "qid": "AF1584",
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "The gas used in fire extinguishers is:",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CO₂ is commonly used in fire extinguishers as it displaces oxygen."
+    },
+    {
+      "qid": "AF1585",
+      "subject": "General Knowledge",
+      "chapter": "Defence Exercises",
+      "question": "The joint military exercise between India and France is called:",
+      "options": [
+        "Garuda",
+        "Shakti",
+        "Varuna",
+        "Indra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Garuda is the bilateral air exercise between India and France."
+    },
+    {
+      "qid": "AF1586",
+      "subject": "General Knowledge",
+      "chapter": "Space",
+      "question": "ISRO was established in the year:",
+      "options": [
+        "1969",
+        "1972",
+        "1950",
+        "1984"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ISRO was established on 15 August 1969."
+    },
+    {
+      "qid": "AF1587",
+      "subject": "General Knowledge",
+      "chapter": "Environment",
+      "question": "The ozone layer is found in:",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ozone layer is primarily in the stratosphere."
+    },
+    {
+      "qid": "AF1588",
+      "subject": "General Knowledge",
+      "chapter": "Important Days",
+      "question": "World Environment Day is celebrated on:",
+      "options": [
+        "5 June",
+        "22 April",
+        "16 September",
+        "5 June"
+      ],
+      "correctAnswer": 1,
+      "explanation": "World Environment Day is on 5th June."
+    },
+    {
+      "qid": "AF1589",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book : Author :: Song : ?",
+      "options": [
+        "Singer",
+        "Composer",
+        "Music",
+        "Listener"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Author creates a book; Composer creates a song."
+    },
+    {
+      "qid": "AF1590",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "36",
+        "48"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Differences: 4,6,8,10 → next difference 12. 30+12=42."
+    },
+    {
+      "qid": "AF1591",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If CAT is coded as 3120, then DOG is coded as:",
+      "options": [
+        "4157",
+        "4156",
+        "4167",
+        "5157"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C=3,A=1,T=20 → 3120. D=4,O=15,G=7 → 4157."
+    },
+    {
+      "qid": "AF1592",
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "A is the brother of B. C is the father of A. D is the sister of B. How is D related to C?",
+      "options": [
+        "Daughter",
+        "Son",
+        "Wife",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is sister of B (and A), so D is daughter of C."
+    },
+    {
+      "qid": "AF1593",
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "A man walks 5 km North, then 3 km East. How far is he from the starting point?",
+      "options": [
+        "√34 km",
+        "8 km",
+        "4 km",
+        "√8 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Distance = √(5² + 3²) = √(25+9) = √34 km."
+    },
+    {
+      "qid": "AF1594",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "All pilots are brave. Some brave are officers. Conclusion: Some pilots are officers. Is it valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Possibly",
+        "Cannot say"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No definite conclusion can be drawn that some pilots are officers."
+    },
+    {
+      "qid": "AF1595",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Find the odd one out: 16, 36, 64, 100, 144, 196",
+      "options": [
+        "16",
+        "36",
+        "64",
+        "None (all are squares)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All are perfect squares: 4²,6²,8²,10²,12²,14²."
+    },
+    {
+      "qid": "AF1596",
+      "subject": "Reasoning",
+      "chapter": "Alphabet Series",
+      "question": "AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "FU"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letter +1, second letter -1: EV."
+    },
+    {
+      "qid": "AF1597",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 15th from the left. What is his position from the right?",
+      "options": [
+        "25th",
+        "26th",
+        "24th",
+        "27th"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Position from right = Total - left position + 1 = 40 - 15 + 1 = 26th."
+    },
+    {
+      "qid": "AF1598",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "The mirror image of 'AIRFORCE' would reverse the order of letters. True or False?",
+      "options": [
+        "True",
+        "False",
+        "Depends on mirror position",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a vertical mirror, the order of letters is reversed."
+    },
+    {
+      "qid": "AF1599",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagrams",
+      "question": "Which diagram best represents the relation between Aircraft, Fighter, Bomber?",
+      "options": [
+        "Fighter and Bomber inside Aircraft",
+        "All separate",
+        "Overlapping circles",
+        "Bomber inside Fighter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fighter and Bomber are both types of Aircraft."
+    },
+    {
+      "qid": "AF1600",
+      "subject": "Reasoning",
+      "chapter": "Logical Reasoning",
+      "question": "If all aircraft fly and some aircraft are jets, then:",
+      "options": [
+        "All jets fly",
+        "Some jets fly",
+        "No jets fly",
+        "None of these"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since all aircraft fly and jets are aircraft, all jets fly."
     }
   ]
 }
