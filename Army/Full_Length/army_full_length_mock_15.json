@@ -1,1 +1,1420 @@
-FULL_CONTENT_PLACEHOLDER
+{
+  "testId": "army_agniveer_full_mock_15",
+  "exam": "Army",
+  "testType": "fullLength",
+  "title": "Indian Army Agniveer GD Full Length Mock Test 15 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Army Agniveer GD (CEE). 100 Questions | 60 Minutes | Advanced challenging questions based on latest pattern.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (General Knowledge 25, General Science 25, Mathematics 25, Reasoning 25).",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "Official CEE GD pattern 50 questions ka hota hai; yeh extended full-length practice set hai."
+  ],
+  "questions": [
+    {
+      "qid": "ARMY1501",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lord Wavell",
+        "Warren Hastings"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C. Rajagopalachari was the first and last Indian Governor-General of independent India (1948-1950)."
+    },
+    {
+      "qid": "ARMY1502",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Battle of Buxar was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1761",
+        "1775"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Buxar was fought on 22 October 1764 between the British and the combined forces of Mir Qasim, Shuja-ud-Daula and Shah Alam II."
+    },
+    {
+      "qid": "ARMY1503",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who founded the Arya Samaj?",
+      "options": [
+        "Raja Ram Mohan Roy",
+        "Swami Dayanand Saraswati",
+        "Ishwar Chandra Vidyasagar",
+        "Keshab Chandra Sen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Swami Dayanand Saraswati founded the Arya Samaj in 1875 in Bombay."
+    },
+    {
+      "qid": "ARMY1504",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Dandi March was started by Mahatma Gandhi in which year?",
+      "options": [
+        "1929",
+        "1930",
+        "1931",
+        "1942"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Salt Satyagraha / Dandi March began on 12 March 1930 from Sabarmati Ashram to Dandi."
+    },
+    {
+      "qid": "ARMY1505",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Which Article of the Indian Constitution abolishes untouchability?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 18"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form."
+    },
+    {
+      "qid": "ARMY1506",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The concept of Fundamental Duties was borrowed from which country?",
+      "options": [
+        "USA",
+        "UK",
+        "USSR",
+        "France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fundamental Duties were added by the 42nd Amendment (1976) and were inspired by the Constitution of the USSR."
+    },
+    {
+      "qid": "ARMY1507",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "President",
+        "Vice-President",
+        "Prime Minister",
+        "Speaker of Lok Sabha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "qid": "ARMY1508",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer does not pass through which of the following states?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Odisha",
+        "Tripura"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Tropic of Cancer passes through Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. It does not pass through Odisha."
+    },
+    {
+      "qid": "ARMY1509",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which is the largest freshwater lake in India?",
+      "options": [
+        "Chilika",
+        "Wular",
+        "Dal",
+        "Pulicat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake in India."
+    },
+    {
+      "qid": "ARMY1510",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The highest peak of the Eastern Ghats is?",
+      "options": [
+        "Mahendragiri",
+        "Arma Konda",
+        "Jindhagada",
+        "Anai Mudi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Arma Konda (also known as Sitamma Konda) in Andhra Pradesh is the highest peak of the Eastern Ghats."
+    },
+    {
+      "qid": "ARMY1511",
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Who is known as the Father of Indian Planning?",
+      "options": [
+        "Jawaharlal Nehru",
+        "M. Visvesvaraya",
+        "P.C. Mahalanobis",
+        "Dadabhai Naoroji"
+      ],
+      "correctAnswer": 2,
+      "explanation": "M. Visvesvaraya is regarded as the Father of Indian Planning for his book 'Planned Economy for India' (1934)."
+    },
+    {
+      "qid": "ARMY1512",
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "The First Five Year Plan was based on which model?",
+      "options": [
+        "Mahalanobis",
+        "Harrod-Domar",
+        "Gandhian",
+        "Nehru"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The First Five Year Plan (1951-56) was based on the Harrod-Domar model."
+    },
+    {
+      "qid": "ARMY1513",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Which is the highest gallantry award in India during peacetime?",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Mahavir Chakra",
+        "Kirti Chakra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ashoka Chakra is the highest peacetime gallantry award, equivalent to Param Vir Chakra (wartime)."
+    },
+    {
+      "qid": "ARMY1514",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The headquarters of the Indian Army is located at?",
+      "options": [
+        "New Delhi",
+        "Pune",
+        "Mhow",
+        "Secunderabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Integrated Headquarters of the Ministry of Defence (Army) is in New Delhi."
+    },
+    {
+      "qid": "ARMY1515",
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "Who is the current Chief of Defence Staff (CDS) of India (as of 2026)?",
+      "options": [
+        "General Anil Chauhan",
+        "General Bipin Rawat",
+        "Admiral R. Hari Kumar",
+        "Air Chief Marshal V.R. Chaudhari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "General Anil Chauhan is the current Chief of Defence Staff of India."
+    },
+    {
+      "qid": "ARMY1516",
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "The first Indian to win an individual Olympic gold medal was?",
+      "options": [
+        "Abhinav Bindra",
+        "Leander Paes",
+        "Karnam Malleswari",
+        "Rajyavardhan Rathore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abhinav Bindra won the individual gold in 10m Air Rifle at the 2008 Beijing Olympics."
+    },
+    {
+      "qid": "ARMY1517",
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "The Nobel Prize in Literature 2024 was awarded to?",
+      "options": [
+        "Han Kang",
+        "Jon Fosse",
+        "Annie Ernaux",
+        "Abdulrazak Gurnah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "South Korean author Han Kang was awarded the 2024 Nobel Prize in Literature."
+    },
+    {
+      "qid": "ARMY1518",
+      "subject": "General Knowledge",
+      "chapter": "Culture",
+      "question": "The classical dance form 'Kathakali' originated in which state?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kathakali is a classical dance-drama form that originated in Kerala."
+    },
+    {
+      "qid": "ARMY1519",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who was the last Viceroy of India?",
+      "options": [
+        "Lord Linlithgow",
+        "Lord Mountbatten",
+        "Lord Wavell",
+        "Lord Irwin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lord Louis Mountbatten was the last Viceroy of India (1947) and the first Governor-General of independent India."
+    },
+    {
+      "qid": "ARMY1520",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Kosi",
+        "Gandak",
+        "Son"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kosi river is called the Sorrow of Bihar due to its frequent flooding and changing course."
+    },
+    {
+      "qid": "ARMY1521",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The Right to Education is a Fundamental Right under which Article?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 21A",
+        "Article 45"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 21A (inserted by 86th Amendment) makes free and compulsory education for children aged 6-14 a Fundamental Right."
+    },
+    {
+      "qid": "ARMY1522",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Operation Meghdoot was related to?",
+      "options": [
+        "Kargil",
+        "Siachen Glacier",
+        "Sri Lanka",
+        "Maldives"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Meghdoot (1984) was the Indian Army operation to secure the Siachen Glacier."
+    },
+    {
+      "qid": "ARMY1523",
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Indonesia",
+        "Brazil",
+        "South Africa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India hosted the G20 Summit in New Delhi in September 2023."
+    },
+    {
+      "qid": "ARMY1524",
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST was implemented in India from which date?",
+      "options": [
+        "1 April 2017",
+        "1 July 2017",
+        "1 January 2018",
+        "1 July 2016"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Goods and Services Tax (GST) was implemented across India on 1 July 2017."
+    },
+    {
+      "qid": "ARMY1525",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Jallianwala Bagh massacre took place in which city?",
+      "options": [
+        "Amritsar",
+        "Lahore",
+        "Delhi",
+        "Lucknow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919 in Amritsar, Punjab."
+    },
+    {
+      "qid": "ARMY1526",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The SI unit of electric charge is?",
+      "options": [
+        "Ampere",
+        "Coulomb",
+        "Volt",
+        "Ohm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of electric charge is the Coulomb (C)."
+    },
+    {
+      "qid": "ARMY1527",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Speed",
+        "Distance",
+        "Velocity",
+        "Temperature"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Velocity has both magnitude and direction, hence it is a vector quantity."
+    },
+    {
+      "qid": "ARMY1528",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The phenomenon of light bending around the edges of an obstacle is called?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Diffraction is the bending of light waves around the corners of an obstacle or aperture."
+    },
+    {
+      "qid": "ARMY1529",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The atomic number of an element is equal to the number of?",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons + Neutrons",
+        "Protons + Neutrons"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Atomic number (Z) equals the number of protons in the nucleus of an atom."
+    },
+    {
+      "qid": "ARMY1530",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Which gas is used in the preparation of bleaching powder?",
+      "options": [
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bleaching powder is prepared by the action of chlorine gas on dry slaked lime."
+    },
+    {
+      "qid": "ARMY1531",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The hardest naturally occurring substance is?",
+      "options": [
+        "Graphite",
+        "Diamond",
+        "Quartz",
+        "Topaz"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diamond is the hardest known natural substance."
+    },
+    {
+      "qid": "ARMY1532",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The powerhouse of the cell is?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitochondria are known as the powerhouse of the cell because they produce ATP."
+    },
+    {
+      "qid": "ARMY1533",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which vitamin is also known as Ascorbic acid?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitamin C is chemically known as ascorbic acid and is water-soluble."
+    },
+    {
+      "qid": "ARMY1534",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The process of photosynthesis takes place in which part of the plant cell?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Vacuole"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Photosynthesis occurs in the chloroplasts of plant cells."
+    },
+    {
+      "qid": "ARMY1535",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Sound waves cannot travel through?",
+      "options": [
+        "Solids",
+        "Liquids",
+        "Gases",
+        "Vacuum"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Sound waves require a medium to travel and cannot travel through vacuum."
+    },
+    {
+      "qid": "ARMY1536",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "pH value of pure water is?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pure water is neutral with a pH of 7 at 25°C."
+    },
+    {
+      "qid": "ARMY1537",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Blood group O negative is considered the universal donor."
+    },
+    {
+      "qid": "ARMY1538",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The instrument used to measure atmospheric pressure is?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Anemometer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A barometer is used to measure atmospheric pressure."
+    },
+    {
+      "qid": "ARMY1539",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The chemical formula of washing soda is?",
+      "options": [
+        "Na2CO3",
+        "NaHCO3",
+        "Na2CO3·10H2O",
+        "NaCl"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Washing soda is sodium carbonate decahydrate (Na2CO3·10H2O)."
+    },
+    {
+      "qid": "ARMY1540",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The largest gland in the human body is?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Thyroid",
+        "Pituitary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The liver is the largest gland and the largest internal organ in the human body."
+    },
+    {
+      "qid": "ARMY1541",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Which colour of light has the highest wavelength?",
+      "options": [
+        "Violet",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In the visible spectrum, red light has the longest wavelength and lowest frequency."
+    },
+    {
+      "qid": "ARMY1542",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The element with atomic number 1 is?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Oxygen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hydrogen has atomic number 1 and is the lightest element."
+    },
+    {
+      "qid": "ARMY1543",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The cerebellum is responsible for balance, coordination and fine motor control."
+    },
+    {
+      "qid": "ARMY1544",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The unit of frequency is?",
+      "options": [
+        "Hertz",
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frequency is measured in Hertz (Hz), which is cycles per second."
+    },
+    {
+      "qid": "ARMY1545",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Which of the following is a noble gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Chlorine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Argon is a noble gas (Group 18) with a complete outer electron shell."
+    },
+    {
+      "qid": "ARMY1546",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The disease caused by deficiency of Vitamin D is?",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Beriberi",
+        "Night blindness"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deficiency of Vitamin D causes rickets in children and osteomalacia in adults."
+    },
+    {
+      "qid": "ARMY1547",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Ohm's law is related to?",
+      "options": [
+        "Current and voltage",
+        "Force and acceleration",
+        "Pressure and volume",
+        "Mass and energy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ohm's law states that V = IR, relating voltage, current and resistance."
+    },
+    {
+      "qid": "ARMY1548",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The process of converting solid directly into gas is called?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Melting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sublimation is the phase transition from solid to gas without passing through the liquid phase."
+    },
+    {
+      "qid": "ARMY1549",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which organelle is known as the 'suicide bag' of the cell?",
+      "options": [
+        "Mitochondria",
+        "Lysosome",
+        "Ribosome",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lysosomes contain digestive enzymes and are called suicide bags because they can cause autolysis."
+    },
+    {
+      "qid": "ARMY1550",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The speed of light in vacuum is approximately?",
+      "options": [
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s",
+        "3 × 10^5 m/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The speed of light in vacuum is approximately 3 × 10^8 m/s."
+    },
+    {
+      "qid": "ARMY1551",
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "What is the HCF of 36 and 84?",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 36 and 84 is 12 (36=2²×3², 84=2²×3×7)."
+    },
+    {
+      "qid": "ARMY1552",
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The LCM of 12, 18 and 24 is?",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "96"
+      ],
+      "correctAnswer": 3,
+      "explanation": "LCM of 12, 18, 24 = 72."
+    },
+    {
+      "qid": "ARMY1553",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 40, then the number is?",
+      "options": [
+        "160",
+        "180",
+        "200",
+        "220"
+      ],
+      "correctAnswer": 3,
+      "explanation": "20% of x = 40 ⇒ x = 40 × 100/20 = 200."
+    },
+    {
+      "qid": "ARMY1554",
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "If A:B = 3:4 and B:C = 6:5, then A:B:C is?",
+      "options": [
+        "9:12:10",
+        "3:4:5",
+        "9:12:15",
+        "6:8:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B = 3:4 = 9:12, B:C = 6:5 = 12:10 ⇒ A:B:C = 9:12:10."
+    },
+    {
+      "qid": "ARMY1555",
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of first 10 natural numbers is?",
+      "options": [
+        "5",
+        "5.5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = n(n+1)/2 = 55, average = 55/10 = 5.5."
+    },
+    {
+      "qid": "ARMY1556",
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "A man buys an article for ₹800 and sells it at a profit of 15%. Selling price is?",
+      "options": [
+        "₹900",
+        "₹920",
+        "₹940",
+        "₹960"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SP = 800 × 1.15 = ₹920."
+    },
+    {
+      "qid": "ARMY1557",
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Simple interest on ₹5000 for 2 years at 8% per annum is?",
+      "options": [
+        "₹600",
+        "₹800",
+        "₹1000",
+        "₹400"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = (5000 × 8 × 2)/100 = ₹800."
+    },
+    {
+      "qid": "ARMY1558",
+      "subject": "Mathematics",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days and B in 15 days. Together they can do it in?",
+      "options": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1/10 + 1/15 = 5/30 = 1/6 ⇒ 6 days."
+    },
+    {
+      "qid": "ARMY1559",
+      "subject": "Mathematics",
+      "chapter": "Speed",
+      "question": "A train 150 m long passes a pole in 15 seconds. Its speed is?",
+      "options": [
+        "30 km/h",
+        "36 km/h",
+        "40 km/h",
+        "45 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speed = 150/15 = 10 m/s = 10 × 18/5 = 36 km/h."
+    },
+    {
+      "qid": "ARMY1560",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 5, then x² + 1/x² is?",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x² + 1/x² = (x + 1/x)² - 2 = 25 - 2 = 23."
+    },
+    {
+      "qid": "ARMY1561",
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "The sum of angles of a triangle is?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sum of interior angles of a triangle is always 180°."
+    },
+    {
+      "qid": "ARMY1562",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Area of a circle with radius 7 cm is? (π=22/7)",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "132 cm²",
+        "176 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = πr² = 22/7 × 49 = 154 cm²."
+    },
+    {
+      "qid": "ARMY1563",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "The volume of a cube of side 4 cm is?",
+      "options": [
+        "16 cm³",
+        "32 cm³",
+        "64 cm³",
+        "48 cm³"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Volume = side³ = 4³ = 64 cm³."
+    },
+    {
+      "qid": "ARMY1564",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is?",
+      "options": [
+        "No change",
+        "4% increase",
+        "4% decrease",
+        "2% decrease"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Net effect = 20 - 20 - (20×20)/100 = -4% (decrease)."
+    },
+    {
+      "qid": "ARMY1565",
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "Divide ₹560 between A and B in the ratio 3:5. A's share is?",
+      "options": [
+        "₹210",
+        "₹280",
+        "₹240",
+        "₹320"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A's share = 3/8 × 560 = ₹210."
+    },
+    {
+      "qid": "ARMY1566",
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The smallest number which when divided by 12, 15 and 20 leaves remainder 3 in each case is?",
+      "options": [
+        "63",
+        "123",
+        "183",
+        "243"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12, 15 and 20 is 60. The required number is of the form 60k + 3. For k=1, 63. 63 ÷ 12 = 5 rem 3, 63 ÷ 15 = 4 rem 3, 63 ÷ 20 = 3 rem 3. Hence 63."
+    },
+    {
+      "qid": "ARMY1567",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "Solve: 2x + 5 = 17. Value of x is?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2x = 12 ⇒ x = 6."
+    },
+    {
+      "qid": "ARMY1568",
+      "subject": "Mathematics",
+      "chapter": "Time & Distance",
+      "question": "A person covers 120 km in 3 hours. His speed is?",
+      "options": [
+        "30 km/h",
+        "40 km/h",
+        "50 km/h",
+        "36 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speed = Distance/Time = 120/3 = 40 km/h."
+    },
+    {
+      "qid": "ARMY1569",
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "If the cost price is ₹400 and loss is 10%, then selling price is?",
+      "options": [
+        "₹360",
+        "₹380",
+        "₹340",
+        "₹400"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 400 × 0.90 = ₹360."
+    },
+    {
+      "qid": "ARMY1570",
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of 5, 10, 15, 20 and 25 is?",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = 75, average = 75/5 = 15."
+    },
+    {
+      "qid": "ARMY1571",
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "In a right-angled triangle, if one angle is 30°, the other acute angle is?",
+      "options": [
+        "45°",
+        "60°",
+        "90°",
+        "30°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum of acute angles = 90° ⇒ other angle = 60°."
+    },
+    {
+      "qid": "ARMY1572",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Perimeter of a square of side 8 cm is?",
+      "options": [
+        "16 cm",
+        "24 cm",
+        "32 cm",
+        "64 cm"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Perimeter = 4 × side = 32 cm."
+    },
+    {
+      "qid": "ARMY1573",
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "In how many years will ₹2000 amount to ₹2400 at 5% simple interest?",
+      "options": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = 400, T = (400 × 100)/(2000 × 5) = 4 years."
+    },
+    {
+      "qid": "ARMY1574",
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "Which of the following is a prime number?",
+      "options": [
+        "21",
+        "27",
+        "29",
+        "35"
+      ],
+      "correctAnswer": 3,
+      "explanation": "29 is a prime number (divisible only by 1 and itself)."
+    },
+    {
+      "qid": "ARMY1575",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "What percent of 80 is 20?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "20/80 × 100 = 25%."
+    },
+    {
+      "qid": "ARMY1576",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "36",
+        "48"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Differences: +4, +6, +8, +10 ⇒ next +12 ⇒ 30+12=42."
+    },
+    {
+      "qid": "ARMY1577",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Complete the series: A, C, F, J, O, ?",
+      "options": [
+        "T",
+        "U",
+        "V",
+        "S"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Positions: +2, +3, +4, +5 ⇒ next +6 ⇒ O+6=U."
+    },
+    {
+      "qid": "ARMY1578",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "If CAT is coded as 3120, how is DOG coded?",
+      "options": [
+        "4157",
+        "41516",
+        "4715",
+        "4156"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C=3,A=1,T=20 ⇒ 3120. D=4,O=15,G=7 ⇒ 4157."
+    },
+    {
+      "qid": "ARMY1579",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book : Read :: Pen : ?",
+      "options": [
+        "Write",
+        "Ink",
+        "Paper",
+        "Draw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Book is used to read; Pen is used to write."
+    },
+    {
+      "qid": "ARMY1580",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a man, a woman said 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Daughter",
+        "Sister",
+        "Aunt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only daughter of woman's mother is the woman herself. So she is the mother of the man."
+    },
+    {
+      "qid": "ARMY1581",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 5 km North, then 3 km East, then 5 km South. How far is he from the starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "0 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He is 3 km East of the starting point."
+    },
+    {
+      "qid": "ARMY1582",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 15th from the left. What is his position from the right?",
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Position from right = Total - left position + 1 = 40 - 15 + 1 = 26."
+    },
+    {
+      "qid": "ARMY1583",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 3, 5, 7, 9, 11",
+      "options": [
+        "3",
+        "5",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 3,
+      "explanation": "9 is not a prime number; others are prime."
+    },
+    {
+      "qid": "ARMY1584",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "What comes next: 1, 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "36",
+        "49",
+        "32"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Squares of natural numbers: 1²,2²,3²,4²,5²,6²=36."
+    },
+    {
+      "qid": "ARMY1585",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "In a certain code, PAPER is written as QBQFS. How is PEN written?",
+      "options": [
+        "QFO",
+        "QFP",
+        "QEO",
+        "PFO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: P+1=Q, A+1=B, P+1=Q, E+1=F, R+1=S. PEN → QFO."
+    },
+    {
+      "qid": "ARMY1586",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "India : New Delhi :: Japan : ?",
+      "options": [
+        "Tokyo",
+        "Beijing",
+        "Seoul",
+        "Bangkok"
+      ],
+      "correctAnswer": 1,
+      "explanation": "New Delhi is the capital of India; Tokyo is the capital of Japan."
+    },
+    {
+      "qid": "ARMY1587",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+      "options": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Nephew"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A is the brother of B who is sister of C. So A is uncle of D (C's child)."
+    },
+    {
+      "qid": "ARMY1588",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "If South-East becomes North, North-East becomes West, then what will West become?",
+      "options": [
+        "North-East",
+        "South-East",
+        "South-West",
+        "North-West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The directions have rotated 135° clockwise. West becomes South-East."
+    },
+    {
+      "qid": "ARMY1589",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing number: 5, 11, 17, 23, ?",
+      "options": [
+        "27",
+        "29",
+        "31",
+        "28"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Common difference +6: 23+6=29."
+    },
+    {
+      "qid": "ARMY1590",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Which is the odd one: Apple, Banana, Carrot, Mango",
+      "options": [
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Mango"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Carrot is a vegetable; others are fruits."
+    },
+    {
+      "qid": "ARMY1591",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a class of 50, Ravi ranks 15th from the top. What is his rank from the bottom?",
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rank from bottom = 50 - 15 + 1 = 36."
+    },
+    {
+      "qid": "ARMY1592",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "If in a code, DELHI is written as 73541, how is CALCUTTA written?",
+      "options": [
+        "82589662",
+        "82589626",
+        "82589662",
+        "82589626"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D=7,E=3,L=5,H=4,I=1. C=8,A=2,L=5,C=8,U=9,T=6,T=6,A=2 ⇒ 82589662."
+    },
+    {
+      "qid": "ARMY1593",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doctor works in Hospital; Teacher works in School."
+    },
+    {
+      "qid": "ARMY1594",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Complete: Z, X, V, T, R, ?",
+      "options": [
+        "P",
+        "Q",
+        "O",
+        "S"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reverse alphabet skipping one: Z,X,V,T,R,P."
+    },
+    {
+      "qid": "ARMY1595",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "If A is the son of B, B is the daughter of C, C is the husband of D, then how is D related to A?",
+      "options": [
+        "Grandmother",
+        "Mother",
+        "Aunt",
+        "Sister"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B is daughter of C and D (C's wife). So D is grandmother of A."
+    },
+    {
+      "qid": "ARMY1596",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person starts from point A, walks 4 km East to B, then 3 km North to C. Distance from A to C is?",
+      "options": [
+        "5 km",
+        "7 km",
+        "4 km",
+        "6 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By Pythagoras: √(4²+3²)=5 km."
+    },
+    {
+      "qid": "ARMY1522",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Which of the following is the odd one out: Dog, Cat, Cow, Lion, Tiger",
+      "options": [
+        "Dog",
+        "Cat",
+        "Cow",
+        "Lion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cow is a herbivorous domestic animal; the others (Dog, Cat, Lion) are carnivorous."
+    },
+    {
+      "qid": "ARMY1598",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "What is the next term: 3, 9, 27, 81, ?",
+      "options": [
+        "162",
+        "243",
+        "189",
+        "324"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each term ×3: 81×3=243."
+    },
+    {
+      "qid": "ARMY1599",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "In a code language, 'MANGO' is written as 'NBOHP'. How is 'APPLE' written?",
+      "options": [
+        "BQQMF",
+        "BQQLE",
+        "AQPMF",
+        "BQQMG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: A+1=B, P+1=Q, P+1=Q, L+1=M, E+1=F ⇒ BQQMF."
+    },
+    {
+      "qid": "ARMY15100",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Pen : Write :: Knife : ?",
+      "options": [
+        "Cut",
+        "Sharp",
+        "Blade",
+        "Kitchen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write; Knife is used to cut."
+    }
+  ]
+}
