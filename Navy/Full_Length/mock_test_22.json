@@ -1,0 +1,1420 @@
+{
+  "testId": "navy_ssr_full_mock_22",
+  "exam": "Navy",
+  "testType": "fullLength",
+  "title": "Indian Navy Agniveer SSR Full Length Mock Test 22 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Navy Agniveer SSR. 100 Questions | 60 Minutes | Advanced challenging questions.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (English 25, Science 25, Maths 25, GA 25).",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "Sabhi sections me qualifying marks lana zaroori hai."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part with error: Neither the admiral nor the captains was aware of the enemy submarine's position.",
+      "options": [
+        "Neither the admiral nor the captains",
+        "was aware of",
+        "the enemy submarine's position",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When subjects are joined by 'neither...nor', the verb agrees with the nearer subject. 'Captains' is plural, so 'were aware' is correct."
+    },
+    {
+      "qid": 2,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part with error: The fleet, along with its destroyer escorts, are steaming towards the Persian Gulf.",
+      "options": [
+        "The fleet, along with its destroyer escorts,",
+        "are steaming towards",
+        "the Persian Gulf",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The subject is 'fleet' (singular). 'Along with' does not make the subject plural. Correct: 'is steaming'."
+    },
+    {
+      "qid": 3,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Choose the best improvement: The sailors had better to report to the duty officer immediately.",
+      "options": [
+        "had better report",
+        "had better to reported",
+        "had better reporting",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Had better' is followed by the base form of the verb (without 'to'). Correct: 'had better report'."
+    },
+    {
+      "qid": 4,
+      "subject": "English",
+      "chapter": "Vocabulary (Synonym)",
+      "question": "Choose the synonym of 'ABEYANCE': The order for the naval exercise was held in abeyance.",
+      "options": [
+        "Suspension",
+        "Execution",
+        "Acceleration",
+        "Completion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abeyance means temporary suspension or inactivity. Synonym: Suspension."
+    },
+    {
+      "qid": 5,
+      "subject": "English",
+      "chapter": "Vocabulary (Antonym)",
+      "question": "Choose the antonym of 'OBFUSCATE': The commander tried to obfuscate the real reason for the delay.",
+      "options": [
+        "Clarify",
+        "Confuse",
+        "Hide",
+        "Complicate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Obfuscate means to make unclear or obscure. Antonym: Clarify."
+    },
+    {
+      "qid": 6,
+      "subject": "English",
+      "chapter": "Idioms & Phrases",
+      "question": "What does the idiom 'between the devil and the deep blue sea' mean in a naval context?",
+      "options": [
+        "In a difficult situation with two bad choices",
+        "Sailing between two ports",
+        "Facing rough weather",
+        "Being promoted and demoted"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom means being in a dilemma with two equally undesirable alternatives."
+    },
+    {
+      "qid": 7,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who is trained to navigate a ship is called:",
+      "options": [
+        "Navigator",
+        "Cartographer",
+        "Helmsman",
+        "Mariner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Navigator is the one-word term for a person skilled in planning and directing the course of a ship."
+    },
+    {
+      "qid": 8,
+      "subject": "English",
+      "chapter": "Active/Passive",
+      "question": "Change to passive: The captain ordered the crew to abandon ship.",
+      "options": [
+        "The crew was ordered to abandon ship by the captain.",
+        "The crew were ordered abandon ship.",
+        "Ship was ordered to be abandoned.",
+        "The crew ordered the captain to abandon ship."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct passive: 'The crew was ordered to abandon ship by the captain.'"
+    },
+    {
+      "qid": 9,
+      "subject": "English",
+      "chapter": "Direct/Indirect Speech",
+      "question": "Convert to indirect: The officer said, \"All hands on deck!\"",
+      "options": [
+        "The officer ordered all hands on deck.",
+        "The officer said that all hands on deck.",
+        "The officer asked all hands on deck.",
+        "The officer said all hands should be on deck."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Commands in indirect speech use 'ordered' or 'commanded'. 'The officer ordered all hands on deck.'"
+    },
+    {
+      "qid": 10,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The destroyer ______ the enemy vessel after a prolonged chase.",
+      "options": [
+        "intercepted",
+        "intercepts",
+        "is intercepting",
+        "had intercept"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past tense is required for a completed action: 'intercepted'."
+    },
+    {
+      "qid": 11,
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "The submarine remained ______ for several hours to avoid detection.",
+      "options": [
+        "submerged",
+        "submerge",
+        "submerging",
+        "submersion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Remained' requires an adjective/past participle: 'submerged'."
+    },
+    {
+      "qid": 12,
+      "subject": "English",
+      "chapter": "Reading Comprehension",
+      "question": "In naval warfare, 'ASW' stands for:",
+      "options": [
+        "Anti-Submarine Warfare",
+        "Advanced Ship Warfare",
+        "Aerial Surveillance Wing",
+        "Anti-Surface Warfare"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ASW is the standard abbreviation for Anti-Submarine Warfare."
+    },
+    {
+      "qid": 13,
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelt word related to naval operations:",
+      "options": [
+        "Manoeuvre",
+        "Maneuver",
+        "Manoeuver",
+        "Maneouvre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In British English (preferred in Indian Navy contexts), 'Manoeuvre' is the correct spelling."
+    },
+    {
+      "qid": 14,
+      "subject": "English",
+      "chapter": "Sentence Rearrangement",
+      "question": "Arrange: P. The aircraft carrier Q. launched its fighter jets R. at dawn S. to intercept the approaching bombers",
+      "options": [
+        "PRQS",
+        "PQRS",
+        "PSQR",
+        "QPRS"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Logical order: P-Q-R-S → The aircraft carrier launched its fighter jets at dawn to intercept the approaching bombers."
+    },
+    {
+      "qid": 15,
+      "subject": "English",
+      "chapter": "Para Jumbles",
+      "question": "Which sentence logically follows: 'The sonar operator detected an anomaly.'",
+      "options": [
+        "He immediately reported it to the bridge.",
+        "The ship was in the harbour.",
+        "The crew was on leave.",
+        "It was a sunny day."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The logical continuation in a naval context is reporting the anomaly to the bridge."
+    },
+    {
+      "qid": 16,
+      "subject": "English",
+      "chapter": "Phrasal Verbs",
+      "question": "The meaning of 'call off' in 'The exercise was called off due to bad weather' is:",
+      "options": [
+        "Cancelled",
+        "Postponed",
+        "Started",
+        "Continued"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Call off' means to cancel."
+    },
+    {
+      "qid": 17,
+      "subject": "English",
+      "chapter": "Conjunctions",
+      "question": "______ the storm warning, the fleet set sail.",
+      "options": [
+        "Despite",
+        "Because",
+        "Although of",
+        "Due of"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Despite' is the correct conjunction/preposition here meaning 'in spite of'."
+    },
+    {
+      "qid": 18,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "The ship is equipped ______ the latest missile systems.",
+      "options": [
+        "with",
+        "by",
+        "of",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Equipped with' is the correct prepositional phrase."
+    },
+    {
+      "qid": 19,
+      "subject": "English",
+      "chapter": "Tenses",
+      "question": "By the time the relief ship arrives, the damaged frigate ______ for three days.",
+      "options": [
+        "will have been drifting",
+        "will be drifting",
+        "has been drifting",
+        "is drifting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future perfect continuous is used for an action continuing up to a point in the future."
+    },
+    {
+      "qid": 20,
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "The torpedo was launched by the submarine. (Active voice)",
+      "options": [
+        "The submarine launched the torpedo.",
+        "The submarine launches the torpedo.",
+        "The torpedo launched the submarine.",
+        "Launching was done by submarine."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Active voice of the given passive sentence is 'The submarine launched the torpedo.'"
+    },
+    {
+      "qid": 21,
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "He said, \"I am on watch duty tonight.\"",
+      "options": [
+        "He said that he was on watch duty that night.",
+        "He said he is on watch duty tonight.",
+        "He said that he is on watch duty.",
+        "He told that he was on watch."
+      ],
+      "correctAnswer": 1,
+      "explanation": "In indirect speech, present continuous becomes past continuous, and 'tonight' becomes 'that night'."
+    },
+    {
+      "qid": 22,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: Hardly the ship had left the harbour when the storm struck.",
+      "options": [
+        "Hardly the ship had",
+        "left the harbour",
+        "when the storm struck",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inversion is required: 'Hardly had the ship left...'."
+    },
+    {
+      "qid": 23,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'BELIGERENT' in naval context:",
+      "options": [
+        "Aggressive",
+        "Peaceful",
+        "Neutral",
+        "Defensive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Belligerent means aggressive or warlike."
+    },
+    {
+      "qid": 24,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'COVERT' operations:",
+      "options": [
+        "Overt",
+        "Secret",
+        "Hidden",
+        "Clandestine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Covert means secret/hidden. Antonym is overt (open/visible)."
+    },
+    {
+      "qid": 25,
+      "subject": "English",
+      "chapter": "Fillers",
+      "question": "The admiral ______ the strategy before the final assault.",
+      "options": [
+        "revised",
+        "revising",
+        "has revise",
+        "was revise"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple past tense 'revised' fits the context of a completed action before another."
+    },
+    {
+      "qid": 26,
+      "subject": "Science",
+      "chapter": "Physics - Optics",
+      "question": "The critical angle for a water-air interface is approximately 48.6°. If a light ray in water strikes the interface at 50°, it will:",
+      "options": [
+        "Undergo total internal reflection",
+        "Refract into air",
+        "Be completely absorbed",
+        "Reflect partially and refract"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When the angle of incidence in the denser medium exceeds the critical angle, total internal reflection occurs."
+    },
+    {
+      "qid": 27,
+      "subject": "Science",
+      "chapter": "Physics - Electricity",
+      "question": "A ship's sonar uses a frequency of 40 kHz. The wavelength in water (v = 1500 m/s) is:",
+      "options": [
+        "3.75 cm",
+        "37.5 cm",
+        "3.75 m",
+        "37.5 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "λ = v/f = 1500 / 40000 = 0.0375 m = 3.75 cm."
+    },
+    {
+      "qid": 28,
+      "subject": "Science",
+      "chapter": "Physics - Magnetism",
+      "question": "The magnetic declination at a place is 5° West. If a ship's compass shows North, the true North is:",
+      "options": [
+        "5° East of the compass North",
+        "5° West of the compass North",
+        "Exactly the same",
+        "10° East"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Magnetic North is 5° West of True North, so True North is 5° East of the compass (magnetic) North."
+    },
+    {
+      "qid": 29,
+      "subject": "Science",
+      "chapter": "Physics - Heat",
+      "question": "Why do ships use double-hull construction in cold waters?",
+      "options": [
+        "To reduce heat loss and prevent icing",
+        "To increase speed",
+        "To reduce fuel consumption only",
+        "For aesthetic reasons"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Double hull provides insulation, reducing heat transfer and helping prevent ice formation."
+    },
+    {
+      "qid": 30,
+      "subject": "Science",
+      "chapter": "Physics - Waves",
+      "question": "Doppler effect is used in naval radars to measure:",
+      "options": [
+        "Speed of approaching/receding targets",
+        "Only distance",
+        "Only direction",
+        "Only size of target"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doppler shift in frequency of reflected waves gives the radial velocity of the target."
+    },
+    {
+      "qid": 31,
+      "subject": "Science",
+      "chapter": "Chemistry - Corrosion",
+      "question": "Cathodic protection is used on ship hulls. The sacrificial anode is usually made of:",
+      "options": [
+        "Zinc or Magnesium",
+        "Iron",
+        "Copper",
+        "Lead"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zinc and magnesium are more reactive and act as sacrificial anodes to protect the steel hull."
+    },
+    {
+      "qid": 32,
+      "subject": "Science",
+      "chapter": "Chemistry - Fuels",
+      "question": "The cetane number of diesel used in naval ships indicates:",
+      "options": [
+        "Ignition quality",
+        "Viscosity",
+        "Density",
+        "Flash point"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cetane number measures the ignition quality of diesel fuel (higher = easier ignition)."
+    },
+    {
+      "qid": 33,
+      "subject": "Science",
+      "chapter": "Chemistry - Water Treatment",
+      "question": "Desalination on ships is commonly done by:",
+      "options": [
+        "Reverse Osmosis",
+        "Simple filtration",
+        "Sedimentation only",
+        "Chlorination only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reverse osmosis is the most common modern method for desalination on naval ships."
+    },
+    {
+      "qid": 34,
+      "subject": "Science",
+      "chapter": "Biology - Physiology",
+      "question": "Divers experience nitrogen narcosis at great depths primarily due to:",
+      "options": [
+        "Increased partial pressure of nitrogen",
+        "Lack of oxygen",
+        "High temperature",
+        "Low salinity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At high pressure, nitrogen dissolves more in blood and affects the nervous system (nitrogen narcosis)."
+    },
+    {
+      "qid": 35,
+      "subject": "Science",
+      "chapter": "Physics - Buoyancy",
+      "question": "A submarine dives by:",
+      "options": [
+        "Flooding ballast tanks",
+        "Pumping water out",
+        "Increasing speed only",
+        "Using propellers only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Flooding ballast tanks increases the weight, making the submarine denser than water so it sinks."
+    },
+    {
+      "qid": 36,
+      "subject": "Science",
+      "chapter": "Physics - Sound",
+      "question": "Sonar works on the principle of:",
+      "options": [
+        "Reflection of ultrasonic waves",
+        "Refraction of light",
+        "Electromagnetic induction",
+        "Radio waves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SONAR (Sound Navigation and Ranging) uses reflection of ultrasonic sound waves."
+    },
+    {
+      "qid": 37,
+      "subject": "Science",
+      "chapter": "Chemistry - Alloys",
+      "question": "Naval brass (used in ship propellers) is an alloy of:",
+      "options": [
+        "Copper, Zinc and Tin",
+        "Iron and Carbon",
+        "Aluminium and Copper",
+        "Lead and Tin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Naval brass is a copper-zinc alloy with a small amount of tin for corrosion resistance in seawater."
+    },
+    {
+      "qid": 38,
+      "subject": "Science",
+      "chapter": "Physics - Pressure",
+      "question": "At a depth of 100 m in seawater (density ≈ 1025 kg/m³), the absolute pressure is approximately: (Atmospheric pressure = 10⁵ Pa, g=10 m/s²)",
+      "options": [
+        "1.125 × 10⁶ Pa",
+        "1.025 × 10⁶ Pa",
+        "2.05 × 10⁶ Pa",
+        "1.0 × 10⁵ Pa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gauge pressure = ρgh = 1025×10×100 = 1.025×10⁶ Pa. Absolute = gauge + atmospheric ≈ 1.125×10⁶ Pa."
+    },
+    {
+      "qid": 39,
+      "subject": "Science",
+      "chapter": "Biology - Marine",
+      "question": "Bioluminescence in deep-sea organisms is mainly used for:",
+      "options": [
+        "Attracting prey or mates",
+        "Photosynthesis",
+        "Respiration",
+        "Osmoregulation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bioluminescence serves purposes like attracting prey, communication, or camouflage."
+    },
+    {
+      "qid": 40,
+      "subject": "Science",
+      "chapter": "Physics - Nuclear",
+      "question": "Nuclear-powered submarines use which type of reactor?",
+      "options": [
+        "Pressurized Water Reactor (PWR)",
+        "Boiling Water Reactor",
+        "Fast Breeder Reactor",
+        "Fusion Reactor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Most nuclear submarines use Pressurized Water Reactors (PWR) for propulsion."
+    },
+    {
+      "qid": 41,
+      "subject": "Science",
+      "chapter": "Chemistry - pH",
+      "question": "Seawater is slightly alkaline with a pH of approximately:",
+      "options": [
+        "8.1",
+        "7.0",
+        "6.5",
+        "9.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Average surface seawater pH is around 8.1."
+    },
+    {
+      "qid": 42,
+      "subject": "Science",
+      "chapter": "Physics - Electricity",
+      "question": "The unit of electrical conductivity used in measuring seawater salinity is:",
+      "options": [
+        "Siemens per metre (S/m)",
+        "Ohm",
+        "Volt",
+        "Ampere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salinity is often measured via electrical conductivity in S/m."
+    },
+    {
+      "qid": 43,
+      "subject": "Science",
+      "chapter": "Physics - Mechanics",
+      "question": "The metacentric height of a ship is related to its:",
+      "options": [
+        "Stability",
+        "Speed",
+        "Fuel capacity",
+        "Armament"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Metacentric height (GM) is a measure of the initial stability of a floating vessel."
+    },
+    {
+      "qid": 44,
+      "subject": "Science",
+      "chapter": "Chemistry - Oxidation",
+      "question": "Rusting of iron on ships is accelerated by:",
+      "options": [
+        "Presence of salt and moisture",
+        "Dry air only",
+        "Low temperature only",
+        "Absence of oxygen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electrolytes like salt water accelerate the electrochemical process of rusting."
+    },
+    {
+      "qid": 45,
+      "subject": "Science",
+      "chapter": "Physics - Light",
+      "question": "Periscopes in submarines use:",
+      "options": [
+        "Total internal reflection",
+        "Refraction only",
+        "Diffraction",
+        "Polarization only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Traditional periscopes use prisms based on total internal reflection."
+    },
+    {
+      "qid": 46,
+      "subject": "Science",
+      "chapter": "Biology - Human",
+      "question": "Decompression sickness (bends) in divers is caused by:",
+      "options": [
+        "Nitrogen bubbles forming in blood on rapid ascent",
+        "Oxygen toxicity",
+        "Carbon monoxide poisoning",
+        "Hypothermia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rapid decrease in pressure causes dissolved nitrogen to form bubbles, leading to decompression sickness."
+    },
+    {
+      "qid": 47,
+      "subject": "Science",
+      "chapter": "Physics - Current",
+      "question": "Eddy currents in a ship's steel hull can be reduced by:",
+      "options": [
+        "Laminating the material or using slots",
+        "Increasing thickness",
+        "Using pure iron",
+        "Painting only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lamination or cutting slots increases resistance to eddy current paths."
+    },
+    {
+      "qid": 48,
+      "subject": "Science",
+      "chapter": "Chemistry - Gases",
+      "question": "The gas used in life jackets and inflatable boats is usually:",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CO₂ cartridges are commonly used for rapid inflation of life jackets."
+    },
+    {
+      "qid": 49,
+      "subject": "Science",
+      "chapter": "Physics - Energy",
+      "question": "The energy density of diesel fuel used in ships is approximately:",
+      "options": [
+        "45 MJ/kg",
+        "15 MJ/kg",
+        "120 MJ/kg",
+        "5 MJ/kg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diesel has an energy density of about 42–46 MJ/kg."
+    },
+    {
+      "qid": 50,
+      "subject": "Science",
+      "chapter": "Physics - Waves",
+      "question": "The speed of sound in seawater is higher than in air primarily because:",
+      "options": [
+        "Higher density and bulk modulus",
+        "Lower temperature",
+        "Higher salinity only",
+        "Presence of marine life"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed of sound depends on √(B/ρ). Seawater has much higher bulk modulus relative to density."
+    },
+    {
+      "qid": 51,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "If sinθ + cosθ = √2, then the value of tanθ + cotθ is:",
+      "options": [
+        "2",
+        "1",
+        "√2",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sinθ + cosθ = √2 ⇒ squaring: 1 + sin2θ = 2 ⇒ sin2θ = 1. Then tanθ + cotθ = (sin²+cos²)/(sin cos) = 1/(½ sin2θ) = 2."
+    },
+    {
+      "qid": 52,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x³ + 1/x³ = ?",
+      "options": [
+        "18",
+        "27",
+        "9",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)³ = x³ + 1/x³ + 3(x + 1/x) ⇒ 27 = x³ + 1/x³ + 9 ⇒ x³ + 1/x³ = 18."
+    },
+    {
+      "qid": 53,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "A spherical buoy has a diameter of 2 m. The volume of water it displaces when half submerged is: (π=3.14)",
+      "options": [
+        "2.093 m³",
+        "4.186 m³",
+        "1.047 m³",
+        "8.373 m³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Radius = 1 m. Volume of sphere = (4/3)πr³ ≈ 4.186 m³. Half = 2.093 m³."
+    },
+    {
+      "qid": 54,
+      "subject": "Maths",
+      "chapter": "Time & Distance",
+      "question": "A ship travels 120 nautical miles in 4 hours. Its speed in knots is:",
+      "options": [
+        "30 knots",
+        "25 knots",
+        "35 knots",
+        "40 knots"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 knot = 1 nautical mile per hour. Speed = 120/4 = 30 knots."
+    },
+    {
+      "qid": 55,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "A ship's fuel tank is 60% full. After consuming 1500 litres, it is 40% full. The capacity of the tank is:",
+      "options": [
+        "7500 litres",
+        "6000 litres",
+        "5000 litres",
+        "9000 litres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20% of capacity = 1500 litres ⇒ Capacity = 1500 × 5 = 7500 litres."
+    },
+    {
+      "qid": 56,
+      "subject": "Maths",
+      "chapter": "Ratio",
+      "question": "The ratio of length to beam of a frigate is 8:1. If the beam is 15 m, the length is:",
+      "options": [
+        "120 m",
+        "100 m",
+        "80 m",
+        "150 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Length = 8 × 15 = 120 m."
+    },
+    {
+      "qid": 57,
+      "subject": "Maths",
+      "chapter": "Profit & Loss",
+      "question": "A naval store sells equipment at 20% profit. If the cost price is ₹5000, the selling price is:",
+      "options": [
+        "₹6000",
+        "₹5500",
+        "₹6200",
+        "₹5800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = CP × 1.20 = 5000 × 1.2 = 6000."
+    },
+    {
+      "qid": 58,
+      "subject": "Maths",
+      "chapter": "Simple Interest",
+      "question": "A sailor deposits ₹10,000 at 5% per annum simple interest. After 3 years, the interest earned is:",
+      "options": [
+        "₹1500",
+        "₹1200",
+        "₹1800",
+        "₹2000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (P×R×T)/100 = (10000×5×3)/100 = 1500."
+    },
+    {
+      "qid": 59,
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "The angle of depression of a lighthouse from the top of a 50 m cliff is 30°. The distance of the lighthouse from the base of the cliff is: (√3≈1.732)",
+      "options": [
+        "50√3 m",
+        "50/√3 m",
+        "25√3 m",
+        "100 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tan30° = 1/√3 = 50/d ⇒ d = 50√3 m."
+    },
+    {
+      "qid": 60,
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "The average speed of a ship for the first 2 hours is 20 knots and for the next 3 hours is 25 knots. The average speed for the entire journey is:",
+      "options": [
+        "23 knots",
+        "22.5 knots",
+        "24 knots",
+        "21 knots"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total distance = 20×2 + 25×3 = 40+75 = 115 nm. Total time = 5 h. Average = 115/5 = 23 knots."
+    },
+    {
+      "qid": 61,
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The HCF of 36 and 84 is:",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "36 = 2²×3², 84 = 2²×3×7. HCF = 2²×3 = 12."
+    },
+    {
+      "qid": 62,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "If 2x + 3y = 12 and 3x + 2y = 13, then x + y = ?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adding both equations: 5x + 5y = 25 ⇒ x + y = 5."
+    },
+    {
+      "qid": 63,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "The surface area of a cylindrical fuel tank of radius 2 m and height 5 m (excluding ends) is:",
+      "options": [
+        "20π m²",
+        "10π m²",
+        "40π m²",
+        "8π m²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lateral surface area = 2πrh = 2π×2×5 = 20π m²."
+    },
+    {
+      "qid": 64,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "cos 60° + sin 30° = ?",
+      "options": [
+        "1",
+        "0.5",
+        "1.5",
+        "√3/2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cos60° = 0.5, sin30° = 0.5. Sum = 1."
+    },
+    {
+      "qid": 65,
+      "subject": "Maths",
+      "chapter": "Time & Work",
+      "question": "A and B can complete a ship maintenance task in 10 and 15 days respectively. Working together, they will complete it in:",
+      "options": [
+        "6 days",
+        "5 days",
+        "8 days",
+        "12 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 1/6. Together they take 6 days."
+    },
+    {
+      "qid": 66,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "If the price of diesel increases by 25%, by what percentage should consumption be reduced to keep expenditure the same?",
+      "options": [
+        "20%",
+        "25%",
+        "16.67%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Required reduction = (r/(100+r))×100 = (25/125)×100 = 20%."
+    },
+    {
+      "qid": 67,
+      "subject": "Maths",
+      "chapter": "Profit & Loss",
+      "question": "An item is sold at a loss of 10%. If the cost price is ₹2000, the selling price is:",
+      "options": [
+        "₹1800",
+        "₹1900",
+        "₹1700",
+        "₹1600"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 2000 × 0.9 = 1800."
+    },
+    {
+      "qid": 68,
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "The area of a triangular sail with base 8 m and height 6 m is:",
+      "options": [
+        "24 m²",
+        "48 m²",
+        "12 m²",
+        "36 m²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = (1/2)×base×height = (1/2)×8×6 = 24 m²."
+    },
+    {
+      "qid": 69,
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "The average of first 10 natural numbers is:",
+      "options": [
+        "5.5",
+        "5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = n(n+1)/2 = 55. Average = 55/10 = 5.5."
+    },
+    {
+      "qid": 70,
+      "subject": "Maths",
+      "chapter": "Ratio & Proportion",
+      "question": "If a:b = 2:3 and b:c = 4:5, then a:c = ?",
+      "options": [
+        "8:15",
+        "2:5",
+        "6:15",
+        "8:12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a/b = 2/3, b/c = 4/5 ⇒ a/c = (2/3)×(4/5) = 8/15."
+    },
+    {
+      "qid": 71,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "The value of (a+b)² - (a-b)² is:",
+      "options": [
+        "4ab",
+        "2ab",
+        "a²+b²",
+        "2a²+2b²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(a²+2ab+b²) - (a²-2ab+b²) = 4ab."
+    },
+    {
+      "qid": 72,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "The circumference of a circular radar antenna of radius 7 m is: (π=22/7)",
+      "options": [
+        "44 m",
+        "22 m",
+        "88 m",
+        "14 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C = 2πr = 2×(22/7)×7 = 44 m."
+    },
+    {
+      "qid": 73,
+      "subject": "Maths",
+      "chapter": "Time & Distance",
+      "question": "A boat takes 3 hours to travel 30 km upstream and 2 hours to travel the same distance downstream. The speed of the boat in still water is:",
+      "options": [
+        "12.5 km/h",
+        "10 km/h",
+        "15 km/h",
+        "11 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Upstream speed = 10 km/h, downstream = 15 km/h. Still water speed = (10+15)/2 = 12.5 km/h."
+    },
+    {
+      "qid": 74,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "What percentage of 80 is 20?",
+      "options": [
+        "25%",
+        "20%",
+        "15%",
+        "30%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(20/80)×100 = 25%."
+    },
+    {
+      "qid": 75,
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The LCM of 12, 18 and 24 is:",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "144"
+      ],
+      "correctAnswer": 1,
+      "explanation": "12=2²×3, 18=2×3², 24=2³×3. LCM = 2³×3² = 72."
+    },
+    {
+      "qid": 76,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "The motto of the Indian Navy is:",
+      "options": [
+        "Shaṃ No Varunaḥ",
+        "Jai Hind",
+        "Satyameva Jayate",
+        "Bharat Mata Ki Jai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The motto of the Indian Navy is 'Shaṃ No Varunaḥ' (May the Lord of the Oceans be auspicious unto us)."
+    },
+    {
+      "qid": 77,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "Which is the largest aircraft carrier of the Indian Navy?",
+      "options": [
+        "INS Vikrant",
+        "INS Vikramaditya",
+        "INS Viraat",
+        "INS Arihant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Vikrant (IAC-1) is India's first indigenous aircraft carrier and currently the largest."
+    },
+    {
+      "qid": 78,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "The first indigenously built nuclear submarine of India is:",
+      "options": [
+        "INS Arihant",
+        "INS Chakra",
+        "INS Kalvari",
+        "INS Sindhughosh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Arihant is India's first indigenous nuclear-powered ballistic missile submarine."
+    },
+    {
+      "qid": 79,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The rank just below Admiral in the Indian Navy is:",
+      "options": [
+        "Vice Admiral",
+        "Rear Admiral",
+        "Commodore",
+        "Captain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The hierarchy is Admiral → Vice Admiral → Rear Admiral."
+    },
+    {
+      "qid": 80,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Andaman and Nicobar Command is the only ______ command of the Indian Armed Forces.",
+      "options": [
+        "Tri-service",
+        "Naval",
+        "Army",
+        "Air Force"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ANC is India's only tri-service (Army, Navy, Air Force) theatre command."
+    },
+    {
+      "qid": 81,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "Operation Trident was conducted during which war?",
+      "options": [
+        "1971 Indo-Pak War",
+        "1965 War",
+        "Kargil War",
+        "1962 War"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Operation Trident was a successful naval operation by the Indian Navy during the 1971 war."
+    },
+    {
+      "qid": 82,
+      "subject": "GA",
+      "chapter": "Current Affairs / Defence",
+      "question": "The indigenous aircraft carrier INS Vikrant was commissioned in:",
+      "options": [
+        "2022",
+        "2020",
+        "2019",
+        "2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Vikrant was commissioned on 2 September 2022."
+    },
+    {
+      "qid": 83,
+      "subject": "GA",
+      "chapter": "Science & Tech",
+      "question": "The missile used by Indian Navy for anti-ship role from ships is:",
+      "options": [
+        "BrahMos",
+        "Agni",
+        "Prithvi",
+        "Akash"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BrahMos is the primary supersonic cruise missile used by the Indian Navy for anti-ship and land-attack roles."
+    },
+    {
+      "qid": 84,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Indian Naval Academy is located at:",
+      "options": [
+        "Ezhimala, Kerala",
+        "Kochi",
+        "Mumbai",
+        "Visakhapatnam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indian Naval Academy (INA) is located at Ezhimala in Kerala."
+    },
+    {
+      "qid": 85,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "Which ship is known as the 'Grand Old Lady' of the Indian Navy?",
+      "options": [
+        "INS Vikrant (R11)",
+        "INS Viraat",
+        "INS Delhi",
+        "INS Mysore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first INS Vikrant (R11), decommissioned in 1997, was affectionately called the 'Grand Old Lady'."
+    },
+    {
+      "qid": 86,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The deepest point in the Indian Ocean is:",
+      "options": [
+        "Java Trench (Sunda Trench)",
+        "Mariana Trench",
+        "Puerto Rico Trench",
+        "Tonga Trench"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sunda Trench (Java Trench) is the deepest point in the Indian Ocean."
+    },
+    {
+      "qid": 87,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The Chief of the Naval Staff is a:",
+      "options": [
+        "Four-star officer",
+        "Three-star officer",
+        "Five-star officer",
+        "Two-star officer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The CNS holds the rank of Admiral, which is a four-star rank."
+    },
+    {
+      "qid": 88,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "INS Kalvari is the first of which class of submarines?",
+      "options": [
+        "Scorpene-class",
+        "Kilo-class",
+        "Arihant-class",
+        "Shishumar-class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Kalvari is the lead boat of the Kalvari-class (Scorpene-class) conventional submarines."
+    },
+    {
+      "qid": 89,
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "The highest peacetime gallantry award for the Navy is:",
+      "options": [
+        "Ashoka Chakra",
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Kirti Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ashoka Chakra is the highest peacetime gallantry award (equivalent to PVC in wartime)."
+    },
+    {
+      "qid": 90,
+      "subject": "GA",
+      "chapter": "International",
+      "question": "The Malacca Strait is strategically important because:",
+      "options": [
+        "It is a major shipping route connecting Indian and Pacific Oceans",
+        "It has large oil reserves",
+        "It is the deepest strait",
+        "It is under Indian control"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Malacca Strait is one of the world's busiest shipping lanes linking the Indian Ocean to the South China Sea."
+    },
+    {
+      "qid": 91,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "The Western Naval Command is headquartered at:",
+      "options": [
+        "Mumbai",
+        "Kochi",
+        "Visakhapatnam",
+        "Port Blair"
+      ],
+      "correctAnswer": 1,
+      "explanation": "WNC HQ is in Mumbai."
+    },
+    {
+      "qid": 92,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "Eastern Naval Command is headquartered at:",
+      "options": [
+        "Visakhapatnam",
+        "Mumbai",
+        "Kochi",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ENC is headquartered at Visakhapatnam."
+    },
+    {
+      "qid": 93,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "Which of the following is a guided missile destroyer of the Indian Navy?",
+      "options": [
+        "INS Kolkata",
+        "INS Vikramaditya",
+        "INS Arihant",
+        "INS Kalvari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Kolkata is the lead ship of the Kolkata-class stealth guided-missile destroyers."
+    },
+    {
+      "qid": 94,
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "The term 'Knot' as a unit of speed is equal to:",
+      "options": [
+        "1 nautical mile per hour",
+        "1 km per hour",
+        "1 mile per hour",
+        "1.5 km per hour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 knot = 1 nautical mile per hour ≈ 1.852 km/h."
+    },
+    {
+      "qid": 95,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "The Naval War College is located at:",
+      "options": [
+        "Goa",
+        "Mumbai",
+        "Kochi",
+        "Visakhapatnam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Naval War College is located in Goa."
+    },
+    {
+      "qid": 96,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The first Chief of the Naval Staff of independent India was:",
+      "options": [
+        "Admiral R.D. Katari",
+        "Admiral S.M. Nanda",
+        "Admiral B.S. Soman",
+        "Admiral A.K. Chatterji"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vice Admiral R.D. Katari was the first Indian Chief of the Naval Staff (1958)."
+    },
+    {
+      "qid": 97,
+      "subject": "GA",
+      "chapter": "Current",
+      "question": "Project 75I is related to:",
+      "options": [
+        "Indigenous conventional submarines",
+        "Aircraft carriers",
+        "Destroyers",
+        "Frigates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Project 75I is the programme for building next-generation conventional submarines in India."
+    },
+    {
+      "qid": 98,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The Gulf of Mannar is located between:",
+      "options": [
+        "India and Sri Lanka",
+        "India and Maldives",
+        "India and Bangladesh",
+        "India and Myanmar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gulf of Mannar lies between the southeastern tip of India and the west coast of Sri Lanka."
+    },
+    {
+      "qid": 99,
+      "subject": "GA",
+      "chapter": "Indian Navy",
+      "question": "The Southern Naval Command is headquartered at:",
+      "options": [
+        "Kochi",
+        "Mumbai",
+        "Visakhapatnam",
+        "Port Blair"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SNC HQ is in Kochi (Cochin)."
+    },
+    {
+      "qid": 100,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "Which of the following is NOT a naval dockyard of the Indian Navy?",
+      "options": [
+        "Pune",
+        "Mumbai",
+        "Visakhapatnam",
+        "Port Blair"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Major naval dockyards are in Mumbai, Visakhapatnam, and Port Blair. Pune is not a naval dockyard."
+    }
+  ]
+}
