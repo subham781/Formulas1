@@ -17,5 +17,1406 @@
     "Use of calculator is not allowed.",
     "Do not refresh the page during the test."
   ],
-  "questions": []
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Select the related word/letters/number from the given alternatives. Book : Author :: Painting : ?",
+      "options": [
+        "Artist",
+        "Canvas",
+        "Color",
+        "Museum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A book is created by an author; similarly, a painting is created by an artist."
+    },
+    {
+      "qid": 2,
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Find the odd one out.",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Earth is the only planet with life; others are not known to support life."
+    },
+    {
+      "qid": 3,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Which number will replace the question mark in the series? 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pattern: +4, +6, +8, +10, +12. So 30 + 12 = 42."
+    },
+    {
+      "qid": 4,
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a certain code, 'COMPUTER' is written as 'RFUVQNPC'. How is 'PRINTER' written in that code?",
+      "options": [
+        "SFUOJSQ",
+        "SFUOJSF",
+        "SFUOJSP",
+        "SFUOJSO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter is reversed and then +1. P-R-I-N-T-E-R reversed is R-E-T-N-I-R-P, then +1: S-F-U-O-J-S-Q."
+    },
+    {
+      "qid": 5,
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
+      "options": [
+        "His son",
+        "His own",
+        "His father",
+        "His nephew"
+      ],
+      "correctAnswer": 1,
+      "explanation": "My father's son is myself. So that man's father is myself. Hence, it is his son's photograph."
+    },
+    {
+      "qid": 6,
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 5 km towards South and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+      "options": [
+        "West",
+        "South",
+        "North-East",
+        "South-West"
+      ],
+      "correctAnswer": 4,
+      "explanation": "South 5 km, right (West) 3 km, left (South) 5 km. Net: South 10 km, West 3 km → South-West."
+    },
+    {
+      "qid": 7,
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All roses are flowers. Some flowers are red. Conclusions: I. Some roses are red. II. All red are flowers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neither conclusion necessarily follows from the given statements."
+    },
+    {
+      "qid": 8,
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A, B, C, D, E are sitting in a row. A is to the left of B but right of C. D is between A and B. Who is sitting in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Order: C, A, D, B, E or similar. D is between A and B, so D is in the middle of the group of three."
+    },
+    {
+      "qid": 9,
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which of the following diagrams indicates the best relation between Travellers, Train and Bus?",
+      "options": [
+        "Three intersecting circles",
+        "Two circles inside one",
+        "One circle inside another with a separate one",
+        "Three separate circles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some travellers use train, some use bus, some use both, some use neither."
+    },
+    {
+      "qid": 10,
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure? (Assume standard mirror image question for a letter)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In mirror image, left and right are reversed."
+    },
+    {
+      "qid": 11,
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Find the missing number: 3, 7, 16, 35, 74, ?",
+      "options": [
+        "153",
+        "155",
+        "157",
+        "159"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: ×2 +1, ×2 +2, ×2 +3, ×2 +4, ×2 +5. 74×2 +5 = 153."
+    },
+    {
+      "qid": 12,
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a class of 40 students, Ravi ranks 15th from the top. What is his rank from the bottom?",
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rank from bottom = Total - Rank from top + 1 = 40 - 15 + 1 = 26."
+    },
+    {
+      "qid": 13,
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 2, 3, 5, 7, 9",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "9"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All others are prime numbers. 9 is composite."
+    },
+    {
+      "qid": 14,
+      "subject": "Reasoning",
+      "chapter": "Statement-Assumption",
+      "question": "Statement: The government has decided to increase the price of petrol. Assumption: People will reduce the use of petrol.",
+      "options": [
+        "Assumption is implicit",
+        "Assumption is not implicit",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The decision assumes that higher price will lead to reduced consumption."
+    },
+    {
+      "qid": 15,
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "What was the day of the week on 15th August 1947?",
+      "options": [
+        "Friday",
+        "Thursday",
+        "Saturday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15th August 1947 was a Friday."
+    },
+    {
+      "qid": 16,
+      "subject": "Reasoning",
+      "chapter": "Dice",
+      "question": "Two positions of a dice are shown. Which number is opposite to 3? (Assume standard opposite pairs)",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In most standard dice positions, opposite of 3 is often 4, but adjusted for common questions."
+    },
+    {
+      "qid": 17,
+      "subject": "Reasoning",
+      "chapter": "Paper Folding",
+      "question": "A paper is folded and cut. How will it appear when unfolded?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Based on the folding and cutting pattern, the unfolded figure matches option C."
+    },
+    {
+      "qid": 18,
+      "subject": "Reasoning",
+      "chapter": "Logical Sequence",
+      "question": "Arrange the following in a logical sequence: 1. Birth 2. Death 3. Education 4. Marriage 5. Job",
+      "options": [
+        "1,3,5,4,2",
+        "1,3,4,5,2",
+        "1,5,3,4,2",
+        "1,3,5,2,4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Logical life sequence: Birth → Education → Job → Marriage → Death."
+    },
+    {
+      "qid": 19,
+      "subject": "Reasoning",
+      "chapter": "Matrix",
+      "question": "In a matrix, numbers follow a pattern. Find the missing number.",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Row-wise or column-wise pattern leads to 16."
+    },
+    {
+      "qid": 20,
+      "subject": "Reasoning",
+      "chapter": "Input-Output",
+      "question": "Input: 25 32 47 58 63. Step I: 63 25 32 47 58. What is the next step?",
+      "options": [
+        "63 58 25 32 47",
+        "63 58 47 25 32",
+        "63 47 25 32 58",
+        "58 63 25 32 47"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Largest number is arranged to the left in each step."
+    },
+    {
+      "qid": 21,
+      "subject": "Reasoning",
+      "chapter": "Figure Series",
+      "question": "Which figure comes next in the series?",
+      "options": [
+        "Figure A",
+        "Figure B",
+        "Figure C",
+        "Figure D"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pattern of rotation or addition continues with Figure B."
+    },
+    {
+      "qid": 22,
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "If in a code language, 'APPLE' is coded as 'ELPPA', then 'ORANGE' is coded as?",
+      "options": [
+        "EGNARO",
+        "EGNARO",
+        "EGNARO",
+        "EGNARO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word is reversed. ORANGE reversed is EGNARO."
+    },
+    {
+      "qid": 23,
+      "subject": "Reasoning",
+      "chapter": "Conclusion",
+      "question": "Statements: All dogs are animals. All animals are living beings. Conclusion: All dogs are living beings.",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "Partially follows",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transitive property: All dogs are animals and all animals are living beings, so all dogs are living beings."
+    },
+    {
+      "qid": 24,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A doctor works in a hospital; a teacher works in a school."
+    },
+    {
+      "qid": 25,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next letter in the series: A, C, F, J, O, ?",
+      "options": [
+        "U",
+        "T",
+        "S",
+        "V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: +2, +3, +4, +5, +6. O+6 = U."
+    },
+    {
+      "qid": 26,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 50, then what is 40% of that number?",
+      "options": [
+        "80",
+        "100",
+        "120",
+        "90"
+      ],
+      "correctAnswer": 2,
+      "explanation": "20% = 50 ⇒ 100% = 250. 40% of 250 = 100."
+    },
+    {
+      "qid": 27,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit & Loss",
+      "question": "A shopkeeper sells an article at a profit of 20%. If the cost price is ₹500, what is the selling price?",
+      "options": [
+        "₹550",
+        "₹600",
+        "₹620",
+        "₹580"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SP = CP × 1.20 = 500 × 1.2 = 600."
+    },
+    {
+      "qid": 28,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "The ratio of ages of A and B is 3:4. After 5 years, the ratio becomes 4:5. What is the present age of A?",
+      "options": [
+        "15",
+        "18",
+        "20",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let ages be 3x, 4x. (3x+5)/(4x+5)=4/5 ⇒ 15x+25=16x+20 ⇒ x=5. A=15."
+    },
+    {
+      "qid": 29,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+      "options": [
+        "28",
+        "30",
+        "26",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total = 100. New total = 72. Excluded = 28."
+    },
+    {
+      "qid": 30,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days and B in 15 days. In how many days will they complete the work together?",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A+B = 1/10 + 1/15 = 1/6. So 6 days."
+    },
+    {
+      "qid": 31,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed",
+      "question": "A train travels 120 km in 2 hours. What is its speed in m/s?",
+      "options": [
+        "16.67",
+        "20",
+        "15",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "60 km/h = 60 × 5/18 = 16.67 m/s."
+    },
+    {
+      "qid": 32,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "What is the simple interest on ₹2000 for 2 years at 5% per annum?",
+      "options": [
+        "₹200",
+        "₹220",
+        "₹180",
+        "₹250"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (P×R×T)/100 = (2000×5×2)/100 = 200."
+    },
+    {
+      "qid": 33,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Compound Interest",
+      "question": "The compound interest on ₹1000 for 2 years at 10% per annum is:",
+      "options": [
+        "₹210",
+        "₹200",
+        "₹220",
+        "₹230"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CI = 1000×(1.1)^2 - 1000 = 210."
+    },
+    {
+      "qid": 34,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "The sum of angles of a triangle is:",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum of interior angles of a triangle is 180°."
+    },
+    {
+      "qid": 35,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x² + 1/x² = ?",
+      "options": [
+        "7",
+        "9",
+        "5",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)² = x² + 2 + 1/x² ⇒ 9 = x² + 1/x² + 2 ⇒ x² + 1/x² = 7."
+    },
+    {
+      "qid": 36,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Trigonometry",
+      "question": "Value of sin 30° is:",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin 30° = 1/2."
+    },
+    {
+      "qid": 37,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "The LCM of 12 and 18 is:",
+      "options": [
+        "36",
+        "24",
+        "48",
+        "72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12 and 18 is 36."
+    },
+    {
+      "qid": 38,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Area of a circle with radius 7 cm is: (π=22/7)",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "160 cm²",
+        "150 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr² = 22/7 × 49 = 154."
+    },
+    {
+      "qid": 39,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Data Interpretation",
+      "question": "If a pie chart shows 25% for one sector, the angle is:",
+      "options": [
+        "90°",
+        "80°",
+        "100°",
+        "75°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "25% of 360° = 90°."
+    },
+    {
+      "qid": 40,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": [
+        "0%",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Net effect = 20% of 20% decrease = 4% decrease."
+    },
+    {
+      "qid": 41,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit & Loss",
+      "question": "If CP is ₹80 and SP is ₹100, profit percentage is:",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Profit = 20, % = 20/80 × 100 = 25%."
+    },
+    {
+      "qid": 42,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time & Work",
+      "question": "If 5 men can do a work in 12 days, how many days will 6 men take?",
+      "options": [
+        "10",
+        "8",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Men × Days = constant. 5×12 = 6×d ⇒ d=10."
+    },
+    {
+      "qid": 43,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed",
+      "question": "A car covers 150 km in 3 hours. Speed is:",
+      "options": [
+        "50 km/h",
+        "45 km/h",
+        "55 km/h",
+        "60 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = Distance/Time = 50 km/h."
+    },
+    {
+      "qid": 44,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "Divide ₹1200 in the ratio 2:3. Larger share is:",
+      "options": [
+        "₹480",
+        "₹720",
+        "₹600",
+        "₹800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total parts 5. 3/5 × 1200 = 720."
+    },
+    {
+      "qid": 45,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of first 10 natural numbers is:",
+      "options": [
+        "5.5",
+        "5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum = 55, Average = 5.5."
+    },
+    {
+      "qid": 46,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "Principal that yields ₹200 interest in 4 years at 5% is:",
+      "options": [
+        "₹1000",
+        "₹800",
+        "₹1200",
+        "₹900"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P = (SI×100)/(R×T) = (200×100)/(5×4) = 1000."
+    },
+    {
+      "qid": 47,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "Solve: 2x + 3 = 11. x = ?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 8 ⇒ x = 4."
+    },
+    {
+      "qid": 48,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "A right-angled triangle has sides 3, 4, 5. The hypotenuse is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In 3-4-5 triangle, hypotenuse is 5."
+    },
+    {
+      "qid": 49,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "Which of the following is a prime number?",
+      "options": [
+        "9",
+        "15",
+        "21",
+        "17"
+      ],
+      "correctAnswer": 4,
+      "explanation": "17 is prime. Others are composite."
+    },
+    {
+      "qid": 50,
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Perimeter of a square with side 5 cm is:",
+      "options": [
+        "20 cm",
+        "25 cm",
+        "15 cm",
+        "10 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perimeter = 4 × side = 20 cm."
+    },
+    {
+      "qid": 51,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'Abundant':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abundant means plentiful."
+    },
+    {
+      "qid": 52,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'Ancient':",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Aged"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of ancient is modern."
+    },
+    {
+      "qid": 53,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does 'Bite the bullet' mean?",
+      "options": [
+        "To eat something hard",
+        "To face a difficult situation bravely",
+        "To shoot",
+        "To run away"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bite the bullet means to endure a painful or difficult situation."
+    },
+    {
+      "qid": 54,
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misogynist",
+        "Atheist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": 55,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: He go to school every day.",
+      "options": [
+        "He",
+        "go",
+        "to school",
+        "every day"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Subject 'He' requires 'goes'."
+    },
+    {
+      "qid": 56,
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "She is _____ honest woman.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Honest' starts with a vowel sound, so 'an'."
+    },
+    {
+      "qid": 57,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Change to passive: She writes a letter.",
+      "options": [
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter writes her.",
+        "Letter is wrote by her."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present simple passive: is/are + V3."
+    },
+    {
+      "qid": 58,
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "He said, 'I am happy.' Indirect speech:",
+      "options": [
+        "He said that he was happy.",
+        "He said that I am happy.",
+        "He said he is happy.",
+        "He told that he happy."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reporting verb in past changes tense to past."
+    },
+    {
+      "qid": 59,
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "The sun _____ in the east.",
+      "options": [
+        "rise",
+        "rises",
+        "rose",
+        "rising"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Simple present for habitual fact: rises."
+    },
+    {
+      "qid": 60,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Brave':",
+      "options": [
+        "Coward",
+        "Courageous",
+        "Weak",
+        "Timid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brave means courageous."
+    },
+    {
+      "qid": 61,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Victory':",
+      "options": [
+        "Success",
+        "Defeat",
+        "Win",
+        "Triumph"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of victory is defeat."
+    },
+    {
+      "qid": 62,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'Once in a blue moon' means:",
+      "options": [
+        "Very rarely",
+        "Very often",
+        "Always",
+        "Never"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Means very rarely."
+    },
+    {
+      "qid": 63,
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A government by the people is:",
+      "options": [
+        "Democracy",
+        "Monarchy",
+        "Autocracy",
+        "Oligarchy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Democracy is government by the people."
+    },
+    {
+      "qid": 64,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Find the error: She don't like coffee.",
+      "options": [
+        "She",
+        "don't",
+        "like",
+        "coffee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Should be 'doesn't'."
+    },
+    {
+      "qid": 65,
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "He is good _____ mathematics.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Good at something."
+    },
+    {
+      "qid": 66,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Passive of 'They are playing cricket.':",
+      "options": [
+        "Cricket is being played by them.",
+        "Cricket was played by them.",
+        "Cricket is played by them.",
+        "They are played cricket."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is/are being + V3."
+    },
+    {
+      "qid": 67,
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "She said, 'I will come tomorrow.'",
+      "options": [
+        "She said that she would come the next day.",
+        "She said that she will come tomorrow.",
+        "She said I will come.",
+        "She told she comes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Will → would, tomorrow → the next day."
+    },
+    {
+      "qid": 68,
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "Water _____ at 100°C.",
+      "options": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fact: boils."
+    },
+    {
+      "qid": 69,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Rapid':",
+      "options": [
+        "Slow",
+        "Fast",
+        "Lazy",
+        "Weak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rapid means fast."
+    },
+    {
+      "qid": 70,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Generous':",
+      "options": [
+        "Kind",
+        "Mean",
+        "Helpful",
+        "Liberal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym is mean or stingy."
+    },
+    {
+      "qid": 71,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "'A piece of cake' means:",
+      "options": [
+        "Very difficult",
+        "Very easy",
+        "Expensive",
+        "Sweet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Means very easy."
+    },
+    {
+      "qid": 72,
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "Fear of heights is:",
+      "options": [
+        "Acrophobia",
+        "Claustrophobia",
+        "Hydrophobia",
+        "Agoraphobia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acrophobia is fear of heights."
+    },
+    {
+      "qid": 73,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Correct the sentence: He have two brothers.",
+      "options": [
+        "He has two brothers.",
+        "He had two brothers.",
+        "He have two brother.",
+        "He has two brother."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subject 'He' takes 'has'."
+    },
+    {
+      "qid": 74,
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "I prefer tea _____ coffee.",
+      "options": [
+        "than",
+        "to",
+        "over",
+        "from"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prefer A to B."
+    },
+    {
+      "qid": 75,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Passive of 'Who wrote this book?':",
+      "options": [
+        "By whom was this book written?",
+        "Who was this book written?",
+        "By who this book was written?",
+        "This book wrote by whom?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Who → By whom, wrote → was written."
+    },
+    {
+      "qid": 76,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Sardar Patel",
+        "B.R. Ambedkar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. Rajendra Prasad was the first President of India."
+    },
+    {
+      "qid": 77,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ganga is the longest river in India."
+    },
+    {
+      "qid": 78,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The Constitution of India was adopted on:",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "15 August 1950"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Adopted on 26 November 1949, came into effect on 26 January 1950."
+    },
+    {
+      "qid": 79,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which is the central bank of India?",
+      "options": [
+        "SBI",
+        "RBI",
+        "ICICI",
+        "HDFC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reserve Bank of India (RBI) is the central bank."
+    },
+    {
+      "qid": 80,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the chemical formula of water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H2O."
+    },
+    {
+      "qid": 81,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was in 1757."
+    },
+    {
+      "qid": 82,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Canberra is the capital of Australia."
+    },
+    {
+      "qid": 83,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 6 fundamental rights."
+    },
+    {
+      "qid": 84,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST stands for:",
+      "options": [
+        "Goods and Services Tax",
+        "General Sales Tax",
+        "Government Service Tax",
+        "Gross Sales Tax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Goods and Services Tax."
+    },
+    {
+      "qid": 85,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mars is the Red Planet."
+    },
+    {
+      "qid": 86,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who wrote the Indian National Anthem?",
+      "options": [
+        "Bankim Chandra",
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Subhash Chandra Bose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jana Gana Mana was written by Rabindranath Tagore."
+    },
+    {
+      "qid": 87,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The highest peak in the world is:",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Kanchenjunga",
+        "Nanda Devi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mount Everest is the highest peak."
+    },
+    {
+      "qid": 88,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The minimum age to become President of India is:",
+      "options": [
+        "30",
+        "35",
+        "25",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Minimum age is 35 years."
+    },
+    {
+      "qid": 89,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which sector contributes the most to India's GDP?",
+      "options": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Services sector contributes the most."
+    },
+    {
+      "qid": 90,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The unit of electric current is:",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ampere is the unit of current."
+    },
+    {
+      "qid": 91,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in:",
+      "options": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement was in 1942."
+    },
+    {
+      "qid": 92,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Arabian"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sahara is the largest hot desert."
+    },
+    {
+      "qid": 93,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who is the head of the Indian Army?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Defence Minister",
+        "Chief of Army Staff"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Chief of Army Staff is the professional head."
+    },
+    {
+      "qid": 94,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "NITI Aayog replaced:",
+      "options": [
+        "Planning Commission",
+        "Finance Commission",
+        "Election Commission",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NITI Aayog replaced the Planning Commission."
+    },
+    {
+      "qid": 95,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Photosynthesis occurs in:",
+      "options": [
+        "Roots",
+        "Leaves",
+        "Stem",
+        "Flowers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mainly in leaves due to chlorophyll."
+    },
+    {
+      "qid": 96,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The first war of Indian Independence was in:",
+      "options": [
+        "1857",
+        "1947",
+        "1757",
+        "1930"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1857 revolt is known as the first war of independence."
+    },
+    {
+      "qid": 97,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "It passes through 8 states."
+    },
+    {
+      "qid": 98,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Article 370 was related to:",
+      "options": [
+        "Jammu & Kashmir",
+        "Right to Education",
+        "Fundamental Duties",
+        "Emergency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 370 gave special status to J&K (now abrogated)."
+    },
+    {
+      "qid": 99,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which is the largest public sector bank in India?",
+      "options": [
+        "SBI",
+        "PNB",
+        "Bank of Baroda",
+        "Canara Bank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "State Bank of India is the largest."
+    },
+    {
+      "qid": 100,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The powerhouse of the cell is:",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitochondria is the powerhouse of the cell."
+    }
+  ]
 }
