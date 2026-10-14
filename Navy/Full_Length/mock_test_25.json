@@ -1,1 +1,34 @@
-FULL_CONTENT_FROM_FILE
+{
+  "testId": "navy_full_length_mock_25",
+  "exam": "Navy",
+  "testType": "fullLength",
+  "title": "Indian Navy Agniveer SSR Full Length Mock Test 25 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Navy Agniveer SSR. 100 questions covering English, Science, Mathematics and General Awareness.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (English 25, Science 25, Maths 25, GA 25).",
+    "Each correct answer carries 1 mark. Negative marking of 0.25 marks for each wrong answer.",
+    "Duration: 60 minutes. Manage your time wisely.",
+    "There is no sectional time limit. Attempt all questions."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part which has an error: The captain, along with his officers, were commended for their bravery during the naval exercise.",
+      "options": [
+        "The captain, along with his officers,",
+        "were commended for their bravery",
+        "during the naval exercise.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When a singular subject is followed by 'along with', the verb agrees with the main subject. 'Captain' is singular, so 'was' is correct."
+    }
+  ]
+}
