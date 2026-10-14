@@ -15,5 +15,1406 @@
     "Time: 60 minutes.",
     "Official CEE GD pattern 50 questions ka hota hai; yeh extended full-length practice set hai."
   ],
-  "questions": [/* full 100 questions truncated for this example, but in real it is complete */ ]
+  "questions": [
+    {
+      "qid": "Q1",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "The Treaty of Sugauli (1816) was signed between British India and which country?",
+      "options": [
+        "Nepal",
+        "Bhutan",
+        "Tibet",
+        "Afghanistan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Treaty of Sugauli ended the Anglo-Nepalese War and fixed the Nepal-India boundary."
+    },
+    {
+      "qid": "Q2",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Who was the founder of the Mamluk (Slave) Dynasty?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Razia Sultan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Qutb-ud-din Aibak established the Slave Dynasty in 1206."
+    },
+    {
+      "qid": "Q3",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Doctrine of Lapse was introduced by:",
+      "options": [
+        "Lord Dalhousie",
+        "Lord Wellesley",
+        "Lord Canning",
+        "Lord Curzon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord Dalhousie used the Doctrine of Lapse to annex several Indian states."
+    },
+    {
+      "qid": "Q4",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Longest river flowing entirely within India is:",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Narmada",
+        "Mahanadi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godavari is the longest river confined wholly to Indian territory."
+    },
+    {
+      "qid": "Q5",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Silent Valley National Park is in:",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Silent Valley is a biodiversity-rich park in Kerala’s Nilgiri hills."
+    },
+    {
+      "qid": "Q6",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "The idea of Judicial Review is taken from:",
+      "options": [
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Judicial Review is borrowed from the American Constitution."
+    },
+    {
+      "qid": "Q7",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Article 32 of the Indian Constitution deals with:",
+      "options": [
+        "Right to Constitutional Remedies",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 32 is the Right to Constitutional Remedies, called the heart and soul of the Constitution."
+    },
+    {
+      "qid": "Q8",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Maximum strength of Lok Sabha is:",
+      "options": [
+        "552",
+        "545",
+        "550",
+        "530"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Constitution provides for a maximum of 552 members in the Lok Sabha."
+    },
+    {
+      "qid": "Q9",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Operation Meghdoot was related to:",
+      "options": [
+        "Siachen Glacier",
+        "Kargil",
+        "Doklam",
+        "Aksai Chin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Operation Meghdoot (1984) secured the Siachen Glacier."
+    },
+    {
+      "qid": "Q10",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Highest peacetime gallantry award is:",
+      "options": [
+        "Ashoka Chakra",
+        "Param Vir Chakra",
+        "Kirti Chakra",
+        "Shaurya Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ashoka Chakra is the highest peacetime military decoration."
+    },
+    {
+      "qid": "Q11",
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Which is NOT a component of Human Development Index?",
+      "options": [
+        "Infant Mortality Rate",
+        "Life Expectancy",
+        "Education",
+        "GNI per capita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HDI uses life expectancy, education, and GNI per capita; infant mortality is not a direct component."
+    },
+    {
+      "qid": "Q12",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Dadabhai Naoroji is known as the:",
+      "options": [
+        "Grand Old Man of India",
+        "Father of Indian Unrest",
+        "Lokmanya",
+        "Netaji"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dadabhai Naoroji is called the Grand Old Man of India."
+    },
+    {
+      "qid": "Q13",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram."
+    },
+    {
+      "qid": "Q14",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "National Commission for Scheduled Castes is under:",
+      "options": [
+        "Article 338",
+        "Article 340",
+        "Article 342",
+        "Article 330"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 338 provides for the National Commission for Scheduled Castes."
+    },
+    {
+      "qid": "Q15",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "India’s first indigenous aircraft carrier is:",
+      "options": [
+        "INS Vikrant",
+        "INS Vikramaditya",
+        "INS Viraat",
+        "INS Arihant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Vikrant (IAC-1) is India’s first indigenous aircraft carrier."
+    },
+    {
+      "qid": "Q16",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Poona Pact (1932) was signed between Gandhi and:",
+      "options": [
+        "B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Subhas Bose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Poona Pact was an agreement between Mahatma Gandhi and Dr. B.R. Ambedkar."
+    },
+    {
+      "qid": "Q17",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Southernmost point of India is:",
+      "options": [
+        "Indira Point",
+        "Kanyakumari",
+        "Cape Comorin",
+        "Rameswaram"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indira Point in Great Nicobar is the southernmost point of India."
+    },
+    {
+      "qid": "Q18",
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "GST was implemented in India on:",
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2017",
+        "1 July 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Goods and Services Tax came into force on 1 July 2017."
+    },
+    {
+      "qid": "Q19",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Allocation of seats in Rajya Sabha is given in:",
+      "options": [
+        "Fourth Schedule",
+        "Fifth Schedule",
+        "Sixth Schedule",
+        "Seventh Schedule"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fourth Schedule deals with allocation of seats in the Rajya Sabha."
+    },
+    {
+      "qid": "Q20",
+      "subject": "General Knowledge",
+      "chapter": "History",
+      "question": "Cabinet Mission of 1946 was sent by:",
+      "options": [
+        "Clement Attlee",
+        "Winston Churchill",
+        "Ramsay MacDonald",
+        "Neville Chamberlain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Cabinet Mission was sent by British PM Clement Attlee."
+    },
+    {
+      "qid": "Q21",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Agni-V is classified as:",
+      "options": [
+        "ICBM",
+        "Cruise Missile",
+        "SAM",
+        "Anti-Tank Missile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agni-V is an Intercontinental Ballistic Missile developed by DRDO."
+    },
+    {
+      "qid": "Q22",
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Chilika Lake is located in:",
+      "options": [
+        "Odisha",
+        "Andhra Pradesh",
+        "West Bengal",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chilika is India’s largest brackish water lagoon, in Odisha."
+    },
+    {
+      "qid": "Q23",
+      "subject": "General Knowledge",
+      "chapter": "Polity",
+      "question": "Directive Principles of State Policy are in:",
+      "options": [
+        "Part IV",
+        "Part III",
+        "Part V",
+        "Part II"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Part IV (Articles 36–51) contains the Directive Principles of State Policy."
+    },
+    {
+      "qid": "Q24",
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "G20 Summit 2023 was hosted by:",
+      "options": [
+        "India",
+        "Indonesia",
+        "Italy",
+        "Saudi Arabia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India hosted the G20 Summit in New Delhi in September 2023."
+    },
+    {
+      "qid": "Q25",
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The rank of Field Marshal belongs to:",
+      "options": [
+        "Indian Army",
+        "Indian Navy",
+        "Indian Air Force",
+        "All three"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Field Marshal is the highest rank in the Indian Army."
+    },
+    {
+      "qid": "Q26",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "SI unit of electric field intensity is:",
+      "options": [
+        "N/C or V/m",
+        "J/C",
+        "C/N",
+        "V/C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electric field is measured in Newton per Coulomb or Volt per metre."
+    },
+    {
+      "qid": "Q27",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Total internal reflection is the principle behind:",
+      "options": [
+        "Optical fibres",
+        "Plane mirrors",
+        "Convex lenses",
+        "Prisms only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Optical fibres work on the principle of total internal reflection."
+    },
+    {
+      "qid": "Q28",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Escape velocity from Earth is approximately:",
+      "options": [
+        "11.2 km/s",
+        "7.9 km/s",
+        "9.8 km/s",
+        "15 km/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escape velocity from Earth’s surface is about 11.2 km/s."
+    },
+    {
+      "qid": "Q29",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Formula of bleaching powder is:",
+      "options": [
+        "CaOCl₂",
+        "CaCl₂",
+        "Ca(OH)₂",
+        "CaCO₃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bleaching powder is calcium oxychloride (CaOCl₂)."
+    },
+    {
+      "qid": "Q30",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Which oxide is amphoteric?",
+      "options": [
+        "Al₂O₃",
+        "Na₂O",
+        "MgO",
+        "CO₂"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aluminium oxide reacts with both acids and bases, hence amphoteric."
+    },
+    {
+      "qid": "Q31",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Conversion of sugar to alcohol is called:",
+      "options": [
+        "Fermentation",
+        "Esterification",
+        "Saponification",
+        "Polymerisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fermentation by yeast converts sugar into alcohol and CO₂."
+    },
+    {
+      "qid": "Q32",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which organ is not part of the digestive system?",
+      "options": [
+        "Kidney",
+        "Stomach",
+        "Liver",
+        "Small intestine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kidney is an organ of the excretory system."
+    },
+    {
+      "qid": "Q33",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Enzyme responsible for fat digestion is:",
+      "options": [
+        "Lipase",
+        "Amylase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lipase digests fats into fatty acids and glycerol."
+    },
+    {
+      "qid": "Q34",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Universal donor blood group is:",
+      "options": [
+        "O-",
+        "O+",
+        "AB+",
+        "A-"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O negative is the universal donor."
+    },
+    {
+      "qid": "Q35",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Dimensional formula of Planck’s constant is:",
+      "options": [
+        "ML²T⁻¹",
+        "MLT⁻¹",
+        "ML²T⁻²",
+        "M²LT⁻¹"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Planck’s constant has the dimensions of angular momentum (ML²T⁻¹)."
+    },
+    {
+      "qid": "Q36",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Hardest natural substance is:",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Quartz",
+        "Corundum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diamond is the hardest known natural material."
+    },
+    {
+      "qid": "Q37",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Site of photosynthesis in plant cell is:",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis."
+    },
+    {
+      "qid": "Q38",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "SI unit of power is:",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Power is the rate of doing work; its SI unit is Watt."
+    },
+    {
+      "qid": "Q39",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Gas released when zinc reacts with dilute sulphuric acid is:",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Sulphur dioxide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zn + H₂SO₄ → ZnSO₄ + H₂↑"
+    },
+    {
+      "qid": "Q40",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Largest gland in the human body is:",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Thyroid",
+        "Pituitary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Liver is the largest gland and the largest internal organ."
+    },
+    {
+      "qid": "Q41",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Sound cannot travel through:",
+      "options": [
+        "Vacuum",
+        "Solids",
+        "Liquids",
+        "Gases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sound requires a material medium and cannot propagate in vacuum."
+    },
+    {
+      "qid": "Q42",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "pH of pure water at 25°C is:",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pure water is neutral and has pH 7 at 25°C."
+    },
+    {
+      "qid": "Q43",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Vitamin produced in skin by sunlight is:",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitamin D is synthesised in the skin on exposure to sunlight."
+    },
+    {
+      "qid": "Q44",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Planets revolve around the Sun due to:",
+      "options": [
+        "Gravitational force",
+        "Magnetic force",
+        "Electrostatic force",
+        "Nuclear force"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gravitational force provides the necessary centripetal force."
+    },
+    {
+      "qid": "Q45",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Which of the following is a noble gas?",
+      "options": [
+        "Argon",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Argon belongs to Group 18 (noble gases)."
+    },
+    {
+      "qid": "Q46",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Structural and functional unit of kidney is:",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Alveolus",
+        "Villus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nephron is the functional unit of the kidney."
+    },
+    {
+      "qid": "Q47",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Speed of light in vacuum is:",
+      "options": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10¹⁰ m/s",
+        "3 × 10⁵ m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed of light in vacuum is 3 × 10⁸ metres per second."
+    },
+    {
+      "qid": "Q48",
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Heating of carbonate ore in limited air is called:",
+      "options": [
+        "Calcination",
+        "Roasting",
+        "Smelting",
+        "Refining"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcination is the heating of carbonate ores in the absence or limited supply of air."
+    },
+    {
+      "qid": "Q49",
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which of the following is a communicable disease?",
+      "options": [
+        "Tuberculosis",
+        "Diabetes",
+        "Cancer",
+        "Hypertension"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tuberculosis is an infectious disease caused by bacteria."
+    },
+    {
+      "qid": "Q50",
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Instrument used to measure electric current is:",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Galvanometer",
+        "Ohmmeter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ammeter measures current and is connected in series."
+    },
+    {
+      "qid": "Q51",
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "A sum doubles itself in 8 years at simple interest. In how many years will it become four times?",
+      "options": [
+        "24 years",
+        "16 years",
+        "32 years",
+        "20 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = P in 8 years ⇒ R = 12.5%. For four times, SI = 3P. Time = (3×100)/12.5 = 24 years."
+    },
+    {
+      "qid": "Q52",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If the price of sugar increases by 25%, by what percent must consumption be reduced to keep expenditure the same?",
+      "options": [
+        "20%",
+        "25%",
+        "16⅔%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "New price = 125. Required consumption = 100/125 × 100 = 80. Reduction = 20%."
+    },
+    {
+      "qid": "Q53",
+      "subject": "Mathematics",
+      "chapter": "Ages",
+      "question": "The ratio of ages of A and B is 3:5. After 6 years the ratio becomes 2:3. Present age of A is:",
+      "options": [
+        "18 years",
+        "24 years",
+        "15 years",
+        "30 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let ages be 3x and 5x. (3x+6)/(5x+6)=2/3 ⇒ 9x+18=10x+12 ⇒ x=6. A = 18 years."
+    },
+    {
+      "qid": "Q54",
+      "subject": "Mathematics",
+      "chapter": "Time and Work",
+      "question": "A can finish a work in 12 days and B in 18 days. Working together for 4 days, what fraction of the work is left?",
+      "options": [
+        "4/9",
+        "5/9",
+        "1/3",
+        "2/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Together 1 day = 5/36. In 4 days = 20/36 = 5/9. Left = 4/9."
+    },
+    {
+      "qid": "Q55",
+      "subject": "Mathematics",
+      "chapter": "Trains",
+      "question": "A 120 m long train running at 54 km/h crosses a platform in 20 seconds. Length of the platform is:",
+      "options": [
+        "180 m",
+        "150 m",
+        "200 m",
+        "160 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 15 m/s. Distance covered = 300 m. Platform length = 300 − 120 = 180 m."
+    },
+    {
+      "qid": "Q56",
+      "subject": "Mathematics",
+      "chapter": "Profit and Loss",
+      "question": "An article is bought for ₹400 and sold at a loss of 10%. At what price should it have been sold to gain 10%?",
+      "options": [
+        "₹440",
+        "₹480",
+        "₹360",
+        "₹450"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Required SP = 400 × 110/100 = ₹440."
+    },
+    {
+      "qid": "Q57",
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "Average of 5 numbers is 28. If one number is excluded, the average becomes 25. The excluded number is:",
+      "options": [
+        "40",
+        "35",
+        "30",
+        "45"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum of 5 = 140. Sum of 4 = 100. Excluded number = 40."
+    },
+    {
+      "qid": "Q58",
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "If A:B = 2:3 and B:C = 4:5, then A:B:C equals:",
+      "options": [
+        "8:12:15",
+        "2:3:5",
+        "8:12:10",
+        "4:6:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B = 8:12, B:C = 12:15. Therefore A:B:C = 8:12:15."
+    },
+    {
+      "qid": "Q59",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": [
+        "4% decrease",
+        "4% increase",
+        "No change",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "100 → 120 → 96. Net decrease of 4%."
+    },
+    {
+      "qid": "Q60",
+      "subject": "Mathematics",
+      "chapter": "Speed",
+      "question": "A man walks at 5 km/h and runs at 10 km/h. He covers 30 km in 4 hours partly walking and partly running. Distance walked is:",
+      "options": [
+        "10 km",
+        "15 km",
+        "20 km",
+        "12 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let walking distance = x. x/5 + (30−x)/10 = 4 ⇒ 2x + 30 − x = 40 ⇒ x = 10 km."
+    },
+    {
+      "qid": "Q61",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then the value of x² + 1/x² is:",
+      "options": [
+        "7",
+        "9",
+        "5",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x² + 1/x² = (x + 1/x)² − 2 = 9 − 2 = 7."
+    },
+    {
+      "qid": "Q62",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Area of a circle is 154 cm². Its circumference is (π = 22/7):",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "88 cm",
+        "28 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr² = 154 ⇒ r = 7 cm. Circumference = 2πr = 44 cm."
+    },
+    {
+      "qid": "Q63",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube is 125 cm³. Its total surface area is:",
+      "options": [
+        "150 cm²",
+        "125 cm²",
+        "100 cm²",
+        "200 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Side = 5 cm. Surface area = 6 × 25 = 150 cm²."
+    },
+    {
+      "qid": "Q64",
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "LCM of 12, 18 and 24 is:",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12, 18 and 24 is 72."
+    },
+    {
+      "qid": "Q65",
+      "subject": "Mathematics",
+      "chapter": "HCF",
+      "question": "HCF of 36 and 84 is:",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF of 36 and 84 is 12."
+    },
+    {
+      "qid": "Q66",
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Simple interest on ₹8000 at 5% per annum for 3 years is:",
+      "options": [
+        "₹1200",
+        "₹1000",
+        "₹1500",
+        "₹800"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (8000 × 5 × 3)/100 = ₹1200."
+    },
+    {
+      "qid": "Q67",
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "question": "Compound interest on ₹5000 at 10% per annum for 2 years is:",
+      "options": [
+        "₹1050",
+        "₹1000",
+        "₹1100",
+        "₹1020"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CI = 5000 × (1.1² − 1) = 5000 × 0.21 = ₹1050."
+    },
+    {
+      "qid": "Q68",
+      "subject": "Mathematics",
+      "chapter": "Profit and Loss",
+      "question": "An article sold for ₹1200 gives a profit of 20%. Its cost price is:",
+      "options": [
+        "₹1000",
+        "₹960",
+        "₹1100",
+        "₹900"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CP = 1200 × 100/120 = ₹1000."
+    },
+    {
+      "qid": "Q69",
+      "subject": "Mathematics",
+      "chapter": "Partnership",
+      "question": "A invests ₹5000 and B invests ₹8000. After 6 months A invests ₹2000 more. Profit after one year is ₹6300. A’s share is:",
+      "options": [
+        "₹2700",
+        "₹2800",
+        "₹2500",
+        "₹3000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A’s capital-months = 72000, B’s = 96000. Ratio 3:4. A’s share = 3/7 × 6300 = ₹2700."
+    },
+    {
+      "qid": "Q70",
+      "subject": "Mathematics",
+      "chapter": "Alligation",
+      "question": "In what ratio must water be mixed with milk costing ₹20/litre to get a mixture worth ₹15/litre?",
+      "options": [
+        "1:3",
+        "3:1",
+        "1:2",
+        "2:1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By alligation, water : milk = (20−15) : (15−0) = 5:15 = 1:3."
+    },
+    {
+      "qid": "Q71",
+      "subject": "Mathematics",
+      "chapter": "Pipes",
+      "question": "A pipe fills a tank in 6 hours. With a leak it takes 8 hours. The leak alone can empty the tank in:",
+      "options": [
+        "24 hours",
+        "12 hours",
+        "18 hours",
+        "20 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/6 − 1/8 = 1/24. Leak empties the tank in 24 hours."
+    },
+    {
+      "qid": "Q72",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "60% of 40% of a number is 96. The number is:",
+      "options": [
+        "400",
+        "360",
+        "480",
+        "500"
+      ],
+      "correctAnswer": 1,
+      "explanation": "0.24 × number = 96 ⇒ number = 400."
+    },
+    {
+      "qid": "Q73",
+      "subject": "Mathematics",
+      "chapter": "Time and Work",
+      "question": "12 men complete a work in 18 days. After 6 days, 4 more men join. How many more days are needed to finish the work?",
+      "options": [
+        "9 days",
+        "8 days",
+        "10 days",
+        "12 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total work = 216 man-days. Done = 72. Remaining = 144. With 16 men, days = 9."
+    },
+    {
+      "qid": "Q74",
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If a + b = 10 and ab = 21, then a² + b² equals:",
+      "options": [
+        "58",
+        "100",
+        "42",
+        "79"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a² + b² = (a+b)² − 2ab = 100 − 42 = 58."
+    },
+    {
+      "qid": "Q75",
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 40, then 50% of that number is:",
+      "options": [
+        "100",
+        "80",
+        "120",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Number = 40 / 0.2 = 200. 50% of 200 = 100."
+    },
+    {
+      "qid": "Q76",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If MOTHER is coded as NPUIFS, how is FATHER coded?",
+      "options": [
+        "GBUIFS",
+        "GBUIFR",
+        "GBUIFS",
+        "GBUIF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter is increased by 1. FATHER → GBUIFS."
+    },
+    {
+      "qid": "Q77",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Next number in the series 2, 6, 12, 20, 30, ? is:",
+      "options": [
+        "42",
+        "40",
+        "36",
+        "44"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Differences increase by 2 each time: +4, +6, +8, +10, +12. Next = 42."
+    },
+    {
+      "qid": "Q78",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book : Author :: Painting : ?",
+      "options": [
+        "Artist",
+        "Canvas",
+        "Colour",
+        "Frame"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A book is created by an author; a painting is created by an artist."
+    },
+    {
+      "qid": "Q79",
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "Pointing to a man, a woman said, “His mother is the only daughter of my mother.” How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Daughter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The only daughter of the woman’s mother is the woman herself. Hence she is the man’s mother."
+    },
+    {
+      "qid": "Q80",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 5 km North, then 3 km East, then 5 km South. How far is he from the starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "0 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He is 3 km East of the starting point."
+    },
+    {
+      "qid": "Q81",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All dogs are animals. Some animals are cats. Conclusion: Some cats are animals.",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "Cannot be determined",
+        "Both follow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some animals are cats implies some cats are animals. The conclusion follows."
+    },
+    {
+      "qid": "Q82",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 3, 5, 7, 9, 11",
+      "options": [
+        "9",
+        "3",
+        "5",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "9 is not a prime number; the others are prime."
+    },
+    {
+      "qid": "Q83",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 15th from the left and B is 20th from the right. Number of students between A and B is:",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B’s position from left = 21. Students between 15 and 21 = 5."
+    },
+    {
+      "qid": "Q84",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 o’clock are the hands of a clock together?",
+      "options": [
+        "16 4/11 min past 3",
+        "15 min past 3",
+        "16 min past 3",
+        "15 4/11 min past 3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They coincide at (3 × 5) × 12/11 = 16 4/11 minutes past 3."
+    },
+    {
+      "qid": "Q85",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "15 August 1947 was a:",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 August 1947 fell on a Friday."
+    },
+    {
+      "qid": "Q86",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If DELHI is coded as EFMIJ, how is BOMBAY coded?",
+      "options": [
+        "CPNCBZ",
+        "CPNCBY",
+        "CQOCBZ",
+        "CPMCBZ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1. BOMBAY → CPNCBZ."
+    },
+    {
+      "qid": "Q87",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "Complete the series: AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "EW"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letter increases by 1, second decreases by 1. Next is EV."
+    },
+    {
+      "qid": "Q88",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Blackboard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A doctor works in a hospital; a teacher works in a school."
+    },
+    {
+      "qid": "Q89",
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "A is B’s sister. C is B’s mother. D is C’s father. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Sister",
+        "Grandmother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A is the granddaughter of D."
+    },
+    {
+      "qid": "Q90",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a code language, if ‘PEN’ is written as ‘QFO’, how is ‘INK’ written?",
+      "options": [
+        "JOL",
+        "JOM",
+        "HJM",
+        "JOL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1. INK → JOL."
+    },
+    {
+      "qid": "Q91",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Find the missing number: 5, 11, 23, 47, ?",
+      "options": [
+        "95",
+        "94",
+        "96",
+        "93"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: ×2 +1. 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95."
+    },
+    {
+      "qid": "Q92",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "If South-East becomes North, North-East becomes West, then West becomes:",
+      "options": [
+        "South-East",
+        "North-East",
+        "South-West",
+        "North-West"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The directions have been rotated 135° anti-clockwise. West becomes South-East."
+    },
+    {
+      "qid": "Q93",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: Square, Circle, Triangle, Rectangle",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Circle has no sides; the others are polygons."
+    },
+    {
+      "qid": "Q94",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "Ravi is 7th from the left and 15th from the right in a row. How many students are there in the row?",
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total = 7 + 15 − 1 = 21."
+    },
+    {
+      "qid": "Q95",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If ‘CAT’ is coded as ‘3120’, how is ‘DOG’ coded?",
+      "options": [
+        "4157",
+        "4156",
+        "5147",
+        "4158"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C=3, A=1, T=20. D=4, O=15, G=7. So 4157."
+    },
+    {
+      "qid": "Q96",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Flower : Bud :: Plant : ?",
+      "options": [
+        "Seed",
+        "Fruit",
+        "Leaf",
+        "Root"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A flower develops from a bud; a plant develops from a seed."
+    },
+    {
+      "qid": "Q97",
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "If A is the son of B, B is the daughter of C, and C is the wife of D, how is D related to A?",
+      "options": [
+        "Grandfather",
+        "Father",
+        "Uncle",
+        "Brother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D is the husband of C, who is the mother of B. Hence D is the maternal grandfather of A."
+    },
+    {
+      "qid": "Q98",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Next term in the series 1, 4, 9, 16, 25, ?",
+      "options": [
+        "36",
+        "35",
+        "30",
+        "49"
+      ],
+      "correctAnswer": 1,
+      "explanation": "These are squares of natural numbers: 1², 2², 3², 4², 5², 6² = 36."
+    },
+    {
+      "qid": "Q99",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person starts from point A, walks 10 m East, then 10 m North, then 10 m West. How far and in which direction is he from A?",
+      "options": [
+        "10 m North",
+        "10 m East",
+        "10 m West",
+        "0 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He is 10 m North of the starting point."
+    },
+    {
+      "qid": "Q100",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If in a certain language ‘COMPUTER’ is coded as ‘RFUVQNPC’, how is ‘MEDICINE’ coded?",
+      "options": [
+        "EOJDJEFM",
+        "EOJDJEFM",
+        "EOJDJFM",
+        "EOJDEJFM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word is divided into two halves and each half is reversed. MEDICINE → ENICIDEM → reverse halves give EOJDJEFM."
+    }
+  ]
 }
