@@ -1,0 +1,13 @@
+{
+  "testId": "nda_full_length_mock_17",
+  "exam": "NDA",
+  "testType": "fullLength",
+  "title": "NDA Full Length Mock Test 17 (Hard Level)",
+  "description": "Full length mock test for NDA covering Mathematics (40), English (20) and General Knowledge (40) at Hard Level.",
+  "durationMinutes": 120,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2.5,
+  "negativeMarks": 0.83,
+  "instructions": ["This is a full length mock test for NDA.", "Total 100 questions: Mathematics 40, English 20, General Knowledge 40.", "Each question carries 2.5 marks.", "Negative marking: 0.83 marks per wrong answer.", "Duration: 120 minutes.", "Hard Level difficulty."],
+  "questions": [{"qid": 1, "subject": "Mathematics", "chapter": "Algebra", "question": "Sample", "options": ["A", "B", "C", "D"], "correctAnswer": 1, "explanation": "Sample"}]
+}
