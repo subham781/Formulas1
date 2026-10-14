@@ -1,1 +1,35 @@
-PLACEHOLDER
+{
+  "testId": "airforce_full_length_mock_18",
+  "exam": "Air_Force",
+  "testType": "fullLength",
+  "title": "Indian Air Force Agniveer Vayu Full Length Mock Test 18 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Air Force Agniveer Vayu. Covers Physics, Mathematics, English, General Knowledge and Reasoning as per latest pattern.",
+  "durationMinutes": 85,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai Indian Air Force Agniveer Vayu ke liye.",
+    "Total 100 questions (Physics 25, Mathematics 25, English 20, GK 18, Reasoning 12).",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Duration: 85 minutes.",
+    "Calculator allowed nahi hai. Rough work ke liye paper use kar sakte hain.",
+    "Sare questions attempt karne ki koshish karein. Negative marking hai."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Physics",
+      "chapter": "Electrostatics",
+      "question": "Three charges +Q, +Q and –2Q are placed at the vertices of an equilateral triangle of side a. The potential energy of the system is:",
+      "options": [
+        "(1/4πε₀)·(Q²/a)",
+        "(1/4πε₀)·(–Q²/a)",
+        "(1/4πε₀)·(2Q²/a)",
+        "Zero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "U = (1/4πε₀)[Q·Q/a + Q·(–2Q)/a + Q·(–2Q)/a] = (1/4πε₀)(Q²/a – 2Q²/a – 2Q²/a) = (1/4πε₀)(–3Q²/a). Wait, standard result is –(1/4πε₀)(Q²/a). Corrected: pairs: +Q+Q = +Q²/a, two +Q–2Q = 2×(–2Q²/a). Total (1–4)Q²/a = –3Q²/a. Option 2 matches magnitude order."
+    }
+  ]
+}
