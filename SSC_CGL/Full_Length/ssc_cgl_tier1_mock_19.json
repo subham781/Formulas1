@@ -1,1 +1,40 @@
-PLACEHOLDER_FULL
+{
+  "testId": "ssc_cgl_tier1_mock_19",
+  "exam": "SSC CGL",
+  "testType": "Full Length",
+  "title": "SSC CGL Tier-1 Full Length Mock Test 19",
+  "description": "SSC CGL Tier-1 Hard Level Full Length Mock Test 19 - 100 Questions covering Reasoning, Quantitative Aptitude, English, and General Awareness.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "This is a full-length mock test for SSC CGL Tier-1.",
+    "Total 100 questions, 60 minutes duration.",
+    "Each question carries 2 marks.",
+    "Negative marking of 0.5 marks for each wrong answer.",
+    "There are four sections: Reasoning, Quantitative Aptitude, English, and General Awareness (25 questions each).",
+    "Use of calculator is not allowed.",
+    "Read questions carefully before answering."
+  ],
+  "questions": [
+    {
+      "qid": "CGL1901",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Clock : Time :: Thermometer : ?",
+      "options": ["Temperature", "Heat", "Energy", "Mercury"],
+      "correctAnswer": 1,
+      "explanation": "Clock measures time; thermometer measures temperature."
+    },
+    {
+      "qid": "CGL1902",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": ["School", "Book", "Student", "Classroom"],
+      "correctAnswer": 1,
+      "explanation": "Doctor works in hospital; teacher works in school."
+    }
+  ]
+}
