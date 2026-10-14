@@ -1,1 +1,49 @@
-PLACEHOLDER_TO_BE_REPLACED
+{
+  "testId": "airforce_full_length_mock_17",
+  "exam": "Air_Force",
+  "testType": "fullLength",
+  "title": "Indian Air Force Agniveer Vayu Full Length Mock Test 17 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Air Force Agniveer Vayu. Covers Physics, Mathematics, English, General Knowledge and Reasoning as per latest pattern.",
+  "durationMinutes": 85,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai Indian Air Force Agniveer Vayu ke liye.",
+    "Total 100 questions (Physics 25, Mathematics 25, English 20, GK 18, Reasoning 12).",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Duration: 85 minutes.",
+    "Calculator allowed nahi hai. Rough work ke liye paper use kar sakte hain.",
+    "Sare questions attempt karne ki koshish karein. Negative marking hai."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Physics",
+      "chapter": "Electrostatics",
+      "question": "Two point charges +q and +4q are separated by a distance r. A third charge Q is placed so that the system is in equilibrium. The position and value of Q is:",
+      "options": [
+        "Between them, Q = -4q/9",
+        "Outside, closer to +q, Q = -4q/9",
+        "Outside, closer to +4q, Q = -4q/9",
+        "Between them, Q = -q"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For equilibrium of all charges, Q must be negative and placed between them. Distance from +q is r/3. Using force balance, Q = -4q/9."
+    },
+    {
+      "qid": 2,
+      "subject": "Physics",
+      "chapter": "Current Electricity",
+      "question": "A battery of emf 12 V and internal resistance 2 Ω is connected to a resistor of 4 Ω. The terminal voltage is:",
+      "options": [
+        "8 V",
+        "10 V",
+        "6 V",
+        "12 V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "I = E/(R+r) = 12/(4+2) = 2 A. V = IR = 2 × 4 = 8 V."
+    }
+  ]
+}
