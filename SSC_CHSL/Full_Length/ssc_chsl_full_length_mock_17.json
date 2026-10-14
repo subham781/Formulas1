@@ -1,1 +1,1420 @@
-{ "testId": "ssc_chsl_full_length_mock_17", "exam": "SSC CHSL", "testType": "fullLength", "title": "SSC CHSL Tier-1 Full Length Mock Test 17 (Hard Level)", "description": "Hard Level Full Length Mock Test for SSC CHSL Tier-1 as per latest pattern.", "durationMinutes": 60, "totalQuestions": 100, "marksPerQuestion": 2, "negativeMarks": 0.5, "instructions": ["Yeh Hard Level Full Length Mock Test hai.", "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.", "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.", "Time: 60 minutes.", "SSC CHSL Tier-1 latest pattern ke anusar."], "questions": [ { "qid": "CHSL1701", "subject": "Reasoning", "chapter": "Analogy", "question": "Book : Author :: Painting : ?", "options": ["Artist", "Canvas", "Colour", "Museum"], "correctAnswer": 1, "explanation": "A book is created by an author; a painting is created by an artist." } ] }
+{
+  "testId": "ssc_chsl_full_length_mock_17",
+  "exam": "SSC CHSL",
+  "testType": "fullLength",
+  "title": "SSC CHSL Tier-1 Full Length Mock Test 17 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC CHSL Tier-1 as per latest pattern.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions: Reasoning 25, General Awareness 25, Quantitative Aptitude 25, English 25.",
+    "Har question 2 marks ka hai. Galat jawab par 0.5 marks katenge.",
+    "Time: 60 minutes.",
+    "SSC CHSL Tier-1 latest pattern ke anusar."
+  ],
+  "questions": [
+    {
+      "qid": "CHSL1701",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book : Author :: Painting : ?",
+      "options": [
+        "Artist",
+        "Canvas",
+        "Colour",
+        "Museum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A book is created by an author; a painting is created by an artist."
+    },
+    {
+      "qid": "CHSL1702",
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Find the odd one out: Apple, Mango, Orange, Potato",
+      "options": [
+        "Apple",
+        "Mango",
+        "Orange",
+        "Potato"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Potato is a vegetable; others are fruits."
+    },
+    {
+      "qid": "CHSL1703",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Differences: 4, 6, 8, 10, next difference 12 → 30+12=42."
+    },
+    {
+      "qid": "CHSL1704",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If CAT is coded as 3120, how is DOG coded?",
+      "options": [
+        "4157",
+        "4158",
+        "4167",
+        "4178"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C=3, A=1, T=20 → 3120; D=4, O=15, G=7 → 4157."
+    },
+    {
+      "qid": "CHSL1705",
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the man related to the woman?",
+      "options": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Uncle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Only daughter of woman's mother is the woman herself, so the man is her son."
+    },
+    {
+      "qid": "CHSL1706",
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "A man walks 5 km north, then 3 km east, then 5 km south. How far is he from the starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "0 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He ends up 3 km east of the starting point."
+    },
+    {
+      "qid": "CHSL1707",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All pens are books. Some books are pencils. Conclusions: I. Some pens are pencils. II. All pencils are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neither conclusion follows definitively from the given statements."
+    },
+    {
+      "qid": "CHSL1708",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "In a row of 40 students, A is 15th from the left and B is 20th from the right. How many students are between A and B?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B is 20th from right means 21st from left (40-20+1=21). Students between 15 and 21: 5."
+    },
+    {
+      "qid": "CHSL1709",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Pen : Write :: Knife : ?",
+      "options": [
+        "Cut",
+        "Sharp",
+        "Blade",
+        "Kitchen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write; knife is used to cut."
+    },
+    {
+      "qid": "CHSL1710",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Find the missing number: 5, 11, 23, 47, ?",
+      "options": [
+        "95",
+        "94",
+        "96",
+        "93"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: ×2 +1 → 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95."
+    },
+    {
+      "qid": "CHSL1711",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a certain code, TREE is written as 20-18-5-5. How is LEAF written?",
+      "options": [
+        "12-5-1-6",
+        "12-5-1-5",
+        "11-5-1-6",
+        "12-4-1-6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Positions: T=20, R=18, E=5, E=5; L=12, E=5, A=1, F=6."
+    },
+    {
+      "qid": "CHSL1712",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If the word 'MIRROR' is seen in a mirror, which of the following would be its reflection?",
+      "options": [
+        "RORRIM",
+        "RORRIM",
+        "MIRROЯ",
+        "RORRIM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror image reverses the order of letters."
+    },
+    {
+      "qid": "CHSL1713",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 1st January 2025 is a Wednesday, what day will 1st January 2026 be?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Tuesday"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2025 is not a leap year, so 365 days = 52 weeks +1 day. Next year starts on Thursday."
+    },
+    {
+      "qid": "CHSL1714",
+      "subject": "Reasoning",
+      "chapter": "Seating Arrangement",
+      "question": "Five friends A, B, C, D, E are sitting in a row. A is to the left of B, C is to the right of B, D is between A and B, E is at the extreme right. Who is at the extreme left?",
+      "options": [
+        "A",
+        "D",
+        "C",
+        "B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Order: A, D, B, C, E. Extreme left is A."
+    },
+    {
+      "qid": "CHSL1715",
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Find the odd one: 16, 25, 36, 49, 64, 81",
+      "options": [
+        "16",
+        "25",
+        "36",
+        "All are squares"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All are perfect squares."
+    },
+    {
+      "qid": "CHSL1716",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doctor works in hospital; teacher works in school."
+    },
+    {
+      "qid": "CHSL1717",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "What is the next term: AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "EX"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letter +1, second letter -1: E, V."
+    },
+    {
+      "qid": "CHSL1718",
+      "subject": "Reasoning",
+      "chapter": "Blood Relations",
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "options": [
+        "Granddaughter",
+        "Daughter",
+        "Grandmother",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A is daughter of C, C is daughter of D, so A is granddaughter of D."
+    },
+    {
+      "qid": "CHSL1719",
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person starts from point P, walks 10 m south, then 15 m east, then 10 m north. How far and in which direction is he from P?",
+      "options": [
+        "15 m East",
+        "15 m West",
+        "10 m East",
+        "25 m East"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net displacement is 15 m east."
+    },
+    {
+      "qid": "CHSL1720",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "If in a code language, 'APPLE' is written as 'ELPPA', then 'MANGO' will be written as?",
+      "options": [
+        "OGNAM",
+        "OGNAM",
+        "MANGOO",
+        "GONAM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Letters are reversed."
+    },
+    {
+      "qid": "CHSL1721",
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Which of the following is different from the others?",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Circle is curved; others are polygons with straight sides."
+    },
+    {
+      "qid": "CHSL1722",
+      "subject": "Reasoning",
+      "chapter": "Number Analogy",
+      "question": "8 : 64 :: 10 : ?",
+      "options": [
+        "100",
+        "80",
+        "120",
+        "90"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8² = 64; 10² = 100."
+    },
+    {
+      "qid": "CHSL1723",
+      "subject": "Reasoning",
+      "chapter": "Logical Venn",
+      "question": "Which diagram best represents the relationship between Doctors, Males, and Females?",
+      "options": [
+        "Three intersecting circles",
+        "Doctors intersecting both Males and Females separately",
+        "One circle inside another",
+        "Two separate circles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Doctors can be male or female, so Doctors circle intersects both."
+    },
+    {
+      "qid": "CHSL1724",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a class of 50 students, Rohan ranks 15th from the top. What is his rank from the bottom?",
+      "options": [
+        "36th",
+        "35th",
+        "34th",
+        "37th"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rank from bottom = 50 - 15 + 1 = 36."
+    },
+    {
+      "qid": "CHSL1725",
+      "subject": "Reasoning",
+      "chapter": "Statement & Conclusion",
+      "question": "Statement: All roses are flowers. Some flowers fade quickly. Conclusion: Some roses fade quickly.",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "Probably follows",
+        "Data inadequate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The conclusion does not necessarily follow."
+    },
+    {
+      "qid": "CHSL1726",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the founder of the Maurya Empire?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire with the help of Chanakya."
+    },
+    {
+      "qid": "CHSL1727",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ganga is the longest river in India."
+    },
+    {
+      "qid": "CHSL1728",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "options": [
+        "Mahatma Gandhi",
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution."
+    },
+    {
+      "qid": "CHSL1729",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the chemical formula of water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H2O."
+    },
+    {
+      "qid": "CHSL1730",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which organization regulates the stock market in India?",
+      "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "NABARD"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SEBI (Securities and Exchange Board of India) regulates the stock market."
+    },
+    {
+      "qid": "CHSL1731",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757."
+    },
+    {
+      "qid": "CHSL1732",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Antarctica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Antarctica is the largest desert by area (cold desert)."
+    },
+    {
+      "qid": "CHSL1733",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution currently?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "There are 6 fundamental rights currently."
+    },
+    {
+      "qid": "CHSL1734",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mars is called the Red Planet due to iron oxide on its surface."
+    },
+    {
+      "qid": "CHSL1735",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Who is the current President of India (as of 2025)?",
+      "options": [
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Droupadi Murmu is the President of India."
+    },
+    {
+      "qid": "CHSL1736",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India'."
+    },
+    {
+      "qid": "CHSL1737",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tropic of Cancer passes through 8 Indian states."
+    },
+    {
+      "qid": "CHSL1738",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Article 21 of the Indian Constitution deals with?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom of Speech",
+        "Right to Life and Personal Liberty",
+        "Right to Education"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 21 guarantees the Right to Life and Personal Liberty."
+    },
+    {
+      "qid": "CHSL1739",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ampere is the SI unit of electric current."
+    },
+    {
+      "qid": "CHSL1740",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Which is the largest public sector bank in India?",
+      "options": [
+        "SBI",
+        "PNB",
+        "Bank of Baroda",
+        "Canara Bank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "State Bank of India (SBI) is the largest public sector bank."
+    },
+    {
+      "qid": "CHSL1741",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1942",
+        "1930",
+        "1947",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement was launched in 1942."
+    },
+    {
+      "qid": "CHSL1742",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which Indian state has the longest coastline?",
+      "options": [
+        "Gujarat",
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gujarat has the longest coastline in India."
+    },
+    {
+      "qid": "CHSL1743",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who appoints the Chief Justice of India?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Justice of Supreme Court",
+        "Law Minister"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The President of India appoints the Chief Justice of India."
+    },
+    {
+      "qid": "CHSL1744",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere."
+    },
+    {
+      "qid": "CHSL1745",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Who was the first Indian to win the Nobel Prize?",
+      "options": [
+        "C.V. Raman",
+        "Rabindranath Tagore",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913."
+    },
+    {
+      "qid": "CHSL1746",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The capital of the Vijayanagara Empire was?",
+      "options": [
+        "Hampi",
+        "Mysore",
+        "Bijapur",
+        "Golconda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hampi was the capital of the Vijayanagara Empire."
+    },
+    {
+      "qid": "CHSL1747",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the highest peak in India?",
+      "options": [
+        "Kanchenjunga",
+        "Nanda Devi",
+        "Mount Everest",
+        "K2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kanchenjunga is the highest peak in India."
+    },
+    {
+      "qid": "CHSL1748",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The concept of Fundamental Duties was borrowed from which country's constitution?",
+      "options": [
+        "USA",
+        "UK",
+        "USSR",
+        "Ireland"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fundamental Duties were borrowed from the Constitution of the USSR."
+    },
+    {
+      "qid": "CHSL1749",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which vitamin is also known as Ascorbic Acid?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitamin C is known as Ascorbic Acid."
+    },
+    {
+      "qid": "CHSL1750",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "Who won the men's singles title at Wimbledon 2024?",
+      "options": [
+        "Novak Djokovic",
+        "Carlos Alcaraz",
+        "Jannik Sinner",
+        "Daniil Medvedev"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Carlos Alcaraz won the Wimbledon men's singles in 2024."
+    },
+    {
+      "qid": "CHSL1751",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 50, what is the number?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "150"
+      ],
+      "correctAnswer": 2,
+      "explanation": "20% of x = 50 → x = 50 × 100/20 = 250."
+    },
+    {
+      "qid": "CHSL1752",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit and Loss",
+      "question": "A shopkeeper sells an article for ₹540 at a profit of 20%. What is the cost price?",
+      "options": [
+        "₹450",
+        "₹500",
+        "₹480",
+        "₹420"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 120% of CP → CP = 540 × 100/120 = 450."
+    },
+    {
+      "qid": "CHSL1753",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time and Work",
+      "question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A's 1 day work = 1/10, B's = 1/15. Together = 1/10 + 1/15 = 1/6. So 6 days."
+    },
+    {
+      "qid": "CHSL1754",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "Find the simple interest on ₹5000 at 8% per annum for 2 years.",
+      "options": [
+        "₹800",
+        "₹700",
+        "₹900",
+        "₹600"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (P×R×T)/100 = (5000×8×2)/100 = 800."
+    },
+    {
+      "qid": "CHSL1755",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "The ratio of ages of A and B is 3:5. If B is 20 years old, what is A's age?",
+      "options": [
+        "12",
+        "15",
+        "10",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5 parts = 20 → 1 part = 4 → 3 parts = 12."
+    },
+    {
+      "qid": "CHSL1756",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+      "options": [
+        "28",
+        "30",
+        "26",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total of 5 = 100. Total of 4 = 72. Excluded = 100-72=28."
+    },
+    {
+      "qid": "CHSL1757",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed, Time, Distance",
+      "question": "A train travels 120 km in 2 hours. What is its speed in km/h?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speed = Distance/Time = 120/2 = 60 km/h."
+    },
+    {
+      "qid": "CHSL1758",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Compound Interest",
+      "question": "What is the compound interest on ₹1000 for 2 years at 10% per annum compounded annually?",
+      "options": [
+        "₹210",
+        "₹200",
+        "₹220",
+        "₹190"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amount = 1000×(1.1)² = 1210. CI = 1210-1000=210."
+    },
+    {
+      "qid": "CHSL1759",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, then x² + 1/x² = ?",
+      "options": [
+        "7",
+        "9",
+        "5",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)² = x² + 2 + 1/x² → 9 = x² + 1/x² + 2 → x² + 1/x² = 7."
+    },
+    {
+      "qid": "CHSL1760",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "The sum of angles in a triangle is?",
+      "options": [
+        "90°",
+        "180°",
+        "360°",
+        "270°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum of interior angles of a triangle is 180°."
+    },
+    {
+      "qid": "CHSL1761",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "What is the area of a circle with radius 7 cm? (Use π=22/7)",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "164 cm²",
+        "154 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = πr² = 22/7 × 49 = 154 cm²."
+    },
+    {
+      "qid": "CHSL1762",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "What is the LCM of 12 and 18?",
+      "options": [
+        "36",
+        "72",
+        "24",
+        "48"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12 and 18 is 36."
+    },
+    {
+      "qid": "CHSL1763",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Net effect = 20 - 20 - (20×20)/100 = -4%. Decrease of 4%."
+    },
+    {
+      "qid": "CHSL1764",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit and Loss",
+      "question": "An article is bought for ₹800 and sold for ₹1000. What is the profit percentage?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Profit = 200. Profit% = 200/800 × 100 = 25%."
+    },
+    {
+      "qid": "CHSL1765",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time and Work",
+      "question": "If 6 men can complete a work in 8 days, how many men are needed to complete it in 4 days?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "6×8 = x×4 → x=12."
+    },
+    {
+      "qid": "CHSL1766",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "At what rate of interest will ₹2000 become ₹2400 in 2 years at simple interest?",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI=400. Rate = (400×100)/(2000×2)=10%."
+    },
+    {
+      "qid": "CHSL1767",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio and Proportion",
+      "question": "If a:b = 2:3 and b:c = 4:5, then a:c = ?",
+      "options": [
+        "8:15",
+        "2:5",
+        "8:9",
+        "4:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a/b=2/3, b/c=4/5 → a/c = (2/3)×(4/5)=8/15."
+    },
+    {
+      "qid": "CHSL1768",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "The average of first 10 natural numbers is?",
+      "options": [
+        "5",
+        "5.5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = 55. Average = 55/10 = 5.5."
+    },
+    {
+      "qid": "CHSL1769",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed",
+      "question": "A car covers 150 km in 3 hours. What is its average speed?",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "45 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speed = 150/3 = 50 km/h."
+    },
+    {
+      "qid": "CHSL1770",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "Solve for x: 2x + 5 = 15",
+      "options": [
+        "5",
+        "10",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x=10 → x=5."
+    },
+    {
+      "qid": "CHSL1771",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "In a right-angled triangle, if the two legs are 3 cm and 4 cm, the hypotenuse is?",
+      "options": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By Pythagoras: √(9+16)=√25=5 cm."
+    },
+    {
+      "qid": "CHSL1772",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "The volume of a cube with side 3 cm is?",
+      "options": [
+        "9 cm³",
+        "27 cm³",
+        "18 cm³",
+        "12 cm³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Volume = side³ = 27 cm³."
+    },
+    {
+      "qid": "CHSL1773",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "What is the HCF of 24 and 36?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 24 and 36 is 12."
+    },
+    {
+      "qid": "CHSL1774",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If the price of a commodity increases by 25%, by what percentage should consumption be reduced to keep expenditure same?",
+      "options": [
+        "20%",
+        "25%",
+        "16%",
+        "30%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reduction = 25/125 × 100 = 20%."
+    },
+    {
+      "qid": "CHSL1775",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Data Interpretation",
+      "question": "If in a pie chart, a sector represents 90°, what percentage of the total does it represent?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "90/360 × 100 = 25%."
+    },
+    {
+      "qid": "CHSL1776",
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the synonym of 'Abundant':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abundant means plentiful."
+    },
+    {
+      "qid": "CHSL1777",
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the antonym of 'Optimistic':",
+      "options": [
+        "Hopeful",
+        "Pessimistic",
+        "Confident",
+        "Positive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of optimistic is pessimistic."
+    },
+    {
+      "qid": "CHSL1778",
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misanthrope",
+        "Polyglot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": "CHSL1779",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does the idiom 'Break the ice' mean?",
+      "options": [
+        "To start a conversation",
+        "To break something",
+        "To freeze",
+        "To stop talking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Break the ice means to initiate a conversation in a social setting."
+    },
+    {
+      "qid": "CHSL1780",
+      "subject": "English",
+      "chapter": "Error Detection",
+      "question": "Identify the error: 'He don't like to play cricket.'",
+      "options": [
+        "He",
+        "don't",
+        "like",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Subject 'He' takes 'doesn't', not 'don't'."
+    },
+    {
+      "qid": "CHSL1781",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "She is _____ honest woman.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Use 'an' before words starting with a vowel sound."
+    },
+    {
+      "qid": "CHSL1782",
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Brief':",
+      "options": [
+        "Long",
+        "Short",
+        "Detailed",
+        "Lengthy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brief means short."
+    },
+    {
+      "qid": "CHSL1783",
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Ancient':",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Traditional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of ancient is modern."
+    },
+    {
+      "qid": "CHSL1784",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Recieve",
+        "Receive",
+        "Receeve",
+        "Receve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct spelling is 'Receive'."
+    },
+    {
+      "qid": "CHSL1785",
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Change to passive: 'They are watching a movie.'",
+      "options": [
+        "A movie is being watched by them.",
+        "A movie was watched by them.",
+        "A movie is watched by them.",
+        "A movie has been watched by them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive: is being + past participle."
+    },
+    {
+      "qid": "CHSL1786",
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "Change to indirect: He said, 'I am busy.'",
+      "options": [
+        "He said that he is busy.",
+        "He said that he was busy.",
+        "He said that I am busy.",
+        "He says that he was busy."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present changes to past in indirect speech."
+    },
+    {
+      "qid": "CHSL1787",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "What is the meaning of 'Eloquent'?",
+      "options": [
+        "Silent",
+        "Fluent in speech",
+        "Rude",
+        "Shy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eloquent means fluent and persuasive in speech."
+    },
+    {
+      "qid": "CHSL1788",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "The idiom 'A piece of cake' means:",
+      "options": [
+        "Very difficult",
+        "Very easy",
+        "A dessert",
+        "Something expensive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A piece of cake means something very easy."
+    },
+    {
+      "qid": "CHSL1789",
+      "subject": "English",
+      "chapter": "Error Detection",
+      "question": "Identify the error: 'She have completed her work.'",
+      "options": [
+        "She",
+        "have",
+        "completed",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Use 'has' with 'she'."
+    },
+    {
+      "qid": "CHSL1790",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who cannot read or write is called:",
+      "options": [
+        "Illiterate",
+        "Literate",
+        "Educated",
+        "Scholar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Illiterate means unable to read or write."
+    },
+    {
+      "qid": "CHSL1791",
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'Courageous':",
+      "options": [
+        "Cowardly",
+        "Brave",
+        "Timid",
+        "Fearful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Courageous means brave."
+    },
+    {
+      "qid": "CHSL1792",
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'Victory':",
+      "options": [
+        "Success",
+        "Defeat",
+        "Win",
+        "Triumph"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of victory is defeat."
+    },
+    {
+      "qid": "CHSL1793",
+      "subject": "English",
+      "chapter": "Fill in blanks",
+      "question": "Neither of the boys _____ present.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neither takes singular verb 'is'."
+    },
+    {
+      "qid": "CHSL1794",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correct spelling:",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Accommadate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct spelling is Accommodate."
+    },
+    {
+      "qid": "CHSL1795",
+      "subject": "English",
+      "chapter": "Grammar",
+      "question": "Which is the correct sentence?",
+      "options": [
+        "He is senior than me.",
+        "He is senior to me.",
+        "He is senior from me.",
+        "He is senior of me."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Use 'senior to', not 'senior than'."
+    },
+    {
+      "qid": "CHSL1796",
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does 'Hit the nail on the head' mean?",
+      "options": [
+        "To miss the point",
+        "To be exactly right",
+        "To hurt someone",
+        "To work hard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to describe exactly what is causing a situation or problem."
+    },
+    {
+      "qid": "CHSL1797",
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Meaning of 'Meticulous':",
+      "options": [
+        "Careless",
+        "Very careful and precise",
+        "Lazy",
+        "Quick"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Meticulous means showing great attention to detail."
+    },
+    {
+      "qid": "CHSL1798",
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Passive of 'Who wrote this book?'",
+      "options": [
+        "By whom was this book written?",
+        "Who was this book written?",
+        "By who this book was written?",
+        "This book was written by who?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct passive form is 'By whom was this book written?'"
+    },
+    {
+      "qid": "CHSL1799",
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "Choose the correct word: The sun _____ in the east.",
+      "options": [
+        "rise",
+        "rises",
+        "rising",
+        "rose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Habitual fact uses simple present: rises."
+    },
+    {
+      "qid": "CHSL1800",
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A government by the people is called:",
+      "options": [
+        "Monarchy",
+        "Democracy",
+        "Autocracy",
+        "Oligarchy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Democracy is a government by the people."
+    }
+  ]
+}
