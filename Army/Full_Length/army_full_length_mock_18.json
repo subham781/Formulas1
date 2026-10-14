@@ -1,1 +1,1420 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "testId": "army_full_length_mock_18",
+  "exam": "Army",
+  "testType": "fullLength",
+  "title": "Indian Army Agniveer GD Full Length Mock Test 18 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Army Agniveer GD. Total 100 questions covering General Knowledge, General Science, Mathematics and Reasoning.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (General Knowledge 25, General Science 25, Mathematics 25, Reasoning 25).",
+    "Har question 1 mark ka hai. Galat jawab par 0.25 marks katenge.",
+    "Time: 60 minutes.",
+    "Official CEE GD pattern 50 questions ka hota hai; yeh extended full-length practice set hai."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Plassey was fought on 23 June 1757 between the British East India Company under Robert Clive and the Nawab of Bengal Siraj-ud-Daulah."
+    },
+    {
+      "qid": 2,
+      "subject": "General Knowledge",
+      "chapter": "Indian Polity",
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution as he was the chairman of the Drafting Committee."
+    },
+    {
+      "qid": 3,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Godavari",
+        "Yamuna",
+        "Ganga",
+        "Brahmaputra"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ganga is the longest river in India with a length of about 2525 km."
+    },
+    {
+      "qid": 4,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on 8 August 1942."
+    },
+    {
+      "qid": 5,
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "Who is the current Chief of the Army Staff (COAS) of India? (as of 2026)",
+      "options": [
+        "General Manoj Pande",
+        "General Anil Chauhan",
+        "General Upendra Dwivedi",
+        "General Bipin Rawat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "General Upendra Dwivedi is the Chief of the Army Staff of India (assumed office in 2024)."
+    },
+    {
+      "qid": 6,
+      "subject": "General Knowledge",
+      "chapter": "Indian Polity",
+      "question": "The President of India is elected by which system?",
+      "options": [
+        "Direct election",
+        "Proportional representation",
+        "Single transferable vote",
+        "First past the post"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The President is elected by an electoral college through the system of proportional representation by means of the single transferable vote."
+    },
+    {
+      "qid": 7,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which state in India has the longest coastline?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gujarat has the longest coastline among Indian states, approximately 1600 km."
+    },
+    {
+      "qid": 8,
+      "subject": "General Knowledge",
+      "chapter": "Science & Tech",
+      "question": "ISRO was established in which year?",
+      "options": [
+        "1962",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Space Research Organisation (ISRO) was established on 15 August 1969."
+    },
+    {
+      "qid": 9,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who founded the Indian National Army (INA)?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mohan Singh",
+        "Rash Behari Bose",
+        "Lala Lajpat Rai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The INA was first formed by Captain Mohan Singh in 1942; later revived by Subhas Chandra Bose."
+    },
+    {
+      "qid": 10,
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "Who was the first Indian to win the Nobel Prize?",
+      "options": [
+        "C.V. Raman",
+        "Rabindranath Tagore",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rabindranath Tagore was the first Indian to win the Nobel Prize in Literature in 1913."
+    },
+    {
+      "qid": 11,
+      "subject": "General Knowledge",
+      "chapter": "Indian Polity",
+      "question": "The Right to Education is a Fundamental Right under which Article?",
+      "options": [
+        "Article 21A",
+        "Article 19",
+        "Article 32",
+        "Article 14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 21A provides for free and compulsory education to children between 6 and 14 years."
+    },
+    {
+      "qid": 12,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+    },
+    {
+      "qid": 13,
+      "subject": "General Knowledge",
+      "chapter": "Sports",
+      "question": "Who is known as the Flying Sikh?",
+      "options": [
+        "Milkha Singh",
+        "P.T. Usha",
+        "Sachin Tendulkar",
+        "Dhyan Chand"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milkha Singh is known as the Flying Sikh for his achievements in athletics."
+    },
+    {
+      "qid": 14,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "The First War of Independence (1857) is also known as?",
+      "options": [
+        "Sepoy Mutiny",
+        "Quit India",
+        "Non-Cooperation",
+        "Civil Disobedience"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Revolt of 1857 is also known as the Sepoy Mutiny or the First War of Indian Independence."
+    },
+    {
+      "qid": 15,
+      "subject": "General Knowledge",
+      "chapter": "Economy",
+      "question": "Who is known as the Father of the Green Revolution in India?",
+      "options": [
+        "M.S. Swaminathan",
+        "Norman Borlaug",
+        "Verghese Kurien",
+        "C. Subramaniam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "M.S. Swaminathan is known as the Father of the Green Revolution in India."
+    },
+    {
+      "qid": 16,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "Which is the highest gallantry award in India?",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Mahavir Chakra",
+        "Vir Chakra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Param Vir Chakra is the highest wartime gallantry award in India."
+    },
+    {
+      "qid": 17,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which is the largest desert in India?",
+      "options": [
+        "Thar",
+        "Rann of Kutch",
+        "Ladakh",
+        "Sahara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Thar Desert (Great Indian Desert) is the largest desert in India."
+    },
+    {
+      "qid": 18,
+      "subject": "General Knowledge",
+      "chapter": "Indian Polity",
+      "question": "The Vice-President of India is the ex-officio Chairman of which house?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Vice-President is the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "qid": 19,
+      "subject": "General Knowledge",
+      "chapter": "Science",
+      "question": "Who discovered the law of gravity?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Nicolaus Copernicus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sir Isaac Newton discovered the law of universal gravitation."
+    },
+    {
+      "qid": 20,
+      "subject": "General Knowledge",
+      "chapter": "Awards",
+      "question": "Bharat Ratna is the highest civilian award of India. It was instituted in which year?",
+      "options": [
+        "1947",
+        "1954",
+        "1950",
+        "1965"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Bharat Ratna was instituted in 1954."
+    },
+    {
+      "qid": 21,
+      "subject": "General Knowledge",
+      "chapter": "Indian History",
+      "question": "Who was the first Governor-General of independent India?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Rajendra Prasad",
+        "Jawaharlal Nehru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord Mountbatten was the first Governor-General of independent India."
+    },
+    {
+      "qid": 22,
+      "subject": "General Knowledge",
+      "chapter": "Geography",
+      "question": "Which river is known as the Sorrow of Bihar?",
+      "options": [
+        "Ganga",
+        "Kosi",
+        "Son",
+        "Gandak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kosi river is known as the Sorrow of Bihar due to frequent floods."
+    },
+    {
+      "qid": 23,
+      "subject": "General Knowledge",
+      "chapter": "Defence",
+      "question": "The headquarters of the Indian Army is located at?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Pune",
+        "Hyderabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The headquarters of the Indian Army is in New Delhi."
+    },
+    {
+      "qid": 24,
+      "subject": "General Knowledge",
+      "chapter": "Indian Polity",
+      "question": "How many schedules are there in the Indian Constitution?",
+      "options": [
+        "10",
+        "12",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 12 schedules in the Indian Constitution."
+    },
+    {
+      "qid": 25,
+      "subject": "General Knowledge",
+      "chapter": "Current Affairs",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Indonesia",
+        "Italy",
+        "Saudi Arabia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India hosted the G20 Summit in 2023 in New Delhi."
+    },
+    {
+      "qid": 26,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The SI unit of force is?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of force is Newton (N)."
+    },
+    {
+      "qid": 27,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The chemical formula of water is?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chemical formula of water is H2O."
+    },
+    {
+      "qid": 28,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which vitamin is produced in the human body by exposure to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+    },
+    {
+      "qid": 29,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Sound cannot travel through?",
+      "options": [
+        "Solids",
+        "Liquids",
+        "Gases",
+        "Vacuum"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Sound requires a medium to travel and cannot travel through vacuum."
+    },
+    {
+      "qid": 30,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "pH value of pure water is?",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pure water is neutral with a pH of 7."
+    },
+    {
+      "qid": 31,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The powerhouse of the cell is?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitochondria is known as the powerhouse of the cell as it produces energy."
+    },
+    {
+      "qid": 32,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Which law states that every action has an equal and opposite reaction?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Gravitation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Newton's Third Law of Motion states that every action has an equal and opposite reaction."
+    },
+    {
+      "qid": 33,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The gas used in the manufacture of bleaching powder is?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Chlorine",
+        "Nitrogen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chlorine gas is used in the manufacture of bleaching powder."
+    },
+    {
+      "qid": 34,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Blood group O is the universal donor."
+    },
+    {
+      "qid": 35,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The speed of light in vacuum is approximately?",
+      "options": [
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^10 m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The speed of light in vacuum is approximately 3 × 10^8 m/s."
+    },
+    {
+      "qid": 36,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Diamond is an allotrope of?",
+      "options": [
+        "Carbon",
+        "Silicon",
+        "Sulphur",
+        "Phosphorus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diamond is an allotrope of carbon."
+    },
+    {
+      "qid": 37,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Photosynthesis occurs in which part of the plant cell?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Vacuole"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Photosynthesis occurs in the chloroplasts of plant cells."
+    },
+    {
+      "qid": 38,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Unit of electric current is?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of electric current is Ampere."
+    },
+    {
+      "qid": 39,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The process of conversion of solid directly into gas is called?",
+      "options": [
+        "Evaporation",
+        "Sublimation",
+        "Condensation",
+        "Melting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sublimation is the process of conversion of solid directly into gas."
+    },
+    {
+      "qid": 40,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The largest organ of the human body is?",
+      "options": [
+        "Liver",
+        "Skin",
+        "Heart",
+        "Brain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Skin is the largest organ of the human body."
+    },
+    {
+      "qid": 41,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Who invented the telephone?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "James Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alexander Graham Bell invented the telephone."
+    },
+    {
+      "qid": 42,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Atomic number of Carbon is?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The atomic number of Carbon is 6."
+    },
+    {
+      "qid": 43,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Deficiency of which vitamin causes night blindness?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deficiency of Vitamin A causes night blindness."
+    },
+    {
+      "qid": 44,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The instrument used to measure atmospheric pressure is?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Anemometer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Barometer is used to measure atmospheric pressure."
+    },
+    {
+      "qid": 45,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "Rusting of iron is an example of?",
+      "options": [
+        "Physical change",
+        "Chemical change",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rusting of iron is a chemical change as new substance (rust) is formed."
+    },
+    {
+      "qid": 46,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "Which gas is released during photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oxygen is released during photosynthesis."
+    },
+    {
+      "qid": 47,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "The unit of work is?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of work is Joule."
+    },
+    {
+      "qid": 48,
+      "subject": "General Science",
+      "chapter": "Chemistry",
+      "question": "The lightest gas is?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Helium",
+        "Nitrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hydrogen is the lightest gas."
+    },
+    {
+      "qid": 49,
+      "subject": "General Science",
+      "chapter": "Biology",
+      "question": "The number of bones in an adult human body is?",
+      "options": [
+        "206",
+        "208",
+        "210",
+        "200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An adult human body has 206 bones."
+    },
+    {
+      "qid": 50,
+      "subject": "General Science",
+      "chapter": "Physics",
+      "question": "Mirror used in vehicles as rear view mirror is?",
+      "options": [
+        "Concave",
+        "Convex",
+        "Plane",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Convex mirror is used as rear view mirror in vehicles as it provides a wider field of view."
+    },
+    {
+      "qid": 51,
+      "subject": "Mathematics",
+      "chapter": "Arithmetic",
+      "question": "What is 25% of 200?",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "75"
+      ],
+      "correctAnswer": 2,
+      "explanation": "25% of 200 = (25/100) × 200 = 50."
+    },
+    {
+      "qid": 52,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If x + 5 = 12, then x = ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 3,
+      "explanation": "x + 5 = 12 ⇒ x = 12 - 5 = 7."
+    },
+    {
+      "qid": 53,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "The sum of angles in a triangle is?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sum of interior angles in a triangle is 180°."
+    },
+    {
+      "qid": 54,
+      "subject": "Mathematics",
+      "chapter": "Arithmetic",
+      "question": "The HCF of 12 and 18 is?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 12 and 18 is 6."
+    },
+    {
+      "qid": 55,
+      "subject": "Mathematics",
+      "chapter": "Arithmetic",
+      "question": "The LCM of 4 and 6 is?",
+      "options": [
+        "12",
+        "24",
+        "6",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 4 and 6 is 12."
+    },
+    {
+      "qid": 56,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If the price of a pen is increased by 20% and then decreased by 20%, the net change is?",
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "20% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Net change = -4% (decrease)."
+    },
+    {
+      "qid": 57,
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "The ratio of 2 hours to 30 minutes is?",
+      "options": [
+        "2:1",
+        "4:1",
+        "1:2",
+        "1:4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2 hours = 120 minutes. Ratio = 120:30 = 4:1."
+    },
+    {
+      "qid": 58,
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of 10, 20 and 30 is?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Average = (10+20+30)/3 = 60/3 = 20."
+    },
+    {
+      "qid": 59,
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "If CP = ₹100 and SP = ₹120, profit % is?",
+      "options": [
+        "10%",
+        "20%",
+        "25%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Profit = 20, Profit% = (20/100)×100 = 20%."
+    },
+    {
+      "qid": 60,
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Simple Interest on ₹1000 at 10% for 2 years is?",
+      "options": [
+        "₹100",
+        "₹200",
+        "₹150",
+        "₹250"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = (P×R×T)/100 = (1000×10×2)/100 = 200."
+    },
+    {
+      "qid": 61,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "Area of a rectangle with length 10 cm and breadth 5 cm is?",
+      "options": [
+        "50 cm²",
+        "30 cm²",
+        "15 cm²",
+        "100 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = length × breadth = 10 × 5 = 50 cm²."
+    },
+    {
+      "qid": 62,
+      "subject": "Mathematics",
+      "chapter": "Arithmetic",
+      "question": "√144 = ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "√144 = 12."
+    },
+    {
+      "qid": 63,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The smallest prime number is?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "2 is the smallest and the only even prime number."
+    },
+    {
+      "qid": 64,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If 2x = 10, then x = ?",
+      "options": [
+        "2",
+        "5",
+        "8",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2x = 10 ⇒ x = 5."
+    },
+    {
+      "qid": 65,
+      "subject": "Mathematics",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days. B can do the same work in 15 days. Together they can do it in?",
+      "options": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A's 1 day work = 1/10, B's = 1/15, Together = 1/10 + 1/15 = 1/6 ⇒ 6 days."
+    },
+    {
+      "qid": 66,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "30% of 50 is?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "30% of 50 = 0.3 × 50 = 15."
+    },
+    {
+      "qid": 67,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "The perimeter of a square with side 5 cm is?",
+      "options": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Perimeter = 4 × side = 4 × 5 = 20 cm."
+    },
+    {
+      "qid": 68,
+      "subject": "Mathematics",
+      "chapter": "Arithmetic",
+      "question": "0.25 is equal to?",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/5",
+        "1/8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "0.25 = 1/4."
+    },
+    {
+      "qid": 69,
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "If A:B = 2:3 and B:C = 4:5, then A:C = ?",
+      "options": [
+        "8:15",
+        "2:5",
+        "4:9",
+        "6:15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A:B = 2:3, B:C = 4:5. Make B equal: A:B = 8:12, B:C = 12:15 ⇒ A:C = 8:15."
+    },
+    {
+      "qid": 70,
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of first 5 natural numbers is?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Average of 1,2,3,4,5 = 15/5 = 3."
+    },
+    {
+      "qid": 71,
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "A shopkeeper buys an article for ₹500 and sells it for ₹600. Profit is?",
+      "options": [
+        "₹50",
+        "₹100",
+        "₹150",
+        "₹200"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Profit = SP - CP = 600 - 500 = ₹100."
+    },
+    {
+      "qid": 72,
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "Principal = ₹2000, Rate = 5%, Time = 3 years. SI = ?",
+      "options": [
+        "₹200",
+        "₹300",
+        "₹400",
+        "₹500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = (2000×5×3)/100 = 300."
+    },
+    {
+      "qid": 73,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "Circumference of a circle with radius 7 cm is? (π=22/7)",
+      "options": [
+        "22 cm",
+        "44 cm",
+        "14 cm",
+        "28 cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C = 2πr = 2 × (22/7) × 7 = 44 cm."
+    },
+    {
+      "qid": 74,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "The next number in the series 2, 4, 8, 16 is?",
+      "options": [
+        "20",
+        "24",
+        "32",
+        "18"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Each number is multiplied by 2. So 16 × 2 = 32."
+    },
+    {
+      "qid": 75,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "If a = 3 and b = 4, then a² + b² = ?",
+      "options": [
+        "12",
+        "25",
+        "7",
+        "49"
+      ],
+      "correctAnswer": 2,
+      "explanation": "a² + b² = 9 + 16 = 25."
+    },
+    {
+      "qid": 76,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Book is to Reading as Fork is to?",
+      "options": [
+        "Drawing",
+        "Writing",
+        "Stirring",
+        "Eating"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Book is used for reading; Fork is used for eating."
+    },
+    {
+      "qid": 77,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next number: 3, 6, 12, 24, ?",
+      "options": [
+        "36",
+        "48",
+        "30",
+        "42"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each number is multiplied by 2. 24 × 2 = 48."
+    },
+    {
+      "qid": 78,
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If CAT is coded as DBU, then DOG is coded as?",
+      "options": [
+        "EPH",
+        "FQI",
+        "EPH",
+        "DPH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter is increased by 1. D+1=E, O+1=P, G+1=H → EPH."
+    },
+    {
+      "qid": 79,
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a man, a woman said 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Daughter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The woman is the mother of the man."
+    },
+    {
+      "qid": 80,
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A man walks 5 km North, then turns right and walks 3 km. In which direction is he from the starting point?",
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He is in the North-East direction from the starting point."
+    },
+    {
+      "qid": 81,
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: Apple, Mango, Banana, Carrot",
+      "options": [
+        "Apple",
+        "Mango",
+        "Banana",
+        "Carrot"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Carrot is a vegetable; others are fruits."
+    },
+    {
+      "qid": 82,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor is to Patient as Teacher is to?",
+      "options": [
+        "School",
+        "Book",
+        "Student",
+        "Class"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Doctor treats Patient; Teacher teaches Student."
+    },
+    {
+      "qid": 83,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Complete the series: A, C, E, G, ?",
+      "options": [
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Skip one letter each time. G + 2 = I."
+    },
+    {
+      "qid": 84,
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If PEN is coded as 16-5-14, then BOOK is coded as?",
+      "options": [
+        "2-15-15-11",
+        "2-15-15-12",
+        "1-15-15-11",
+        "2-14-15-11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Position of letters: B=2, O=15, O=15, K=11."
+    },
+    {
+      "qid": 85,
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "A is B's brother. C is B's mother. D is C's father. How is A related to D?",
+      "options": [
+        "Grandson",
+        "Son",
+        "Nephew",
+        "Brother"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A is the grandson of D."
+    },
+    {
+      "qid": 86,
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "If South-East becomes North, then what will West become?",
+      "options": [
+        "North-East",
+        "South-West",
+        "North-West",
+        "South-East"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If SE becomes N, then West becomes North-East (rotation of 135°)."
+    },
+    {
+      "qid": 87,
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: 2, 3, 5, 7, 9, 11",
+      "options": [
+        "2",
+        "3",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 3,
+      "explanation": "9 is not a prime number; others are prime."
+    },
+    {
+      "qid": 88,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Bird is to Nest as Bee is to?",
+      "options": [
+        "Hive",
+        "Honey",
+        "Flower",
+        "Tree"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bird lives in Nest; Bee lives in Hive."
+    },
+    {
+      "qid": 89,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Next in series: 1, 4, 9, 16, ?",
+      "options": [
+        "20",
+        "25",
+        "24",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Squares of natural numbers: 1²,2²,3²,4²,5²=25."
+    },
+    {
+      "qid": 90,
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a certain code, FRIEND is written as GSJFOE. How is CANDLE written in that code?",
+      "options": [
+        "DBOEFM",
+        "DBOEMF",
+        "DBOEMF",
+        "DBOEFN"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each letter is increased by 1. C+1=D, A+1=B, N+1=O, D+1=E, L+1=M, E+1=F → DBOEMF."
+    },
+    {
+      "qid": 91,
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "P is the brother of Q. Q is the sister of R. How is P related to R?",
+      "options": [
+        "Brother",
+        "Sister",
+        "Uncle",
+        "Cousin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P is the brother of R."
+    },
+    {
+      "qid": 92,
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "A person faces North and turns 90° clockwise. Which direction is he facing now?",
+      "options": [
+        "East",
+        "West",
+        "South",
+        "North"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Turning 90° clockwise from North faces East."
+    },
+    {
+      "qid": 93,
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: Monday, Tuesday, Friday, Sunday, January",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "January"
+      ],
+      "correctAnswer": 4,
+      "explanation": "January is a month; others are days of the week."
+    },
+    {
+      "qid": 94,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Pen is to Writer as Brush is to?",
+      "options": [
+        "Painter",
+        "Artist",
+        "Canvas",
+        "Colour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pen is used by Writer; Brush is used by Painter."
+    },
+    {
+      "qid": 95,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Complete: 5, 10, 15, 20, ?",
+      "options": [
+        "25",
+        "30",
+        "22",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arithmetic series with common difference 5. Next is 25."
+    },
+    {
+      "qid": 96,
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If A=1, B=2, ..., Z=26, then the code for CAT is?",
+      "options": [
+        "3-1-20",
+        "3-1-19",
+        "2-1-20",
+        "3-2-20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C=3, A=1, T=20."
+    },
+    {
+      "qid": 97,
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "If X is the father of Y and Y is the father of Z, then X is related to Z as?",
+      "options": [
+        "Father",
+        "Grandfather",
+        "Uncle",
+        "Brother"
+      ],
+      "correctAnswer": 2,
+      "explanation": "X is the grandfather of Z."
+    },
+    {
+      "qid": 98,
+      "subject": "Reasoning",
+      "chapter": "Direction",
+      "question": "Rahul walks 10 m South, then 10 m East, then 10 m North. How far is he from starting point?",
+      "options": [
+        "0 m",
+        "10 m",
+        "20 m",
+        "30 m"
+      ],
+      "correctAnswer": 2,
+      "explanation": "He is 10 m East from the starting point."
+    },
+    {
+      "qid": 99,
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one: Square, Circle, Triangle, Rectangle, Cube",
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Cube"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Cube is a 3D shape; others are 2D."
+    },
+    {
+      "qid": 100,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Day is to Night as Summer is to?",
+      "options": [
+        "Winter",
+        "Spring",
+        "Autumn",
+        "Monsoon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Day is opposite of Night; Summer is opposite of Winter."
+    }
+  ]
+}
