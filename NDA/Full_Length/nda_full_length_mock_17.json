@@ -1,1 +1,1 @@
-PLACEHOLDER_WILL_READ
+$(cat /tmp/full_content.json)
