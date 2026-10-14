@@ -1,0 +1,20 @@
+{
+  "testId": "cds_full_length_mock_16",
+  "exam": "CDS",
+  "testType": "fullLength",
+  "title": "CDS Full Length Mock Test 16 (Hard Level)",
+  "description": "Complete CDS Full Length Mock Test covering English, General Knowledge, and Elementary Mathematics at Hard Level. Suitable for IMA/INA/AFA preparation.",
+  "durationMinutes": 120,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2.5,
+  "negativeMarks": 0.83,
+  "instructions": [
+    "This is a full length mock test for CDS examination.",
+    "Total 100 questions to be attempted in 120 minutes.",
+    "Each question carries 2.5 marks.",
+    "Negative marking of 0.83 marks for each wrong answer.",
+    "Choose the most appropriate option for each question.",
+    "All questions are compulsory."
+  ],
+  "questions": []
+}
