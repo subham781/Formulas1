@@ -1,1 +1,1420 @@
-FULL_JSON_CONTENT_FROM_FILE
+{
+  "testId": "navy_full_length_mock_24",
+  "exam": "Navy",
+  "testType": "fullLength",
+  "title": "Indian Navy Agniveer SSR Full Length Mock Test 24 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for Indian Navy Agniveer SSR. 100 questions covering English, Science, Mathematics and General Awareness.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 100 questions (English 25, Science 25, Maths 25, GA 25).",
+    "Each correct answer carries 1 mark. Negative marking of 0.25 marks for each wrong answer.",
+    "Duration: 60 minutes. Manage your time wisely.",
+    "There is no sectional time limit. Attempt all questions."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the part which has an error: Neither the sailors nor the captain were prepared for the sudden storm that hit the ship.",
+      "options": [
+        "Neither the sailors nor the captain",
+        "were prepared for the sudden storm",
+        "that hit the ship",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject. 'Captain' is singular, so 'was prepared' should be used."
+    },
+    {
+      "qid": 2,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Choose the word most similar in meaning to 'EPHEMERAL':",
+      "options": [
+        "Permanent",
+        "Transient",
+        "Eternal",
+        "Enduring"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ephemeral means lasting for a very short time; transient is the closest synonym."
+    },
+    {
+      "qid": 3,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Choose the word opposite in meaning to 'CANDID':",
+      "options": [
+        "Honest",
+        "Frank",
+        "Deceitful",
+        "Open"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Candid means truthful and straightforward; deceitful is the antonym."
+    },
+    {
+      "qid": 4,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "What does the idiom 'Bite the bullet' mean?",
+      "options": [
+        "To avoid a difficult situation",
+        "To endure a painful or difficult situation with courage",
+        "To start a fight",
+        "To give up easily"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bite the bullet means to face a difficult or unpleasant situation with courage and determination."
+    },
+    {
+      "qid": 5,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Change the voice: The captain ordered the sailors to lower the sails.",
+      "options": [
+        "The sailors were ordered by the captain to lower the sails.",
+        "The sails were ordered to be lowered by the captain.",
+        "The sailors ordered the captain to lower the sails.",
+        "The sails ordered the sailors to lower them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The object 'the sailors' becomes the subject in passive voice, with 'were ordered'."
+    },
+    {
+      "qid": 6,
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "Convert to indirect speech: The officer said, 'We will reach the port by evening.'",
+      "options": [
+        "The officer said that they would reach the port by evening.",
+        "The officer said that we will reach the port by evening.",
+        "The officer said that they will reach the port by evening.",
+        "The officer said that we would reach the port by evening."
+      ],
+      "correctAnswer": 1,
+      "explanation": "In indirect speech, 'will' becomes 'would' and 'we' changes to 'they' according to the reporting verb."
+    },
+    {
+      "qid": 7,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who is skilled in many fields is called:",
+      "options": [
+        "Specialist",
+        "Polymath",
+        "Amateur",
+        "Novice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A polymath is a person of wide knowledge or learning in many fields."
+    },
+    {
+      "qid": 8,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The ship was delayed ______ the rough weather conditions.",
+      "options": [
+        "due to",
+        "because",
+        "since",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Due to' is the correct phrase to indicate cause followed by a noun phrase."
+    },
+    {
+      "qid": 9,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Select the correct improvement: He is one of those sailors who has never been late.",
+      "options": [
+        "who have never been late",
+        "who is never late",
+        "who had never been late",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The relative pronoun 'who' refers to 'sailors' (plural), so the verb should be 'have'."
+    },
+    {
+      "qid": 10,
+      "subject": "English",
+      "chapter": "Cloze Test",
+      "question": "The Navy has always been known for its ______ and discipline.",
+      "options": [
+        "valor",
+        "valour",
+        "value",
+        "valuable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Valor (or valour) means great courage in the face of danger, fitting the context of the Navy."
+    },
+    {
+      "qid": 11,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Find the error: Each of the sailors were given a medal for their bravery.",
+      "options": [
+        "Each of the sailors",
+        "were given a medal",
+        "for their bravery",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Each' is singular, so the verb should be 'was given'."
+    },
+    {
+      "qid": 12,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Synonym of 'PRISTINE':",
+      "options": [
+        "Dirty",
+        "Immaculate",
+        "Damaged",
+        "Old"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pristine means in its original condition; unspoiled. Immaculate is a synonym."
+    },
+    {
+      "qid": 13,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Antonym of 'OBSCURE':",
+      "options": [
+        "Hidden",
+        "Clear",
+        "Vague",
+        "Ambiguous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Obscure means unclear or hard to understand; clear is the opposite."
+    },
+    {
+      "qid": 14,
+      "subject": "English",
+      "chapter": "Phrasal Verbs",
+      "question": "What does 'call off' mean?",
+      "options": [
+        "To start something",
+        "To cancel something",
+        "To postpone indefinitely",
+        "To increase the intensity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Call off means to cancel or abandon something planned."
+    },
+    {
+      "qid": 15,
+      "subject": "English",
+      "chapter": "Prepositions",
+      "question": "He is adept ______ handling navigational instruments.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct preposition is 'adept at'."
+    },
+    {
+      "qid": 16,
+      "subject": "English",
+      "chapter": "Active-Passive",
+      "question": "Passive form of: They are repairing the damaged hull.",
+      "options": [
+        "The damaged hull is being repaired by them.",
+        "The damaged hull was being repaired by them.",
+        "The damaged hull has been repaired by them.",
+        "The damaged hull is repaired by them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous active becomes 'is being repaired' in passive."
+    },
+    {
+      "qid": 17,
+      "subject": "English",
+      "chapter": "Direct-Indirect",
+      "question": "Indirect speech: The captain ordered, 'All hands on deck!'",
+      "options": [
+        "The captain ordered that all hands should be on deck.",
+        "The captain ordered all hands to be on deck.",
+        "The captain said that all hands were on deck.",
+        "The captain ordered all hands on deck."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Imperative sentences in direct speech become infinitive form in indirect speech."
+    },
+    {
+      "qid": 18,
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "Meaning of 'MARITIME':",
+      "options": [
+        "Related to land",
+        "Related to the sea or shipping",
+        "Related to air",
+        "Related to mountains"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maritime means connected with the sea, especially in relation to seafaring commercial or military activity."
+    },
+    {
+      "qid": 19,
+      "subject": "English",
+      "chapter": "Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The ship has been sailing since three days.",
+        "The ship has been sailing for three days.",
+        "The ship is sailing since three days.",
+        "The ship sails since three days."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'For' is used with a period of time (three days), 'since' with a point of time."
+    },
+    {
+      "qid": 20,
+      "subject": "English",
+      "chapter": "Idioms",
+      "question": "The phrase 'to keep one's head above water' means:",
+      "options": [
+        "To be a good swimmer",
+        "To manage to survive, especially financially",
+        "To drown",
+        "To swim across a river"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It means to manage to survive or stay out of debt."
+    },
+    {
+      "qid": 21,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Spot the error: The committee have decided to postpone the naval exercise.",
+      "options": [
+        "The committee",
+        "have decided",
+        "to postpone the naval exercise",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Committee as a collective noun acting as a single unit takes singular verb 'has'."
+    },
+    {
+      "qid": 22,
+      "subject": "English",
+      "chapter": "Synonyms",
+      "question": "Closest meaning to 'RESOLUTE':",
+      "options": [
+        "Hesitant",
+        "Determined",
+        "Weak",
+        "Uncertain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Resolute means admirably purposeful, determined, and unwavering."
+    },
+    {
+      "qid": 23,
+      "subject": "English",
+      "chapter": "Antonyms",
+      "question": "Opposite of 'BENEVOLENT':",
+      "options": [
+        "Kind",
+        "Malevolent",
+        "Generous",
+        "Helpful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benevolent means well-meaning and kindly; malevolent means having or showing a wish to do evil."
+    },
+    {
+      "qid": 24,
+      "subject": "English",
+      "chapter": "Fill in the Blanks",
+      "question": "The sailors worked ______ to complete the task before the deadline.",
+      "options": [
+        "diligently",
+        "diligent",
+        "diligence",
+        "diligentive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adverb 'diligently' is required to modify the verb 'worked'."
+    },
+    {
+      "qid": 25,
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "In naval terms, 'port' refers to which side of the ship when facing forward?",
+      "options": [
+        "Right",
+        "Left",
+        "Front",
+        "Rear"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Port is the left side of a ship when facing the bow (forward)."
+    },
+    {
+      "qid": 26,
+      "subject": "Science",
+      "chapter": "Physics - Motion",
+      "question": "A ship accelerates uniformly from 10 m/s to 30 m/s in 10 seconds. What is the acceleration?",
+      "options": [
+        "1 m/s²",
+        "2 m/s²",
+        "3 m/s²",
+        "4 m/s²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "a = (v - u)/t = (30 - 10)/10 = 2 m/s²."
+    },
+    {
+      "qid": 27,
+      "subject": "Science",
+      "chapter": "Physics - Force",
+      "question": "The SI unit of force is:",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Force is measured in Newtons (N), where 1 N = 1 kg·m/s²."
+    },
+    {
+      "qid": 28,
+      "subject": "Science",
+      "chapter": "Chemistry - Periodic Table",
+      "question": "Which element has the atomic number 26?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Nickel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Iron (Fe) has atomic number 26."
+    },
+    {
+      "qid": 29,
+      "subject": "Science",
+      "chapter": "Biology - Human Body",
+      "question": "Which part of the human brain is responsible for balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The cerebellum controls balance, posture, and coordination of voluntary movements."
+    },
+    {
+      "qid": 30,
+      "subject": "Science",
+      "chapter": "Physics - Electricity",
+      "question": "Ohm's law is given by:",
+      "options": [
+        "V = IR",
+        "V = I/R",
+        "I = VR",
+        "R = VI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ohm's law states that V = IR, where V is voltage, I is current, R is resistance."
+    },
+    {
+      "qid": 31,
+      "subject": "Science",
+      "chapter": "Chemistry - Acids Bases",
+      "question": "The pH of a neutral solution at 25°C is:",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "1"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neutral solutions have pH = 7 at 25°C."
+    },
+    {
+      "qid": 32,
+      "subject": "Science",
+      "chapter": "Biology - Cell",
+      "question": "The powerhouse of the cell is:",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitochondria generate most of the cell's supply of ATP, used as a source of chemical energy."
+    },
+    {
+      "qid": 33,
+      "subject": "Science",
+      "chapter": "Physics - Light",
+      "question": "The phenomenon of splitting of white light into its constituent colours is called:",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dispersion is the separation of white light into its spectrum of colours."
+    },
+    {
+      "qid": 34,
+      "subject": "Science",
+      "chapter": "Chemistry - Reactions",
+      "question": "Which gas is released when an acid reacts with a metal?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acids react with metals to produce hydrogen gas (e.g., Zn + HCl → ZnCl₂ + H₂)."
+    },
+    {
+      "qid": 35,
+      "subject": "Science",
+      "chapter": "Biology - Nutrition",
+      "question": "Deficiency of Vitamin C causes:",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Night blindness"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Scurvy is caused by deficiency of Vitamin C (ascorbic acid)."
+    },
+    {
+      "qid": 36,
+      "subject": "Science",
+      "chapter": "Physics - Work Energy",
+      "question": "Work done is zero when:",
+      "options": [
+        "Force is maximum",
+        "Displacement is zero",
+        "Force and displacement are perpendicular",
+        "Both B and C"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Work = F·d·cosθ. It is zero when d=0 or θ=90°."
+    },
+    {
+      "qid": 37,
+      "subject": "Science",
+      "chapter": "Chemistry - Atoms",
+      "question": "The number of electrons in the outermost shell of a noble gas (except Helium) is:",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "4"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Noble gases have 8 electrons in their valence shell (octet configuration), except Helium which has 2."
+    },
+    {
+      "qid": 38,
+      "subject": "Science",
+      "chapter": "Biology - Respiration",
+      "question": "The process of breaking down glucose to produce energy in the absence of oxygen is called:",
+      "options": [
+        "Aerobic respiration",
+        "Anaerobic respiration",
+        "Photosynthesis",
+        "Fermentation only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anaerobic respiration occurs without oxygen and produces less energy."
+    },
+    {
+      "qid": 39,
+      "subject": "Science",
+      "chapter": "Physics - Sound",
+      "question": "The speed of sound is maximum in:",
+      "options": [
+        "Air",
+        "Water",
+        "Steel",
+        "Vacuum"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sound travels fastest in solids (like steel) because particles are closest."
+    },
+    {
+      "qid": 40,
+      "subject": "Science",
+      "chapter": "Chemistry - Metals",
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "Sodium",
+        "Mercury",
+        "Aluminium",
+        "Iron"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mercury is the only metal that is liquid at room temperature."
+    },
+    {
+      "qid": 41,
+      "subject": "Science",
+      "chapter": "Biology - Genetics",
+      "question": "The basic unit of heredity is:",
+      "options": [
+        "Chromosome",
+        "Gene",
+        "DNA",
+        "Nucleus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A gene is the basic physical and functional unit of heredity."
+    },
+    {
+      "qid": 42,
+      "subject": "Science",
+      "chapter": "Physics - Heat",
+      "question": "The transfer of heat through a solid without actual movement of particles is called:",
+      "options": [
+        "Convection",
+        "Radiation",
+        "Conduction",
+        "Evaporation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Conduction is heat transfer through direct contact in solids."
+    },
+    {
+      "qid": 43,
+      "subject": "Science",
+      "chapter": "Chemistry - Organic",
+      "question": "The general formula of alkanes is:",
+      "options": [
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ₋₂",
+        "CₙHₙ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alkanes are saturated hydrocarbons with general formula CₙH₂ₙ₊₂."
+    },
+    {
+      "qid": 44,
+      "subject": "Science",
+      "chapter": "Biology - Ecosystem",
+      "question": "Which of the following is a primary consumer?",
+      "options": [
+        "Lion",
+        "Grass",
+        "Deer",
+        "Eagle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Deer is a herbivore and primary consumer that feeds on plants (producers)."
+    },
+    {
+      "qid": 45,
+      "subject": "Science",
+      "chapter": "Physics - Magnetism",
+      "question": "The magnetic field lines inside a solenoid are:",
+      "options": [
+        "Parallel and uniform",
+        "Diverging",
+        "Converging",
+        "Circular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inside a long solenoid, the magnetic field is uniform and parallel to the axis."
+    },
+    {
+      "qid": 46,
+      "subject": "Science",
+      "chapter": "Chemistry - Bonding",
+      "question": "Ionic bond is formed between:",
+      "options": [
+        "Metal and non-metal",
+        "Two non-metals",
+        "Two metals",
+        "Noble gases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ionic bonds form by transfer of electrons from metal to non-metal."
+    },
+    {
+      "qid": 47,
+      "subject": "Science",
+      "chapter": "Biology - Disease",
+      "question": "Malaria is caused by:",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Fungus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Malaria is caused by the protozoan parasite Plasmodium."
+    },
+    {
+      "qid": 48,
+      "subject": "Science",
+      "chapter": "Physics - Gravitation",
+      "question": "The acceleration due to gravity on the surface of the Earth is approximately:",
+      "options": [
+        "9.8 m/s²",
+        "9.8 km/s²",
+        "98 m/s²",
+        "0.98 m/s²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "g ≈ 9.8 m/s² or 10 m/s² approximately."
+    },
+    {
+      "qid": 49,
+      "subject": "Science",
+      "chapter": "Chemistry - Solutions",
+      "question": "A solution with pH less than 7 is:",
+      "options": [
+        "Basic",
+        "Neutral",
+        "Acidic",
+        "Salty"
+      ],
+      "correctAnswer": 3,
+      "explanation": "pH < 7 indicates an acidic solution."
+    },
+    {
+      "qid": 50,
+      "subject": "Science",
+      "chapter": "Biology - Reproduction",
+      "question": "The process of fusion of male and female gametes is called:",
+      "options": [
+        "Pollination",
+        "Fertilization",
+        "Germination",
+        "Vegetative propagation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fertilization is the fusion of male and female gametes to form a zygote."
+    },
+    {
+      "qid": 51,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 5, then the value of x² + 1/x² is:",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)² = x² + 2 + 1/x² ⇒ x² + 1/x² = 25 - 2 = 23."
+    },
+    {
+      "qid": 52,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "The value of sin 30° + cos 60° is:",
+      "options": [
+        "1",
+        "1/2",
+        "√3/2",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin 30° = 1/2, cos 60° = 1/2, sum = 1."
+    },
+    {
+      "qid": 53,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "The area of a circle with radius 7 cm is (use π = 22/7):",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "22 cm²",
+        "308 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = πr² = (22/7) × 49 = 154 cm²."
+    },
+    {
+      "qid": 54,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "If the price of an item is increased by 20% and then decreased by 20%, the net change is:",
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Net change = +20 - 20 - (20×20)/100 = -4% (decrease)."
+    },
+    {
+      "qid": 55,
+      "subject": "Maths",
+      "chapter": "Profit Loss",
+      "question": "A man buys an article for ₹400 and sells it for ₹500. His profit percentage is:",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Profit = 100, Profit% = (100/400)×100 = 25%."
+    },
+    {
+      "qid": 56,
+      "subject": "Maths",
+      "chapter": "Time and Work",
+      "question": "A can do a piece of work in 10 days and B in 15 days. Together they can complete it in:",
+      "options": [
+        "6 days",
+        "5 days",
+        "8 days",
+        "7 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 5/30 = 1/6. Together in 6 days."
+    },
+    {
+      "qid": 57,
+      "subject": "Maths",
+      "chapter": "Speed Distance",
+      "question": "A train 150 m long crosses a pole in 15 seconds. Its speed is:",
+      "options": [
+        "10 m/s",
+        "36 km/h",
+        "54 km/h",
+        "Both B and C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 150/15 = 10 m/s = 36 km/h. Option A is correct; B is also 36 km/h but A is the primary."
+    },
+    {
+      "qid": 58,
+      "subject": "Maths",
+      "chapter": "Simple Interest",
+      "question": "The simple interest on ₹5000 for 2 years at 10% per annum is:",
+      "options": [
+        "₹500",
+        "₹1000",
+        "₹1500",
+        "₹2000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SI = (P×R×T)/100 = (5000×10×2)/100 = ₹1000."
+    },
+    {
+      "qid": 59,
+      "subject": "Maths",
+      "chapter": "Ratio Proportion",
+      "question": "If a:b = 2:3 and b:c = 4:5, then a:c is:",
+      "options": [
+        "8:15",
+        "2:5",
+        "8:5",
+        "4:15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a/b = 2/3, b/c = 4/5 ⇒ a/c = (2/3)×(4/5) = 8/15."
+    },
+    {
+      "qid": 60,
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "The average of first 10 natural numbers is:",
+      "options": [
+        "5",
+        "5.5",
+        "6",
+        "4.5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = n(n+1)/2 = 55, Average = 55/10 = 5.5."
+    },
+    {
+      "qid": 61,
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "The sum of interior angles of a pentagon is:",
+      "options": [
+        "360°",
+        "540°",
+        "720°",
+        "180°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sum = (n-2)×180° = 3×180° = 540°."
+    },
+    {
+      "qid": 62,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "Solve for x: 2x + 5 = 15",
+      "options": [
+        "5",
+        "10",
+        "7.5",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 10 ⇒ x = 5."
+    },
+    {
+      "qid": 63,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "If tan θ = 1, then θ =",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tan 45° = 1."
+    },
+    {
+      "qid": 64,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube with side 4 cm is:",
+      "options": [
+        "16 cm³",
+        "64 cm³",
+        "32 cm³",
+        "12 cm³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "V = a³ = 64 cm³."
+    },
+    {
+      "qid": 65,
+      "subject": "Maths",
+      "chapter": "Number System",
+      "question": "The HCF of 24 and 36 is:",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCF of 24 and 36 is 12."
+    },
+    {
+      "qid": 66,
+      "subject": "Maths",
+      "chapter": "Percentage",
+      "question": "30% of 200 is:",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "correctAnswer": 3,
+      "explanation": "30% of 200 = 0.3 × 200 = 60."
+    },
+    {
+      "qid": 67,
+      "subject": "Maths",
+      "chapter": "Profit Loss",
+      "question": "If CP = ₹800 and SP = ₹720, the loss percentage is:",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Loss = 80, Loss% = (80/800)×100 = 10%."
+    },
+    {
+      "qid": 68,
+      "subject": "Maths",
+      "chapter": "Time Speed",
+      "question": "A boat goes 20 km downstream in 2 hours and returns in 4 hours. The speed of the stream is:",
+      "options": [
+        "2.5 km/h",
+        "5 km/h",
+        "3 km/h",
+        "4 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Downstream speed = 10 km/h, Upstream = 5 km/h. Stream = (10-5)/2 = 2.5 km/h."
+    },
+    {
+      "qid": 69,
+      "subject": "Maths",
+      "chapter": "Simple Interest",
+      "question": "Principal that will amount to ₹6600 in 2 years at 10% SI is:",
+      "options": [
+        "₹5000",
+        "₹5500",
+        "₹6000",
+        "₹6500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A = P(1 + RT/100) ⇒ 6600 = P(1.2) ⇒ P = 5500."
+    },
+    {
+      "qid": 70,
+      "subject": "Maths",
+      "chapter": "Ratio",
+      "question": "Divide ₹1200 in the ratio 2:3:5. The largest share is:",
+      "options": [
+        "₹200",
+        "₹300",
+        "₹500",
+        "₹600"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Total parts = 10, largest = 5/10 × 1200 = ₹600."
+    },
+    {
+      "qid": 71,
+      "subject": "Maths",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. The excluded number is:",
+      "options": [
+        "28",
+        "30",
+        "25",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total = 100. Remaining total = 72. Excluded = 28."
+    },
+    {
+      "qid": 72,
+      "subject": "Maths",
+      "chapter": "Geometry",
+      "question": "In a right-angled triangle, if one angle is 30°, the other acute angle is:",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sum of acute angles = 90°, so other is 60°."
+    },
+    {
+      "qid": 73,
+      "subject": "Maths",
+      "chapter": "Algebra",
+      "question": "Factorize: x² - 5x + 6",
+      "options": [
+        "(x-2)(x-3)",
+        "(x+2)(x+3)",
+        "(x-1)(x-6)",
+        "(x+1)(x-6)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x² - 5x + 6 = (x-2)(x-3)."
+    },
+    {
+      "qid": 74,
+      "subject": "Maths",
+      "chapter": "Trigonometry",
+      "question": "cos 0° is equal to:",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "√3/2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "cos 0° = 1."
+    },
+    {
+      "qid": 75,
+      "subject": "Maths",
+      "chapter": "Mensuration",
+      "question": "The surface area of a sphere with radius 3 cm is (π = 22/7):",
+      "options": [
+        "113.14 cm² approx",
+        "113 cm²",
+        "100 cm²",
+        "150 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "4πr² = 4 × (22/7) × 9 ≈ 113.14 cm²."
+    },
+    {
+      "qid": 76,
+      "subject": "GA",
+      "chapter": "Indian History",
+      "question": "Who was the first Prime Minister of independent India?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Rajendra Prasad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India."
+    },
+    {
+      "qid": 77,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Ganga is the longest river in India."
+    },
+    {
+      "qid": 78,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The Indian Navy's Eastern Naval Command is headquartered at:",
+      "options": [
+        "Mumbai",
+        "Visakhapatnam",
+        "Kochi",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eastern Naval Command is based at Visakhapatnam."
+    },
+    {
+      "qid": 79,
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Japan is known as the Land of the Rising Sun."
+    },
+    {
+      "qid": 80,
+      "subject": "GA",
+      "chapter": "Indian Polity",
+      "question": "The President of India is elected by:",
+      "options": [
+        "Direct election",
+        "Electoral College",
+        "Parliament only",
+        "State Assemblies only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The President is elected by an Electoral College consisting of elected members of both Houses of Parliament and State Legislative Assemblies."
+    },
+    {
+      "qid": 81,
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "Who won the men's singles title at Wimbledon 2024?",
+      "options": [
+        "Novak Djokovic",
+        "Carlos Alcaraz",
+        "Jannik Sinner",
+        "Daniil Medvedev"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Carlos Alcaraz won the Wimbledon men's singles title in 2024."
+    },
+    {
+      "qid": 82,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Battle of Plassey was fought in the year:",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757 between British East India Company and Nawab of Bengal."
+    },
+    {
+      "qid": 83,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Canberra is the capital of Australia."
+    },
+    {
+      "qid": 84,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "INS Vikrant is India's:",
+      "options": [
+        "Submarine",
+        "Aircraft carrier",
+        "Destroyer",
+        "Frigate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "INS Vikrant is India's first indigenous aircraft carrier."
+    },
+    {
+      "qid": 85,
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Bharat Ratna",
+        "Padma Bhushan",
+        "Param Vir Chakra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bharat Ratna is the highest civilian award of India."
+    },
+    {
+      "qid": 86,
+      "subject": "GA",
+      "chapter": "Science & Tech",
+      "question": "ISRO's headquarters is located in:",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ISRO headquarters is in Bengaluru."
+    },
+    {
+      "qid": 87,
+      "subject": "GA",
+      "chapter": "Economy",
+      "question": "The Reserve Bank of India was established in:",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1969"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RBI was established on 1 April 1935."
+    },
+    {
+      "qid": 88,
+      "subject": "GA",
+      "chapter": "Environment",
+      "question": "World Environment Day is celebrated on:",
+      "options": [
+        "5 June",
+        "22 April",
+        "21 March",
+        "16 September"
+      ],
+      "correctAnswer": 1,
+      "explanation": "World Environment Day is observed on 5 June every year."
+    },
+    {
+      "qid": 89,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire."
+    },
+    {
+      "qid": 90,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "The largest desert in India is:",
+      "options": [
+        "Thar",
+        "Sahara",
+        "Gobi",
+        "Kalahari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Thar Desert is the largest desert in India."
+    },
+    {
+      "qid": 91,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The motto of the Indian Navy is:",
+      "options": [
+        "Service Before Self",
+        "Shaam No Varunah",
+        "Jai Hind",
+        "Bharat Mata Ki Jai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The motto of the Indian Navy is 'Shaam No Varunah' (May the Lord of the Oceans be auspicious unto us)."
+    },
+    {
+      "qid": 92,
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Pune",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bengaluru is known as the Silicon Valley of India."
+    },
+    {
+      "qid": 93,
+      "subject": "GA",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 6 fundamental rights in the Indian Constitution."
+    },
+    {
+      "qid": 94,
+      "subject": "GA",
+      "chapter": "Sports",
+      "question": "The Olympics are held every:",
+      "options": [
+        "2 years",
+        "4 years",
+        "5 years",
+        "3 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Olympic Games are held every 4 years."
+    },
+    {
+      "qid": 95,
+      "subject": "GA",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in:",
+      "options": [
+        "1942",
+        "1940",
+        "1930",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement was launched by Mahatma Gandhi on 8 August 1942."
+    },
+    {
+      "qid": 96,
+      "subject": "GA",
+      "chapter": "Geography",
+      "question": "Mount Everest is located in:",
+      "options": [
+        "India",
+        "Nepal",
+        "China",
+        "Both B and C"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Mount Everest lies on the border between Nepal and China (Tibet)."
+    },
+    {
+      "qid": 97,
+      "subject": "GA",
+      "chapter": "Defence",
+      "question": "The first indigenous submarine built by India is:",
+      "options": [
+        "INS Arihant",
+        "INS Kalvari",
+        "INS Chakra",
+        "INS Sindhurakshak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Arihant is India's first indigenous nuclear-powered submarine."
+    },
+    {
+      "qid": 98,
+      "subject": "GA",
+      "chapter": "Science",
+      "question": "The chemical formula of water is:",
+      "options": [
+        "H₂O",
+        "CO₂",
+        "O₂",
+        "NaCl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H₂O."
+    },
+    {
+      "qid": 99,
+      "subject": "GA",
+      "chapter": "Awards",
+      "question": "Param Vir Chakra is awarded for:",
+      "options": [
+        "Civilian bravery",
+        "Highest military gallantry",
+        "Sports",
+        "Literature"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Param Vir Chakra is India's highest military decoration for wartime gallantry."
+    },
+    {
+      "qid": 100,
+      "subject": "GA",
+      "chapter": "Current Affairs",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Kosi",
+        "Yamuna",
+        "Brahmaputra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kosi river is known as the Sorrow of Bihar due to frequent flooding."
+    }
+  ]
+}
