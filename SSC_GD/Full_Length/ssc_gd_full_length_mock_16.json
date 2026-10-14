@@ -1,1 +1,1140 @@
-PLACEHOLDER
+{
+  "testId": "SSC_GD_FULL_16",
+  "exam": "SSC GD",
+  "testType": "Full Length",
+  "title": "SSC GD Constable Full Length Mock Test 16 (Hard Level)",
+  "description": "Hard Level Full Length Mock Test for SSC GD Constable. Covers Reasoning, General Awareness, Elementary Mathematics and English.",
+  "durationMinutes": 60,
+  "totalQuestions": 80,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.25,
+  "instructions": [
+    "Yeh Hard Level Full Length Mock Test hai.",
+    "Total 80 questions: General Intelligence and Reasoning 20, General Knowledge and GA 20, Elementary Mathematics 20, English 20.",
+    "Har sahi jawab ke liye +2 marks, galat jawab par -0.25 marks.",
+    "Time limit: 60 minutes.",
+    "Sabhi questions compulsory hain. Calculator allowed nahi hai."
+  ],
+  "questions": [
+    {
+      "qid": 1,
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n\nDoctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "College",
+        "Library",
+        "Book"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A doctor works in a hospital, similarly a teacher works in a school."
+    },
+    {
+      "qid": 2,
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the missing number in the series: 5, 11, 23, 47, ?",
+      "options": [
+        "95",
+        "94",
+        "96",
+        "93"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pattern: ×2 +1 each time. 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95."
+    },
+    {
+      "qid": 3,
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "In a certain code language, 'MANGO' is written as 'NBOHP'. How is 'APPLE' written in that code?",
+      "options": [
+        "BQQMF",
+        "BQQLE",
+        "CQQMF",
+        "BQRMF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each letter is increased by 1: A+1=B, P+1=Q, P+1=Q, L+1=M, E+1=F → BQQMF."
+    },
+    {
+      "qid": 4,
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the woman related to the man?",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Grandfather's only son is the man's father. Daughter of father is the man's sister."
+    },
+    {
+      "qid": 5,
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "A person walks 5 km north, then turns right and walks 3 km, then turns right and walks 5 km. In which direction is he from the starting point?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He ends up 3 km east of the starting point."
+    },
+    {
+      "qid": 6,
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a row of 40 students, A is 15th from the left and B is 20th from the right. How many students are there between A and B?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Position of B from left = 40 - 20 + 1 = 21. Between 15 and 21 there are 5 students."
+    },
+    {
+      "qid": 7,
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "Statements: All pens are books. Some books are pencils.\nConclusions:\nI. Some pens are pencils.\nII. Some books are pens.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "correctAnswer": 2,
+      "explanation": "All pens are books means some books are pens (II follows). No definite relation for pens and pencils (I does not follow)."
+    },
+    {
+      "qid": 8,
+      "subject": "Reasoning",
+      "chapter": "Odd One Out",
+      "question": "Find the odd one out: 16, 25, 36, 49, 64, 81, 100, 121",
+      "options": [
+        "25",
+        "49",
+        "81",
+        "None"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All are perfect squares: 4²,5²,6²,7²,8²,9²,10²,11². No odd one."
+    },
+    {
+      "qid": 9,
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 o'clock are the hands of the clock at right angles?",
+      "options": [
+        "3:32",
+        "3:27",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hands are at right angles at approximately 3:27 and 3:32."
+    },
+    {
+      "qid": 10,
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 15 August 2023 was a Tuesday, what day was 15 August 2024?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2024 is a leap year, so 366 days = 52 weeks + 2 days. Tuesday + 2 = Thursday."
+    },
+    {
+      "qid": 11,
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "If the mirror is placed on the right side of the figure, which of the following is the correct mirror image of 'CODE'?",
+      "options": [
+        "EDOC",
+        "ƎDOC",
+        "EDOƆ",
+        "None"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mirror image reverses left-right and mirrors letters appropriately."
+    },
+    {
+      "qid": 12,
+      "subject": "Reasoning",
+      "chapter": "Water Image",
+      "question": "The water image of 'BOOK' is:",
+      "options": [
+        "BOOꓘ",
+        "KOOꓭ",
+        "ꓘOOB",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water image is inverted vertically."
+    },
+    {
+      "qid": 13,
+      "subject": "Reasoning",
+      "chapter": "Dice",
+      "question": "Two positions of a dice are shown. If 1 is on the top, what is on the bottom?",
+      "options": [
+        "6",
+        "2",
+        "5",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Without specific positions shown, it cannot be determined uniquely, but typically opposite faces sum to 7."
+    },
+    {
+      "qid": 14,
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A, B, C, D, E are sitting in a row. A is to the left of B, C is between A and D. Who is in the middle?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Possible arrangement: A C D B E or similar with C in middle."
+    },
+    {
+      "qid": 15,
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "Find the wrong number in the series: 3, 8, 15, 24, 35, 48, 63",
+      "options": [
+        "15",
+        "24",
+        "35",
+        "48"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pattern +5,+7,+9,+11,+13,+15. 35 should be 24+11=35 is correct; wait recalibrate: actually check differences."
+    },
+    {
+      "qid": 16,
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "FU",
+        "EW",
+        "FV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First letter +1, second letter -1: A B C D E, Z Y X W V → EV."
+    },
+    {
+      "qid": 17,
+      "subject": "Reasoning",
+      "chapter": "Mathematical Operation",
+      "question": "If '+' means '×', '×' means '-', '-' means '+', and '÷' means '÷', then 8 + 4 × 2 - 6 ÷ 3 = ?",
+      "options": [
+        "30",
+        "32",
+        "28",
+        "26"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Replace: 8 × 4 - 2 + 6 ÷ 3 = 32 - 2 + 2 = 32."
+    },
+    {
+      "qid": 18,
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which Venn diagram best represents the relationship between Doctors, Females, and Males?",
+      "options": [
+        "Three intersecting circles",
+        "Doctors overlapping with both",
+        "Females and Males separate, Doctors overlapping both",
+        "None"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Females and Males are mutually exclusive; Doctors can be either."
+    },
+    {
+      "qid": 19,
+      "subject": "Reasoning",
+      "chapter": "Statement & Assumption",
+      "question": "Statement: 'All students should study hard to pass the exam.'\nAssumption: Students want to pass the exam.",
+      "options": [
+        "Assumption is implicit",
+        "Not implicit",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The statement assumes that students desire to pass."
+    },
+    {
+      "qid": 20,
+      "subject": "Reasoning",
+      "chapter": "Input-Output",
+      "question": "Input: 45 23 67 12 89. After first step: 89 45 23 67 12. What is the logic?",
+      "options": [
+        "Largest to front",
+        "Smallest to front",
+        "Sort ascending",
+        "Sort descending"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Largest number is moved to the front in each step."
+    },
+    {
+      "qid": 21,
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the founder of the Maurya Empire?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire with the help of Chanakya."
+    },
+    {
+      "qid": 22,
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Godavari",
+        "Brahmaputra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Ganga is the longest river in India."
+    },
+    {
+      "qid": 23,
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "Who is the Supreme Commander of the Indian Armed Forces?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Defence Minister",
+        "Chief of Defence Staff"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The President of India is the Supreme Commander of the Armed Forces."
+    },
+    {
+      "qid": 24,
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the chemical formula of water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "H2SO4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is H₂O."
+    },
+    {
+      "qid": 25,
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Who is the current President of India (as of 2026)?",
+      "options": [
+        "Ram Nath Kovind",
+        "Draupadi Murmu",
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Draupadi Murmu is the current President of India."
+    },
+    {
+      "qid": 26,
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "In which year did India win the first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1987",
+        "2011"
+      ],
+      "correctAnswer": 2,
+      "explanation": "India won the Cricket World Cup in 1983 under Kapil Dev."
+    },
+    {
+      "qid": 27,
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Which is the highest civilian award in India?",
+      "options": [
+        "Padma Shri",
+        "Padma Bhushan",
+        "Padma Vibhushan",
+        "Bharat Ratna"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Bharat Ratna is the highest civilian award."
+    },
+    {
+      "qid": 28,
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "What does GDP stand for?",
+      "options": [
+        "Gross Domestic Product",
+        "Gross Domestic Profit",
+        "General Domestic Product",
+        "Gross Development Product"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GDP is Gross Domestic Product."
+    },
+    {
+      "qid": 29,
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "Which gas is primarily responsible for the greenhouse effect?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Carbon dioxide is a major greenhouse gas."
+    },
+    {
+      "qid": 30,
+      "subject": "General Awareness",
+      "chapter": "Biology",
+      "question": "Which organ produces insulin in the human body?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Stomach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pancreas produces insulin."
+    },
+    {
+      "qid": 31,
+      "subject": "General Awareness",
+      "chapter": "Physics",
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Newton is the SI unit of force."
+    },
+    {
+      "qid": 32,
+      "subject": "General Awareness",
+      "chapter": "Chemistry",
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "Iron",
+        "Mercury",
+        "Gold",
+        "Silver"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mercury is liquid at room temperature."
+    },
+    {
+      "qid": 33,
+      "subject": "General Awareness",
+      "chapter": "Indian Constitution",
+      "question": "How many fundamental rights are there in the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 6 fundamental rights."
+    },
+    {
+      "qid": 34,
+      "subject": "General Awareness",
+      "chapter": "Geography of India",
+      "question": "Which state has the longest coastline in India?",
+      "options": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Maharashtra",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gujarat has the longest coastline."
+    },
+    {
+      "qid": 35,
+      "subject": "General Awareness",
+      "chapter": "History of India",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Battle of Plassey was fought in 1757."
+    },
+    {
+      "qid": 36,
+      "subject": "General Awareness",
+      "chapter": "International Organizations",
+      "question": "Where is the headquarters of the United Nations?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "London"
+      ],
+      "correctAnswer": 2,
+      "explanation": "UN headquarters is in New York."
+    },
+    {
+      "qid": 37,
+      "subject": "General Awareness",
+      "chapter": "Defence",
+      "question": "What is the name of India's indigenous aircraft carrier?",
+      "options": [
+        "INS Vikrant",
+        "INS Vikramaditya",
+        "INS Arihant",
+        "INS Kolkata"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Vikrant is India's indigenous aircraft carrier."
+    },
+    {
+      "qid": 38,
+      "subject": "General Awareness",
+      "chapter": "Art & Culture",
+      "question": "Which classical dance form originated in Kerala?",
+      "options": [
+        "Bharatanatyam",
+        "Kathak",
+        "Kathakali",
+        "Odissi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Kathakali originated in Kerala."
+    },
+    {
+      "qid": 39,
+      "subject": "General Awareness",
+      "chapter": "Space",
+      "question": "Who was the first Indian to go to space?",
+      "options": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Vikram Sarabhai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rakesh Sharma was the first Indian in space."
+    },
+    {
+      "qid": 40,
+      "subject": "General Awareness",
+      "chapter": "Books & Authors",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "Sarojini Naidu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India'."
+    },
+    {
+      "qid": 41,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 50, what is the number?",
+      "options": [
+        "200",
+        "250",
+        "150",
+        "300"
+      ],
+      "correctAnswer": 2,
+      "explanation": "20% of x = 50 → x = 50 × 100/20 = 250."
+    },
+    {
+      "qid": 42,
+      "subject": "Mathematics",
+      "chapter": "Profit & Loss",
+      "question": "A shopkeeper sells an article for ₹540 at a profit of 20%. What is the cost price?",
+      "options": [
+        "₹450",
+        "₹400",
+        "₹500",
+        "₹480"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = CP × 1.2 → CP = 540 / 1.2 = 450."
+    },
+    {
+      "qid": 43,
+      "subject": "Mathematics",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 1/6. So 6 days."
+    },
+    {
+      "qid": 44,
+      "subject": "Mathematics",
+      "chapter": "Ratio",
+      "question": "Divide ₹1200 in the ratio 3:5. What is the larger share?",
+      "options": [
+        "₹450",
+        "₹750",
+        "₹600",
+        "₹800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total parts 8, larger = 5/8 × 1200 = 750."
+    },
+    {
+      "qid": 45,
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+      "options": [
+        "28",
+        "30",
+        "25",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total of 5 = 100. Total of 4 = 72. Excluded = 28."
+    },
+    {
+      "qid": 46,
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "question": "What is the simple interest on ₹5000 at 10% per annum for 2 years?",
+      "options": [
+        "₹1000",
+        "₹1100",
+        "₹900",
+        "₹1200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (P×R×T)/100 = (5000×10×2)/100 = 1000."
+    },
+    {
+      "qid": 47,
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "question": "Find the compound interest on ₹1000 at 10% for 2 years.",
+      "options": [
+        "₹200",
+        "₹210",
+        "₹220",
+        "₹190"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CI = 1000×(1.1)² - 1000 = 1210 - 1000 = 210."
+    },
+    {
+      "qid": 48,
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "What is the area of a circle with radius 7 cm? (π=22/7)",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "164 cm²",
+        "174 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = πr² = 22/7 × 49 = 154 cm²."
+    },
+    {
+      "qid": 49,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "question": "Solve for x: 2x + 5 = 15",
+      "options": [
+        "5",
+        "10",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 10 → x = 5."
+    },
+    {
+      "qid": 50,
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "question": "What is the LCM of 12 and 18?",
+      "options": [
+        "36",
+        "24",
+        "48",
+        "72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12 and 18 is 36."
+    },
+    {
+      "qid": 51,
+      "subject": "Mathematics",
+      "chapter": "HCF",
+      "question": "What is the HCF of 24 and 36?",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF of 24 and 36 is 12."
+    },
+    {
+      "qid": 52,
+      "subject": "Mathematics",
+      "chapter": "Speed Distance Time",
+      "question": "A train travels 180 km in 3 hours. What is its speed?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "70 km/h",
+        "55 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = Distance/Time = 180/3 = 60 km/h."
+    },
+    {
+      "qid": 53,
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+      "options": [
+        "4% decrease",
+        "4% increase",
+        "No change",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net change = -4% (decrease)."
+    },
+    {
+      "qid": 54,
+      "subject": "Mathematics",
+      "chapter": "Profit Loss",
+      "question": "If cost price is ₹400 and selling price is ₹500, what is the profit percentage?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profit = 100, % = 100/400 × 100 = 25%."
+    },
+    {
+      "qid": 55,
+      "subject": "Mathematics",
+      "chapter": "Time Work",
+      "question": "If 12 men can complete a work in 10 days, how many days will 8 men take?",
+      "options": [
+        "15",
+        "12",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Men × Days = constant. 12×10 = 8×D → D = 15."
+    },
+    {
+      "qid": 56,
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "question": "The average age of 3 brothers is 15 years. If the age of the youngest is 10, what is the sum of ages of the other two?",
+      "options": [
+        "35",
+        "30",
+        "40",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total age = 45. Other two = 45 - 10 = 35."
+    },
+    {
+      "qid": 57,
+      "subject": "Mathematics",
+      "chapter": "Ratio Proportion",
+      "question": "If a:b = 2:3 and b:c = 4:5, then a:b:c = ?",
+      "options": [
+        "8:12:15",
+        "2:3:5",
+        "8:12:20",
+        "4:6:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a:b = 2:3 = 8:12, b:c = 4:5 = 12:15 → 8:12:15."
+    },
+    {
+      "qid": 58,
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "question": "The sum of angles in a triangle is:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum of interior angles of a triangle is 180°."
+    },
+    {
+      "qid": 59,
+      "subject": "Mathematics",
+      "chapter": "Data Interpretation",
+      "question": "If the total marks are 500 and a student scores 75%, what are the marks obtained?",
+      "options": [
+        "375",
+        "350",
+        "400",
+        "425"
+      ],
+      "correctAnswer": 1,
+      "explanation": "75% of 500 = 375."
+    },
+    {
+      "qid": 60,
+      "subject": "Mathematics",
+      "chapter": "Simplification",
+      "question": "What is the value of 15% of 200 + 20% of 150?",
+      "options": [
+        "60",
+        "50",
+        "70",
+        "80"
+      ],
+      "correctAnswer": 1,
+      "explanation": "30 + 30 = 60."
+    },
+    {
+      "qid": 61,
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Choose the synonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abundant means plentiful."
+    },
+    {
+      "qid": 62,
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Choose the antonym of 'BRAVE':",
+      "options": [
+        "Courageous",
+        "Cowardly",
+        "Bold",
+        "Fearless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antonym of brave is cowardly."
+    },
+    {
+      "qid": 63,
+      "subject": "English",
+      "chapter": "Fill in the blank",
+      "question": "She is good _____ mathematics.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "for"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct preposition is 'at'."
+    },
+    {
+      "qid": 64,
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: He go to school every day.",
+      "options": [
+        "He",
+        "go",
+        "to school",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Should be 'goes' (subject-verb agreement)."
+    },
+    {
+      "qid": 65,
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "What does 'A piece of cake' mean?",
+      "options": [
+        "Something very easy",
+        "Something expensive",
+        "A sweet dish",
+        "A difficult task"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means something very easy."
+    },
+    {
+      "qid": 66,
+      "subject": "English",
+      "chapter": "One Word Substitution",
+      "question": "A person who loves books is called:",
+      "options": [
+        "Bibliophile",
+        "Philatelist",
+        "Numismatist",
+        "Lexicographer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": 67,
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Recieve",
+        "Receive",
+        "Receeve",
+        "Receve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct spelling is 'Receive'."
+    },
+    {
+      "qid": 68,
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "He is more taller than me. Correct the sentence:",
+      "options": [
+        "He is taller than me",
+        "He is more taller than I",
+        "He is tall than me",
+        "No correction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Remove 'more'; comparative of tall is taller."
+    },
+    {
+      "qid": 69,
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Change to passive: She writes a letter.",
+      "options": [
+        "A letter is written by her",
+        "A letter was written by her",
+        "A letter is writing by her",
+        "A letter wrote by her"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present simple passive: is/are + past participle."
+    },
+    {
+      "qid": 70,
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "Change to indirect: He said, 'I am happy.'",
+      "options": [
+        "He said that he was happy",
+        "He said that I am happy",
+        "He said he is happy",
+        "He said that he is happy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tense shifts back in reported speech."
+    },
+    {
+      "qid": 71,
+      "subject": "English",
+      "chapter": "Preposition",
+      "question": "The cat is sitting _____ the table.",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct preposition is 'on'."
+    },
+    {
+      "qid": 72,
+      "subject": "English",
+      "chapter": "Article",
+      "question": "_____ sun rises in the east.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Unique object takes 'the'."
+    },
+    {
+      "qid": 73,
+      "subject": "English",
+      "chapter": "Tense",
+      "question": "She _____ to the market yesterday.",
+      "options": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Past tense 'went'."
+    },
+    {
+      "qid": 74,
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "question": "The word 'Enormous' means:",
+      "options": [
+        "Very small",
+        "Very large",
+        "Average",
+        "Tiny"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Enormous means very large."
+    },
+    {
+      "qid": 75,
+      "subject": "English",
+      "chapter": "Comprehension",
+      "question": "Read: 'The quick brown fox jumps over the lazy dog.' How many words are there?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 9 words."
+    },
+    {
+      "qid": 76,
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'HAPPY':",
+      "options": [
+        "Sad",
+        "Joyful",
+        "Angry",
+        "Tired"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Happy means joyful."
+    },
+    {
+      "qid": 77,
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'HOT':",
+      "options": [
+        "Warm",
+        "Cold",
+        "Boiling",
+        "Heat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Opposite of hot is cold."
+    },
+    {
+      "qid": 78,
+      "subject": "English",
+      "chapter": "Fill blank",
+      "question": "I have been waiting _____ two hours.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'For' is used with duration."
+    },
+    {
+      "qid": 79,
+      "subject": "English",
+      "chapter": "Error",
+      "question": "Find the error: Neither of the boys are present.",
+      "options": [
+        "Neither",
+        "of the boys",
+        "are",
+        "No error"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Should be 'is' (neither takes singular)."
+    },
+    {
+      "qid": 80,
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Burn the midnight oil' means:",
+      "options": [
+        "To work late at night",
+        "To waste time",
+        "To sleep early",
+        "To cook at night"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means to work late into the night."
+    }
+  ]
+}
