@@ -1,0 +1,1422 @@
+{
+  "testId": "ssc_cgl_tier1_mock_18",
+  "exam": "SSC CGL",
+  "testType": "Full Length",
+  "title": "SSC CGL Tier-1 Full Mock Test 18 (Hard Level)",
+  "description": "Full length SSC CGL Tier-1 mock test with 100 questions covering Reasoning, General Awareness, Quantitative Aptitude and English. Hard difficulty level. Duration 60 minutes.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "This is a full length mock test for SSC CGL Tier-1.",
+    "Total 100 questions, 60 minutes.",
+    "Each question carries 2 marks.",
+    "Negative marking of 0.5 marks for each wrong answer.",
+    "There are 4 options for each question. Choose the correct one.",
+    "Questions are of Hard difficulty level.",
+    "Subjects: Reasoning (25), General Awareness (25), Quantitative Aptitude (25), English (25)."
+  ],
+  "questions": [
+    {
+      "qid": "CGL1801",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Clock : Time :: Thermometer : ?",
+      "options": [
+        "Temperature",
+        "Heat",
+        "Energy",
+        "Mercury"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A clock measures time; a thermometer measures temperature."
+    },
+    {
+      "qid": "CGL1802",
+      "subject": "Reasoning",
+      "chapter": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Student",
+        "Book",
+        "Class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A doctor works in a hospital; a teacher works in a school."
+    },
+    {
+      "qid": "CGL1803",
+      "subject": "Reasoning",
+      "chapter": "Classification",
+      "question": "Which is the odd one out?",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Rhombus",
+        "Triangle"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Triangle has 3 sides; others have 4."
+    },
+    {
+      "qid": "CGL1804",
+      "subject": "Reasoning",
+      "chapter": "Series",
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "48"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Differences increase by 2: +4, +6, +8, +10, +12 → 42."
+    },
+    {
+      "qid": "CGL1805",
+      "subject": "Reasoning",
+      "chapter": "Coding-Decoding",
+      "question": "If BOOK is coded as 43, how is PEN coded?",
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B=2, O=15, O=15, K=11 → 2+15+15+11=43. P=16, E=5, N=14 → 35."
+    },
+    {
+      "qid": "CGL1806",
+      "subject": "Reasoning",
+      "chapter": "Blood Relation",
+      "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Daughter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only daughter of my mother = myself. So woman is the man's mother."
+    },
+    {
+      "qid": "CGL1807",
+      "subject": "Reasoning",
+      "chapter": "Direction Sense",
+      "question": "A person walks 5 km North, then 3 km East, then 5 km South. How far is he from the starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "0 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He ends up 3 km East of start."
+    },
+    {
+      "qid": "CGL1808",
+      "subject": "Reasoning",
+      "chapter": "Syllogism",
+      "question": "All roses are flowers. Some flowers are red. Conclusions: I. Some roses are red. II. Some red things are flowers.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 2,
+      "explanation": "II follows; I does not necessarily."
+    },
+    {
+      "qid": "CGL1809",
+      "subject": "Reasoning",
+      "chapter": "Venn Diagram",
+      "question": "Which diagram best represents Doctors, Engineers, Males?",
+      "options": [
+        "Three overlapping circles",
+        "Two overlapping, one separate",
+        "One inside another",
+        "Three separate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some doctors are male, some engineers are male, some are both, etc."
+    },
+    {
+      "qid": "CGL1810",
+      "subject": "Reasoning",
+      "chapter": "Puzzle",
+      "question": "Five friends A B C D E sit in a row. A is left of B, C is right of D, E is between A and C. Who is in the middle?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Possible order: D C E A B or similar; E is often middle."
+    },
+    {
+      "qid": "CGL1811",
+      "subject": "Reasoning",
+      "chapter": "Number Series",
+      "question": "7, 14, 28, 56, ?",
+      "options": [
+        "84",
+        "98",
+        "112",
+        "120"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Each number is doubled."
+    },
+    {
+      "qid": "CGL1812",
+      "subject": "Reasoning",
+      "chapter": "Letter Series",
+      "question": "A, C, F, J, O, ?",
+      "options": [
+        "U",
+        "T",
+        "V",
+        "S"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gaps: +2, +3, +4, +5, +6 → U."
+    },
+    {
+      "qid": "CGL1813",
+      "subject": "Reasoning",
+      "chapter": "Coding",
+      "question": "If CAT = 24, DOG = 26, then BAT = ?",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C+A+T=3+1+20=24; B+A+T=2+1+20=23."
+    },
+    {
+      "qid": "CGL1814",
+      "subject": "Reasoning",
+      "chapter": "Ranking",
+      "question": "In a class of 40, A ranks 12th from top. What is his rank from bottom?",
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctAnswer": 2,
+      "explanation": "40 - 12 + 1 = 29."
+    },
+    {
+      "qid": "CGL1815",
+      "subject": "Reasoning",
+      "chapter": "Calendar",
+      "question": "If 1st January 2020 was Wednesday, what day was 1st January 2021?",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2020 is leap year, so +2 days → Friday."
+    },
+    {
+      "qid": "CGL1816",
+      "subject": "Reasoning",
+      "chapter": "Clock",
+      "question": "At what time between 3 and 4 o'clock will the hands of the clock be at right angles?",
+      "options": [
+        "3:32.7 approx",
+        "3:30",
+        "3:45",
+        "3:15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard clock problem calculation."
+    },
+    {
+      "qid": "CGL1817",
+      "subject": "Reasoning",
+      "chapter": "Age",
+      "question": "A is twice as old as B. 5 years ago A was thrice as old as B. Find B's present age.",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let B=x, A=2x. 2x-5=3(x-5) → 2x-5=3x-15 → x=10."
+    },
+    {
+      "qid": "CGL1818",
+      "subject": "Reasoning",
+      "chapter": "Mirror Image",
+      "question": "What is the mirror image of 'PQRS'?",
+      "options": [
+        "SRQP",
+        "SRQP reversed",
+        "Something else",
+        "PQRS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirror reverses the order."
+    },
+    {
+      "qid": "CGL1819",
+      "subject": "Reasoning",
+      "chapter": "Water Image",
+      "question": "Water image of the word 'FAMILY' is?",
+      "options": [
+        "YILIMAF",
+        "FAMILY upside",
+        "YILIMAF correct",
+        "Other"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Water image flips vertically."
+    },
+    {
+      "qid": "CGL1820",
+      "subject": "Reasoning",
+      "chapter": "Cube",
+      "question": "A cube is painted and cut into 27 smaller cubes. How many have 3 faces painted?",
+      "options": [
+        "8",
+        "6",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Corner cubes have 3 faces painted."
+    },
+    {
+      "qid": "CGL1821",
+      "subject": "Reasoning",
+      "chapter": "Dice",
+      "question": "Two positions of a dice are shown. Which number is opposite to 3?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Depends on standard, but assume 4."
+    },
+    {
+      "qid": "CGL1822",
+      "subject": "Reasoning",
+      "chapter": "Statement-Assumption",
+      "question": "Statement: 'Use our product for better health.' Assumption: People care about health.",
+      "options": [
+        "Valid",
+        "Invalid",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The statement assumes people want better health."
+    },
+    {
+      "qid": "CGL1823",
+      "subject": "Reasoning",
+      "chapter": "Statement-Conclusion",
+      "question": "All students are intelligent. Some intelligent are hardworking. Conclusion: Some students are hardworking.",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "May follow",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Does not necessarily follow."
+    },
+    {
+      "qid": "CGL1824",
+      "subject": "Reasoning",
+      "chapter": "Input-Output",
+      "question": "Input: 23 45 12 67. Step 1: 12 23 45 67. What is the logic?",
+      "options": [
+        "Ascending sort",
+        "Descending",
+        "Odd even",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Numbers arranged in ascending order."
+    },
+    {
+      "qid": "CGL1825",
+      "subject": "Reasoning",
+      "chapter": "Logical Reasoning",
+      "question": "If all A are B, and no B are C, then",
+      "options": [
+        "No A are C",
+        "Some A are C",
+        "All C are A",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No A are C follows."
+    },
+    {
+      "qid": "CGL1826",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Rajendra Prasad was the first President of India."
+    },
+    {
+      "qid": "CGL1827",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1942",
+        "1930",
+        "1947",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quit India Movement started on 8 August 1942."
+    },
+    {
+      "qid": "CGL1828",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "How many fundamental rights are there in the Indian Constitution currently?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "There are 6 fundamental rights (Right to Property is not a FR now)."
+    },
+    {
+      "qid": "CGL1829",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The concept of Directive Principles of State Policy is borrowed from which country?",
+      "options": [
+        "Ireland",
+        "USA",
+        "UK",
+        "Canada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Borrowed from the Irish Constitution."
+    },
+    {
+      "qid": "CGL1830",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Krishna",
+        "Brahmaputra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river in India."
+    },
+    {
+      "qid": "CGL1831",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "The Tropic of Cancer passes through how many states in India?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It passes through 8 states."
+    },
+    {
+      "qid": "CGL1832",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "What is the chemical formula of Baking Soda?",
+      "options": [
+        "NaHCO3",
+        "Na2CO3",
+        "NaOH",
+        "CaCO3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Baking soda is Sodium Bicarbonate (NaHCO3)."
+    },
+    {
+      "qid": "CGL1833",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mars is called the Red Planet due to iron oxide."
+    },
+    {
+      "qid": "CGL1834",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "Who is the present RBI Governor (as of 2024-25)?",
+      "options": [
+        "Shaktikanta Das",
+        "Urjit Patel",
+        "Raghuram Rajan",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shaktikanta Das has been the Governor."
+    },
+    {
+      "qid": "CGL1835",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "GST was introduced in India in which year?",
+      "options": [
+        "2017",
+        "2016",
+        "2018",
+        "2015"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GST was implemented from 1 July 2017."
+    },
+    {
+      "qid": "CGL1836",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "Who won the ICC Cricket World Cup 2023?",
+      "options": [
+        "Australia",
+        "India",
+        "England",
+        "New Zealand"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Australia won the 2023 Cricket World Cup."
+    },
+    {
+      "qid": "CGL1837",
+      "subject": "General Awareness",
+      "chapter": "Current Affairs",
+      "question": "The 2024 Olympics were held in which city?",
+      "options": [
+        "Paris",
+        "Tokyo",
+        "Los Angeles",
+        "Beijing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paris hosted the 2024 Summer Olympics."
+    },
+    {
+      "qid": "CGL1838",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "Which gas is primarily responsible for global warming?",
+      "options": [
+        "CO2",
+        "O2",
+        "N2",
+        "H2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon dioxide is the main greenhouse gas from human activities."
+    },
+    {
+      "qid": "CGL1839",
+      "subject": "General Awareness",
+      "chapter": "Environment",
+      "question": "The Chipko Movement was related to?",
+      "options": [
+        "Forest conservation",
+        "Water",
+        "Soil",
+        "Air"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chipko was a forest conservation movement in India."
+    },
+    {
+      "qid": "CGL1840",
+      "subject": "General Awareness",
+      "chapter": "Books",
+      "question": "Who wrote 'Discovery of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jawaharlal Nehru wrote Discovery of India."
+    },
+    {
+      "qid": "CGL1841",
+      "subject": "General Awareness",
+      "chapter": "Awards",
+      "question": "Which is the highest civilian award in India?",
+      "options": [
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bharat Ratna is the highest civilian award."
+    },
+    {
+      "qid": "CGL1842",
+      "subject": "General Awareness",
+      "chapter": "Sports",
+      "question": "How many players are there in a cricket team?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A cricket team has 11 players."
+    },
+    {
+      "qid": "CGL1843",
+      "subject": "General Awareness",
+      "chapter": "Arts",
+      "question": "Kathak is a classical dance form of which state?",
+      "options": [
+        "Uttar Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Assam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kathak originated from Uttar Pradesh."
+    },
+    {
+      "qid": "CGL1844",
+      "subject": "General Awareness",
+      "chapter": "Constitution",
+      "question": "Article 21 of the Indian Constitution deals with?",
+      "options": [
+        "Right to Life",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 21: Protection of life and personal liberty."
+    },
+    {
+      "qid": "CGL1845",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "The unit of electric current is?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI unit of current is Ampere."
+    },
+    {
+      "qid": "CGL1846",
+      "subject": "General Awareness",
+      "chapter": "Geography",
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Kalahari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sahara is the largest hot desert."
+    },
+    {
+      "qid": "CGL1847",
+      "subject": "General Awareness",
+      "chapter": "History",
+      "question": "The capital of the Mauryan Empire was?",
+      "options": [
+        "Pataliputra",
+        "Taxila",
+        "Ujjain",
+        "Kannauj"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pataliputra (Patna) was the capital."
+    },
+    {
+      "qid": "CGL1848",
+      "subject": "General Awareness",
+      "chapter": "Polity",
+      "question": "The President of India is elected by?",
+      "options": [
+        "Electoral College",
+        "Direct election",
+        "Parliament only",
+        "State assemblies only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elected by an Electoral College."
+    },
+    {
+      "qid": "CGL1849",
+      "subject": "General Awareness",
+      "chapter": "Science",
+      "question": "Photosynthesis occurs in which part of the plant?",
+      "options": [
+        "Leaves",
+        "Roots",
+        "Stem",
+        "Flower"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primarily in the leaves (chloroplasts)."
+    },
+    {
+      "qid": "CGL1850",
+      "subject": "General Awareness",
+      "chapter": "Economy",
+      "question": "What is the full form of GDP?",
+      "options": [
+        "Gross Domestic Product",
+        "Gross Domestic Profit",
+        "General Domestic Product",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GDP stands for Gross Domestic Product."
+    },
+    {
+      "qid": "CGL1851",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "If 20% of a number is 50, what is 40% of that number?",
+      "options": [
+        "100",
+        "80",
+        "120",
+        "90"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20% = 50 → 100% = 250 → 40% = 100."
+    },
+    {
+      "qid": "CGL1852",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "The ratio of two numbers is 3:4. If their sum is 70, find the larger number.",
+      "options": [
+        "40",
+        "30",
+        "35",
+        "45"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3x+4x=70 → 7x=70 → x=10 → larger=40."
+    },
+    {
+      "qid": "CGL1853",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit & Loss",
+      "question": "A shopkeeper sells an article at 20% profit. If CP is Rs 500, find SP.",
+      "options": [
+        "600",
+        "550",
+        "650",
+        "700"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SP = 500 * 1.2 = 600."
+    },
+    {
+      "qid": "CGL1854",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Simple Interest",
+      "question": "Find SI on Rs 1000 at 5% per annum for 2 years.",
+      "options": [
+        "100",
+        "50",
+        "150",
+        "200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SI = (1000*5*2)/100 = 100."
+    },
+    {
+      "qid": "CGL1855",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time & Work",
+      "question": "A can do a work in 10 days, B in 15 days. Together they can do it in?",
+      "options": [
+        "6 days",
+        "5 days",
+        "8 days",
+        "7 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/10 + 1/15 = 1/6 → 6 days."
+    },
+    {
+      "qid": "CGL1856",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Speed",
+      "question": "A train travels 60 km in 1 hour. What is its speed in m/s?",
+      "options": [
+        "16.67",
+        "15",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "60 km/h = 60 * 5/18 = 16.67 m/s."
+    },
+    {
+      "qid": "CGL1857",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "Solve: 2x + 3 = 11. Find x.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2x = 8 → x=4."
+    },
+    {
+      "qid": "CGL1858",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "The sum of interior angles of a triangle is?",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Always 180 degrees."
+    },
+    {
+      "qid": "CGL1859",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Area of a circle with radius 7 cm is? (π=22/7)",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "154 cm",
+        "88 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "πr² = 22/7 * 49 = 154."
+    },
+    {
+      "qid": "CGL1860",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Average",
+      "question": "Average of 10, 20, 30 is?",
+      "options": [
+        "20",
+        "15",
+        "25",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(10+20+30)/3 = 20."
+    },
+    {
+      "qid": "CGL1861",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Number System",
+      "question": "What is the LCM of 12 and 18?",
+      "options": [
+        "36",
+        "6",
+        "24",
+        "72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCM of 12 and 18 is 36."
+    },
+    {
+      "qid": "CGL1862",
+      "subject": "Quantitative Aptitude",
+      "chapter": "HCF",
+      "question": "HCF of 24 and 36 is?",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HCF is 12."
+    },
+    {
+      "qid": "CGL1863",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "A number is increased by 20% and then decreased by 20%. Net change?",
+      "options": [
+        "4% decrease",
+        "0",
+        "4% increase",
+        "No change"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net = -4%."
+    },
+    {
+      "qid": "CGL1864",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Ratio",
+      "question": "If a:b = 2:3 and b:c = 4:5, find a:c.",
+      "options": [
+        "8:15",
+        "2:5",
+        "3:5",
+        "4:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a/c = (2/3)*(4/5)=8/15."
+    },
+    {
+      "qid": "CGL1865",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Profit",
+      "question": "CP of 10 articles = SP of 8 articles. Profit %?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profit = 2/8 *100 = 25%."
+    },
+    {
+      "qid": "CGL1866",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Compound Interest",
+      "question": "CI on Rs 1000 at 10% for 2 years is?",
+      "options": [
+        "210",
+        "200",
+        "220",
+        "121"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1000*(1.1)^2 = 1210 → CI=210."
+    },
+    {
+      "qid": "CGL1867",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Time & Distance",
+      "question": "A man covers 1 km in 10 min. Speed in km/h?",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6 km/h."
+    },
+    {
+      "qid": "CGL1868",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Work",
+      "question": "A and B together do a work in 12 days. A alone in 20 days. B alone?",
+      "options": [
+        "30 days",
+        "24 days",
+        "15 days",
+        "40 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/B = 1/12 - 1/20 = 1/30."
+    },
+    {
+      "qid": "CGL1869",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Algebra",
+      "question": "If x + 1/x = 3, find x² + 1/x².",
+      "options": [
+        "7",
+        "9",
+        "5",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(x+1/x)² = x² + 2 + 1/x² → 9 = ... +2 → 7."
+    },
+    {
+      "qid": "CGL1870",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Geometry",
+      "question": "In a right triangle, if two sides are 3 and 4, hypotenuse is?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "√7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pythagoras: 5."
+    },
+    {
+      "qid": "CGL1871",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mensuration",
+      "question": "Volume of a cube of side 3 cm is?",
+      "options": [
+        "27 cm³",
+        "9 cm³",
+        "18 cm³",
+        "12 cm³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Side³ = 27."
+    },
+    {
+      "qid": "CGL1872",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Percentage",
+      "question": "What % of 50 is 10?",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "10%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "10/50 *100 = 20%."
+    },
+    {
+      "qid": "CGL1873",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Series",
+      "question": "What is the next term in 1, 4, 9, 16, ?",
+      "options": [
+        "25",
+        "20",
+        "30",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Squares: 1²,2²,3²,4²,5²."
+    },
+    {
+      "qid": "CGL1874",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Age",
+      "question": "The average age of 3 brothers is 15. If one is 10, and another 20, third is?",
+      "options": [
+        "15",
+        "10",
+        "20",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total 45. 10+20=30 → third=15."
+    },
+    {
+      "qid": "CGL1875",
+      "subject": "Quantitative Aptitude",
+      "chapter": "Mixture",
+      "question": "In what ratio must tea at Rs 60/kg be mixed with tea at Rs 80/kg to get mixture at Rs 70/kg?",
+      "options": [
+        "1:1",
+        "2:1",
+        "1:2",
+        "3:2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alligation: (80-70):(70-60)=10:10=1:1."
+    },
+    {
+      "qid": "CGL1876",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Choose the synonym of 'Abundant'.",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abundant means plentiful or in large quantity."
+    },
+    {
+      "qid": "CGL1877",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Choose the antonym of 'Ancient'.",
+      "options": [
+        "Modern",
+        "Old",
+        "Historic",
+        "Antique"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antonym of ancient is modern."
+    },
+    {
+      "qid": "CGL1878",
+      "subject": "English",
+      "chapter": "Error Spotting",
+      "question": "Identify the error: 'He don't like apples.'",
+      "options": [
+        "don't",
+        "like",
+        "apples",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Should be 'doesn't' for third person singular."
+    },
+    {
+      "qid": "CGL1879",
+      "subject": "English",
+      "chapter": "Fill in the blanks",
+      "question": "She is good ___ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "for"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good at something."
+    },
+    {
+      "qid": "CGL1880",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "What does 'Break the ice' mean?",
+      "options": [
+        "To start a conversation",
+        "To break something",
+        "To cool down",
+        "To fail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It means to initiate conversation in a social setting."
+    },
+    {
+      "qid": "CGL1881",
+      "subject": "English",
+      "chapter": "One Word",
+      "question": "A person who loves books is called?",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misanthrope",
+        "Philatelist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bibliophile is a lover of books."
+    },
+    {
+      "qid": "CGL1882",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Choose the correctly spelled word.",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Accommodate has double c and double m."
+    },
+    {
+      "qid": "CGL1883",
+      "subject": "English",
+      "chapter": "Sentence Improvement",
+      "question": "Improve: 'He is more taller than me.'",
+      "options": [
+        "taller than me",
+        "more tall than I",
+        "taller than I",
+        "No improvement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Comparative of tall is taller, and than I."
+    },
+    {
+      "qid": "CGL1884",
+      "subject": "English",
+      "chapter": "Active Passive",
+      "question": "Change to passive: 'She writes a letter.'",
+      "options": [
+        "A letter is written by her",
+        "A letter was written by her",
+        "A letter is being written",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple present passive."
+    },
+    {
+      "qid": "CGL1885",
+      "subject": "English",
+      "chapter": "Direct Indirect",
+      "question": "He said, 'I am busy.' Indirect?",
+      "options": [
+        "He said that he was busy",
+        "He said that I am busy",
+        "He said he is busy",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Backshift of tense."
+    },
+    {
+      "qid": "CGL1886",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'Brief'.",
+      "options": [
+        "Short",
+        "Long",
+        "Detailed",
+        "Extended"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brief means short in duration or length."
+    },
+    {
+      "qid": "CGL1887",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'Victory'.",
+      "options": [
+        "Defeat",
+        "Win",
+        "Success",
+        "Triumph"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Defeat is the opposite of victory."
+    },
+    {
+      "qid": "CGL1888",
+      "subject": "English",
+      "chapter": "Error",
+      "question": "Error: 'The news are good.'",
+      "options": [
+        "are",
+        "news",
+        "good",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "News is singular → is."
+    },
+    {
+      "qid": "CGL1889",
+      "subject": "English",
+      "chapter": "Fill blank",
+      "question": "He has been living here ___ 2010.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since for point of time."
+    },
+    {
+      "qid": "CGL1890",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'A piece of cake' means?",
+      "options": [
+        "Very easy",
+        "Delicious",
+        "Expensive",
+        "Difficult"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Something very easy to do."
+    },
+    {
+      "qid": "CGL1891",
+      "subject": "English",
+      "chapter": "One word",
+      "question": "Fear of heights is called?",
+      "options": [
+        "Acrophobia",
+        "Claustrophobia",
+        "Hydrophobia",
+        "Agoraphobia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acrophobia is fear of heights."
+    },
+    {
+      "qid": "CGL1892",
+      "subject": "English",
+      "chapter": "Spelling",
+      "question": "Correct spelling:",
+      "options": [
+        "Privilege",
+        "Privilige",
+        "Priviledge",
+        "Privelege"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Privilege."
+    },
+    {
+      "qid": "CGL1893",
+      "subject": "English",
+      "chapter": "Improvement",
+      "question": "'Neither of the two boys are good.'",
+      "options": [
+        "is good",
+        "were good",
+        "have been good",
+        "No improvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither takes singular verb."
+    },
+    {
+      "qid": "CGL1894",
+      "subject": "English",
+      "chapter": "Voice",
+      "question": "Passive of 'They are playing football.'",
+      "options": [
+        "Football is being played by them",
+        "Football was played",
+        "Football is played",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present continuous passive."
+    },
+    {
+      "qid": "CGL1895",
+      "subject": "English",
+      "chapter": "Narration",
+      "question": "She said to me, 'Please help me.'",
+      "options": [
+        "She requested me to help her",
+        "She said to help",
+        "She ordered me",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Request form."
+    },
+    {
+      "qid": "CGL1896",
+      "subject": "English",
+      "chapter": "Synonym",
+      "question": "Synonym of 'Candid'.",
+      "options": [
+        "Frank",
+        "Secretive",
+        "Dishonest",
+        "Reserved"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candid means frank and honest."
+    },
+    {
+      "qid": "CGL1897",
+      "subject": "English",
+      "chapter": "Antonym",
+      "question": "Antonym of 'Generous'.",
+      "options": [
+        "Stingy",
+        "Kind",
+        "Liberal",
+        "Charitable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stingy is the opposite."
+    },
+    {
+      "qid": "CGL1898",
+      "subject": "English",
+      "chapter": "Error",
+      "question": "Error in: 'Each of the students have a book.'",
+      "options": [
+        "have",
+        "Each",
+        "students",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each takes singular → has."
+    },
+    {
+      "qid": "CGL1899",
+      "subject": "English",
+      "chapter": "Blank",
+      "question": "He is addicted ___ smoking.",
+      "options": [
+        "to",
+        "with",
+        "in",
+        "on"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Addicted to."
+    },
+    {
+      "qid": "CGL18100",
+      "subject": "English",
+      "chapter": "Idiom",
+      "question": "'Once in a blue moon' means?",
+      "options": [
+        "Very rarely",
+        "Often",
+        "Never",
+        "Always"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Something that happens very rarely."
+    }
+  ]
+}
