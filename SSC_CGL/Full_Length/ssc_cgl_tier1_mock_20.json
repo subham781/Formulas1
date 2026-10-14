@@ -1,1 +1,21 @@
-{"testId": "SSC_CGL_T1_MOCK_20", "exam": "SSC CGL"}
+{
+  "testId": "SSC_CGL_T1_MOCK_20",
+  "exam": "SSC CGL",
+  "testType": "Full Length",
+  "title": "SSC CGL Tier-1 Full Length Mock Test 20",
+  "description": "Hard Level full length mock test for SSC CGL Tier-1 covering Reasoning, Quantitative Aptitude, English and General Awareness. Total 100 questions, 60 minutes.",
+  "durationMinutes": 60,
+  "totalQuestions": 100,
+  "marksPerQuestion": 2,
+  "negativeMarks": 0.5,
+  "instructions": [
+    "The test consists of 100 questions.",
+    "Each question carries 2 marks.",
+    "There is a negative marking of 0.5 marks for each wrong answer.",
+    "Total time is 60 minutes.",
+    "All questions are compulsory.",
+    "Use of calculator is not allowed.",
+    "Do not refresh the page during the test."
+  ],
+  "questions": []
+}
