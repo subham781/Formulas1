@@ -1,0 +1,1439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FORCE | Complete NDA & SSC Physics Notes</title>
+<style>
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+:root{
+    --bg:#f1f5f9;
+    --card:#ffffff;
+    --text:#172033;
+    --muted:#64748b;
+    --primary:#2563eb;
+    --primary2:#4f46e5;
+    --green:#059669;
+    --orange:#ea580c;
+    --red:#dc2626;
+    --purple:#7c3aed;
+    --cyan:#0891b2;
+    --border:#e2e8f0;
+    --shadow:0 8px 25px rgba(15,23,42,.08);
+}
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.65;
+}
+/* ================= HEADER ================= */
+.header{
+    background:linear-gradient(135deg,#1d4ed8,#6d28d9);
+    color:white;
+    padding:45px 20px;
+    position:relative;
+}
+.header-inner{
+    max-width:1150px;
+    margin:auto;
+}
+.badge{
+    display:inline-block;
+    background:rgba(255,255,255,.15);
+    border:1px solid rgba(255,255,255,.25);
+    padding:6px 13px;
+    border-radius:30px;
+    font-size:12px;
+    margin-bottom:14px;
+}
+.header h1{
+    font-size:48px;
+    margin-bottom:8px;
+}
+.header p{
+    opacity:.92;
+    font-size:16px;
+}
+/* Language Switch */
+.lang-switch{
+    position:absolute;
+    top:20px;
+    right:20px;
+    display:flex;
+    gap:6px;
+    background:rgba(255,255,255,.15);
+    padding:6px;
+    border-radius:30px;
+    border:1px solid rgba(255,255,255,.25);
+}
+.lang-btn{
+    border:0;
+    background:transparent;
+    color:white;
+    padding:8px 16px;
+    border-radius:20px;
+    cursor:pointer;
+    font-weight:700;
+    font-size:13px;
+    transition:.25s;
+}
+.lang-btn.active{
+    background:white;
+    color:#1d4ed8;
+}
+/* ================= MAIN ================= */
+.container{
+    width:min(1150px,94%);
+    margin:auto;
+}
+/* ================= TABS ================= */
+.tabs-wrapper{
+    position:sticky;
+    top:0;
+    z-index:100;
+    background:rgba(255,255,255,.96);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+    box-shadow:0 3px 12px rgba(0,0,0,.05);
+}
+.tabs{
+    max-width:1150px;
+    margin:auto;
+    display:flex;
+    overflow-x:auto;
+    scrollbar-width:none;
+}
+.tabs::-webkit-scrollbar{
+    display:none;
+}
+.tab-btn{
+    border:0;
+    background:none;
+    padding:17px 20px;
+    cursor:pointer;
+    font-size:14px;
+    font-weight:700;
+    color:var(--muted);
+    white-space:nowrap;
+    border-bottom:3px solid transparent;
+    transition:.25s;
+}
+.tab-btn:hover{
+    color:var(--primary);
+    background:#f8fafc;
+}
+.tab-btn.active{
+    color:var(--primary);
+    border-bottom-color:var(--primary);
+    background:#eff6ff;
+}
+/* ================= CONTENT ================= */
+.tab-content{
+    display:none;
+    padding:35px 0 60px;
+    animation:fade .25s ease;
+}
+.tab-content.active{
+    display:block;
+}
+@keyframes fade{
+    from{opacity:0;transform:translateY(6px);}
+    to{opacity:1;transform:translateY(0);}
+}
+.section-title{
+    font-size:28px;
+    margin-bottom:20px;
+}
+.card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:16px;
+    padding:22px;
+    margin-bottom:18px;
+    box-shadow:var(--shadow);
+}
+.card h2{
+    font-size:22px;
+    margin-bottom:12px;
+}
+.card h3{
+    font-size:18px;
+    margin:18px 0 8px;
+}
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+    gap:16px;
+}
+.mini{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+}
+.mini h3{
+    margin:0 0 8px;
+}
+.definition{
+    border-left:5px solid var(--primary);
+    background:#f8fafc;
+}
+.formula{
+    background:#eff6ff;
+    border:1px solid #bfdbfe;
+    border-left:5px solid var(--primary);
+    border-radius:10px;
+    padding:14px 16px;
+    margin:12px 0;
+    font-family:Cambria,serif;
+    font-size:19px;
+}
+.formula-title{
+    display:block;
+    font-family:Arial,sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    color:var(--primary2);
+    margin-bottom:4px;
+}
+.success{
+    background:#ecfdf5;
+    border-left:5px solid var(--green);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+.warning{
+    background:#fff7ed;
+    border-left:5px solid var(--orange);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+.danger{
+    background:#fef2f2;
+    border-left:5px solid var(--red);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+.info{
+    background:#ecfeff;
+    border-left:5px solid var(--cyan);
+    padding:14px 17px;
+    border-radius:9px;
+    margin:12px 0;
+}
+ul,ol{
+    padding-left:22px;
+}
+li{
+    margin:7px 0;
+}
+/* ================= TABLE ================= */
+.table-wrap{
+    overflow-x:auto;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:12px;
+    background:white;
+}
+th{
+    background:#1e293b;
+    color:white;
+    padding:12px;
+    text-align:left;
+}
+td{
+    padding:11px 12px;
+    border-bottom:1px solid var(--border);
+}
+tr:nth-child(even){
+    background:#f8fafc;
+}
+/* ================= EXAMPLES ================= */
+.example{
+    background:#faf5ff;
+    border:1px solid #ddd6fe;
+    border-radius:14px;
+    padding:19px;
+    margin:15px 0;
+}
+.example-title{
+    color:var(--purple);
+    font-weight:800;
+    margin-bottom:8px;
+}
+.answer{
+    background:#ecfdf5;
+    color:#065f46;
+    padding:11px 14px;
+    border-radius:8px;
+    margin-top:10px;
+}
+/* ================= ACCORDION ================= */
+.accordion{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:12px;
+    margin:10px 0;
+    overflow:hidden;
+}
+.accordion button{
+    width:100%;
+    border:0;
+    background:white;
+    padding:16px;
+    text-align:left;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:15px;
+}
+.accordion button:hover{
+    background:#f8fafc;
+}
+.accordion-content{
+    display:none;
+    padding:0 16px 16px;
+    border-top:1px solid var(--border);
+}
+.accordion.open .accordion-content{
+    display:block;
+}
+/* ================= PRACTICE ================= */
+.question{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:18px;
+    margin:13px 0;
+}
+.options{
+    margin-top:10px;
+}
+.options label{
+    display:block;
+    padding:8px 10px;
+    border-radius:7px;
+    cursor:pointer;
+}
+.options label:hover{
+    background:#eff6ff;
+}
+.check-answer{
+    margin-top:12px;
+    padding:9px 15px;
+    border:0;
+    background:var(--primary);
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+.result{
+    display:none;
+    margin-top:10px;
+    padding:10px;
+    border-radius:8px;
+}
+.correct{
+    background:#dcfce7;
+    color:#166534;
+}
+.wrong{
+    background:#fee2e2;
+    color:#991b1b;
+}
+/* ================= SIMULATION ================= */
+.sim-box{
+    background:#0f172a;
+    border-radius:16px;
+    padding:20px;
+    margin:18px 0;
+    color:white;
+    position:relative;
+    overflow:hidden;
+}
+.sim-title{
+    font-size:16px;
+    font-weight:700;
+    margin-bottom:12px;
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
+.sim-controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    margin:14px 0;
+    align-items:center;
+}
+.sim-controls label{
+    font-size:13px;
+    opacity:.9;
+}
+.sim-controls input[type="range"]{
+    width:120px;
+    accent-color:#60a5fa;
+}
+.sim-btn{
+    background:#2563eb;
+    color:white;
+    border:0;
+    padding:8px 16px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:700;
+    font-size:13px;
+}
+.sim-btn:hover{
+    background:#1d4ed8;
+}
+.sim-btn.secondary{
+    background:#334155;
+}
+.sim-canvas{
+    width:100%;
+    height:220px;
+    background:#1e293b;
+    border-radius:12px;
+    display:block;
+    margin-top:10px;
+}
+.sim-info{
+    display:flex;
+    gap:16px;
+    flex-wrap:wrap;
+    margin-top:12px;
+    font-size:14px;
+}
+.sim-info span{
+    background:rgba(255,255,255,.1);
+    padding:6px 12px;
+    border-radius:8px;
+}
+/* ================= FOOTER ================= */
+footer{
+    background:#0f172a;
+    color:#cbd5e1;
+    text-align:center;
+    padding:30px 15px;
+}
+/* ================= MOBILE ================= */
+@media(max-width:600px){
+    .header{
+        padding:35px 18px;
+    }
+    .header h1{
+        font-size:38px;
+    }
+    .lang-switch{
+        position:static;
+        margin-bottom:16px;
+        display:inline-flex;
+    }
+    .tab-btn{
+        padding:14px 15px;
+        font-size:13px;
+    }
+    .tab-content{
+        padding-top:25px;
+    }
+    .card{
+        padding:17px;
+    }
+    .formula{
+        font-size:17px;
+        overflow-x:auto;
+    }
+    .sim-canvas{
+        height:180px;
+    }
+}
+/* Language content visibility */
+[data-lang="hi"]{display:none;}
+html[lang="hi"] [data-lang="en"]{display:none;}
+html[lang="hi"] [data-lang="hi"]{display:block;}
+html[lang="hi"] [data-lang="hi"].inline{display:inline;}
+html[lang="en"] [data-lang="en"].inline{display:inline;}
+</style>
+</head>
+<body>
+<!-- ================= HEADER ================= -->
+<header class="header">
+<div class="header-inner">
+<div class="lang-switch">
+<button class="lang-btn active" onclick="setLang('en')">English</button>
+<button class="lang-btn" onclick="setLang('hi')">हिन्दी</button>
+</div>
+<span class="badge">
+<span data-lang="en">NDA • SSC • PHYSICS</span>
+<span data-lang="hi">NDA • SSC • भौतिक विज्ञान</span>
+</span>
+<h1>
+<span data-lang="en">FORCE</span>
+<span data-lang="hi">बल</span>
+</h1>
+<p>
+<span data-lang="en">Complete chapter notes — Theory, Laws, Formulas, Simulations, Solved Examples, Short Tricks & Practice Questions</span>
+<span data-lang="hi">पूर्ण अध्याय नोट्स — सिद्धांत, नियम, सूत्र, सिमुलेशन, हल किए गए उदाहरण, शॉर्ट ट्रिक्स और अभ्यास प्रश्न</span>
+</p>
+</div>
+</header>
+
+<!-- ================= TABS ================= -->
+<div class="tabs-wrapper">
+<div class="tabs">
+<button class="tab-btn active" data-tab="theory">
+<span data-lang="en">Theory</span><span data-lang="hi">सिद्धांत</span>
+</button>
+<button class="tab-btn" data-tab="laws">
+<span data-lang="en">Laws</span><span data-lang="hi">नियम</span>
+</button>
+<button class="tab-btn" data-tab="simulations">
+<span data-lang="en">Simulations</span><span data-lang="hi">सिमुलेशन</span>
+</button>
+<button class="tab-btn" data-tab="formulas">
+<span data-lang="en">Formulas</span><span data-lang="hi">सूत्र</span>
+</button>
+<button class="tab-btn" data-tab="examples">
+<span data-lang="en">Examples</span><span data-lang="hi">उदाहरण</span>
+</button>
+<button class="tab-btn" data-tab="tricks">
+<span data-lang="en">Short Tricks</span><span data-lang="hi">शॉर्ट ट्रिक्स</span>
+</button>
+<button class="tab-btn" data-tab="practice">
+<span data-lang="en">Practice</span><span data-lang="hi">अभ्यास</span>
+</button>
+</div>
+</div>
+
+<main class="container">
+
+<!-- ================================================= -->
+<!-- ===================== THEORY ===================== -->
+<!-- ================================================= -->
+<section id="theory" class="tab-content active">
+<h2 class="section-title">
+<span data-lang="en">Complete Theory</span>
+<span data-lang="hi">पूर्ण सिद्धांत</span>
+</h2>
+
+<div class="card definition">
+<h2>
+<span data-lang="en">1. What is Force?</span>
+<span data-lang="hi">1. बल क्या है?</span>
+</h2>
+<p data-lang="en">
+Force is a push or pull acting on an object which can change the state of rest, state of motion, direction of motion, or shape of the object.
+</p>
+<p data-lang="hi">
+बल किसी वस्तु पर लगने वाला धक्का या खिंचाव है जो वस्तु की विराम अवस्था, गति की अवस्था, गति की दिशा या आकार को बदल सकता है।
+</p>
+<div class="formula">
+<span class="formula-title">
+<span data-lang="en">SI Unit</span><span data-lang="hi">SI इकाई</span>
+</span>
+Newton (N)
+</div>
+<div class="success">
+<strong data-lang="en">1 Newton:</strong>
+<span data-lang="en">The force required to produce an acceleration of 1 m/s² in a mass of 1 kg.</span>
+<strong data-lang="hi">1 न्यूटन:</strong>
+<span data-lang="hi">1 kg द्रव्यमान में 1 m/s² त्वरण उत्पन्न करने के लिए आवश्यक बल।</span>
+</div>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">2. Effects of Force</span>
+<span data-lang="hi">2. बल के प्रभाव</span>
+</h2>
+<div class="grid">
+<div class="mini">
+<h3 data-lang="en">Change in State</h3>
+<h3 data-lang="hi">अवस्था में परिवर्तन</h3>
+<p data-lang="en">A force can make a stationary object move or stop a moving object.</p>
+<p data-lang="hi">बल स्थिर वस्तु को गतिशील बना सकता है या गतिशील वस्तु को रोक सकता है।</p>
+</div>
+<div class="mini">
+<h3 data-lang="en">Change in Speed</h3>
+<h3 data-lang="hi">चाल में परिवर्तन</h3>
+<p data-lang="en">Force can increase or decrease the speed of an object.</p>
+<p data-lang="hi">बल वस्तु की चाल बढ़ा या घटा सकता है।</p>
+</div>
+<div class="mini">
+<h3 data-lang="en">Change in Direction</h3>
+<h3 data-lang="hi">दिशा में परिवर्तन</h3>
+<p data-lang="en">Force can change the direction of motion.</p>
+<p data-lang="hi">बल गति की दिशा बदल सकता है।</p>
+</div>
+<div class="mini">
+<h3 data-lang="en">Change in Shape</h3>
+<h3 data-lang="hi">आकार में परिवर्तन</h3>
+<p data-lang="en">Force can deform an object.</p>
+<p data-lang="hi">बल वस्तु के आकार को विकृत कर सकता है।</p>
+</div>
+</div>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">3. Force is a Vector Quantity</span>
+<span data-lang="hi">3. बल एक सदिश राशि है</span>
+</h2>
+<p data-lang="en">
+Force has both magnitude and direction, therefore force is a <strong>vector quantity</strong>.
+</p>
+<p data-lang="hi">
+बल में परिमाण और दिशा दोनों होते हैं, इसलिए बल एक <strong>सदिश राशि</strong> है।
+</p>
+<div class="info">
+<span data-lang="en">Examples of other vector quantities include velocity, acceleration, displacement and momentum.</span>
+<span data-lang="hi">अन्य सदिश राशियों के उदाहरण: वेग, त्वरण, विस्थापन और संवेग।</span>
+</div>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">4. Types of Force</span>
+<span data-lang="hi">4. बल के प्रकार</span>
+</h2>
+<div class="grid">
+<div class="mini">
+<h3 data-lang="en">Contact Force</h3>
+<h3 data-lang="hi">संपर्क बल</h3>
+<p data-lang="en">Force which acts only when objects are in physical contact.</p>
+<p data-lang="hi">वह बल जो केवल तब लगता है जब वस्तुएँ भौतिक संपर्क में हों।</p>
+<ul>
+<li data-lang="en">Friction</li><li data-lang="hi">घर्षण</li>
+<li data-lang="en">Normal Reaction</li><li data-lang="hi">अभिलंब प्रतिक्रिया</li>
+<li data-lang="en">Muscular Force</li><li data-lang="hi">मांसपेशीय बल</li>
+</ul>
+</div>
+<div class="mini">
+<h3 data-lang="en">Non-Contact Force</h3>
+<h3 data-lang="hi">असंपर्क बल</h3>
+<p data-lang="en">Force which acts without physical contact.</p>
+<p data-lang="hi">वह बल जो बिना भौतिक संपर्क के लगता है।</p>
+<ul>
+<li data-lang="en">Gravitational Force</li><li data-lang="hi">गुरुत्वाकर्षण बल</li>
+<li data-lang="en">Magnetic Force</li><li data-lang="hi">चुंबकीय बल</li>
+<li data-lang="en">Electrostatic Force</li><li data-lang="hi">वैद्युतस्थैतिक बल</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">5. Balanced and Unbalanced Forces</span>
+<span data-lang="hi">5. संतुलित और असंतुलित बल</span>
+</h2>
+<div class="grid">
+<div class="mini">
+<h3 data-lang="en">Balanced Force</h3>
+<h3 data-lang="hi">संतुलित बल</h3>
+<p data-lang="en">When the resultant force acting on an object is zero, the forces are called balanced forces.</p>
+<p data-lang="hi">जब किसी वस्तु पर लगने वाला परिणामी बल शून्य हो, तो बलों को संतुलित बल कहते हैं।</p>
+<div class="formula">F<sub>net</sub> = 0</div>
+<p data-lang="en">Balanced forces do not produce acceleration.</p>
+<p data-lang="hi">संतुलित बल त्वरण उत्पन्न नहीं करते।</p>
+</div>
+<div class="mini">
+<h3 data-lang="en">Unbalanced Force</h3>
+<h3 data-lang="hi">असंतुलित बल</h3>
+<p data-lang="en">When the resultant force is not zero, the forces are called unbalanced forces.</p>
+<p data-lang="hi">जब परिणामी बल शून्य नहीं होता, तो बलों को असंतुलित बल कहते हैं।</p>
+<div class="formula">F<sub>net</sub> ≠ 0</div>
+<p data-lang="en">Unbalanced force produces acceleration.</p>
+<p data-lang="hi">असंतुलित बल त्वरण उत्पन्न करता है।</p>
+</div>
+</div>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">6. Momentum</span>
+<span data-lang="hi">6. संवेग</span>
+</h2>
+<p data-lang="en">Momentum is the product of mass and velocity.</p>
+<p data-lang="hi">संवेग द्रव्यमान और वेग का गुणनफल है।</p>
+<div class="formula">p = mv</div>
+<div class="formula">
+<span data-lang="en">SI Unit = kg·m/s</span>
+<span data-lang="hi">SI इकाई = kg·m/s</span>
+</div>
+<p data-lang="en">Momentum is a vector quantity because velocity is a vector.</p>
+<p data-lang="hi">संवेग एक सदिश राशि है क्योंकि वेग सदिश है।</p>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">7. Impulse</span>
+<span data-lang="hi">7. आवेग</span>
+</h2>
+<p data-lang="en">Impulse is the product of force and the time for which the force acts. Impulse is equal to the change in momentum.</p>
+<p data-lang="hi">आवेग बल और उस समय का गुणनफल है जिस तक बल लगता है। आवेग संवेग में परिवर्तन के बराबर होता है।</p>
+<div class="formula">J = FΔt = Δp</div>
+</div>
+
+<div class="card">
+<h2>
+<span data-lang="en">8. Friction</span>
+<span data-lang="hi">8. घर्षण</span>
+</h2>
+<p data-lang="en">Friction is a contact force which opposes relative motion or the tendency of relative motion between surfaces.</p>
+<p data-lang="hi">घर्षण एक संपर्क बल है जो सतहों के बीच सापेक्ष गति या सापेक्ष गति की प्रवृत्ति का विरोध करता है।</p>
+<div class="grid">
+<div class="mini">
+<h3 data-lang="en">Static Friction</h3>
+<h3 data-lang="hi">स्थिर घर्षण</h3>
+<p data-lang="en">Acts when there is no relative motion between surfaces.</p>
+<p data-lang="hi">जब सतहों के बीच सापेक्ष गति नहीं होती।</p>
+</div>
+<div class="mini">
+<h3 data-lang="en">Sliding Friction</h3>
+<h3 data-lang="hi">सर्पी घर्षण</h3>
+<p data-lang="en">Acts when one surface slides over another.</p>
+<p data-lang="hi">जब एक सतह दूसरी पर फिसलती है।</p>
+</div>
+<div class="mini">
+<h3 data-lang="en">Rolling Friction</h3>
+<h3 data-lang="hi">लोटन घर्षण</h3>
+<p data-lang="en">Acts when an object rolls over a surface.</p>
+<p data-lang="hi">जब वस्तु सतह पर लुढ़कती है।</p>
+</div>
+</div>
+<div class="success">
+<span data-lang="en">Rolling friction is generally less than sliding friction.</span>
+<span data-lang="hi">लोटन घर्षण सामान्यतः सर्पी घर्षण से कम होता है।</span>
+</div>
+</div>
+</section>
+
+<!-- ================================================= -->
+<!-- ====================== LAWS ===================== -->
+<!-- ================================================= -->
+<section id="laws" class="tab-content">
+<h2 class="section-title">
+<span data-lang="en">Newton's Laws of Motion</span>
+<span data-lang="hi">न्यूटन के गति के नियम</span>
+</h2>
+
+<div class="card">
+<h2 data-lang="en">Newton's First Law</h2>
+<h2 data-lang="hi">न्यूटन का प्रथम नियम</h2>
+<p data-lang="en">An object remains at rest or continues to move with uniform velocity in a straight line unless acted upon by an external unbalanced force.</p>
+<p data-lang="hi">कोई वस्तु विराम अवस्था में रहती है या सीधी रेखा में एकसमान वेग से चलती रहती है जब तक कि उस पर कोई बाहरी असंतुलित बल न लगे।</p>
+<div class="formula">F<sub>net</sub> = 0 → a = 0</div>
+<div class="success">
+<span data-lang="en">This law is also called the <strong>Law of Inertia</strong>.</span>
+<span data-lang="hi">इस नियम को <strong>जड़त्व का नियम</strong> भी कहते हैं।</span>
+</div>
+</div>
+
+<div class="card">
+<h2 data-lang="en">Newton's Second Law</h2>
+<h2 data-lang="hi">न्यूटन का द्वितीय नियम</h2>
+<p data-lang="en">The rate of change of momentum of an object is proportional to the applied force and occurs in the direction of that force.</p>
+<p data-lang="hi">किसी वस्तु के संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है और उसी दिशा में होती है।</p>
+<div class="formula">F = ma</div>
+<div class="formula">F = Δp/Δt</div>
+</div>
+
+<div class="card">
+<h2 data-lang="en">Newton's Third Law</h2>
+<h2 data-lang="hi">न्यूटन का तृतीय नियम</h2>
+<p data-lang="en">For every action, there is an equal and opposite reaction.</p>
+<p data-lang="hi">प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है।</p>
+<div class="formula">F<sub>AB</sub> = −F<sub>BA</sub></div>
+<div class="warning">
+<span data-lang="en">Action and reaction act on <strong>different objects</strong>, so they do not cancel each other.</span>
+<span data-lang="hi">क्रिया और प्रतिक्रिया <strong>अलग-अलग वस्तुओं</strong> पर लगती हैं, इसलिए वे एक-दूसरे को रद्द नहीं करतीं।</span>
+</div>
+</div>
+
+<div class="card">
+<h2 data-lang="en">Applications of Newton's Laws</h2>
+<h2 data-lang="hi">न्यूटन के नियमों के अनुप्रयोग</h2>
+<div class="accordion">
+<button onclick="toggleAccordion(this)">
+<span data-lang="en">Why do passengers move forward when a bus suddenly stops?</span>
+<span data-lang="hi">बस अचानक रुकने पर यात्री आगे क्यों झुक जाते हैं?</span>
+</button>
+<div class="accordion-content">
+<p data-lang="en">Due to inertia of motion, the passenger's body tends to continue moving forward when the bus stops suddenly.</p>
+<p data-lang="hi">गति के जड़त्व के कारण यात्री का शरीर आगे बढ़ने की प्रवृत्ति रखता है जब बस अचानक रुकती है।</p>
+</div>
+</div>
+<div class="accordion">
+<button onclick="toggleAccordion(this)">
+<span data-lang="en">Why does a gun recoil after firing?</span>
+<span data-lang="hi">गोली चलाने पर बंदूक पीछे क्यों हटती है?</span>
+</button>
+<div class="accordion-content">
+<p data-lang="en">The bullet moves forward and an equal and opposite momentum is produced in the gun, causing recoil.</p>
+<p data-lang="hi">गोली आगे जाती है और बंदूक में बराबर व विपरीत संवेग उत्पन्न होता है, जिससे पीछे हटने की क्रिया होती है।</p>
+</div>
+</div>
+<div class="accordion">
+<button onclick="toggleAccordion(this)">
+<span data-lang="en">Why can we walk?</span>
+<span data-lang="hi">हम चल कैसे पाते हैं?</span>
+</button>
+<div class="accordion-content">
+<p data-lang="en">Our foot pushes the ground backward. The ground exerts an equal and opposite frictional force on us, pushing us forward.</p>
+<p data-lang="hi">हमारा पैर जमीन को पीछे धकेलता है। जमीन हम पर बराबर व विपरीत घर्षण बल लगाती है, जिससे हम आगे बढ़ते हैं।</p>
+</div>
+</div>
+<div class="accordion">
+<button onclick="toggleAccordion(this)">
+<span data-lang="en">Why does a rocket move upward?</span>
+<span data-lang="hi">रॉकेट ऊपर की ओर क्यों जाता है?</span>
+</button>
+<div class="accordion-content">
+<p data-lang="en">The rocket pushes gases downward. The gases exert an equal and opposite force on the rocket, producing upward motion.</p>
+<p data-lang="hi">रॉकेट गैसों को नीचे की ओर धकेलता है। गैसें रॉकेट पर बराबर व विपरीत बल लगाती हैं, जिससे ऊपर की गति उत्पन्न होती है।</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- ================================================= -->
+<!-- ================== SIMULATIONS ================== -->
+<!-- ================================================= -->
+<section id="simulations" class="tab-content">
+<h2 class="section-title">
+<span data-lang="en">Interactive Simulations</span>
+<span data-lang="hi">इंटरैक्टिव सिमुलेशन</span>
+</h2>
+
+<!-- SIM 1: F = ma -->
+<div class="card">
+<h2>
+<span data-lang="en">1. Force, Mass & Acceleration (F = ma)</span>
+<span data-lang="hi">1. बल, द्रव्यमान और त्वरण (F = ma)</span>
+</h2>
+<p data-lang="en">Adjust Force and Mass. Watch how acceleration changes and the object moves.</p>
+<p data-lang="hi">बल और द्रव्यमान को बदलें। देखें कि त्वरण कैसे बदलता है और वस्तु कैसे चलती है।</p>
+
+<div class="sim-box">
+<div class="sim-title">🎮 <span data-lang="en">Live Simulator</span><span data-lang="hi">लाइव सिमुलेटर</span></div>
+<div class="sim-controls">
+<label>F: <span id="forceVal">20</span> N</label>
+<input type="range" id="forceSlider" min="5" max="50" value="20" oninput="updateSim1()">
+<label>m: <span id="massVal">5</span> kg</label>
+<input type="range" id="massSlider" min="1" max="20" value="5" oninput="updateSim1()">
+<button class="sim-btn" onclick="runSim1()">▶ <span data-lang="en">Run</span><span data-lang="hi">चलाएँ</span></button>
+<button class="sim-btn secondary" onclick="resetSim1()">↺ <span data-lang="en">Reset</span><span data-lang="hi">रीसेट</span></button>
+</div>
+<canvas id="canvas1" class="sim-canvas"></canvas>
+<div class="sim-info">
+<span>a = <strong id="accVal">4.00</strong> m/s²</span>
+<span>v = <strong id="velVal">0.00</strong> m/s</span>
+<span>x = <strong id="posVal">0.00</strong> m</span>
+</div>
+</div>
+</div>
+
+<!-- SIM 2: Balanced vs Unbalanced -->
+<div class="card">
+<h2>
+<span data-lang="en">2. Balanced vs Unbalanced Forces</span>
+<span data-lang="hi">2. संतुलित बनाम असंतुलित बल</span>
+</h2>
+<p data-lang="en">Drag the forces. See when the object accelerates.</p>
+<p data-lang="hi">बलों को खींचें। देखें कि वस्तु कब त्वरण करती है।</p>
+
+<div class="sim-box">
+<div class="sim-title">⚖️ <span data-lang="en">Force Balance Simulator</span><span data-lang="hi">बल संतुलन सिमुलेटर</span></div>
+<div class="sim-controls">
+<label>Left Force: <span id="leftF">15</span> N</label>
+<input type="range" id="leftSlider" min="0" max="40" value="15" oninput="updateSim2()">
+<label>Right Force: <span id="rightF">15</span> N</label>
+<input type="range" id="rightSlider" min="0" max="40" value="15" oninput="updateSim2()">
+<button class="sim-btn" onclick="runSim2()">▶ <span data-lang="en">Apply</span><span data-lang="hi">लगाएँ</span></button>
+<button class="sim-btn secondary" onclick="resetSim2()">↺ <span data-lang="en">Reset</span><span data-lang="hi">रीसेट</span></button>
+</div>
+<canvas id="canvas2" class="sim-canvas"></canvas>
+<div class="sim-info">
+<span>F<sub>net</sub> = <strong id="netF">0</strong> N</span>
+<span id="balanceStatus" style="background:#059669">Balanced</span>
+</div>
+</div>
+</div>
+
+<!-- SIM 3: Momentum -->
+<div class="card">
+<h2>
+<span data-lang="en">3. Momentum (p = mv)</span>
+<span data-lang="hi">3. संवेग (p = mv)</span>
+</h2>
+<p data-lang="en">Change mass or velocity and observe momentum.</p>
+<p data-lang="hi">द्रव्यमान या वेग बदलें और संवेग देखें।</p>
+
+<div class="sim-box">
+<div class="sim-title">🚀 <span data-lang="en">Momentum Visualizer</span><span data-lang="hi">संवेग विज़ुअलाइज़र</span></div>
+<div class="sim-controls">
+<label>Mass: <span id="m3">4</span> kg</label>
+<input type="range" id="m3Slider" min="1" max="15" value="4" oninput="updateSim3()">
+<label>Velocity: <span id="v3">6</span> m/s</label>
+<input type="range" id="v3Slider" min="0" max="15" value="6" oninput="updateSim3()">
+</div>
+<canvas id="canvas3" class="sim-canvas"></canvas>
+<div class="sim-info">
+<span>p = <strong id="p3">24</strong> kg·m/s</span>
+</div>
+</div>
+</div>
+</section>
+
+<!-- ================================================= -->
+<!-- ==================== FORMULAS ==================== -->
+<!-- ================================================= -->
+<section id="formulas" class="tab-content">
+<h2 class="section-title">
+<span data-lang="en">Complete Formula Sheet</span>
+<span data-lang="hi">पूर्ण सूत्र सूची</span>
+</h2>
+
+<div class="card">
+<h2 data-lang="en">Basic Force Formulas</h2>
+<h2 data-lang="hi">मूल बल सूत्र</h2>
+<div class="formula"><span class="formula-title">Newton's Second Law</span>F = ma</div>
+<div class="formula"><span class="formula-title">Momentum</span>p = mv</div>
+<div class="formula"><span class="formula-title">Impulse</span>J = FΔt = Δp</div>
+<div class="formula"><span class="formula-title">Weight</span>W = mg</div>
+</div>
+
+<div class="card">
+<h2 data-lang="en">Gravitational Force</h2>
+<h2 data-lang="hi">गुरुत्वाकर्षण बल</h2>
+<div class="formula">F = Gm₁m₂/r²</div>
+<div class="formula">g = GM/R²</div>
+</div>
+
+<div class="card">
+<h2 data-lang="en">Friction</h2>
+<h2 data-lang="hi">घर्षण</h2>
+<div class="formula">f ≤ μ<sub>s</sub>N</div>
+<div class="formula">f<sub>max</sub> = μ<sub>s</sub>N</div>
+<div class="formula">f<sub>k</sub> = μ<sub>k</sub>N</div>
+</div>
+
+<div class="card">
+<h2 data-lang="en">Important Values</h2>
+<h2 data-lang="hi">महत्वपूर्ण मान</h2>
+<div class="formula">g ≈ 9.8 m/s²</div>
+<div class="formula">g ≈ 10 m/s² <span data-lang="en">(often used in exams)</span><span data-lang="hi">(परीक्षाओं में अक्सर उपयोग)</span></div>
+</div>
+</section>
+
+<!-- ================================================= -->
+<!-- ==================== EXAMPLES ==================== -->
+<!-- ================================================= -->
+<section id="examples" class="tab-content">
+<h2 class="section-title">
+<span data-lang="en">Solved Examples</span>
+<span data-lang="hi">हल किए गए उदाहरण</span>
+</h2>
+
+<div class="example">
+<div class="example-title">
+<span data-lang="en">Example 1 — Calculate Force</span>
+<span data-lang="hi">उदाहरण 1 — बल ज्ञात करें</span>
+</div>
+<p data-lang="en">A body of mass 5 kg accelerates at 4 m/s². Find the force acting on it.</p>
+<p data-lang="hi">5 kg द्रव्यमान की वस्तु 4 m/s² से त्वरित होती है। उस पर लगने वाला बल ज्ञात करें।</p>
+<div class="formula">F = ma = 5 × 4 = 20 N</div>
+<div class="answer"><span data-lang="en">Answer: <strong>20 N</strong></span><span data-lang="hi">उत्तर: <strong>20 N</strong></span></div>
+</div>
+
+<div class="example">
+<div class="example-title">
+<span data-lang="en">Example 2 — Find Acceleration</span>
+<span data-lang="hi">उदाहरण 2 — त्वरण ज्ञात करें</span>
+</div>
+<p data-lang="en">A force of 60 N acts on a mass of 12 kg. Find acceleration.</p>
+<p data-lang="hi">12 kg द्रव्यमान पर 60 N बल लगता है। त्वरण ज्ञात करें।</p>
+<div class="formula">a = F/m = 60/12 = 5 m/s²</div>
+<div class="answer"><span data-lang="en">Answer: <strong>5 m/s²</strong></span><span data-lang="hi">उत्तर: <strong>5 m/s²</strong></span></div>
+</div>
+
+<div class="example">
+<div class="example-title">
+<span data-lang="en">Example 3 — Momentum</span>
+<span data-lang="hi">उदाहरण 3 — संवेग</span>
+</div>
+<p data-lang="en">A 10 kg object moves with velocity 6 m/s. Find its momentum.</p>
+<p data-lang="hi">10 kg की वस्तु 6 m/s वेग से चल रही है। इसका संवेग ज्ञात करें।</p>
+<div class="formula">p = mv = 10 × 6 = 60 kg·m/s</div>
+<div class="answer"><span data-lang="en">Answer: <strong>60 kg·m/s</strong></span><span data-lang="hi">उत्तर: <strong>60 kg·m/s</strong></span></div>
+</div>
+
+<div class="example">
+<div class="example-title">
+<span data-lang="en">Example 4 — Impulse</span>
+<span data-lang="hi">उदाहरण 4 — आवेग</span>
+</div>
+<p data-lang="en">A force of 50 N acts for 0.2 s. Find the impulse.</p>
+<p data-lang="hi">50 N बल 0.2 सेकंड तक लगता है। आवेग ज्ञात करें।</p>
+<div class="formula">J = FΔt = 50 × 0.2 = 10 N·s</div>
+<div class="answer"><span data-lang="en">Answer: <strong>10 N·s</strong></span><span data-lang="hi">उत्तर: <strong>10 N·s</strong></span></div>
+</div>
+</section>
+
+<!-- ================================================= -->
+<!-- ===================== TRICKS ===================== -->
+<!-- ================================================= -->
+<section id="tricks" class="tab-content">
+<h2 class="section-title">
+<span data-lang="en">Short Tricks & Exam Tips</span>
+<span data-lang="hi">शॉर्ट ट्रिक्स और परीक्षा टिप्स</span>
+</h2>
+
+<div class="card">
+<h2>🔥 <span data-lang="en">Trick 1 — Force</span><span data-lang="hi">ट्रिक 1 — बल</span></h2>
+<div class="formula">Force = Mass × Acceleration</div>
+<p data-lang="en">Whenever mass and acceleration are given, directly use F = ma.</p>
+<p data-lang="hi">जब द्रव्यमान और त्वरण दिए हों, तो सीधे F = ma का उपयोग करें।</p>
+</div>
+
+<div class="card">
+<h2>🔥 <span data-lang="en">Trick 2 — Weight vs Mass</span><span data-lang="hi">ट्रिक 2 — भार बनाम द्रव्यमान</span></h2>
+<div class="formula">Mass → kg &nbsp;&nbsp;|&nbsp;&nbsp; Weight → N</div>
+<div class="warning">
+<span data-lang="en">Do not confuse mass with weight. Weight is a force.</span>
+<span data-lang="hi">द्रव्यमान को भार से भ्रमित न करें। भार एक बल है।</span>
+</div>
+</div>
+
+<div class="card">
+<h2>🔥 <span data-lang="en">Trick 3 — Same / Opposite Direction</span><span data-lang="hi">ट्रिक 3 — समान / विपरीत दिशा</span></h2>
+<div class="formula">Same Direction → Add &nbsp;&nbsp;|&nbsp;&nbsp; Opposite → Subtract</div>
+</div>
+
+<div class="card">
+<h2>🔥 <span data-lang="en">Trick 4 — Newton's Laws</span><span data-lang="hi">ट्रिक 4 — न्यूटन के नियम</span></h2>
+<div class="formula">1st → Inertia &nbsp;|&nbsp; 2nd → F = ma &nbsp;|&nbsp; 3rd → Action-Reaction</div>
+</div>
+
+<div class="card">
+<h2>⭐ <span data-lang="en">One-Minute Revision</span><span data-lang="hi">एक मिनट का रिवीजन</span></h2>
+<div class="formula">F = ma &nbsp;&nbsp; p = mv &nbsp;&nbsp; J = FΔt = Δp &nbsp;&nbsp; W = mg</div>
+<div class="success">
+<strong data-lang="en">1st Law:</strong> <span data-lang="en">Inertia</span>
+<strong data-lang="hi">प्रथम नियम:</strong> <span data-lang="hi">जड़त्व</span><br>
+<strong data-lang="en">2nd Law:</strong> F = ma<br>
+<strong data-lang="en">3rd Law:</strong> <span data-lang="en">Action = Reaction</span>
+<strong data-lang="hi">तृतीय नियम:</strong> <span data-lang="hi">क्रिया = प्रतिक्रिया</span>
+</div>
+</div>
+</section>
+
+<!-- ================================================= -->
+<!-- ==================== PRACTICE ==================== -->
+<!-- ================================================= -->
+<section id="practice" class="tab-content">
+<h2 class="section-title">
+<span data-lang="en">Practice Test</span>
+<span data-lang="hi">अभ्यास परीक्षा</span>
+</h2>
+
+<div class="question">
+<p><strong>Q1.</strong>
+<span data-lang="en">A force of 20 N acts on a body of mass 5 kg. What is its acceleration?</span>
+<span data-lang="hi">5 kg द्रव्यमान की वस्तु पर 20 N बल लगता है। इसका त्वरण क्या होगा?</span>
+</p>
+<div class="options">
+<label><input type="radio" name="q1" value="a"> A) 2 m/s²</label>
+<label><input type="radio" name="q1" value="b"> B) 4 m/s²</label>
+<label><input type="radio" name="q1" value="c"> C) 5 m/s²</label>
+<label><input type="radio" name="q1" value="d"> D) 10 m/s²</label>
+</div>
+<button class="check-answer" onclick="checkAnswer('q1','b','r1')">
+<span data-lang="en">Check Answer</span><span data-lang="hi">उत्तर जाँचें</span>
+</button>
+<div id="r1" class="result"></div>
+</div>
+
+<div class="question">
+<p><strong>Q2.</strong>
+<span data-lang="en">Which Newton's law is known as the law of inertia?</span>
+<span data-lang="hi">न्यूटन के किस नियम को जड़त्व का नियम कहते हैं?</span>
+</p>
+<div class="options">
+<label><input type="radio" name="q2" value="a"> A) First Law</label>
+<label><input type="radio" name="q2" value="b"> B) Second Law</label>
+<label><input type="radio" name="q2" value="c"> C) Third Law</label>
+<label><input type="radio" name="q2" value="d"> D) Law of Gravitation</label>
+</div>
+<button class="check-answer" onclick="checkAnswer('q2','a','r2')">
+<span data-lang="en">Check Answer</span><span data-lang="hi">उत्तर जाँचें</span>
+</button>
+<div id="r2" class="result"></div>
+</div>
+
+<div class="question">
+<p><strong>Q3.</strong>
+<span data-lang="en">A body of mass 10 kg moves with velocity 5 m/s. Find its momentum.</span>
+<span data-lang="hi">10 kg द्रव्यमान की वस्तु 5 m/s वेग से चल रही है। इसका संवेग ज्ञात करें।</span>
+</p>
+<div class="options">
+<label><input type="radio" name="q3" value="a"> A) 2 kg·m/s</label>
+<label><input type="radio" name="q3" value="b"> B) 15 kg·m/s</label>
+<label><input type="radio" name="q3" value="c"> C) 50 kg·m/s</label>
+<label><input type="radio" name="q3" value="d"> D) 100 kg·m/s</label>
+</div>
+<button class="check-answer" onclick="checkAnswer('q3','c','r3')">
+<span data-lang="en">Check Answer</span><span data-lang="hi">उत्तर जाँचें</span>
+</button>
+<div id="r3" class="result"></div>
+</div>
+
+<div class="question">
+<p><strong>Q4.</strong>
+<span data-lang="en">The SI unit of force is:</span>
+<span data-lang="hi">बल की SI इकाई है:</span>
+</p>
+<div class="options">
+<label><input type="radio" name="q4" value="a"> A) Joule</label>
+<label><input type="radio" name="q4" value="b"> B) Watt</label>
+<label><input type="radio" name="q4" value="c"> C) Newton</label>
+<label><input type="radio" name="q4" value="d"> D) Pascal</label>
+</div>
+<button class="check-answer" onclick="checkAnswer('q4','c','r4')">
+<span data-lang="en">Check Answer</span><span data-lang="hi">उत्तर जाँचें</span>
+</button>
+<div id="r4" class="result"></div>
+</div>
+
+<div class="question">
+<p><strong>Q5.</strong>
+<span data-lang="en">If net force acting on a body is zero, its acceleration is:</span>
+<span data-lang="hi">यदि किसी वस्तु पर परिणामी बल शून्य है, तो इसका त्वरण होगा:</span>
+</p>
+<div class="options">
+<label><input type="radio" name="q5" value="a"> A) Zero</label>
+<label><input type="radio" name="q5" value="b"> B) Maximum</label>
+<label><input type="radio" name="q5" value="c"> C) Negative always</label>
+<label><input type="radio" name="q5" value="d"> D) Infinite</label>
+</div>
+<button class="check-answer" onclick="checkAnswer('q5','a','r5')">
+<span data-lang="en">Check Answer</span><span data-lang="hi">उत्तर जाँचें</span>
+</button>
+<div id="r5" class="result"></div>
+</div>
+</section>
+
+</main>
+
+<footer>
+<strong>
+<span data-lang="en">FORCE — Complete Physics Notes</span>
+<span data-lang="hi">बल — पूर्ण भौतिकी नोट्स</span>
+</strong>
+<p>
+<span data-lang="en">NDA • SSC • Competitive Examinations</span>
+<span data-lang="hi">NDA • SSC • प्रतियोगी परीक्षाएँ</span>
+</p>
+</footer>
+
+<script>
+/* ================= LANGUAGE SWITCH ================= */
+function setLang(lang) {
+    document.documentElement.lang = lang;
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.textContent.includes(lang === 'en' ? 'English' : 'हिन्दी'));
+    });
+    // Update simulation status text if needed
+    updateSim2Status();
+}
+
+/* ================= TAB SYSTEM ================= */
+const tabButtons = document.querySelectorAll(".tab-btn");
+const tabContents = document.querySelectorAll(".tab-content");
+tabButtons.forEach(button => {
+    button.addEventListener("click", () => {
+        const target = button.dataset.tab;
+        tabButtons.forEach(btn => btn.classList.remove("active"));
+        tabContents.forEach(content => content.classList.remove("active"));
+        button.classList.add("active");
+        const targetContent = document.getElementById(target);
+        if (targetContent) targetContent.classList.add("active");
+        window.scrollTo({
+            top: document.querySelector(".tabs-wrapper").offsetTop,
+            behavior: "smooth"
+        });
+        // Restart canvases when switching to simulations
+        if (target === 'simulations') {
+            initSim1();
+            initSim2();
+            initSim3();
+        }
+    });
+});
+
+/* ================= ACCORDION ================= */
+function toggleAccordion(button) {
+    button.parentElement.classList.toggle("open");
+}
+
+/* ================= PRACTICE ANSWERS ================= */
+function checkAnswer(question, correct, resultId) {
+    const selected = document.querySelector('input[name="' + question + '"]:checked');
+    const result = document.getElementById(resultId);
+    result.style.display = "block";
+    const isHi = document.documentElement.lang === 'hi';
+    if (!selected) {
+        result.className = "result wrong";
+        result.innerHTML = isHi ? "⚠️ कृपया पहले कोई विकल्प चुनें।" : "⚠️ Please select an option first.";
+        return;
+    }
+    if (selected.value === correct) {
+        result.className = "result correct";
+        result.innerHTML = isHi ? "✅ सही! शानदार।" : "✅ Correct! Excellent.";
+    } else {
+        result.className = "result wrong";
+        result.innerHTML = isHi ? "❌ गलत। सूत्र दोबारा देखें।" : "❌ Incorrect. Try the formula again.";
+    }
+}
+
+/* ================= SIMULATION 1: F = ma ================= */
+let sim1 = { x: 50, v: 0, a: 4, running: false, anim: null };
+const canvas1 = document.getElementById('canvas1');
+const ctx1 = canvas1.getContext('2d');
+
+function resizeCanvas(c) {
+    c.width = c.offsetWidth * 2;
+    c.height = c.offsetHeight * 2;
+    c.getContext('2d').scale(2, 2);
+}
+
+function initSim1() {
+    resizeCanvas(canvas1);
+    resetSim1();
+}
+
+function updateSim1() {
+    const F = +document.getElementById('forceSlider').value;
+    const m = +document.getElementById('massSlider').value;
+    document.getElementById('forceVal').textContent = F;
+    document.getElementById('massVal').textContent = m;
+    sim1.a = F / m;
+    document.getElementById('accVal').textContent = sim1.a.toFixed(2);
+    if (!sim1.running) drawSim1();
+}
+
+function drawSim1() {
+    const w = canvas1.offsetWidth;
+    const h = canvas1.offsetHeight;
+    ctx1.clearRect(0, 0, w, h);
+    // ground
+    ctx1.fillStyle = '#334155';
+    ctx1.fillRect(0, h - 40, w, 40);
+    // object
+    const size = 30 + (+document.getElementById('massSlider').value) * 2;
+    ctx1.fillStyle = '#3b82f6';
+    ctx1.fillRect(sim1.x, h - 40 - size, size, size);
+    // force arrow
+    const F = +document.getElementById('forceSlider').value;
+    ctx1.strokeStyle = '#f87171';
+    ctx1.lineWidth = 3;
+    ctx1.beginPath();
+    ctx1.moveTo(sim1.x + size, h - 40 - size/2);
+    ctx1.lineTo(sim1.x + size + F * 1.5, h - 40 - size/2);
+    ctx1.stroke();
+    ctx1.fillStyle = '#f87171';
+    ctx1.beginPath();
+    ctx1.moveTo(sim1.x + size + F * 1.5, h - 40 - size/2);
+    ctx1.lineTo(sim1.x + size + F * 1.5 - 8, h - 40 - size/2 - 5);
+    ctx1.lineTo(sim1.x + size + F * 1.5 - 8, h - 40 - size/2 + 5);
+    ctx1.fill();
+}
+
+function runSim1() {
+    if (sim1.running) return;
+    sim1.running = true;
+    sim1.v = 0;
+    function animate() {
+        if (!sim1.running) return;
+        sim1.v += sim1.a * 0.05;
+        sim1.x += sim1.v * 0.8;
+        if (sim1.x > canvas1.offsetWidth - 80) {
+            sim1.running = false;
+        }
+        document.getElementById('velVal').textContent = sim1.v.toFixed(2);
+        document.getElementById('posVal').textContent = ((sim1.x - 50) / 20).toFixed(2);
+        drawSim1();
+        sim1.anim = requestAnimationFrame(animate);
+    }
+    animate();
+}
+
+function resetSim1() {
+    sim1.running = false;
+    if (sim1.anim) cancelAnimationFrame(sim1.anim);
+    sim1.x = 50;
+    sim1.v = 0;
+    document.getElementById('velVal').textContent = '0.00';
+    document.getElementById('posVal').textContent = '0.00';
+    updateSim1();
+}
+
+/* ================= SIMULATION 2: Balanced Forces ================= */
+let sim2 = { x: 0, running: false, anim: null };
+const canvas2 = document.getElementById('canvas2');
+const ctx2 = canvas2.getContext('2d');
+
+function initSim2() {
+    resizeCanvas(canvas2);
+    resetSim2();
+}
+
+function updateSim2() {
+    const L = +document.getElementById('leftSlider').value;
+    const R = +document.getElementById('rightSlider').value;
+    document.getElementById('leftF').textContent = L;
+    document.getElementById('rightF').textContent = R;
+    const net = R - L;
+    document.getElementById('netF').textContent = net;
+    updateSim2Status();
+    if (!sim2.running) drawSim2();
+}
+
+function updateSim2Status() {
+    const net = +document.getElementById('netF').textContent;
+    const el = document.getElementById('balanceStatus');
+    const isHi = document.documentElement.lang === 'hi';
+    if (net === 0) {
+        el.style.background = '#059669';
+        el.textContent = isHi ? 'संतुलित' : 'Balanced';
+    } else {
+        el.style.background = '#dc2626';
+        el.textContent = isHi ? 'असंतुलित' : 'Unbalanced';
+    }
+}
+
+function drawSim2() {
+    const w = canvas2.offsetWidth;
+    const h = canvas2.offsetHeight;
+    ctx2.clearRect(0, 0, w, h);
+    // ground
+    ctx2.fillStyle = '#334155';
+    ctx2.fillRect(0, h - 40, w, 40);
+    // object in center
+    const cx = w / 2 + sim2.x;
+    ctx2.fillStyle = '#8b5cf6';
+    ctx2.fillRect(cx - 30, h - 90, 60, 50);
+    // left force arrow
+    const L = +document.getElementById('leftSlider').value;
+    ctx2.strokeStyle = '#f87171';
+    ctx2.lineWidth = 3;
+    ctx2.beginPath();
+    ctx2.moveTo(cx - 30, h - 65);
+    ctx2.lineTo(cx - 30 - L * 2, h - 65);
+    ctx2.stroke();
+    // right force arrow
+    const R = +document.getElementById('rightSlider').value;
+    ctx2.beginPath();
+    ctx2.moveTo(cx + 30, h - 65);
+    ctx2.lineTo(cx + 30 + R * 2, h - 65);
+    ctx2.stroke();
+}
+
+function runSim2() {
+    if (sim2.running) return;
+    sim2.running = true;
+    const net = +document.getElementById('rightSlider').value - +document.getElementById('leftSlider').value;
+    function animate() {
+        if (!sim2.running) return;
+        sim2.x += net * 0.15;
+        if (Math.abs(sim2.x) > canvas2.offsetWidth / 2 - 50) sim2.running = false;
+        drawSim2();
+        sim2.anim = requestAnimationFrame(animate);
+    }
+    animate();
+}
+
+function resetSim2() {
+    sim2.running = false;
+    if (sim2.anim) cancelAnimationFrame(sim2.anim);
+    sim2.x = 0;
+    updateSim2();
+}
+
+/* ================= SIMULATION 3: Momentum ================= */
+const canvas3 = document.getElementById('canvas3');
+const ctx3 = canvas3.getContext('2d');
+
+function initSim3() {
+    resizeCanvas(canvas3);
+    updateSim3();
+}
+
+function updateSim3() {
+    const m = +document.getElementById('m3Slider').value;
+    const v = +document.getElementById('v3Slider').value;
+    document.getElementById('m3').textContent = m;
+    document.getElementById('v3').textContent = v;
+    document.getElementById('p3').textContent = m * v;
+    drawSim3(m, v);
+}
+
+function drawSim3(m, v) {
+    const w = canvas3.offsetWidth;
+    const h = canvas3.offsetHeight;
+    ctx3.clearRect(0, 0, w, h);
+    // ground
+    ctx3.fillStyle = '#334155';
+    ctx3.fillRect(0, h - 40, w, 40);
+    // object size based on mass
+    const size = 25 + m * 3;
+    const x = 80;
+    ctx3.fillStyle = '#10b981';
+    ctx3.fillRect(x, h - 40 - size, size, size);
+    // velocity arrow
+    ctx3.strokeStyle = '#fbbf24';
+    ctx3.lineWidth = 4;
+    ctx3.beginPath();
+    ctx3.moveTo(x + size, h - 40 - size / 2);
+    ctx3.lineTo(x + size + v * 12, h - 40 - size / 2);
+    ctx3.stroke();
+    // arrow head
+    ctx3.fillStyle = '#fbbf24';
+    ctx3.beginPath();
+    ctx3.moveTo(x + size + v * 12, h - 40 - size / 2);
+    ctx3.lineTo(x + size + v * 12 - 10, h - 40 - size / 2 - 6);
+    ctx3.lineTo(x + size + v * 12 - 10, h - 40 - size / 2 + 6);
+    ctx3.fill();
+    // label
+    ctx3.fillStyle = '#fff';
+    ctx3.font = '14px Arial';
+    ctx3.fillText('p = ' + (m * v), x + size + v * 12 + 15, h - 40 - size / 2 + 5);
+}
+
+/* ================= INIT ================= */
+window.addEventListener('load', () => {
+    setLang('en');
+    initSim1();
+    initSim2();
+    initSim3();
+});
+window.addEventListener('resize', () => {
+    initSim1();
+    initSim2();
+    initSim3();
+});
+</script>
+</body>
+</html>
